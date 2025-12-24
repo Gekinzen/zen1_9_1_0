@@ -8,13 +8,11 @@ DOTFILES_ROOT="$(detect_dotfiles_root)"
 
 log "Dotfiles root detected at: $DOTFILES_ROOT"
 
-# Safety checks
-if [[ ! -d "$DOTFILES_ROOT/.config" ]]; then
-  error "Dotfiles .config folder not found in $DOTFILES_ROOT"
-fi
-
 # Ensure rsync exists
-require_cmd rsync
+if ! command -v rsync >/dev/null 2>&1; then
+  log "rsync not found, installing..."
+  yay -S --needed rsync
+fi
 
 # Backup existing ~/.config (only if not empty)
 if [[ -d "$HOME/.config" && "$(ls -A "$HOME/.config")" ]]; then
