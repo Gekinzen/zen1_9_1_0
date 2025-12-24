@@ -1,0 +1,248 @@
+{
+  "app_name": "iCloneUn912019acf635V16",
+  "app_title": "iClone Unreal Live Link",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "iCloneUn912019acf635V16",
+      "asset_id": "iCloneUn912019acf635V16",
+      "build_version": "5.6.0-45236536+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "8f73da6263d44fc190b3707cf3e7929e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T20:21:25.388Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "05518238-f722-4fc3-8635-37433f695911"
+      }
+    },
+    "description": "iClone Unreal Live Link",
+    "developer": "Reallusion Inc",
+    "developerId": "o-e51294b663407dac025587195a90a2",
+    "endOfSupport": false,
+    "entitlementName": "8f73da6263d44fc190b3707cf3e7929e",
+    "entitlementType": "AUDIENCE",
+    "id": "8f73da6263d44fc190b3707cf3e7929e",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-29T13:12:29.561Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "RLLiveLink_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "059b08608ca54f16bb317da83112e473",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.0.420"
+      },
+      {
+        "appId": "RLLiveLink_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "58e2e254282c432c9c80034482c07341",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.0.421"
+      },
+      {
+        "appId": "RLLiveLink_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "ad95f73564e24077805ec8b39826ef43",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.0.422"
+      },
+      {
+        "appId": "RLLiveLink_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "3bace8455dda49c387ab58ad4e61b0c2",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.0.423"
+      },
+      {
+        "appId": "RLLiveLink_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "15999565a9534bee926c4a3ca6520ba8",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.3.424"
+      },
+      {
+        "appId": "RLLiveLink_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "9dee417617cd46afbf048acddc146817",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.3.425"
+      },
+      {
+        "appId": "RLLiveLink_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "ef077d268e0e41908eb4390f97f943eb",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.3.426"
+      },
+      {
+        "appId": "RLLiveLink_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "6fb0119df81c485a8492fc23e4d072c2",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.3.427"
+      },
+      {
+        "appId": "RLLiveLink_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "2117c15a007045f8a5087866d4bf9ae5",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.51.500"
+      },
+      {
+        "appId": "RLLiveLink_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "3cc7afac0856497a9e53ea76dac988df",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.61.510"
+      },
+      {
+        "appId": "RLLiveLink_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "9ba41c2ea95c4254b409915f1713d58d",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.64.520"
+      },
+      {
+        "appId": "RLLiveLink_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "8f9352ebe102491bb8bf31027154d474",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.65.530"
+      },
+      {
+        "appId": "RLLiveLink_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "d880b57509d04b7880d43024fb7ae2d6",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.70.540"
+      },
+      {
+        "appId": "iCloneUnac0a97c73501V15",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "2f178813a9cd4e0a90e8e15c1d883aba",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.70.550"
+      },
+      {
+        "appId": "iCloneUn912019acf635V16",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-29T12:33:26.828Z",
+        "id": "f19f88e314e54fceaac2bcfaf2414982",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.70.560"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "iClone Unreal Live Link",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

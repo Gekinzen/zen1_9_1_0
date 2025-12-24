@@ -1,0 +1,111 @@
+{
+  "app_name": "8d3aca1e5ccb454abc4e83429439cb50",
+  "app_title": "TOEM",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8d3aca1e5ccb454abc4e83429439cb50",
+      "asset_id": "8d3aca1e5ccb454abc4e83429439cb50",
+      "build_version": "3.1.10.Win64.SecurityFix",
+      "catalog_item_id": "75d762a36e4646a98eef0e3930c097be",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-09T14:33:32.285Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TOEM"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0ef87626cd724281b9f8f74c83c54b93"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Set off on a delightful expedition and use your photographic eye to uncover the mysteries of the magical TOEM in this hand-drawn adventure game. Chat with quirky characters and solve their problems by snapping neat photos!",
+    "developer": "Something We Made AB",
+    "developerId": "o-72ykcvlbes9fxdcfyzs4f6u3q3xquc",
+    "endOfSupport": false,
+    "entitlementName": "75d762a36e4646a98eef0e3930c097be",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "75d762a36e4646a98eef0e3930c097be",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8ba2b054cf944aa40a90211650d388b7",
+        "size": 373777,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-30T21:18:18.120Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TOEM_SomethingWeMade_S1 (1)_2560x1440-8ba2b054cf944aa40a90211650d388b7",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "df680f435db3f53c2021e8727e312df7",
+        "size": 368252,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-08-30T21:18:24.029Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TOEM_SomethingWeMade_S2 (1)_1200x1600-df680f435db3f53c2021e8727e312df7",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-09T07:43:53.912Z",
+    "mainGameItemList": [],
+    "namespace": "0ef87626cd724281b9f8f74c83c54b93",
+    "releaseInfo": [
+      {
+        "appId": "8d3aca1e5ccb454abc4e83429439cb50",
+        "id": "836d90a745ce4246a4fb0a2ffc35b2c3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "TOEM",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,92 @@
+{
+  "app_name": "MooresRPd0c0aa724be0V2",
+  "app_title": "Moore's RPG Template",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "MooresRPd0c0aa724be0V2",
+      "asset_id": "MooresRPd0c0aa724be0V2",
+      "build_version": "5.8.0-46867313+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "0b862d10e05e42f0b41119a3476613a1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T14:58:01.517Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "9a175ace-6bdf-4b84-8b47-755876cbe3e8"
+      }
+    },
+    "description": "Moore's RPG Template",
+    "developer": "Moore Game Dev",
+    "developerId": "o-t9xe9wfkv8q6zcb8t3djpj4n8kntyk",
+    "endOfSupport": false,
+    "entitlementName": "0b862d10e05e42f0b41119a3476613a1",
+    "entitlementType": "AUDIENCE",
+    "id": "0b862d10e05e42f0b41119a3476613a1",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-14T21:36:27.323Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "MooresRP34c7e988271bV1",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-14T21:28:17.692Z",
+        "id": "0e3f0568e238427a9b77831544838f38",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "MRPGT-2.14.0_UE5.5.4"
+      },
+      {
+        "appId": "MooresRPd0c0aa724be0V2",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-14T21:28:17.692Z",
+        "id": "51a9e4ca955d44ebbd93fa81f3fddb5a",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "MRPGT-2.14.0_UE5.6.1"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Moore's RPG Template",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

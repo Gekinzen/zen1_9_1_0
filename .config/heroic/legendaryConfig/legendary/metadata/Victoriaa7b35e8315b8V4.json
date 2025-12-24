@@ -1,0 +1,133 @@
+{
+  "app_name": "Victoriaa7b35e8315b8V4",
+  "app_title": "Victorian House (Only Exterior)",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Victoriaa7b35e8315b8V4",
+      "asset_id": "Victoriaa7b35e8315b8V4",
+      "build_version": "5.6.0-39034815+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "a037f1c604da462d8bbf5dc7f7be9884",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T05:59:42.867Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "7c06b620-15cf-4ed6-b1f0-136744a83688"
+      }
+    },
+    "description": "Victorian House (Only Exterior)",
+    "developer": "ZhenyaChistovsky",
+    "developerId": "o-7a0b11f536476eb5e9b1e771734fa7",
+    "endOfSupport": false,
+    "entitlementName": "a037f1c604da462d8bbf5dc7f7be9884",
+    "entitlementType": "AUDIENCE",
+    "id": "a037f1c604da462d8bbf5dc7f7be9884",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-12T19:35:26.285Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Victoria51a94bb13120468ea787787cbe9506bbV1",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-10-12T18:15:25.482Z",
+        "id": "f9f0b6a3d5fb416cb331a954570855dc",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "VHExterior-418"
+      },
+      {
+        "appId": "Victoria51a94bb13120V2",
+        "compatibleApps": [
+          "UE_4.19",
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-10-12T18:15:25.482Z",
+        "id": "578407694946489a923816e37d1088cd",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Xbox One"
+        ],
+        "releaseNote": "Added modular elements",
+        "versionTitle": "VHExterior-419"
+      },
+      {
+        "appId": "Victoria51a94bb13120V3",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-12T18:15:25.482Z",
+        "id": "e27c2654435f4f68aa42d51d0bb6d0d9",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "PS4"
+        ],
+        "versionTitle": "VHExterior_5"
+      },
+      {
+        "appId": "Victoriaa7b35e8315b8V4",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-12T18:15:25.482Z",
+        "id": "7a182af3987d46c2a80adcc128f6bf6e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "VHExterior_5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Victorian House (Only Exterior)",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,7 @@
+2025-11-30 19:14:49.551 [info] Started local extension host with pid 9617.
+2025-11-30 19:15:00.914 [info] [perf] Render performance baseline is 18ms
+2025-11-30 19:35:05.982 [warning] [backup tracker] suspended, ignoring unregister event file:///home/paul/.config/discord/0.0.113/modules/discord_rpc/package.json 
+2025-11-30 19:35:05.982 [warning] [backup tracker] suspended, ignoring unregister event file:///home/paul/.config/discord/0.0.113/modules/discord_spellcheck/package.json 
+2025-11-30 19:35:05.983 [warning] [backup tracker] suspended, ignoring unregister event file:///home/paul/.config/discord/0.0.113/modules/discord_krisp/package.json 
+2025-11-30 19:35:05.983 [warning] [backup tracker] suspended, ignoring unregister event file:///home/paul/.config/discord/0.0.113/modules/discord_zstd/package.json 
+2025-11-30 19:35:05.983 [warning] [backup tracker] suspended, ignoring unregister event file:///home/paul/.config/discord/0.0.113/modules/discord_utils/package.json 

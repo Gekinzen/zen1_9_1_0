@@ -1,0 +1,214 @@
+{
+  "app_name": "EasyText7046d6326260V8",
+  "app_title": "Easy Texture Creator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "EasyText7046d6326260V8",
+      "asset_id": "EasyText7046d6326260V8",
+      "build_version": "5.6.0-38511278+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "c8208100f11d454dae9c2c789ee8014f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-26T13:41:28.739Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "6ceafd17-468b-4c71-b692-bad5986264d2"
+      }
+    },
+    "description": "Easy Texture Creator",
+    "developer": "S. Krezel",
+    "developerId": "o-ba6abe9e5e4b288fe96cf79be542df",
+    "endOfSupport": false,
+    "entitlementName": "c8208100f11d454dae9c2c789ee8014f",
+    "entitlementType": "AUDIENCE",
+    "id": "c8208100f11d454dae9c2c789ee8014f",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-26T07:26:23.990Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "EasyText168fef703e56V1",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-25T18:59:26.923Z",
+        "id": "c6fdf87565874e04aaf2f40770171bda",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "Please include the \"Saved\" folder! It's important for good user experience, it contains one config file. Also please keep the splash and icon images.",
+        "versionTitle": "ETC_4_24"
+      },
+      {
+        "appId": "EasyText168fef703e56V2",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-25T18:59:26.923Z",
+        "id": "cf379352417e483ab7bb818d7dcd4ec4",
+        "platform": [
+          "Mac",
+          "Linux",
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4"
+        ],
+        "releaseNote": "Please include the \"Saved\" folder! It's important for good user experience, it contains one config file. Also please keep the splash and icon images.",
+        "versionTitle": "ETC_4_25"
+      },
+      {
+        "appId": "EasyText168fef703e56V3",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-25T18:59:26.923Z",
+        "id": "afb0faa64efe403681164955684ed188",
+        "platform": [
+          "Linux",
+          "Mac",
+          "PS4",
+          "Win32",
+          "Xbox One",
+          "Windows"
+        ],
+        "releaseNote": "Please include the \"Saved\" folder. It's important for good user experience, it contains one config file. Also please keep the splash and icon images.",
+        "versionTitle": "ETC_4_26"
+      },
+      {
+        "appId": "EasyText168fef703e56V4",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-25T18:59:26.923Z",
+        "id": "fa3e4bbf3c4849608f26f33683c02e21",
+        "platform": [
+          "Linux",
+          "Win32",
+          "PS4",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Please include the \"Saved\" folder. It's important for good user experience, it contains one config file. Also please keep the splash and icon images.",
+        "versionTitle": "ETC_4_27"
+      },
+      {
+        "appId": "EasyText168fef703e56V5",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-25T18:59:26.923Z",
+        "id": "6055c677bd9740dba4c4565464fdfc3a",
+        "platform": [
+          "Linux",
+          "Win32",
+          "PS4",
+          "Mac",
+          "Xbox One",
+          "Windows"
+        ],
+        "releaseNote": "Please include the \"Saved\" folder! It's important for good user experience, it contains one config file. Also please keep the splash and icon images.",
+        "versionTitle": "ETC_5_0"
+      },
+      {
+        "appId": "EasyText168fef703e56V6",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-25T18:59:26.923Z",
+        "id": "6d9ae683b7c04e8fb6e5c5adedc5eab9",
+        "platform": [
+          "Linux",
+          "Mac",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Please include the \"Saved\" folder! It's important for good user experience, it contains one config file. Also please keep the splash and icon images.",
+        "versionTitle": "ETC_5_1"
+      },
+      {
+        "appId": "EasyText168fef703e56V7",
+        "compatibleApps": [
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-25T18:59:26.923Z",
+        "id": "9bec82c1bacb429c99cf7cf8ec0e8627",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Xbox One"
+        ],
+        "releaseNote": "Please include the \"Saved\" folder! It's crucial for a good user experience, it contains one config file. Also please keep the splash and icon images.",
+        "versionTitle": "ETC_5_2"
+      },
+      {
+        "appId": "EasyText7046d6326260V8",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-25T18:59:26.923Z",
+        "id": "094b0fd5063b4333b587cdafb78869a4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "PS4",
+          "Xbox One"
+        ],
+        "releaseNote": "Please include the \"Saved\" folder! It's crucial for a good user experience, it contains one config file. Also please keep the splash and icon images.",
+        "versionTitle": "ETC_5_5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Easy Texture Creator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

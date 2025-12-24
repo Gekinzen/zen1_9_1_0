@@ -1,0 +1,117 @@
+{
+  "app_name": "UnrealStbdf01ae1-2ff4",
+  "app_title": "Unreal Datasmith",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-05T02:43:32.334Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "b7199488-12cd-4797-a7a7-9bb8083b9cd3"
+      }
+    },
+    "description": "Unreal Datasmith",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "f743df5d29d84ae0815e7559c2388396",
+    "entitlementType": "AUDIENCE",
+    "id": "f743df5d29d84ae0815e7559c2388396",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-03-12T20:08:24.448Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "UnrealSt481012e2-1f81",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-03-12T19:47:34.097Z",
+        "id": "492660962c4346858055effe0152918f",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "UnrealStudio_4.19"
+      },
+      {
+        "appId": "UnrealSt92f665b8-5dd2",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-03-12T19:47:34.097Z",
+        "id": "8a9574d2d1554fc086a6c19598edcece",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "UnrealStudio_4.20"
+      },
+      {
+        "appId": "UnrealSt72d05d81-0973",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-03-12T19:47:34.097Z",
+        "id": "c1ac785778d2475f971c43772d2af96d",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "UnrealStudio_4.21"
+      },
+      {
+        "appId": "UnrealStbdf01ae1-2ff4",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-03-12T19:47:34.097Z",
+        "id": "5c8a860915514033b368001d0fcd27ae",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "UnrealStudio_4.22"
+      },
+      {
+        "appId": "UnrealStbe36b5ea-a9e5",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-03-12T19:47:34.097Z",
+        "id": "93cb5e87757d4a508aad67d23ea1bc86",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "UnrealStudio_4.23"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Unreal Datasmith",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,16 @@
+{
+  "output": "",
+  "position": "bottom",
+  "layer": "overlay",
+  "exclusive-zone": true,
+  "icon-size": 32,
+  "margin-bottom": 6,
+  "css": "style.css",
+  "custom-buttons": [
+    {
+      "tooltip": "Apps",
+      "icon": "view-app-grid-symbolic",
+      "command": "/home/paul/.config/hypr/scripts/rofi-app-launcher.sh"
+    }
+  ]
+}

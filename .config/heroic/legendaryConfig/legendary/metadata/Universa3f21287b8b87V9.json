@@ -1,0 +1,185 @@
+{
+  "app_name": "Universa3f21287b8b87V9",
+  "app_title": "Universal Camera",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Universa3f21287b8b87V9",
+      "asset_id": "Universa3f21287b8b87V9",
+      "build_version": "5.6.0-43844693+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "c34639c4a64e4e93ac1295bccd2ed97c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-04T23:55:32.950Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "5a3a096c-787f-4cb5-9d1c-98d847ec5d76"
+      }
+    },
+    "description": "Universal Camera",
+    "developer": "Heac",
+    "developerId": "o-8bylv25z93turb8ge8f8k2lals8g4n",
+    "endOfSupport": false,
+    "entitlementName": "c34639c4a64e4e93ac1295bccd2ed97c",
+    "entitlementType": "AUDIENCE",
+    "id": "c34639c4a64e4e93ac1295bccd2ed97c",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-26T11:50:40.264Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "UniversalCameraPlugin_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "b923ec5a3c214adc96d1643ae27598e6",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Universal Camera 1.3 b4.26"
+      },
+      {
+        "appId": "UniversalCameraPlugin_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "6c88dec02d7d4771add2a611abff9a85",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Universal Camera 2.061 -4.27-"
+      },
+      {
+        "appId": "UniversalCameraPlugin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "8287c8bd910b4e46b839e6cf0f2bcca8",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Universal Camera 2.01 -5.0-"
+      },
+      {
+        "appId": "UniversalCameraPlugin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "fb54beb457d2404482a534cde71c280a",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "Universal Camera 2.07 -5.1-"
+      },
+      {
+        "appId": "UniversalCameraPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "58eb384c6d194beab958ef12975f11a2",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Universal Camera 2.14 -5.2-"
+      },
+      {
+        "appId": "UniversalCameraPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "5b77eee812554ef3b9f01a0cf5e08204",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Android"
+        ],
+        "versionTitle": "Universal Camera 2.18"
+      },
+      {
+        "appId": "UniversalCameraPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "1c7cbbdc9a03430d8b14c8a06230ad84",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Android"
+        ],
+        "versionTitle": "Universal Camera 2.19"
+      },
+      {
+        "appId": "Universa6ec6e871050eV8",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "5612de19be2c4c008b35774eac5ab854",
+        "platform": [
+          "Windows",
+          "Android",
+          "Linux"
+        ],
+        "versionTitle": "Universal Camera 2.19"
+      },
+      {
+        "appId": "Universa3f21287b8b87V9",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-25T17:56:33.804Z",
+        "id": "aa72d28dd2b547a7b7a45386ad98fcc8",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Android"
+        ],
+        "versionTitle": "Universal Camera 2.19"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Universal Camera",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

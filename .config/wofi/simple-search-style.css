@@ -1,0 +1,71 @@
+@import url('/home/paul/.cache/wal/colors-waybar.css');
+
+* {
+    all: unset;
+    font-family: 'CodeNewRoman Nerd Font Mono', monospace;
+    font-size: 14px;
+}
+
+/* Compact window - not fullscreen */
+window {
+    background-color: alpha(@background, 0.95);
+    border-radius: 10px;
+    border: 2px solid @color12;
+}
+
+#outer-box {
+    margin: 5px;
+    padding: 10px;
+}
+
+#inner-box {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Search input bar */
+#input {
+    margin: 5px;
+    padding: 12px 15px;
+    border: 1px solid alpha(@color12, 0.3);
+    border-radius: 8px;
+    background-color: alpha(@background, 0.6);
+    color: @foreground;
+    font-size: 15px;
+}
+
+#input:focus {
+    border-color: @color12;
+}
+
+#scroll {
+    margin: 5px 0px;
+    padding: 0px;
+}
+
+/* Text-only entries (no icons) */
+#entry {
+    margin: 2px 5px;
+    padding: 10px 15px;
+    border-radius: 6px;
+    background-color: transparent;
+}
+
+#entry:selected {
+    background-color: alpha(@color12, 0.3);
+}
+
+#entry:hover {
+    background-color: alpha(@color8, 0.2);
+}
+
+/* Text styling */
+#text {
+    color: @foreground;
+    font-size: 14px;
+}
+
+#entry:selected #text {
+    color: @foreground;
+    font-weight: 600;
+}

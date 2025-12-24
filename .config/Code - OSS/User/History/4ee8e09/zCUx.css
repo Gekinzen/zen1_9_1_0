@@ -1,0 +1,91 @@
+/* Import pywal colors */
+@import url("/home/paul/.cache/wal/colors-wofi.css");
+
+/* Main window - centered, elegant */
+window {
+    margin: 0px;
+    border: none;
+    background-color: transparent;
+    border-radius: 20px;
+    font-family: "CodeNewRoman Nerd Font", "SF Pro Display", -apple-system, sans-serif;
+}
+
+/* Outer container */
+#outer-box {
+    margin: 0px;
+    padding: 0px;
+    background-color: alpha(@background, 0.95);
+    border-radius: 20px;
+    border: 1px solid alpha(@color12, 0.3);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+/* Inner container */
+#inner-box {
+    margin: 0px;
+    padding: 15px;
+}
+
+/* Search bar - macOS style */
+#input {
+    margin: 15px 20px 10px 20px;
+    padding: 15px 20px;
+    border: none;
+    background-color: alpha(@color8, 0.3);
+    color: @foreground;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#input:focus {
+    background-color: alpha(@color8, 0.4);
+    box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Scrollable list */
+#scroll {
+    margin: 5px 10px 10px 10px;
+    padding: 0px;
+}
+
+/* Individual entries */
+#entry {
+    margin: 3px 10px;
+    padding: 12px 15px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    transition: all 0.15s ease;
+}
+
+#entry:selected {
+    background-color: @color12;
+    border-color: transparent;
+    box-shadow: 0 2px 8px alpha(@color12, 0.4);
+}
+
+#entry:hover {
+    background-color: alpha(@color8, 0.3);
+}
+
+/* Icon styling */
+#entry #img {
+    margin-right: 12px;
+    padding: 0px;
+}
+
+/* Text styling */
+#entry #text {
+    margin: 0px;
+    padding: 0px;
+    color: @foreground;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+#entry:selected #text {
+    color: @background;
+    font-weight: 600;
+}

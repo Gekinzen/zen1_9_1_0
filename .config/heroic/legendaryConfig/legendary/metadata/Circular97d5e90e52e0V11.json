@@ -1,0 +1,226 @@
+{
+  "app_name": "Circular97d5e90e52e0V11",
+  "app_title": "Circular Dependencies Detector",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Circular97d5e90e52e0V11",
+      "asset_id": "Circular97d5e90e52e0V11",
+      "build_version": "5.6.0-43959755+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "aeb4e8debc5849fbb566d36edbdb23f6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-24T23:47:55.614Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "591541c7-9eb2-4e2c-bb2f-02c1d3853d4d"
+      }
+    },
+    "description": "Circular Dependencies Detector",
+    "developer": "bstt",
+    "developerId": "o-4eqfff8akc27da6647yey8d7yrlcqr",
+    "endOfSupport": false,
+    "entitlementName": "aeb4e8debc5849fbb566d36edbdb23f6",
+    "entitlementType": "AUDIENCE",
+    "id": "aeb4e8debc5849fbb566d36edbdb23f6",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-01T22:31:28.036Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "CircularDependenciesDetector_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "fed75311ef5b4595808d447384ab1181",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "1.22.24"
+      },
+      {
+        "appId": "CircularDependenciesDetector_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "d48ae98237cf4427bf36f7b47785eba7",
+        "platform": [
+          "Win32",
+          "Mac",
+          "Linux",
+          "Windows"
+        ],
+        "versionTitle": "1.32.25"
+      },
+      {
+        "appId": "CircularDependenciesDetector_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "b1d50056ccb74be297071a516d2dbe03",
+        "platform": [
+          "Linux",
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "versionTitle": "1.42.26"
+      },
+      {
+        "appId": "CircularDependenciesDetector_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "a19f4310a43146e4b13d797df8f41dc5",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac",
+          "Win32"
+        ],
+        "versionTitle": "1.51.27"
+      },
+      {
+        "appId": "CircularDependenciesDetector_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "ff53bcea7c3248549a827e2a9821d1d6",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "1.71.50"
+      },
+      {
+        "appId": "CircularDependenciesDetector_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "fe481474396e48bbbdfb7fa4e070d638",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "1.71.51"
+      },
+      {
+        "appId": "CircularDependenciesDetector_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "ff07dc6c12754dde8c3c99e19a770ae9",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "1.72.52"
+      },
+      {
+        "appId": "CircularDependenciesDetector_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "44ae91357fa9421295dc801ed981ed76",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "1.72.53"
+      },
+      {
+        "appId": "CircularDependenciesDetector_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "8eacf4feb3084fdab5f1884de76865ce",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "1.72.54"
+      },
+      {
+        "appId": "Circularffb532f6e8e6V10",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "dcef1d8a05b04a6394bd7f16f95594fa",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "1.73.55"
+      },
+      {
+        "appId": "Circular97d5e90e52e0V11",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-07-01T16:40:26.859Z",
+        "id": "271716678dfa4d498ac78bf394e4750b",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "1.73.56"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Circular Dependencies Detector",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,109 @@
+{
+  "app_name": "Goby",
+  "app_title": "Tormentor X Punisher",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Goby",
+      "asset_id": "Goby",
+      "build_version": "txp12",
+      "catalog_item_id": "68cd14c349dd4678ac1e8bb113bbf0da",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "51c19c28a7024793b9e38174d0e1634b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-02-18T18:32:27.887Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TormentorXPunisher"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "51c19c28a7024793b9e38174d0e1634b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "Tormentor X Punisher",
+    "developer": "Raw Fury",
+    "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "endOfSupport": false,
+    "entitlementName": "68cd14c349dd4678ac1e8bb113bbf0da",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "68cd14c349dd4678ac1e8bb113bbf0da",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "444a2ed936764c3a72a90f7c103d22fa",
+        "size": 5514203,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-03-18T20:14:38.805Z",
+        "url": "https://cdn1.epicgames.com/51c19c28a7024793b9e38174d0e1634b/item/EGS_BIRD BATH_ATOMICROPS_LANDSCAPE_IMAGE-2560x1440-444a2ed936764c3a72a90f7c103d22fa.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "c1abcfbc97426ee662119957b8a2c7c6",
+        "size": 779780,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-03-18T20:15:02.228Z",
+        "url": "https://cdn1.epicgames.com/51c19c28a7024793b9e38174d0e1634b/item/portrait_image_TxP-860x1148-c1abcfbc97426ee662119957b8a2c7c6.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2020-03-19T14:23:31.358Z",
+    "mainGameItemList": [],
+    "namespace": "51c19c28a7024793b9e38174d0e1634b",
+    "releaseInfo": [
+      {
+        "appId": "Goby",
+        "id": "68d7aca9331f440bb9b659bcbf597e4a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Tormentor X Punisher",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

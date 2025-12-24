@@ -1,0 +1,113 @@
+{
+  "app_name": "635e08e4b4824baabd24ef3cf941743c",
+  "app_title": "Obduction",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "635e08e4b4824baabd24ef3cf941743c",
+      "asset_id": "635e08e4b4824baabd24ef3cf941743c",
+      "build_version": "1.8.4",
+      "catalog_item_id": "4eefe9673582412f9a05a28ea922ff54",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4ac85017adaf4d228518d64325c4ec65",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-05-04T17:40:36.117Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Obduction/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Obduction"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4ac85017adaf4d228518d64325c4ec65"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Obduction",
+    "developer": "Cyan, Inc.",
+    "developerId": "o-gck28ju32gk7blgd9c6k34q4kd3l9k",
+    "endOfSupport": false,
+    "entitlementName": "4eefe9673582412f9a05a28ea922ff54",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4eefe9673582412f9a05a28ea922ff54",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c44b609e5dcdc9a145067cfc958ea5dc",
+        "size": 965306,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-05T19:53:53.742Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Obduction_CyanInc_S1_2560x1440-c44b609e5dcdc9a145067cfc958ea5dc",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7a12b5dfb5998545f1b285e1647be99b",
+        "size": 454056,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-05T19:53:55.969Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Obduction_CyanInc_S2_1200x1600-7a12b5dfb5998545f1b285e1647be99b",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:41:01.717Z",
+    "mainGameItemList": [],
+    "namespace": "4ac85017adaf4d228518d64325c4ec65",
+    "releaseInfo": [
+      {
+        "appId": "635e08e4b4824baabd24ef3cf941743c",
+        "id": "e81cf7e0b74d4d8384726869d1cada40",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Obduction",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

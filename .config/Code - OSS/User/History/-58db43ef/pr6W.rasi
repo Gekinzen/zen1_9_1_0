@@ -1,0 +1,60 @@
+* {
+    background:     #1a1b26;
+    background-alt: #16161e;
+    foreground:     #c0caf5;
+    selected:       #7aa2f7;
+    font: "CodeNewRoman Nerd Font 14";
+}
+
+window {
+    width: 500px;
+    border: 2px solid;
+    border-color: rgba(122, 162, 247, 0.4);
+    border-radius: 20px;
+    background-color: rgba(26, 27, 38, 0.65);
+    padding: 24px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 14px;
+}
+
+inputbar {
+    padding: 18px 24px;
+    border-radius: 14px;
+    background-color: rgba(122, 162, 247, 0.85);
+    children: [ "prompt" ];
+}
+
+prompt {
+    background-color: transparent;
+    text-color: #1a1b26;
+    font: "CodeNewRoman Nerd Font Bold 18";
+}
+
+listview {
+    lines: 6;
+    scrollbar: false;
+    spacing: 10px;
+    background-color: transparent;
+}
+
+element {
+    padding: 18px 22px;
+    border-radius: 14px;
+    background-color: rgba(22, 22, 30, 0.4);
+    text-color: #c0caf5;
+    border: 1px solid rgba(192, 202, 245, 0.1);
+}
+
+element selected {
+    background-color: rgba(122, 162, 247, 0.8);
+    text-color: #1a1b26;
+    border-color: rgba(122, 162, 247, 0.6);
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+}

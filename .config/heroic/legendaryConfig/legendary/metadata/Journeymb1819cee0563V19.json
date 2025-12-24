@@ -1,0 +1,328 @@
+{
+  "app_name": "Journeymb1819cee0563V19",
+  "app_title": "Journeyman's Minimap",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Journeymb1819cee0563V19",
+      "asset_id": "Journeymb1819cee0563V19",
+      "build_version": "5.5.0-39180825+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "b1bf4ec167cd4ef6b143e373ade5a828",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T20:26:25.254Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "2fce6e44-aed4-4a59-bb69-6d82f4ac35da"
+      }
+    },
+    "description": "Journeyman's Minimap",
+    "developer": "Zhi Kang Shao",
+    "developerId": "o-7665254b8f4aabac4466b9363ae28d",
+    "endOfSupport": false,
+    "entitlementName": "b1bf4ec167cd4ef6b143e373ade5a828",
+    "entitlementType": "AUDIENCE",
+    "id": "b1bf4ec167cd4ef6b143e373ade5a828",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-21T16:30:40.412Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "MinimapPlugin_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "411eb67672734164ae689ec2f2553e20",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.15"
+      },
+      {
+        "appId": "MinimapPlugin_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "4cae6b624f1844488fbd6e092b8e243d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.16"
+      },
+      {
+        "appId": "MinimapPlugin_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "52312aeea7c6409093de46e32dbe8711",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.17"
+      },
+      {
+        "appId": "MinimapPlugin_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "ec16cb94976f47a68482545782ef5ba9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.18"
+      },
+      {
+        "appId": "MinimapPlugin_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "36e7895b1e8b4b6faa48d01def853c57",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.19"
+      },
+      {
+        "appId": "MinimapPlugin_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "3998155278534225b8237a293b9c0cdb",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.20"
+      },
+      {
+        "appId": "MinimapPlugin_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "d30d0ddeb030423ead64b9632fba11ec",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.21"
+      },
+      {
+        "appId": "MinimapPlugin_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "36c8e3c7cf8844898e09dd0a681b70da",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "MinimapPlugin_4.22"
+      },
+      {
+        "appId": "MinimapPlugin_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "9aac11baafd4488eb9801de8be20cb14",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.23"
+      },
+      {
+        "appId": "MinimapPlugin_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "e4ffe3d3246c48d7abfb28aa2d60530d",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "MinimapPlugin_4.24"
+      },
+      {
+        "appId": "MinimapPlugin_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "d08b09ccf7734f61a8eb84d0a3303290",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.25"
+      },
+      {
+        "appId": "MinimapPlugin_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "74031d7e1e174608b468a0e6e98f5825",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.26"
+      },
+      {
+        "appId": "MinimapPlugin_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "b0803b6822a0473e831eb09479f02df7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_4.27"
+      },
+      {
+        "appId": "MinimapPlugin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "dbaf0748712446a8ba029597294c6e38",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_5.0C"
+      },
+      {
+        "appId": "MinimapPlugin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "ff00983b74f946b1a60c755e12d26fc2",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "MinimapPlugin_5.1"
+      },
+      {
+        "appId": "MinimapPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "9d0d98757bde465c90f759a5b5e8b05b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_5.2"
+      },
+      {
+        "appId": "MinimapPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "64fcadaa5f374224919f9a0e6b6d7749",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_5.3"
+      },
+      {
+        "appId": "MinimapPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "8cfa4bb06cb842b9a2db23550d85da14",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_5.4"
+      },
+      {
+        "appId": "Journeymb1819cee0563V19",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "5906c0c7c27d494bb7cdf2cbbafa53bd",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_5.5"
+      },
+      {
+        "appId": "Journeym270d54c92578V20",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-21T14:14:09.834Z",
+        "id": "59b8ae9b250a49f7924e89c3fc444e42",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MinimapPlugin_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Journeyman's Minimap",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,107 @@
+{
+  "app_name": "d975dbbe6ab44dc3a036f87050730130",
+  "app_title": "Ember and Blade - Demo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d975dbbe6ab44dc3a036f87050730130",
+      "asset_id": "d975dbbe6ab44dc3a036f87050730130",
+      "build_version": "0.2352",
+      "catalog_item_id": "c25414187a4e46cab3e0a66041ca16f9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "43152f77d6db483199c7890617cfce0b",
+        "update_type": "PATCH"
+      },
+      "namespace": "3f07eae55114477f880439c65368b0f1",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-08-27T09:33:59.955Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.es3,Slot/*.es3"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Linegames/EmberAndBlade/EpicGames/Demo/Cloud/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{AppData}/com.linegames.emberandblade/EpicGames/Demo/Cloud/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "EmberAndBladeDemo"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      }
+    },
+    "description": "Become the immortal hunter and stand against the archdemon Asmodeus. Cut through bullet-hell swarms, clash with Souls-like bosses, and harness celestial blessings that reshape your powers each run. The demons are rising\u2014raise your sword.",
+    "developer": "LINE Games Corporation",
+    "developerId": "o-acvxzssc5z7uj7xaqtv5jzszmwhab4",
+    "endOfSupport": false,
+    "entitlementName": "c25414187a4e46cab3e0a66041ca16f9",
+    "entitlementType": "EXECUTABLE",
+    "id": "c25414187a4e46cab3e0a66041ca16f9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Ember and Blade Ember and Blade - Demo Offer",
+        "height": 1440,
+        "md5": "d88f090f85e1ebccacff80c40388217e",
+        "size": 706053,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-09-25T13:04:18.675Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6855228e19444f979d42bb14fb00ec01/ember-and-blade-gvkf4.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Ember and Blade Ember and Blade - Demo Offer",
+        "height": 1600,
+        "md5": "53c54d5f459e1b6d2d5373a7abaae52e",
+        "size": 395599,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-09-25T13:04:17.839Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6855228e19444f979d42bb14fb00ec01/ember-and-blade-1qgyf.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-13T09:21:46.082Z",
+    "mainGameItemList": [],
+    "namespace": "3f07eae55114477f880439c65368b0f1",
+    "releaseInfo": [
+      {
+        "appId": "d975dbbe6ab44dc3a036f87050730130",
+        "id": "878c5144-0e65-4e5b-b931-a60cc524c3e9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Ember and Blade - Demo",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "c07df3d325eb44bc9970e4520765b180"
+    },
+    "rev": 1
+  }
+}

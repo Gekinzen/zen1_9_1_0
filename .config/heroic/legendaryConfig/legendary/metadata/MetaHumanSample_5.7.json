@@ -1,0 +1,201 @@
+{
+  "app_name": "MetaHumanSample_5.7",
+  "app_title": "MetaHumans",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "MetaHumanSample_5.7",
+      "asset_id": "MetaHumanSample",
+      "build_version": "5.7.0-47537391+++UE5+Release-5.7-Windows",
+      "catalog_item_id": "62338178571245cfba347ae739875ded",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-03T22:40:31.221Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "0281d63e-71f7-4e07-a344-5fa721ac4d35"
+      }
+    },
+    "description": "MetaHumans",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "62338178571245cfba347ae739875ded",
+    "entitlementType": "AUDIENCE",
+    "id": "62338178571245cfba347ae739875ded",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-12T14:13:40.629Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "MetaHumanSample_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "d7e97c43e655426d9d9c912c8fae2dd8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Meta Humans"
+      },
+      {
+        "appId": "MetaHumanSample_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "3bdd5db8e9d44f748aa80b1b50e28f2d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MetaHumanSample_4.27"
+      },
+      {
+        "appId": "MetaHumanSample_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "a2d51512645b4d83adb9607b8c41268f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MetaHumanSample_5.0"
+      },
+      {
+        "appId": "MetaHumanSample_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "4b1a32bc55094ea087fcf736f9bd0e8d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MetaHumanSample_5.1"
+      },
+      {
+        "appId": "MetaHumanSample_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "7ff70e1a52f4458bab92ff06bb360133",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MetaHumanSample_5.2"
+      },
+      {
+        "appId": "MetaHumanSample_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "fb6bc62047c044d6a95bd10ad4bcd4d9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MetaHumanSample_5.3"
+      },
+      {
+        "appId": "MetaHumanSample_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "29cffe0faa1e4f5191ac5ef108fdea6e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "MetaHumanSample_5.4"
+      },
+      {
+        "appId": "MetaHumanSample_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "a24c9118aa50419fb8c33eb9a3bc783e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "MetaHumanSample_5.5",
+        "versionTitle": "MetaHumanSample_5.5"
+      },
+      {
+        "appId": "MetaHumanSample_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "cfa25aa2a7ac4c2196eab10b4572942a",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "MetaHumanSample_5.6",
+        "versionTitle": "MetaHumanSample_5.6"
+      },
+      {
+        "appId": "MetaHumanSample_5.7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-10-24T19:54:25.561Z",
+        "id": "b668d009e1b540488a132316bfebcf28",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Updates to support for the UE 5.7 release.",
+        "versionTitle": "MetaHumanSample_5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "MetaHumans",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

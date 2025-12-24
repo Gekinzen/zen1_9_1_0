@@ -1,0 +1,253 @@
+{
+  "app_name": "Advanced05b0c058bbf7V10",
+  "app_title": "Advanced RPG System",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Advanced05b0c058bbf7V10",
+      "asset_id": "Advanced05b0c058bbf7V10",
+      "build_version": "5.5.0-41773512+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "5d1ec1ed4e9442fa81a6741f42d7f0fd",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-07T18:40:37.865Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "9e545e9c-4011-433e-a7b4-e29562830da2"
+      }
+    },
+    "description": "Advanced RPG System",
+    "developer": "Dark Tower Int",
+    "developerId": "o-2kfrtbl5lhx3plxkxxlkz72tl7zwsz",
+    "endOfSupport": false,
+    "entitlementName": "5d1ec1ed4e9442fa81a6741f42d7f0fd",
+    "entitlementType": "AUDIENCE",
+    "id": "5d1ec1ed4e9442fa81a6741f42d7f0fd",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-26T22:28:29.243Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "AdvancedRPGSystem_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "58ad8b21a59e4164a8c4394fbbc1a8d4",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "ARS1_1"
+      },
+      {
+        "appId": "AdvancedRPGSystem_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "a18bfba858ef4668830b32b20ed16eac",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus"
+        ],
+        "versionTitle": "ARS425"
+      },
+      {
+        "appId": "AdvancedRPGSystem_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "891642533e7741c8ba47636ff42564d6",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac"
+        ],
+        "versionTitle": "ARS14"
+      },
+      {
+        "appId": "AdvancedRPGSystem_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "efe240c02cb04d72a4657fee76397283",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "PS4",
+          "Nintendo Switch",
+          "Android"
+        ],
+        "versionTitle": "ars14"
+      },
+      {
+        "appId": "AdvancedRPGSystem_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "7bcc8aa4b0aa4993988e0fec789ea301",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Mac",
+          "Oculus",
+          "Nintendo Switch",
+          "Android"
+        ],
+        "versionTitle": "ARS1.2"
+      },
+      {
+        "appId": "AdvancedRPGSystem_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "eeec0c7878764910b1ed5da66803937a",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Nintendo Switch",
+          "Android"
+        ],
+        "versionTitle": "ars1.4"
+      },
+      {
+        "appId": "AdvancedRPGSystem_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "6b536265de584b9383ddf1d5d7a4cb5b",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Nintendo Switch",
+          "Android"
+        ],
+        "versionTitle": "ARS5.2"
+      },
+      {
+        "appId": "AdvancedRPGSystem_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "bcdcd0df98334760971aa029837693da",
+        "platform": [
+          "Android",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Oculus",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "ARS1.5"
+      },
+      {
+        "appId": "AdvancedRPGSystem_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "73ccd9aca3604693829c264874e43458",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Android"
+        ],
+        "versionTitle": "ars54"
+      },
+      {
+        "appId": "Advanced05b0c058bbf7V10",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "92a752ff314340618e865bd1719e93a4",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.7"
+      },
+      {
+        "appId": "Advanced9d0b1db5b210V11",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-07-26T20:53:37.616Z",
+        "id": "612d931fee1849bd9e1612b329539749",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Advanced RPG System",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

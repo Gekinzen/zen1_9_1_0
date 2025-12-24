@@ -1,0 +1,57 @@
+{
+  "app_name": "0c402e7ab335446c8479040c357d21ce",
+  "app_title": "Mountains & Meadows I Outdoor Environment Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format/additional-files"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-16T10:18:29.814Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "f58b09fa-095d-4a33-9354-a132ba364827"
+      }
+    },
+    "description": "Mountains & Meadows I Outdoor Environment",
+    "developer": "Pack Dev",
+    "developerId": "o-d5f0d02bff40ca904af9eaa049160e",
+    "endOfSupport": false,
+    "entitlementName": "04e8517b807d41718998897a2efc8821",
+    "entitlementType": "AUDIENCE",
+    "id": "04e8517b807d41718998897a2efc8821",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-03-05T15:29:45.485Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "0c402e7ab335446c8479040c357d21ce",
+        "compatibleApps": [],
+        "dateAdded": "2024-10-17T14:39:42.362Z",
+        "id": "97218ecdaee64268affad41dd6ca61cf",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "SUNSET",
+    "title": "Mountains & Meadows I Outdoor Environment Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,139 @@
+{
+  "app_name": "Dreamsca5d47ad51b755V3",
+  "app_title": "Dreamscape: Stylized Environment Tower - Stylized Nature Open World Fantasy",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Dreamsca5d47ad51b755V3",
+      "asset_id": "Dreamsca5d47ad51b755V3",
+      "build_version": "5.8.0-46606579+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "4d6678cc3dbb4c30a120a8d066d3225e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-07T15:46:27.795Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "c4e83f22-369a-4f5c-8f86-d53ccd716ae6"
+      }
+    },
+    "description": "Dreamscape: Stylized Environment Tower - Stylized Nature Open World Fantasy",
+    "developer": "Polyart Studio",
+    "developerId": "o-2f5b7ce21d4d17b32bb845d83a38c6",
+    "endOfSupport": false,
+    "entitlementName": "4d6678cc3dbb4c30a120a8d066d3225e",
+    "entitlementType": "AUDIENCE",
+    "id": "4d6678cc3dbb4c30a120a8d066d3225e",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-14T15:40:58.315Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Dreamsca1adc2d1c37fdV1",
+        "compatibleApps": [
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-10-14T15:40:45.163Z",
+        "id": "9af281a936ed40b5a8b60174a36ce2d4",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Xbox One",
+          "Windows"
+        ],
+        "releaseNote": "Performance fixes",
+        "versionTitle": "1.0"
+      },
+      {
+        "appId": "Dreamsca1adc2d1c37fdV2",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-14T15:40:45.163Z",
+        "id": "2a0cc3e8f024495aadffbb820ed884ef",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Oculus",
+          "PS4",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Fixed UE5 issues\nPeformance fixes",
+        "versionTitle": "UE5 1.1"
+      },
+      {
+        "appId": "Dreamsca5d47ad51b755V3",
+        "compatibleApps": [
+          "UE_5.4",
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-14T15:40:45.163Z",
+        "id": "00f5e6af1aa74ee1b370a8bfdb401bb8",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Nintendo Switch",
+          "Linux",
+          "Xbox One",
+          "PS4"
+        ],
+        "releaseNote": "5.4 and up",
+        "versionTitle": "5.4"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dreamscape: Stylized Environment Tower - Stylized Nature Open World Fantasy",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

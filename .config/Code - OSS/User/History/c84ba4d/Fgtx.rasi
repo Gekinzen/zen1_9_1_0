@@ -1,0 +1,79 @@
+* {
+    background:     #1a1b26;
+    foreground:     #c0caf5;
+    selected:       #7aa2f7;
+    red:            #f7768e;
+    urgent:         #ff9e64;
+}
+
+window {
+    width: 400px;
+    border: 3px;
+    border-color: @selected;
+    border-radius: 15px;
+    background-color: @background;
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 15px;
+}
+
+inputbar {
+    enabled: true;
+    padding: 12px 18px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, rgba(122, 162, 247, 0.2), rgba(247, 118, 142, 0.2));
+    text-color: @foreground;
+    children: [ "prompt" ];
+}
+
+prompt {
+    enabled: true;
+    background-color: transparent;
+    text-color: @selected;
+    font: "CodeNewRoman Nerd Font Bold 16";
+}
+
+message {
+    enabled: true;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgba(122, 162, 247, 0.1);
+    text-color: @foreground;
+}
+
+textbox {
+    background-color: transparent;
+    text-color: @foreground;
+    font: "CodeNewRoman Nerd Font 12";
+}
+
+listview {
+    enabled: true;
+    lines: 6;
+    scrollbar: false;
+    background-color: transparent;
+    spacing: 8px;
+}
+
+element {
+    enabled: true;
+    padding: 15px 20px;
+    border-radius: 10px;
+    background-color: transparent;
+    text-color: @foreground;
+    cursor: pointer;
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    font: "CodeNewRoman Nerd Font 14";
+}

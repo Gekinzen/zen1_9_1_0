@@ -1,0 +1,198 @@
+{
+  "app_name": "Landscap9e090631996fV9",
+  "app_title": "Landscaping",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Landscap9e090631996fV9",
+      "asset_id": "Landscap9e090631996fV9",
+      "build_version": "5.5.0-46582953+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "19f4b22aa1284f22ac8e808b10270c12",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-23T16:18:29.364Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "bce9fc98-fb14-4b70-893f-29de111e4711"
+      }
+    },
+    "description": "Landscaping",
+    "developer": "Ludic Drive",
+    "developerId": "o-db6udlucqhvc94vax2s2k94wl4ayh8",
+    "endOfSupport": false,
+    "entitlementName": "19f4b22aa1284f22ac8e808b10270c12",
+    "entitlementType": "AUDIENCE",
+    "id": "19f4b22aa1284f22ac8e808b10270c12",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-06T06:19:40.279Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Landscaping_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "30a3adf97b62437a84dc5c5a47b97afd",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the Landscaping/Binaries/Win64/ folder contains the contents of Landscaping/Source/ThirdParty/Redist/Win64/",
+        "versionTitle": "4.25"
+      },
+      {
+        "appId": "Landscaping_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "e94e1ed632c34712ad9eab7e1fd5c885",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the Landscaping/Binaries/Win64/ folder contains the contents of Landscaping/Source/ThirdParty/Redist/Win64/",
+        "versionTitle": "4.26"
+      },
+      {
+        "appId": "Landscaping_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "cec731457a0f435990caf30a79bcb878",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the Landscaping/Binaries/Win64/ folder contains the contents of Landscaping/Source/ThirdParty/Redist/Win64/",
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "Landscaping_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "4488b7e7dc17435ba82584999daad89e",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the Landscaping/Binaries/Win64/ folder contains the contents of Landscaping/Source/ThirdParty/Redist/Win64/",
+        "versionTitle": "5.0"
+      },
+      {
+        "appId": "Landscaping_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "02b751f1051c40d5ac4e5bd2e916e142",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the Landscaping/Binaries/Win64/ folder contains the contents of Landscaping/Source/ThirdParty/Redist/Win64/",
+        "versionTitle": "5.1"
+      },
+      {
+        "appId": "Landscaping_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "f1d17c04e99a458f9fbb0e36e6128776",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the Landscaping/Binaries/Win64/ folder contains the contents of Landscaping/Source/ThirdParty/Redist/Win64/",
+        "versionTitle": "5.2"
+      },
+      {
+        "appId": "Landscaping_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "ea602f1dba314dfd9d180c62256ec198",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the /Binaries/Win64/ folder contains the contents of /Source/Landscaping/ThirdParty/Redist/Win64/ after build",
+        "versionTitle": "5.3"
+      },
+      {
+        "appId": "Landscaping_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "aef9615dee2a4587b7f2185484847650",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the /Binaries/Win64/ folder contains the contents of /Source/Landscaping/ThirdParty/Redist/Win64/ after build",
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "Landscap9e090631996fV9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.638Z",
+        "id": "e1e8e97936404adcb54834671144fdcd",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the /Binaries/Win64/ folder contains the contents of /Source/Landscaping/ThirdParty/Redist/Win64/ after build",
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "Landscap27c4c752e22eV10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-05T09:33:25.639Z",
+        "id": "e29653b54cd74146987dafd34665db35",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Please make sure the /Binaries/Win64/ folder contains the contents of /Source/Landscaping/ThirdParty/Redist/Win64/ after build",
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Landscaping",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

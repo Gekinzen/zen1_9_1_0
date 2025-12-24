@@ -1,0 +1,133 @@
+{
+  "app_name": "M5VFXVol9bd13f92b688V3",
+  "app_title": "M5 VFX Vol2. Fire and Flames(Niagara)",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "M5VFXVol9bd13f92b688V3",
+      "asset_id": "M5VFXVol9bd13f92b688V3",
+      "build_version": "5.6.0-38975283+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "3900d9e6acf440859163844f128d3654",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-20T15:26:16.973Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "c5b0270a-a295-4644-a4be-42cb1e56a197"
+      }
+    },
+    "description": "M5 VFX Vol2. Fire and Flames(Niagara)",
+    "developer": "M5VFX",
+    "developerId": "o-eefbae8a1345288931a87ddb774363",
+    "endOfSupport": false,
+    "entitlementName": "3900d9e6acf440859163844f128d3654",
+    "entitlementType": "AUDIENCE",
+    "id": "3900d9e6acf440859163844f128d3654",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-06T03:52:24.097Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "M5VFXVolc3ef89b21248V1",
+        "compatibleApps": [
+          "UE_4.15",
+          "UE_4.16",
+          "UE_4.17",
+          "UE_4.18",
+          "UE_4.19",
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-06T02:24:37.452Z",
+        "id": "9595dca5f8444cf9a48553b7438cc9e8",
+        "platform": [
+          "Windows",
+          "Android",
+          "iOS"
+        ],
+        "releaseNote": "v1.05\nminor fix.\nadded clone particle(for UE 4.22)\nbuilding_DM_Blueprint fix( for UE 4.22)\nBG material fix (for UE 4.22)",
+        "versionTitle": "M5VFXVol2"
+      },
+      {
+        "appId": "M5VFXVolc3ef89b21248V2",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-06T02:24:37.452Z",
+        "id": "1a98466bd0474708a2df0a9d29d17e4f",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32"
+        ],
+        "releaseNote": "v1.51 minor fix\nremove Nbuilding_DM_Blueprint(not used).\n\nv1.5 \nNiagara Actor's scale allows you to scale the overall size",
+        "versionTitle": "M5VFXVol2 v1.51"
+      },
+      {
+        "appId": "M5VFXVol9bd13f92b688V3",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-06T02:24:37.452Z",
+        "id": "cfaabc9c154448cf918823ab8c2dfd5e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Win32"
+        ],
+        "releaseNote": "ver 1.55\nRemoved level warning message (converted staticmesh in level to moveable)",
+        "versionTitle": "M5VFXVol2 v1.55"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "M5 VFX Vol2. Fire and Flames(Niagara)",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

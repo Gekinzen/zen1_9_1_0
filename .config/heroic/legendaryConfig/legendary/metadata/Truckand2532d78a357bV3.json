@@ -1,0 +1,111 @@
+{
+  "app_name": "Truckand2532d78a357bV3",
+  "app_title": "Truck and Trailers",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Truckand2532d78a357bV3",
+      "asset_id": "Truckand2532d78a357bV3",
+      "build_version": "5.6.0-38403867+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "bbcd7c36f1524e9783e85fd47dd7408f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-09T12:00:26.133Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "0e0955ca-a0f0-4f41-b457-fea946da752d"
+      }
+    },
+    "description": "Truck and Trailers",
+    "developer": "VMR",
+    "developerId": "o-ers9sw7sectqsgmk9reakbd5qqn4ft",
+    "endOfSupport": false,
+    "entitlementName": "bbcd7c36f1524e9783e85fd47dd7408f",
+    "entitlementType": "AUDIENCE",
+    "id": "bbcd7c36f1524e9783e85fd47dd7408f",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-11-26T16:10:27.427Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Truckand84bbf0fc5569V1",
+        "compatibleApps": [
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24"
+        ],
+        "dateAdded": "2024-11-26T01:29:55.762Z",
+        "id": "4bd08272538a45478c75f2a51284fb0a",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "Truck 1.4"
+      },
+      {
+        "appId": "Truckand84bbf0fc5569V2",
+        "compatibleApps": [
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2024-11-26T01:29:55.762Z",
+        "id": "b2c3e01b14234de595b981a08e55d99d",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "Truck 1.5"
+      },
+      {
+        "appId": "Truckand2532d78a357bV3",
+        "compatibleApps": [
+          "UE_5.4",
+          "UE_5.5"
+        ],
+        "dateAdded": "2024-11-26T01:29:55.762Z",
+        "id": "43995be21778408eb9165391c16847d6",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Win32"
+        ],
+        "versionTitle": "Truck  V1.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Truck and Trailers",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

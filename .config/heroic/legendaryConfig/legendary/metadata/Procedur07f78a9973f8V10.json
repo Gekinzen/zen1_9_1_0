@@ -1,0 +1,232 @@
+{
+  "app_name": "Procedur07f78a9973f8V10",
+  "app_title": "Procedural NPC Crowds Pro \u2013 Populate Massive Worlds With Smart, Living AI",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Procedur07f78a9973f8V10",
+      "asset_id": "Procedur07f78a9973f8V10",
+      "build_version": "5.7.0-48514330+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "516a3111f6d247a99f50c38efa63b022",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T16:39:40.980Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "6212ccdd-1352-44e8-a545-7646042f0887"
+      }
+    },
+    "description": "Procedural NPC Crowds Pro \u2013 Populate Massive Worlds With Smart, Living AI",
+    "developer": "Komodobit Games",
+    "developerId": "o-gz3f5t658b3z56vbeee8dpzpdekcpk",
+    "endOfSupport": false,
+    "entitlementName": "516a3111f6d247a99f50c38efa63b022",
+    "entitlementType": "AUDIENCE",
+    "id": "516a3111f6d247a99f50c38efa63b022",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-20T17:24:49.678Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ProceduralNPCCrowds_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "f9c458c8647049cfa28fcfdbd18a435b",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "Pedestrian 4.26 patch 9.22"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "d7c2497c9d3e47b1a07f3a6dbe5f6c77",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Android",
+          "iOS",
+          "Mac"
+        ],
+        "versionTitle": "Pedestrian 4.27 patch 9.22"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "ca68393f156b4922a454dd5f4b32e7d0",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Android",
+          "iOS",
+          "Mac"
+        ],
+        "versionTitle": "Pedestrian 5.0 V2"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "ef8820eb1dcc45cebbb1aa9f1be35ac4",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "Pedestrian System 5.1 V2"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "869cc44ae0b8480b9ecdadd11c6a9388",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "Pedestrian 5.2 V2"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "8883780b6ad844288aa31262141a88a4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "Pedestrian 5.3 V2"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "4899be66faaf4c14ae044a046dae290f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "releaseNote": "V3.1 hotfix",
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "Procedur73f8c604c342V8",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "41ac4859af9c4483ad45f643cd482d48",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "releaseNote": "V3.1 hotfix",
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "Procedur161570685ca4V9",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "b5c81073e6c146e38d8fc828c4be4c36",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "releaseNote": "V3.1 hotfix",
+        "versionTitle": "5.6"
+      },
+      {
+        "appId": "Procedur07f78a9973f8V10",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-20T16:39:25.714Z",
+        "id": "7349ac94fb3e43d481fb16e7523972e2",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "releaseNote": "zip file downloads automatically upon opening project file link.",
+        "versionTitle": "5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Procedural NPC Crowds Pro \u2013 Populate Massive Worlds With Smart, Living AI",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

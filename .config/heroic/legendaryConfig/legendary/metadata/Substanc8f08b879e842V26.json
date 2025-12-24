@@ -1,0 +1,534 @@
+{
+  "app_name": "Substanc8f08b879e842V26",
+  "app_title": "Substance 3D for Unreal Engine",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Substanc8f08b879e842V26",
+      "asset_id": "Substanc8f08b879e842V26",
+      "build_version": "5.5.0-38934440+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "42c45a3107c549e386c28a002e259941",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T20:02:25.419Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "292bb370-f146-4d1e-89c2-afbdb26cea6b"
+      }
+    },
+    "description": "Substance 3D for Unreal Engine",
+    "developer": "Adobe Substance 3D",
+    "developerId": "o-c43186bc64469388a6f77255181ef7",
+    "endOfSupport": false,
+    "entitlementName": "42c45a3107c549e386c28a002e259941",
+    "entitlementType": "AUDIENCE",
+    "id": "42c45a3107c549e386c28a002e259941",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-19T22:56:24.406Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Substance_4.8",
+        "compatibleApps": [
+          "UE_4.8"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "008ef59bf39e48a5907f68249358aad8",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-8"
+      },
+      {
+        "appId": "Substance_4.9",
+        "compatibleApps": [
+          "UE_4.9"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "61ed0af15e34409495808337b9efbdb1",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-9"
+      },
+      {
+        "appId": "Substance_4.10",
+        "compatibleApps": [
+          "UE_4.10"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "bd59a19e9342430f8610e9361d005537",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-10"
+      },
+      {
+        "appId": "Substance_4.11",
+        "compatibleApps": [
+          "UE_4.11"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "d632a5222e774ad8b55ff72299204964",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-11"
+      },
+      {
+        "appId": "Substance_4.12",
+        "compatibleApps": [
+          "UE_4.12"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "71dd9e30e702450a8e7d361085c047d7",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-12"
+      },
+      {
+        "appId": "Substance_4.13",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "4b2b18acb256437e800dd884b4abed2a",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-13"
+      },
+      {
+        "appId": "Substance_4.14",
+        "compatibleApps": [
+          "UE_4.14"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "167e2d41c5be49e6a3dc64e2491f2bb2",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-14"
+      },
+      {
+        "appId": "Substance_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "537c05281a0b453d8804d0b4cb70fe4f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-15"
+      },
+      {
+        "appId": "Substance_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "47795f869cb849c68686f2e2425a19ec",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-16"
+      },
+      {
+        "appId": "Substance_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "c09a193ae0cf4e98bdade94ae1c1968e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-17"
+      },
+      {
+        "appId": "Substance_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "2c8611755a0c44848401d6a3078358a4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Oculus",
+          "Xbox One",
+          "PS4"
+        ],
+        "versionTitle": "Substance_4-18"
+      },
+      {
+        "appId": "Substance_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "74e6396bb30b40e5b935b44efcc04618",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "Linux"
+        ],
+        "versionTitle": "Substance_4-19"
+      },
+      {
+        "appId": "Substance_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "283c73da493d42b5b2f5bb6f545adb2f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "Linux"
+        ],
+        "versionTitle": "Substance_4-20"
+      },
+      {
+        "appId": "Substance_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "d5f32acc7a4d45ad8f4683ff548cb4d6",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "Linux"
+        ],
+        "versionTitle": "Substance_4-21"
+      },
+      {
+        "appId": "Substance_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "3149308afb874e969bd9196a14333b7c",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Oculus",
+          "PS4",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "Substance_4-22"
+      },
+      {
+        "appId": "Substance_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "f57c5d75c1a540e6a75a60f3645e5f5e",
+        "platform": [
+          "Mac",
+          "Linux",
+          "PS4",
+          "Windows",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-23"
+      },
+      {
+        "appId": "Substance_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "3ef39127070347dd9cc16497d5fab902",
+        "platform": [
+          "Linux",
+          "Mac",
+          "PS4",
+          "Windows",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-24"
+      },
+      {
+        "appId": "Substance_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "d7aadb66e4f9442dab4b45d86cfa2070",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "Substance_4-25"
+      },
+      {
+        "appId": "Substance_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "4c628289510b43eaabbbf168e353b029",
+        "platform": [
+          "HTML5",
+          "Linux",
+          "Android",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "iOS",
+          "Oculus"
+        ],
+        "versionTitle": "Substance_4-26"
+      },
+      {
+        "appId": "Substance_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "c722a44de57f47cdb80ad7ec921eb56b",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Oculus",
+          "Mac",
+          "PS4",
+          "Android",
+          "iOS",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "Substance_4-27"
+      },
+      {
+        "appId": "Substance_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "cdafb3d6775549ac9e86ef575548ff34",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "Substance_5-0"
+      },
+      {
+        "appId": "Substance_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "5b0f7d4ac6434346a34322245dda7144",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Oculus",
+          "PS4",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "Substance_5-1"
+      },
+      {
+        "appId": "Substance_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "816cedc7257c45a1b201cbea7320fe86",
+        "platform": [
+          "Linux",
+          "Windows"
+        ],
+        "versionTitle": "Substance_5-2"
+      },
+      {
+        "appId": "Substance_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.434Z",
+        "id": "72897bb34fa04a23ac8194e23a0feec7",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "Substance_5-3"
+      },
+      {
+        "appId": "Substance_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.435Z",
+        "id": "ca86613338084342a743fcf1631e1938",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "Substance_5-4"
+      },
+      {
+        "appId": "Substanc8f08b879e842V26",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.435Z",
+        "id": "8165af0b0fb542c082c670a69573d8ec",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "Substance_5-5"
+      },
+      {
+        "appId": "Substanc62d2b1b7d197V27",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-19T21:00:26.435Z",
+        "id": "1b0c64def7154cd49eb95c2c9280e559",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "Substance_5-6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Substance 3D for Unreal Engine",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

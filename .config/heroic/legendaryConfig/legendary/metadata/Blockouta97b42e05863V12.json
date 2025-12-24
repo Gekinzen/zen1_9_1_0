@@ -1,0 +1,287 @@
+{
+  "app_name": "Blockouta97b42e05863V12",
+  "app_title": "Blockout Tools Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Blockouta97b42e05863V12",
+      "asset_id": "Blockouta97b42e05863V12",
+      "build_version": "5.5.0-38169462+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "998c0369a33748f5a7e580f1dc739add",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-07T05:35:47.185Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "1295806f-f99c-4e98-a686-0619729555db"
+      }
+    },
+    "description": "Blockout Tools Plugin",
+    "developer": "Dmitry Karpukhin",
+    "developerId": "o-qtbxczl9rwjrjyd86szfwbz938y5c2",
+    "endOfSupport": false,
+    "entitlementName": "998c0369a33748f5a7e580f1dc739add",
+    "entitlementType": "AUDIENCE",
+    "id": "998c0369a33748f5a7e580f1dc739add",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-05T11:57:03.572Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "BlockoutToolsPlugin_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "d63d26e99e8144f2b6f344ea8d71c7b3",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "4.22-1.22"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "63380bbd0aac44bd998361f72b9488e1",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux",
+          "Android"
+        ],
+        "versionTitle": "4.23-1.40"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "e87732d6516f4eb39a61138f5b598464",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux",
+          "Android"
+        ],
+        "versionTitle": "4.24-1.44"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "995c68740fd1421eaa56e9f056b31f54",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Win32",
+          "Windows",
+          "Android",
+          "iOS",
+          "Nintendo Switch",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "4.25-1.51"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "7603414b66d34ad7adbf0c39b3fed275",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux",
+          "Android",
+          "iOS",
+          "Nintendo Switch",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "4.26-1.51"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "ef933e40c6754a7683977bf57e345b1d",
+        "platform": [
+          "Android",
+          "Linux",
+          "Mac",
+          "Win32",
+          "Windows",
+          "iOS",
+          "Nintendo Switch",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "4.27-1.51"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "abbffabbe97d40a5bc16db38c7b575ba",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "5.00-1.51"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "565cfa9095c2491d8b34956ed4ac9011",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "5.1 - 1.52"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "9c0e868bed144cea91529a311770e1cb",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "iOS",
+          "Android"
+        ],
+        "versionTitle": "5.2 - 1.52"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "d6907c2f36da4812af706f6261121cb5",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "5.3 - 1.52"
+      },
+      {
+        "appId": "BlockoutToolsPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "0b76da5cc55b41469fb27bcd9003a62f",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "5.4 - 1.52"
+      },
+      {
+        "appId": "Blockouta97b42e05863V12",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "2af75034b9ce4d2d9bbcb262c28a6e2c",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "versionTitle": "5.5 - 1.52"
+      },
+      {
+        "appId": "Blockoutd2a06d30e0e2V13",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-04T09:53:02.914Z",
+        "id": "3c5b2a5208f945f5a0b80ead1e5edab2",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "versionTitle": "5.6 - 1.52"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Blockout Tools Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

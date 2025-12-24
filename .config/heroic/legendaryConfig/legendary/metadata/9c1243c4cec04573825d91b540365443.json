@@ -1,0 +1,60 @@
+{
+  "app_name": "9c1243c4cec04573825d91b540365443",
+  "app_title": "Skeleton Knight Modular Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T21:35:28.530Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "fc3a309a-a3eb-46de-bebe-dcb40dc31e48"
+      }
+    },
+    "description": "Skeleton Knight Modular",
+    "developer": "buxoided",
+    "developerId": "o-7vr3n536huvx5jzg8d9ntf5vrdassm",
+    "endOfSupport": false,
+    "entitlementName": "c78f1504ba8040a4b379414d76c077b9",
+    "entitlementType": "AUDIENCE",
+    "id": "c78f1504ba8040a4b379414d76c077b9",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-01-19T14:25:24.755Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "9c1243c4cec04573825d91b540365443",
+        "compatibleApps": [],
+        "dateAdded": "2025-01-19T10:50:27.225Z",
+        "id": "494899772e35421596a9174a75223e9f",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Skeleton Knight Modular Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

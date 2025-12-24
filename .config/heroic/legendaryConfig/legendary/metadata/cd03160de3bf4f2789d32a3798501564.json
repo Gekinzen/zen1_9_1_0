@@ -1,0 +1,84 @@
+{
+  "app_name": "cd03160de3bf4f2789d32a3798501564",
+  "app_title": "Monument Valley",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cd03160de3bf4f2789d32a3798501564",
+      "asset_id": "cd03160de3bf4f2789d32a3798501564",
+      "build_version": "1.0.798",
+      "catalog_item_id": "0c0ad0b164b44ac4981e85c888f48180",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "d85af2a8017d4c2ea60e41f5085620f9"
+      },
+      "namespace": "e236e73a294b462d85715f5ba23a6346",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567PqWOFyPBeRTQL9O8jnXDnNLi",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-02-25T16:03:55.463Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MonumentValley"
+      }
+    },
+    "description": "Embark on a journey of forgiveness through impossible environments and illusionary puzzles. Experience this meditative and calming puzzle game by manipulating monuments and creating evolving paths to explore new, surreal, and mysterious worlds.",
+    "developer": "ustwo games",
+    "developerId": "o-dlp2t8d5tvq8kz8m6q6mltypw6c9am",
+    "endOfSupport": false,
+    "entitlementName": "0c0ad0b164b44ac4981e85c888f48180",
+    "entitlementType": "EXECUTABLE",
+    "id": "0c0ad0b164b44ac4981e85c888f48180",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Monument Valley Offer",
+        "height": 1440,
+        "md5": "25d2431da169e778f764070f9e3e4212",
+        "size": 304270,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-03-04T12:29:34.613Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1p8w3.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Monument Valley Offer",
+        "height": 1600,
+        "md5": "526c60f1a68fbb7b3dea23fec14f63d8",
+        "size": 389480,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-03-04T12:29:34.983Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-a0kig.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-08-27T10:53:35.100Z",
+    "mainGameItemList": [],
+    "namespace": "e236e73a294b462d85715f5ba23a6346",
+    "releaseInfo": [
+      {
+        "appId": "cd03160de3bf4f2789d32a3798501564",
+        "id": "31fcaf6e-b37c-4493-9042-bd7c40358713",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Monument Valley",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

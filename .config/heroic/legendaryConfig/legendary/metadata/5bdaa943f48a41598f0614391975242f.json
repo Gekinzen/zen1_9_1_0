@@ -1,0 +1,84 @@
+{
+  "app_name": "5bdaa943f48a41598f0614391975242f",
+  "app_title": "Universe for Sale",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5bdaa943f48a41598f0614391975242f",
+      "asset_id": "5bdaa943f48a41598f0614391975242f",
+      "build_version": "1.3.0Windows",
+      "catalog_item_id": "702ad2f095cb47db8492998979dd26ae",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "8bd28c7b29b0486284696abf861c8899"
+      },
+      "namespace": "60525048f11c46b88bb6d7492ce7b67d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567DFpOn0x3W0ckBSDUvPWpFC2i",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-09-19T12:49:42.814Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "UniverseforSalemIVnr"
+      }
+    },
+    "description": "Universe for Sale",
+    "developer": "Akupara Games",
+    "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+    "endOfSupport": false,
+    "entitlementName": "702ad2f095cb47db8492998979dd26ae",
+    "entitlementType": "EXECUTABLE",
+    "id": "702ad2f095cb47db8492998979dd26ae",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Universe for Sale Offer",
+        "height": 1440,
+        "md5": "038c101f79b6c1b6263b3c9a3a2af483",
+        "size": 1779244,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-09-26T18:31:21.265Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-dgru3.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Universe for Sale Offer",
+        "height": 1600,
+        "md5": "5e90023b64be6cf67fbed2ced6175405",
+        "size": 912520,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-09-26T18:31:19.940Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-1ksy4.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-08-22T22:11:56.494Z",
+    "mainGameItemList": [],
+    "namespace": "60525048f11c46b88bb6d7492ce7b67d",
+    "releaseInfo": [
+      {
+        "appId": "5bdaa943f48a41598f0614391975242f",
+        "id": "ed9c542958ec41e9a6ccdf7795fcf0b9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Universe for Sale",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

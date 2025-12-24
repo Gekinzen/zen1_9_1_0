@@ -1,0 +1,122 @@
+/**
+ * rofi -dump-theme output.
+ * Rofi version: 2.0.0
+ **/
+* {
+    border-col:     var(selected);
+    urgent:         rgba ( 219, 144, 101, 100 % );
+    selected:       rgba ( 147, 121, 140, 100 % );
+    grey:           rgba ( 86, 95, 137, 100 % );
+    bg-col-light:   var(background-alt);
+    foreground:     rgba ( 195, 200, 201, 100 % );
+    active:         rgba ( 22, 96, 150, 100 % );
+    bg-col:         var(background);
+    fg-col2:        var(active);
+    background-alt: rgba ( 97, 113, 118, 100 % );
+    background:     rgba ( 18, 36, 42, 100 % );
+    fg-col:         var(foreground);
+    selected-col:   var(selected);
+}
+window {
+    width:            70.0000% ;
+    background-color: var(bg-col);
+    padding:          50px ;
+    border-color:     var(border-col);
+    height:           90.0000% ;
+    border:           2px ;
+    border-radius:    25px ;
+}
+mainbox {
+    background-color: transparent;
+    spacing:          30px ;
+}
+inputbar {
+    enabled:          true;
+    text-color:       var(fg-col);
+    padding:          5px 20px ;
+    children:         [ "prompt","entry" ];
+    background-color: var(bg-col-light);
+    border-radius:    12px ;
+    border-color:     var(border-col);
+    border:           2px ;
+    spacing:          10px ;
+    margin:           0px 25.0000% 30px ;
+}
+prompt {
+    enabled:          true;
+    background-color: transparent;
+    font:             "CodeNewRoman Nerd Font Bold 14";
+    text-color:       var(selected-col);
+}
+entry {
+    enabled:           true;
+    background-color:  transparent;
+    cursor:            text;
+    text-color:        var(fg-col);
+    placeholder:       "Search Applications...";
+    placeholder-color: var(grey);
+}
+listview {
+    enabled:          true;
+    fixed-columns:    true;
+    cycle:            false;
+    scrollbar:        false;
+    reverse:          false;
+    lines:            3;
+    fixed-height:     true;
+    dynamic:          true;
+    layout:           vertical;
+    columns:          5;
+    spacing:          10px ;
+    background-color: transparent;
+}
+element {
+    enabled:          true;
+    cursor:           pointer;
+    padding:          30px 15px ;
+    orientation:      vertical;
+    text-color:       var(fg-col);
+    background-color: transparent;
+    border-radius:    16px ;
+    border-color:     transparent;
+    border:           2px ;
+    spacing:          12px ;
+}
+element normal.normal {
+    background-color: transparent;
+    text-color:       var(fg-col);
+}
+element selected.normal {
+    background-color: rgba ( 122, 162, 247, 35 % );
+    border-color:     var(selected-col);
+    text-color:       var(fg-col);
+}
+element selected.normal.element-text {
+    font: "CodeNewRoman Nerd Font Bold 13";
+}
+element alternate.normal {
+    background-color: transparent;
+    text-color:       var(fg-col);
+}
+element-icon {
+    background-color: transparent;
+    size:             42px ;
+    cursor:           inherit;
+}
+element-text {
+    background-color: transparent;
+    vertical-align:   0.50;
+    cursor:           inherit;
+    highlight:        bold ;
+    font:             "CodeNewRoman Nerd Font 13";
+    horizontal-align: 0.50;
+    text-color:       inherit;
+}
+message {
+    enabled: false;
+}
+error-message {
+    padding:          20px ;
+    background-color: var(bg-col);
+    text-color:       var(fg-col);
+}

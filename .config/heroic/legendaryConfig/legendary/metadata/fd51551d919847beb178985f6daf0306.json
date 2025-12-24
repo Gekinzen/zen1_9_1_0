@@ -1,0 +1,115 @@
+{
+  "app_name": "fd51551d919847beb178985f6daf0306",
+  "app_title": "Tunche",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fd51551d919847beb178985f6daf0306",
+      "asset_id": "fd51551d919847beb178985f6daf0306",
+      "build_version": "v1.1.0.0",
+      "catalog_item_id": "d4220f91bb3046a49c2cedd2a8101243",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "78683b0edafd4a978a5ab61a7f6b0594",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-31T16:38:01.626Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Leap Game Studios/Tunche_EGS/Tunche_SaveSlot_1/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Tunche"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "78683b0edafd4a978a5ab61a7f6b0594"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tunche",
+    "developer": "Hypetrain Digital",
+    "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+    "endOfSupport": false,
+    "entitlementName": "d4220f91bb3046a49c2cedd2a8101243",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d4220f91bb3046a49c2cedd2a8101243",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1f0c9b8e43a9525d762ed823a05f19ca",
+        "size": 894936,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-09T23:06:52.648Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S1_2560x1440-1f0c9b8e43a9525d762ed823a05f19ca",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "2d1af97ecf155b591bb873485059938f",
+        "size": 876205,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-09T23:07:03.359Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S2_1200x1600-2d1af97ecf155b591bb873485059938f",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-08T15:59:02.590Z",
+    "mainGameItemList": [],
+    "namespace": "78683b0edafd4a978a5ab61a7f6b0594",
+    "releaseInfo": [
+      {
+        "appId": "fd51551d919847beb178985f6daf0306",
+        "id": "176deb672a0648d581edb75442b1e987",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Tunche",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

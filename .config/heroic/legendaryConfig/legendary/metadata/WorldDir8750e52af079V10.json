@@ -1,0 +1,241 @@
+{
+  "app_name": "WorldDir8750e52af079V10",
+  "app_title": "World Director NPC PRO \u2013 Massive NPC Simulation with Multiplayer & Optimization",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "WorldDir8750e52af079V10",
+      "asset_id": "WorldDir8750e52af079V10",
+      "build_version": "5.7.0-48293889+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "fa3d4deffdb3429d8a4647b809d97288",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T05:58:12.107Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "7ac4ef3c-ccfc-484a-aeec-5a672ff30130"
+      }
+    },
+    "description": "World Director NPC PRO \u2013 Massive NPC Simulation with Multiplayer & Optimization",
+    "developer": "BitProtectStudio",
+    "developerId": "o-ff78aff15e4a0d9314b2e452451aca",
+    "endOfSupport": false,
+    "entitlementName": "fa3d4deffdb3429d8a4647b809d97288",
+    "entitlementType": "AUDIENCE",
+    "id": "fa3d4deffdb3429d8a4647b809d97288",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-14T18:44:28.079Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "WorldDirectorPRO_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "9534f462bcbf458493ccc45f17e1e975",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "WD-PRO 426 1.1.6"
+      },
+      {
+        "appId": "WorldDirectorPRO_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "d31c11b54e074218bfff755d079b5dfa",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "WD-PRO 427 1.2.1"
+      },
+      {
+        "appId": "WorldDirectorPRO_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "7fadafaa261a4154b7fd6c6277e0a741",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "WD-PRO UE5 2.0"
+      },
+      {
+        "appId": "WorldDirectorPRO_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "a33fa1978a1f4248ad0c954a8595378f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "WD-PRO UE51 2.0.2"
+      },
+      {
+        "appId": "WorldDirectorPRO_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "c5ca35e7361c4144b1299aad89894b21",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "WD-PRO UE52 2.1"
+      },
+      {
+        "appId": "WorldDirectorPRO_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "e4bf625562f14ce993c76dac192ed07f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "Linux",
+          "iOS"
+        ],
+        "versionTitle": "WD-PRO UE53 2.1"
+      },
+      {
+        "appId": "WorldDirectorPRO_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "b59f2867a9a44bf397ed0d53632dbe21",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "WD-PRO UE54 2.2.1"
+      },
+      {
+        "appId": "WorldDira8845ba67427V8",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "574e895fa7b44875b14e6cafdc43341f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Win32"
+        ],
+        "releaseNote": "+ Fixed a bug with rotation in the background.",
+        "versionTitle": "UE55 2.2.4"
+      },
+      {
+        "appId": "WorldDirbdc4b8f2c191V9",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "309b8f483b5244849205be94caaed497",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "Win32",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "WorldDirectorPRO UE56 2.2.4"
+      },
+      {
+        "appId": "WorldDir8750e52af079V10",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-14T15:21:25.957Z",
+        "id": "5936655a623e40ff9c446ae713c55896",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "WorldDirectorPRO ue57 2.2.4"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "World Director NPC PRO \u2013 Massive NPC Simulation with Multiplayer & Optimization",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

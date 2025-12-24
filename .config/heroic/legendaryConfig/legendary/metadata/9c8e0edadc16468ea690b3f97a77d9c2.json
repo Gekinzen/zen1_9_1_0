@@ -1,0 +1,86 @@
+{
+  "app_name": "9c8e0edadc16468ea690b3f97a77d9c2",
+  "app_title": "Nightingale - Legacy Mode",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9c8e0edadc16468ea690b3f97a77d9c2",
+      "asset_id": "9c8e0edadc16468ea690b3f97a77d9c2",
+      "build_version": "279608",
+      "catalog_item_id": "24f8f260b4224cdbbbd85989925c8bcf",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f12f63474af9463f924ecc721db7475a"
+      },
+      "namespace": "88e8dde0de8f44bdb3580d73e36d4157",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-07-30T19:43:37.218Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "DigitalNightingale0372c"
+      }
+    },
+    "description": "Nightingale - Legacy Mode",
+    "developer": "Inflexion Studios Inc.",
+    "developerId": "o-zyefmf2mafnxfjsycahmuf6l3blet4",
+    "endOfSupport": false,
+    "entitlementName": "24f8f260b4224cdbbbd85989925c8bcf",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "24f8f260b4224cdbbbd85989925c8bcf",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Nightingale Nightingale - 0.3.2 Offer",
+        "height": 1440,
+        "md5": "63645aeb1d845f2a1d1d2a608d761af1",
+        "size": 733742,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-08-12T23:02:52.096Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3c9f4ef0d1b240de9586b0cdd380ff92/nightingale-1gn0s.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Nightingale Nightingale - 0.3.2 Offer",
+        "height": 1600,
+        "md5": "a2fd6c128b89985cb4e8bee4ac251a05",
+        "size": 686519,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-08-12T23:02:52.211Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3c9f4ef0d1b240de9586b0cdd380ff92/nightingale-rulj1.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-16T19:49:16.184Z",
+    "mainGameItemList": [],
+    "namespace": "88e8dde0de8f44bdb3580d73e36d4157",
+    "releaseInfo": [
+      {
+        "appId": "9c8e0edadc16468ea690b3f97a77d9c2",
+        "id": "59e4afa73f294367bcce57f3b7bf5498",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Nightingale - Legacy Mode",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

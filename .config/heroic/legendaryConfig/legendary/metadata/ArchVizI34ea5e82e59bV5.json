@@ -1,0 +1,119 @@
+{
+  "app_name": "ArchVizI34ea5e82e59bV5",
+  "app_title": "ArchViz Interior Vol.1",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ArchVizI34ea5e82e59bV5",
+      "asset_id": "ArchVizI34ea5e82e59bV5",
+      "build_version": "5.8.0-48458105+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "db17085254bf44f387f86e3931739a3c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T20:04:33.908Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "59c8dec0-36c0-4c90-af20-37a42fae7bf3"
+      }
+    },
+    "description": "ArchViz Interior Vol.1",
+    "developer": "Akairo",
+    "developerId": "o-sqxnxseua78rc4vszr4qedrwh7jcwx",
+    "endOfSupport": false,
+    "entitlementName": "db17085254bf44f387f86e3931739a3c",
+    "entitlementType": "AUDIENCE",
+    "id": "db17085254bf44f387f86e3931739a3c",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-24T10:38:44.166Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ArchVizI36918a1a19d6V4",
+        "compatibleApps": [
+          "UE_4.27",
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-24T10:38:25.729Z",
+        "id": "f6c04ad6fd0e479db5c4a269bacbb56f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "ArchVizI34ea5e82e59bV5",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6",
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-24T10:38:25.729Z",
+        "id": "8a5e6d08093b407d92c7f06e3155e2e6",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "ArchViz Interior Vol.1",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

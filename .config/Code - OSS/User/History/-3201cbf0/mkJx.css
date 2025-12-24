@@ -1,0 +1,43 @@
+@define-color background #1e1e2e;
+@define-color foreground #cdd6f4;
+@define-color bordercolor #313244;
+@define-color accent #89b4fa;
+@define-color hovercolor #585b70;
+
+window {
+    background-color: @background;
+    border-radius: 18px;
+    border: 2px solid @bordercolor;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+}
+
+button {
+    background: transparent;
+    border: none;
+    margin: 4px;
+    padding: 8px;
+    border-radius: 12px;
+    transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: @hovercolor;
+}
+
+button:checked,
+button:active {
+    background-color: @accent;
+}
+
+.image {
+    margin: 4px;
+    border-radius: 10px;
+}
+
+label {
+    color: @foreground;
+    font-size: 11pt;
+    font-weight: 500;
+}
+
+/* If Pywal is used, this file gets replaced dynamically */

@@ -1,0 +1,60 @@
+{
+  "app_name": "c580a1ea93354e838748636c941e1caf",
+  "app_title": "Stylized Truck Pack (Drivable Truck) Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T10:58:54.304Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "a8cdd6a7-643e-4f7c-9287-dc4e5aaa4abd"
+      }
+    },
+    "description": "Stylized Truck Pack (Drivable Truck)",
+    "developer": "StarGameStudios",
+    "developerId": "o-0b304e81e0422b9ba7122a53728df8",
+    "endOfSupport": false,
+    "entitlementName": "c0cd1d81057e42b88b17ee5de9078acd",
+    "entitlementType": "AUDIENCE",
+    "id": "c0cd1d81057e42b88b17ee5de9078acd",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-08T10:31:24.507Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "c580a1ea93354e838748636c941e1caf",
+        "compatibleApps": [],
+        "dateAdded": "2025-06-08T09:59:52.254Z",
+        "id": "4dc5342333f84adf9d0cb9c255ef7761",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Stylized Truck Pack (Drivable Truck) Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

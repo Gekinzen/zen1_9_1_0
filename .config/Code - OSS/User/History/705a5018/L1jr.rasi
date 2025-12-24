@@ -1,0 +1,266 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * Modified: App Launcher with Wallpaper Panel
+ * 
+ * Rofi Theme File
+ * Rofi Version: 1.7.3
+ **/
+
+/*****----- Configuration -----*****/
+configuration {
+	modi:                       "drun,run,filebrowser,ssh,window";
+    show-icons:                 true;
+    display-drun:               "";
+    display-run:                " Run";
+    display-filebrowser:        " Files";
+    display-window:             " Windows";
+	display-ssh:                " SSH";
+	drun-display-format:        "{name}";
+	window-format:              "{w} · {c} · {t}";
+}
+
+/*****----- Global Properties (Updated by pywal) -----*****/
+* {
+    background:     #1f2648;
+    background-alt: #395481;
+    foreground:     #c7c8d1;
+    selected:       #867E9B;
+    active:         #1364CB;
+    urgent:         #4D71AD;
+    
+    font: "SF Pro Display 11";
+}
+
+/*****----- Main Window -----*****/
+window {
+    transparency:                "real";
+    location:                    center;
+    anchor:                      center;
+    fullscreen:                  false;
+    width:                       1000px;
+    height:                      600px;
+    x-offset:                    0px;
+    y-offset:                    0px;
+
+    enabled:                     true;
+    margin:                      0px;
+    padding:                     0px;
+    border:                      0px solid;
+    border-radius:               36px;
+    border-color:                @selected;
+    cursor:                      "default";
+    background-color:            @background;
+}
+
+/*****----- Main Box -----*****/
+mainbox {
+    enabled:                     true;
+    spacing:                     0px;
+    margin:                      20px;
+    padding:                     0px;
+    border:                      0px solid;
+    border-radius:               0px;
+    border-color:                @selected;
+    background-color:            transparent;
+    orientation:                 horizontal;
+    children:                    [ "imagebox", "listbox" ];
+}
+
+/*****----- Image Box (Left Panel with Wallpaper) -----*****/
+imagebox {
+    width:                       350px;
+    padding:                     10px;
+    background-color:            #626869d4;
+    background-image:            url("~/.cache/current-wallpaper.jpg", height);
+    orientation:                 vertical;
+    children:                    [ "inputbar", "dummy", "message" ];
+}
+
+dummy {
+    background-color:            transparent;
+    expand:                      true;
+}
+
+/*****----- List Box (Right Panel) -----*****/
+listbox {
+    spacing:                     10px;
+    padding:                     10px;
+    border:                      0px solid;
+    border-radius:               0px;
+    border-color:                @selected;
+    background-color:            transparent;
+    orientation:                 vertical;
+    children:                    [ "listview" ];
+}
+
+/*****----- Inputbar -----*****/
+inputbar {
+    enabled:                     true;
+    spacing:                     10px;
+    margin:                      0px;
+    padding:                     10px;
+    border:                      0px solid;
+    border-radius:               16px;
+    border-color:                @selected;
+    background-color:            @background;
+    text-color:                  @foreground;
+    children:                    [ "prompt", "entry" ];
+}
+
+prompt {
+    enabled:                     true;
+    background-color:            transparent;
+    text-color:                  rgba(255, 255, 255, 0.9);
+    font:                        "Material Design Icons 14";
+}
+
+entry {
+    enabled:                     true;
+    padding:                     5px 0px;
+    background-color:            transparent;
+    text-color:                  @foreground;
+    cursor:                      text;
+    placeholder:                 "Search...";
+    placeholder-color:           rgba(255, 255, 255, 0.3);
+}
+
+/*****----- Message (Description Box) -----*****/
+message {
+    enabled:                     true;
+    margin:                      10px;
+    padding:                     0px;
+    border-radius:               16px;
+    border:                      0px solid;
+    border-color:                @selected;
+    background-color:            transparent;
+}
+
+textbox {
+    padding:                     10px;
+    border:                      0px solid;
+    border-radius:               4px;
+    border-color:                @selected;
+    background-color:            @background;
+    text-color:                  rgba(255, 255, 255, 0.9);
+    vertical-align:              0.0;
+    horizontal-align:            0.0;
+    font:                        "SF Pro Display 10";
+}
+
+/*****----- Listview -----*****/
+listview {
+    enabled:                     true;
+    columns:                     1;
+    lines:                       8;
+    cycle:                       true;
+    dynamic:                     true;
+    scrollbar:                   false;
+    layout:                      vertical;
+    reverse:                     false;
+    fixed-height:                true;
+    fixed-columns:               true;
+    
+    spacing:                     0px;
+    margin:                      0px;
+    padding:                     0px;
+    border:                      0px solid;
+    border-radius:               0px;
+    border-color:                @selected;
+    background-color:            transparent;
+    text-color:                  @foreground;
+    cursor:                      "default";
+}
+
+/*****----- Elements -----*****/
+element {
+    enabled:                     true;
+    spacing:                     10px;
+    margin:                      0px;
+    padding:                     8px;
+    border:                      0px solid;
+    border-radius:               0px;
+    border-color:                @selected;
+    background-color:            transparent;
+    text-color:                  @foreground;
+    orientation:                 horizontal;
+    cursor:                      pointer;
+}
+
+element normal.normal {
+    background-color:            transparent;
+    text-color:                  @foreground;
+}
+
+element normal.urgent {
+    background-color:            var(urgent);
+    text-color:                  @background;
+}
+
+element normal.active {
+    background-color:            var(active);
+    text-color:                  @background;
+}
+
+element selected.normal {
+    border:                      1px solid;
+    border-radius:               16px;
+    border-color:                @selected;
+    background-color:            rgba(255, 255, 255, 0.05);
+    text-color:                  @foreground;
+}
+
+element selected.urgent {
+    border-radius:               16px;
+    background-color:            var(selected);
+    text-color:                  @background;
+}
+
+element selected.active {
+    border-radius:               16px;
+    background-color:            var(selected);
+    text-color:                  @background;
+}
+
+element alternate.normal {
+    background-color:            transparent;
+    text-color:                  @foreground;
+}
+
+element alternate.urgent {
+    background-color:            var(urgent);
+    text-color:                  @background;
+}
+
+element alternate.active {
+    background-color:            var(active);
+    text-color:                  @background;
+}
+
+element-icon {
+    background-color:            transparent;
+    text-color:                  inherit;
+    size:                        32px;
+    cursor:                      inherit;
+}
+
+element-text {
+    background-color:            transparent;
+    text-color:                  inherit;
+    highlight:                   inherit;
+    cursor:                      inherit;
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+    font:                        "SF Pro Display Medium 12";
+}
+
+/*****----- Error Message -----*****/
+error-message {
+    padding:                     10px;
+    border:                      0px solid;
+    border-radius:               8px;
+    border-color:                @selected;
+    background-color:            @background;
+    text-color:                  @foreground;
+}

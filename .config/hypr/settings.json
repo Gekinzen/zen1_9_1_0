@@ -1,0 +1,7 @@
+{
+  "theme": "adw-dark",
+  "wallpaper": "",
+  "rofi_cmd": "rofi -show drun",
+  "waybar_enabled": true,
+  "animations": false
+}

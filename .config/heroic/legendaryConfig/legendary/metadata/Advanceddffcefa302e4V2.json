@@ -1,0 +1,114 @@
+{
+  "app_name": "Advanceddffcefa302e4V2",
+  "app_title": "Advanced Cel Shader Lite",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Advanceddffcefa302e4V2",
+      "asset_id": "Advanceddffcefa302e4V2",
+      "build_version": "5.6.0-37897518+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "3ec303a50ab14ee48eb091cd6e3d00d8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-27T02:37:29.349Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "ff0ac933-a621-4541-9efc-24f09c6a39e2"
+      }
+    },
+    "description": "Advanced Cel Shader Lite",
+    "developer": "Skull",
+    "developerId": "o-ee577dfb7e4e8c8f635c7c86c47ceb",
+    "endOfSupport": false,
+    "entitlementName": "3ec303a50ab14ee48eb091cd6e3d00d8",
+    "entitlementType": "AUDIENCE",
+    "id": "3ec303a50ab14ee48eb091cd6e3d00d8",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-11-11T10:47:28.981Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Advanced3e5a1aab6cf7V1",
+        "compatibleApps": [
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27",
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3"
+        ],
+        "dateAdded": "2024-11-11T03:39:25.571Z",
+        "id": "ff0039efa3394d6e9e6b1bb17fa95032",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "HTML5",
+          "Linux",
+          "Gear VR",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "releaseNote": "Install this version if you are after the earlier versions of the Advanced Cel Shader. Compatible with UE5.",
+        "versionTitle": "Advanced Cel Shader Lite 4.20"
+      },
+      {
+        "appId": "Advanceddffcefa302e4V2",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2024-11-11T03:39:25.571Z",
+        "id": "8e7b175b4c004735b5349f0249587580",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Linux",
+          "Win32"
+        ],
+        "releaseNote": "Get ready for a completely new, ground-up rewrite of the Advanced Cel Shader!",
+        "versionTitle": "Advanced Cel Shader Lite 5.4"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Advanced Cel Shader Lite",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

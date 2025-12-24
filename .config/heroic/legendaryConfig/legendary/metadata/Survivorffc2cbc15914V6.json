@@ -1,0 +1,142 @@
+{
+  "app_name": "Survivorffc2cbc15914V6",
+  "app_title": "Survivors Roguelike - Multiplayer Game Template",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Survivorffc2cbc15914V6",
+      "asset_id": "Survivorffc2cbc15914V6",
+      "build_version": "5.7.0-44567007+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "59f452cedef34f398aa55407059c2090",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-20T00:55:27.403Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "9662b194-6662-4a8b-b81a-b8506e28d413"
+      }
+    },
+    "description": "Survivors Roguelike - Multiplayer Game Template",
+    "developer": "Monster Tooth Studios",
+    "developerId": "o-smsvyuxw4rr4wxljy7pa8zakqv6lwv",
+    "endOfSupport": false,
+    "entitlementName": "59f452cedef34f398aa55407059c2090",
+    "entitlementType": "AUDIENCE",
+    "id": "59f452cedef34f398aa55407059c2090",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-04T20:25:24.079Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Survivore1a5209adf49V1",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-08-04T17:47:32.024Z",
+        "id": "9fa7e66be54541bbbf36b9cd13c5e8d7",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5"
+      },
+      {
+        "appId": "Survivore1a5209adf49V2",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-08-04T17:47:32.024Z",
+        "id": "1508699845374f7ca2723bef9cdbfd66",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.1"
+      },
+      {
+        "appId": "Survivore1a5209adf49V3",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-04T17:47:32.024Z",
+        "id": "59f2a5eaaa2e45d0b04ab4521365bb64",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.2"
+      },
+      {
+        "appId": "Survivore1a5209adf49V4",
+        "compatibleApps": [
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-04T17:47:32.024Z",
+        "id": "8a94b9e7c87d43ad9641c46e072e67a9",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.3"
+      },
+      {
+        "appId": "Survivorf4edc4d317daV5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-04T17:47:32.024Z",
+        "id": "a6f11428d62f44c9ab455d9523801534",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "Survivorffc2cbc15914V6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-04T17:47:32.024Z",
+        "id": "20435c53c5c44d4b948b65a32642837a",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "5.6",
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Survivors Roguelike - Multiplayer Game Template",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

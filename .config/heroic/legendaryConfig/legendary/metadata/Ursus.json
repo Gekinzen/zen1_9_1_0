@@ -1,0 +1,107 @@
+{
+  "app_name": "Ursus",
+  "app_title": "Hello Neighbor",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Ursus",
+      "asset_id": "Ursus",
+      "build_version": "1.4.1",
+      "catalog_item_id": "d54967363d55498aaeee11ee2e86cd5e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "helloneighbor",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-18T23:06:27.719Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HelloNeighbor"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "helloneighbor"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      }
+    },
+    "description": "Hello Neighbor",
+    "developer": "tinyBuild Games",
+    "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "endOfSupport": false,
+    "entitlementName": "d54967363d55498aaeee11ee2e86cd5e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d54967363d55498aaeee11ee2e86cd5e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 766,
+        "md5": "52e8b99d3c35840b10322e9ad0465a08",
+        "size": 179494,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-19T03:58:35.316Z",
+        "url": "https://cdn1.epicgames.com/helloneighbor/item/EGS_DynamicPixels_HelloNeighbor_S7-1360x766-52e8b99d3c35840b10322e9ad0465a08.jpg",
+        "width": 1360
+      },
+      {
+        "height": 680,
+        "md5": "09f69dd598670e106f801668fbc31760",
+        "size": 88618,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-30T16:05:46.053Z",
+        "url": "https://cdn1.epicgames.com/helloneighbor/item/Diesel_productv2_hello-neighbor_home-game_EGS_DynamicPixels_HelloNeighbor_S4-510x680-09541e83a1b97e443f78cba702bddbe4be07286e-510x680-09f69dd598670e106f801668fbc31760.jpg",
+        "width": 510
+      }
+    ],
+    "lastModifiedDate": "2025-07-02T13:06:49.205Z",
+    "mainGameItemList": [],
+    "namespace": "helloneighbor",
+    "releaseInfo": [
+      {
+        "appId": "Ursus",
+        "id": "5c5c1ab250564178b88c7e71e523ae19",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Hello Neighbor",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

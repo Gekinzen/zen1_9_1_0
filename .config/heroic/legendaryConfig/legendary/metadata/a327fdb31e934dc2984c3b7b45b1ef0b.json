@@ -1,0 +1,84 @@
+{
+  "app_name": "a327fdb31e934dc2984c3b7b45b1ef0b",
+  "app_title": "Monument Valley 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a327fdb31e934dc2984c3b7b45b1ef0b",
+      "asset_id": "a327fdb31e934dc2984c3b7b45b1ef0b",
+      "build_version": "1.0.579",
+      "catalog_item_id": "d2e5e3fe19f24372a67c44f931a26740",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f447b551d92e48be811401b081285442"
+      },
+      "namespace": "e6abebfda00f45e2b3b9ba79970bc511",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567lNCYjImlK2t8qandrA4UTkJC",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-02-27T14:32:31.743Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MonumentValley2"
+      }
+    },
+    "description": "Discover illusionary pathways and delightful puzzles as you learn the secrets of The Sacred Geometry. Follow the heart warming story of Ro in her journey through motherhood. Rediscover independence through manipulating monuments and evolving paths to explore new worlds.",
+    "developer": "ustwo games",
+    "developerId": "o-dlp2t8d5tvq8kz8m6q6mltypw6c9am",
+    "endOfSupport": false,
+    "entitlementName": "d2e5e3fe19f24372a67c44f931a26740",
+    "entitlementType": "EXECUTABLE",
+    "id": "d2e5e3fe19f24372a67c44f931a26740",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Monument Valley 2 Offer",
+        "height": 1440,
+        "md5": "43e78508f787511c91e01bfa0cbcbed8",
+        "size": 275359,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-03-05T15:14:27.400Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-tbqx3.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Monument Valley 2 Offer",
+        "height": 1600,
+        "md5": "d6effe20ac0b0a8ea80505b7970d914c",
+        "size": 181994,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-03-05T15:14:27.642Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-1cv7e.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-09-03T09:22:19.900Z",
+    "mainGameItemList": [],
+    "namespace": "e6abebfda00f45e2b3b9ba79970bc511",
+    "releaseInfo": [
+      {
+        "appId": "a327fdb31e934dc2984c3b7b45b1ef0b",
+        "id": "fd081f05-68d9-478a-aca5-4702e43e777c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Monument Valley 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

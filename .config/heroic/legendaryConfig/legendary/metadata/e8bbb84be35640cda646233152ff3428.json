@@ -1,0 +1,173 @@
+{
+  "app_name": "e8bbb84be35640cda646233152ff3428",
+  "app_title": "Brotato",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e8bbb84be35640cda646233152ff3428",
+      "asset_id": "e8bbb84be35640cda646233152ff3428",
+      "build_version": "v1.1.13.2-f8aaf7e-win",
+      "catalog_item_id": "518490da62794d0a8f3695cbe2fcf0a6",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "909197427dd24d2fbc8bd09c6c934dcb",
+        "update_type": "PATCH"
+      },
+      "namespace": "3b391953ce4b42bb9a28a2fee249154b",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567uFc3J5LYUGoDTK08IpEq3nxH",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-05-02T10:37:03.079Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.json"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Brotato/{EpicID}/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Brotato/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Brotato"
+      }
+    },
+    "description": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
+    "developer": "Blobfish Games",
+    "developerId": "o-bgr72ktympm37plu4ubp6uf46chs6m",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-16T13:48:45.681Z",
+        "customAttributes": {},
+        "description": "After countless nights battling fiends on the scorching grounds of a treacherous planet, Brotato has decided to take refuge in the depths of the oceans. But he will soon discover that he is not alone.",
+        "developer": "Blobfish Games",
+        "developerId": "o-bgr72ktympm37plu4ubp6uf46chs6m",
+        "endOfSupport": false,
+        "entitlementName": "7ec138ea2df647799d82d74dee76b4e0",
+        "entitlementType": "EXECUTABLE",
+        "id": "7ec138ea2df647799d82d74dee76b4e0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Brotato Brotato: Abyssal Terrors Offer",
+            "height": 1440,
+            "md5": "dd4b19c561e0578391c53f6a12257f1e",
+            "size": 2131788,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-10-19T21:15:43.522Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-eftay.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Brotato Brotato: Abyssal Terrors Offer",
+            "height": 1600,
+            "md5": "06691bad7a026953fdbfd2644f3f126c",
+            "size": 1313184,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-10-21T16:54:20.966Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-5xc9h.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-27T15:10:29.329Z",
+        "mainGameItem": {
+          "id": "518490da62794d0a8f3695cbe2fcf0a6",
+          "namespace": "3b391953ce4b42bb9a28a2fee249154b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "518490da62794d0a8f3695cbe2fcf0a6",
+            "namespace": "3b391953ce4b42bb9a28a2fee249154b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3b391953ce4b42bb9a28a2fee249154b",
+        "releaseInfo": [
+          {
+            "appId": "0c32e89246ba49b6ad133e5723ae142e",
+            "id": "d5fb3f4b0f084ffe956b6fb5b1458a8c",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brotato: Abyssal Terrors",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "518490da62794d0a8f3695cbe2fcf0a6",
+    "entitlementType": "EXECUTABLE",
+    "id": "518490da62794d0a8f3695cbe2fcf0a6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Brotato Offer",
+        "height": 1440,
+        "md5": "2c803e7c5289ff60815c5a0fade37d34",
+        "size": 2117762,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-10-09T22:05:54.096Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-8c0er.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Brotato Offer",
+        "height": 1600,
+        "md5": "00245ddd02d40475afa78e9b65c344ce",
+        "size": 1334239,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-10-21T17:03:35.008Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-1q96s.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-27T15:10:29.329Z",
+    "mainGameItemList": [],
+    "namespace": "3b391953ce4b42bb9a28a2fee249154b",
+    "releaseInfo": [
+      {
+        "appId": "e8bbb84be35640cda646233152ff3428",
+        "id": "781879b1718e44be9ce20647202b52a4",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Brotato",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "c380f33c4c86475e863cedb0126e53a3"
+    },
+    "rev": 1
+  }
+}

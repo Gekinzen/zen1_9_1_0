@@ -1,0 +1,84 @@
+{
+  "app_name": "44950011e7b544fc82c0a2e464b1afcd",
+  "app_title": "Amnesia: The Bunker",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "44950011e7b544fc82c0a2e464b1afcd",
+      "asset_id": "44950011e7b544fc82c0a2e464b1afcd",
+      "build_version": "1.9",
+      "catalog_item_id": "492c84173fe34b009af51e739caba636",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e27dddb7147f4e96b6c96c490862cdd5"
+      },
+      "namespace": "8c73bcc38bd4440f945d81ac7774b418",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-10-05T22:11:03.736Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "AmnesiaTheBunker5Prcn"
+      }
+    },
+    "description": "Amnesia: The Bunker is a first-person horror game set in a desolate WW1 Bunker.\n\nFace the oppressing terrors stalking in the dark. Search for and use the tools and weapons at your disposal. Keep the lights on at all costs and make your way out alive.",
+    "developer": "Frictional Games",
+    "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+    "endOfSupport": false,
+    "entitlementName": "492c84173fe34b009af51e739caba636",
+    "entitlementType": "EXECUTABLE",
+    "id": "492c84173fe34b009af51e739caba636",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Amnesia The Bunker Offer",
+        "height": 1440,
+        "md5": "6415b478a9b64492eee382d0d5c0437d",
+        "size": 3079455,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-28T10:11:29.408Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-lyyfp.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Amnesia The Bunker Offer",
+        "height": 1600,
+        "md5": "f2db2cdfcbf125a00c5df171887daed5",
+        "size": 2077628,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-28T10:11:28.939Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-13rkc.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-23T11:01:27.172Z",
+    "mainGameItemList": [],
+    "namespace": "8c73bcc38bd4440f945d81ac7774b418",
+    "releaseInfo": [
+      {
+        "appId": "44950011e7b544fc82c0a2e464b1afcd",
+        "id": "079a834383eb4d57be7099aad246ac24",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Amnesia: The Bunker",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

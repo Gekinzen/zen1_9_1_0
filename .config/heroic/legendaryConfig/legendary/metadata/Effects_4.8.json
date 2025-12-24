@@ -1,0 +1,322 @@
+{
+  "app_name": "Effects_4.8",
+  "app_title": "Particle Effects",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-12-17T15:25:25.907Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "e2dfbe93-639e-4690-87d8-4988c9c08ee6"
+      }
+    },
+    "description": "Particle Effects",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "9ff280c425a245b6bb7a7900d2472c63",
+    "entitlementType": "AUDIENCE",
+    "id": "9ff280c425a245b6bb7a7900d2472c63",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-03-12T19:33:12.182Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Effects_4.0",
+        "compatibleApps": [
+          "UE_4.0",
+          "UE_4.1"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "8440fa3674e543c789147f8a6b3690fc",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.0"
+      },
+      {
+        "appId": "Effects_4.10",
+        "compatibleApps": [
+          "UE_4.10"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "9ac9718058194539af701c3cb4ebc4fa",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.10"
+      },
+      {
+        "appId": "Effects_4.11",
+        "compatibleApps": [
+          "UE_4.11"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "559ca909655645bca1e5c6664f153dbf",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.11"
+      },
+      {
+        "appId": "Effects_4.12",
+        "compatibleApps": [
+          "UE_4.12"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "5a658115acff444fa527020233c258b8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.12"
+      },
+      {
+        "appId": "Effects_4.13",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "32f97f77129b430497184ce34b021974",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.13"
+      },
+      {
+        "appId": "Effects_4.14",
+        "compatibleApps": [
+          "UE_4.14"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "f8edc0f74df94809a6f886049d6d0569",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.14"
+      },
+      {
+        "appId": "Effects_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "21d9db51a1f04c71ac6d28292820bcd3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.15"
+      },
+      {
+        "appId": "Effects_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "e9f186937eec49e081c53029f814eb2f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.16"
+      },
+      {
+        "appId": "Effects_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "b591172f558445cbb2f037d377ceb6c4",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.17"
+      },
+      {
+        "appId": "Effects_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "6a69c29f69b048fba6332937e3caa8d1",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.18"
+      },
+      {
+        "appId": "Effects_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "d23858cbfdb441588f0512f85b10fa1d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.19"
+      },
+      {
+        "appId": "Effects_4.2",
+        "compatibleApps": [
+          "UE_4.2",
+          "UE_4.3",
+          "UE_4.4",
+          "UE_4.5",
+          "UE_4.6"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "0000de502ecc4f5a84980b25e38932c1",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.2"
+      },
+      {
+        "appId": "Effects_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "e5b6cf0a8986467890b5fc63297e6c80",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.20"
+      },
+      {
+        "appId": "Effects_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "bc4d0e6c600d4bc78071dfff0d4331fa",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.21"
+      },
+      {
+        "appId": "Effects_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "18350f5a85ce46c2b3b7f25417cde4be",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.22"
+      },
+      {
+        "appId": "Effects_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.682Z",
+        "id": "1e4312b6570747aab50bdc7382a95ee2",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.23"
+      },
+      {
+        "appId": "Effects_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.683Z",
+        "id": "697956c8b09c494393d0107bab767bd7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.24"
+      },
+      {
+        "appId": "Effects_4.7",
+        "compatibleApps": [
+          "UE_4.7"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.683Z",
+        "id": "7e5e7f3907344aeeb04c5bbe67ca0e6f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.7"
+      },
+      {
+        "appId": "Effects_4.8",
+        "compatibleApps": [
+          "UE_4.8"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.683Z",
+        "id": "318fee7218fb475ca72dc08e69d985c1",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.8"
+      },
+      {
+        "appId": "Effects_4.9",
+        "compatibleApps": [
+          "UE_4.9"
+        ],
+        "dateAdded": "2025-03-12T19:09:30.683Z",
+        "id": "b622003ba5eb43949afb4b4e5d0d1546",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Effects_4.9"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Particle Effects",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

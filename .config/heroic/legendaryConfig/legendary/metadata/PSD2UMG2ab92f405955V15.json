@@ -1,0 +1,268 @@
+{
+  "app_name": "PSD2UMG2ab92f405955V15",
+  "app_title": "PSD2UMG",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "PSD2UMG2ab92f405955V15",
+      "asset_id": "PSD2UMG2ab92f405955V15",
+      "build_version": "5.6.0-44077100+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "db11fb02bb4f4ddc9da8c6211058b5c8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-06T14:03:36.292Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "560f72d7-19f7-481c-ad61-4886382043a5"
+      }
+    },
+    "description": "PSD2UMG",
+    "developer": "swd",
+    "developerId": "o-4sj562ys9p7epjptu32jw7qrerfgep",
+    "endOfSupport": false,
+    "entitlementName": "db11fb02bb4f4ddc9da8c6211058b5c8",
+    "entitlementType": "AUDIENCE",
+    "id": "db11fb02bb4f4ddc9da8c6211058b5c8",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-15T20:45:25.763Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "PSD2UMG_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "75625b009c8f4527a60c0d8d530824be",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "1.0"
+      },
+      {
+        "appId": "PSD2UMG_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "d610432a27b64709a39d239752ca113c",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "1.0.1"
+      },
+      {
+        "appId": "PSD2UMG_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "602085bace6f40329132810d475a2282",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "1.0.2"
+      },
+      {
+        "appId": "PSD2UMG_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "b0b140a0c08146df86395eb8577f73bf",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "1.03"
+      },
+      {
+        "appId": "PSD2UMG_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "0bb19b894e0d4981ab295c34e78a318f",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "1.04"
+      },
+      {
+        "appId": "PSD2UMG_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "23d3d3530f4340d6a5e96b53020a6de9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "1.05"
+      },
+      {
+        "appId": "PSD2UMG_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "da21a04082b54fecb0269e3adeb1b41d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "1.11 Support opacity\n1.12 Fix a bug where Reimport is disabled.",
+        "versionTitle": "1.12_4.25"
+      },
+      {
+        "appId": "PSD2UMG_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "671a8f83d2e349ceba6d5a31a3022fb8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "1.12_4.26_1"
+      },
+      {
+        "appId": "PSD2UMG_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "ad28c27bad3c4084879d5e8d6ffda1bc",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Fixed a bug where a layout is collapsed if a resolution of psdumg is not 1920c1080",
+        "versionTitle": "1.12_4.27"
+      },
+      {
+        "appId": "PSD2UMG_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "8b112fa8f76743149dec6f010b300fb5",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Fixed a bug where a layout is collapsed if a resolution of psdumg is not 1920c1080",
+        "versionTitle": "1.12_5.0.3_2"
+      },
+      {
+        "appId": "PSD2UMG_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "ddf3cdb86c204e4f86aea66a96817725",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Support M1 Mac",
+        "versionTitle": "1.12_5.1.0"
+      },
+      {
+        "appId": "PSD2UMG_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "933d1662f6e0447a8ec400958eb5dc53",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Fixed a bug which prevent to reimport an asset",
+        "versionTitle": "1.12_5.2.0_1"
+      },
+      {
+        "appId": "PSD2UMG_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "2787a1a41a444d5abb206eb80ee25f47",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "1.12_5.3_1"
+      },
+      {
+        "appId": "PSD2UMG_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "2b0118172b2943b8ab560978e7fd7244",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "1.12_5.4_1"
+      },
+      {
+        "appId": "PSD2UMG2ab92f405955V15",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-07-15T16:31:04.819Z",
+        "id": "305ac70c7a364e59818e136e5885a796",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "1.12_5.6_1"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "PSD2UMG",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

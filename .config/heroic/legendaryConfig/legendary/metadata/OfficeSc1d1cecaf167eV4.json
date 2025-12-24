@@ -1,0 +1,121 @@
+{
+  "app_name": "OfficeSc1d1cecaf167eV4",
+  "app_title": "Office Scene",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "OfficeSc1d1cecaf167eV4",
+      "asset_id": "OfficeSc1d1cecaf167eV4",
+      "build_version": "5.6.0-38333545+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "2804327335204ba8bd145cf5a8ab7cc3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-20T11:09:27.830Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "c8ef3191-e74f-48a0-bcb8-fe2572286446"
+      }
+    },
+    "description": "Office Scene",
+    "developer": "Jaime Perez",
+    "developerId": "o-98e5euhkgucqpp22yn6u5rastgmknh",
+    "endOfSupport": false,
+    "entitlementName": "2804327335204ba8bd145cf5a8ab7cc3",
+    "entitlementType": "AUDIENCE",
+    "id": "2804327335204ba8bd145cf5a8ab7cc3",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-06T09:04:35.280Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "OfficeSce0374e413f8cV1",
+        "compatibleApps": [
+          "UE_4.23",
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-06T08:43:59.578Z",
+        "id": "22479c04ac934431a600be06178c8e83",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "OfficeScene0.911"
+      },
+      {
+        "appId": "OfficeSce0374e413f8cV2",
+        "compatibleApps": [
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-06T08:43:59.578Z",
+        "id": "12fb2cb656314caa843f51f226188a15",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Changes in PostProcessVolume\nLens\n\tBloom\n\t\tIntensity: 4\n\t\tThresshold: -0.1\n\tExposure\n\t\tExposure Compensation: 0.7\n\tLens Flares\n\t\tIntensity: 0.05",
+        "versionTitle": "OfficeScene4_25"
+      },
+      {
+        "appId": "OfficeSce0374e413f8cV3",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-06T08:43:59.578Z",
+        "id": "817ca7979af744a7938604006b22ee45",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "The scene is made with static light but I had lumen selected in postprocess settings. Now it is set as none.",
+        "versionTitle": "OfficeSceneUE5"
+      },
+      {
+        "appId": "OfficeSc1d1cecaf167eV4",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-06T08:43:59.578Z",
+        "id": "c7bb31172d2b408786222ff61987301f",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "I had to rebuild the lighting",
+        "versionTitle": "OfficeScene55"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Office Scene",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

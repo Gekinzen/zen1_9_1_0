@@ -1,0 +1,76 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+* {
+    font: "CodeNewRoman Nerd Font 14";
+}
+
+window {
+    width: 450px;
+    border: 2px solid;
+    border-color: alpha(@selected, 0.3);
+    border-radius: 15px;
+    background-color: alpha(@background, 0.75);
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 15px;
+}
+
+inputbar {
+    enabled: true;
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: alpha(@selected, 0.5);
+    text-color: @background;
+    children: [ "prompt" ];
+}
+
+prompt {
+    enabled: true;
+    background-color: transparent;
+    text-color: @background;
+    font: "CodeNewRoman Nerd Font Bold 16";
+}
+
+listview {
+    enabled: true;
+    lines: 6;
+    scrollbar: false;
+    background-color: transparent;
+    spacing: 8px;
+    cycle: false;
+}
+
+element {
+    enabled: true;
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: alpha(@color0, 0.3);
+    text-color: @foreground;
+    border: 1px solid alpha(@selected, 0.15);
+}
+
+element selected {
+    background-color: alpha(@selected, 0.8);
+    text-color: @background;
+    border-color: @selected;
+}
+
+/* CRITICAL: Completely hide icons and checkboxes */
+element-icon {
+    enabled: false;
+    size: 0;
+    margin: 0;
+    padding: 0;
+}
+
+element-text {
+    enabled: true;
+    background-color: transparent;
+    text-color: inherit;
+    font: "CodeNewRoman Nerd Font 14";
+    vertical-align: 0.5;
+    horizontal-align: 0.0;
+}

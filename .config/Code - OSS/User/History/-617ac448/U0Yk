@@ -1,0 +1,11 @@
+{
+  "output": "",
+  "position": "bottom",
+  "layer": "overlay",
+  "exclusive-zone": true,
+  "icon-size": 28,
+  "margin-bottom": 6,
+  "css": "style.css",
+  "launcher-cmd": "~/.config/hypr/scripts/rofi-app-launcher.sh",
+  "icon-theme": "Papirus-Dark"
+}

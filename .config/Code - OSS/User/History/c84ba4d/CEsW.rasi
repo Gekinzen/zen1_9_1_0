@@ -1,0 +1,84 @@
+@import url("/home/paul/.cache/wal/colors-rofi-dark.rasi")
+
+* {
+    font: "CodeNewRoman Nerd Font 14";
+}
+
+window {
+    width: 450px;
+    border: 3px solid;
+    border-color: @selected;
+    border-radius: 15px;
+    background-color: @background;
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 15px;
+    children: [ "inputbar", "message", "listview" ];
+}
+
+inputbar {
+    enabled: true;
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: @selected;
+    text-color: @background;
+    children: [ "prompt" ];
+}
+
+prompt {
+    enabled: true;
+    background-color: transparent;
+    text-color: @background;
+    font: "CodeNewRoman Nerd Font Bold 18";
+}
+
+message {
+    enabled: true;
+    padding: 12px 18px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+textbox {
+    background-color: transparent;
+    text-color: @foreground;
+}
+
+listview {
+    enabled: true;
+    lines: 6;
+    scrollbar: false;
+    background-color: transparent;
+    spacing: 8px;
+    cycle: false;
+}
+
+element {
+    enabled: true;
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: transparent;
+    text-color: @foreground;
+    cursor: pointer;
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+}
+
+/* HIDE THE WHITE BOXES */
+element-icon {
+    enabled: false;
+    size: 0px;
+}
+
+element-text {
+    enabled: true;
+    background-color: transparent;
+    text-color: inherit;
+    font: "CodeNewRoman Nerd Font 15";
+}

@@ -1,0 +1,348 @@
+{
+  "app_name": "AsyncLoad5652ef104ffV13",
+  "app_title": "Async Loading Screen",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "AsyncLoad5652ef104ffV13",
+      "asset_id": "AsyncLoad5652ef104ffV13",
+      "build_version": "5.7.0-48296084+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "69f113fef5504cf49d8c61bf768d7b28",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-21T22:22:28.024Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "f8aabb9a-7c96-4f79-97ff-04bcc146e595"
+      }
+    },
+    "description": "Async Loading Screen",
+    "developer": "Truong Bui",
+    "developerId": "o-d4z2gmhn3fvbp5n9hxff8e8ytqggt5",
+    "endOfSupport": false,
+    "entitlementName": "69f113fef5504cf49d8c61bf768d7b28",
+    "entitlementType": "AUDIENCE",
+    "id": "69f113fef5504cf49d8c61bf768d7b28",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-14T19:11:24.891Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "AsyncLoadingScreen_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "a10bfddab31a4fa492e6390641429de2",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "HTML5",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE4.23 ver 1.2.1"
+      },
+      {
+        "appId": "AsyncLoadingScreen_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "8beba96f2ccc4393b658b3fcbe5df320",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "HTML5",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE4.24 ver 1.2.1"
+      },
+      {
+        "appId": "AsyncLoadingScreen_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "f975e805cf3e4a1ab4d060cf29e2216a",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Linux",
+          "Windows",
+          "Win32",
+          "Xbox One",
+          "PS4",
+          "HTML5",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE4.25 ver 1.3.0"
+      },
+      {
+        "appId": "AsyncLoadingScreen_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "57861e05748449a4b0424201fc2ebb75",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "HTML5",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE4.26 ver 1.3.0"
+      },
+      {
+        "appId": "AsyncLoadingScreen_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "9af3ee32246e4385aae5920efa5d9698",
+        "platform": [
+          "Android",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "UE4.27 ver 1.4.0"
+      },
+      {
+        "appId": "AsyncLoadingScreen_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "c830b77c51a945c684be42f5f2fb04f3",
+        "platform": [
+          "Android",
+          "Mac",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Nintendo Switch",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Fixes wrong DPI scale due to the viewport's zero values at startup.",
+        "versionTitle": "UE5.0.0 ver 1.3.0"
+      },
+      {
+        "appId": "AsyncLoadingScreen_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "2e10869fd4914b438d5306be1984a124",
+        "platform": [
+          "Android",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Fixes wrong DPI scale due to the viewport's zero values at startup.",
+        "versionTitle": "UE5.1.0 ver 1.5.1"
+      },
+      {
+        "appId": "AsyncLoadingScreen_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "cc311e5a2e5c47139559c04004c9dbce",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "HTML5"
+        ],
+        "releaseNote": "Fixes wrong DPI scale due to the viewport's zero values at startup.",
+        "versionTitle": "UE5.2 ver 1.5.1"
+      },
+      {
+        "appId": "AsyncLoadingScreen_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.110Z",
+        "id": "b1f92feb06a24a22a3db5c9cd87f56fc",
+        "platform": [
+          "Android",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Fixes wrong DPI scale due to the viewport's zero values at startup.",
+        "versionTitle": "UE5.3 ver 1.5.1"
+      },
+      {
+        "appId": "AsyncLoadingScreen_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.111Z",
+        "id": "b2d4c1a8b3f446c0b32a4af2b6f0b901",
+        "platform": [
+          "Android",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Fixes wrong DPI scale due to the viewport's zero values at startup.",
+        "versionTitle": "UE5.4 ver 1.5.1"
+      },
+      {
+        "appId": "AsyncLoac1ceae7b44acV11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.111Z",
+        "id": "8f2a874624cb4f859a72ea15097521bd",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "Win32",
+          "Nintendo Switch",
+          "HTML5"
+        ],
+        "releaseNote": "Fixes wrong DPI scale due to the viewport's zero values at startup.",
+        "versionTitle": "UE5.5 ver 1.5.1"
+      },
+      {
+        "appId": "AsyncLoabb9e7e751a1fV12",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.111Z",
+        "id": "2384672c853d4f4ebd547242e0392652",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "Fixes wrong DPI scale due to the viewport's zero values at startup.",
+        "versionTitle": "UE5.6 ver 1.5.1"
+      },
+      {
+        "appId": "AsyncLoad5652ef104ffV13",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-14T16:57:26.111Z",
+        "id": "b61595437f364f4d9c18d0d2f74db08b",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE5.7 ver 1.5.1"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Async Loading Screen",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

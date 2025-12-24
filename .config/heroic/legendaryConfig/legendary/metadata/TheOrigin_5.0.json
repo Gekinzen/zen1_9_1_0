@@ -1,0 +1,168 @@
+{
+  "app_name": "TheOrigin_5.0",
+  "app_title": "ICVFX Production Test",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-10T14:57:29.168Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "17ce3d9c-0843-48ff-96d6-3f49a7163dbd"
+      }
+    },
+    "description": "ICVFX Production Test",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "6196cba56c094bc1be4a8a281d6349de",
+    "entitlementType": "AUDIENCE",
+    "id": "6196cba56c094bc1be4a8a281d6349de",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-12T14:13:28.369Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "TheOrigin_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "9d404bcee83746b9890a5e6783ad2d5a",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_4.27"
+      },
+      {
+        "appId": "TheOrigin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "b102a6e6160849a48904243dac084869",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.0"
+      },
+      {
+        "appId": "TheOrigin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "dde6b70bc667430bac8a686fbd35e8a3",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.1"
+      },
+      {
+        "appId": "TheOrigin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "0cced6d397f44362a23016784bfd67ab",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.2"
+      },
+      {
+        "appId": "TheOrigin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "90d316d6be7f462da0ef99368a6d0a7e",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.3"
+      },
+      {
+        "appId": "TheOrigin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "6cb8a2b71fbe40c58537958584ae134e",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.4"
+      },
+      {
+        "appId": "TheOrigin_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "9becc8e98070481a97f576ad05b886c2",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "TheOrigin_5.5",
+        "versionTitle": "TheOrigin_5.5"
+      },
+      {
+        "appId": "TheOrigin_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "26b0ebd405a44a8db30c068493866d9f",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "TheOrigin_5.6",
+        "versionTitle": "TheOrigin_5.6"
+      },
+      {
+        "appId": "TheOrigin_5.7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-10-28T17:39:26.594Z",
+        "id": "c66b9eed8e234fa696d392c08045a708",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Updates to support for the UE 5.7 release.",
+        "versionTitle": "TheOrigin_5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "ICVFX Production Test",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

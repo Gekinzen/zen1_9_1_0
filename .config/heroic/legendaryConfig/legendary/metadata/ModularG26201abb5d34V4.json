@@ -1,0 +1,173 @@
+{
+  "app_name": "ModularG26201abb5d34V4",
+  "app_title": "Modular Gothic Temple (medieval/winter/snow)",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ModularG26201abb5d34V4",
+      "asset_id": "ModularG26201abb5d34V4",
+      "build_version": "5.6.0-41525460+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "b5b1d9abff4a45d8a1b32ddc5808c1bc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-19T17:13:55.921Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "ff09356c-6a85-4569-9974-c1e77a25e16e"
+      }
+    },
+    "description": "Modular Gothic Temple (medieval/winter/snow)",
+    "developer": "Angel Fernandes",
+    "developerId": "o-ajge72w2efhrsgsrrq434vkt8p6akq",
+    "endOfSupport": false,
+    "entitlementName": "b5b1d9abff4a45d8a1b32ddc5808c1bc",
+    "entitlementType": "AUDIENCE",
+    "id": "b5b1d9abff4a45d8a1b32ddc5808c1bc",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-10T07:16:24.076Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ModularG5564f2886debV1",
+        "compatibleApps": [
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27",
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-10T02:17:05.146Z",
+        "id": "2d10232086984dfeafafccfc337f9ddd",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Linux",
+          "Mac",
+          "Oculus"
+        ],
+        "versionTitle": "01"
+      },
+      {
+        "appId": "ModularG5564f2886debV2",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-10T02:17:05.146Z",
+        "id": "a1316d5a61574bffb18d3581bd147bf4",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Windows",
+          "Xbox One",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE 5.3 Version"
+      },
+      {
+        "appId": "ModularG5564f2886debV3",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-10T02:17:05.146Z",
+        "id": "f002d84c482e494fbe188021616c1423",
+        "platform": [
+          "Win32",
+          "Windows",
+          "PS4",
+          "Xbox One",
+          "Nintendo Switch",
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "UE 5.4"
+      },
+      {
+        "appId": "ModularG26201abb5d34V4",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-10T02:17:05.146Z",
+        "id": "c67d149238aa4663ba658f9a94c26f77",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE 5.5.4"
+      },
+      {
+        "appId": "ModularGdc41c4bc2452V5",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-10T02:17:05.146Z",
+        "id": "e53cd2fcb8ca4bb6b19660e4eaa6fed2",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "UE 5.6.0"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Modular Gothic Temple (medieval/winter/snow)",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

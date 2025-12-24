@@ -1,0 +1,258 @@
+{
+  "app_name": "Advanced098aef31f8b8V11",
+  "app_title": "Advanced Fade Objects",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Advanced098aef31f8b8V11",
+      "asset_id": "Advanced098aef31f8b8V11",
+      "build_version": "5.7.0-48291445+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "912cc7164f9544dfaad6e0206e4428fc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T04:42:28.761Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d7d8c6c6-1ea9-4de9-a69c-c8161c04137f"
+      }
+    },
+    "description": "Advanced Fade Objects",
+    "developer": "BitProtectStudio",
+    "developerId": "o-ff78aff15e4a0d9314b2e452451aca",
+    "endOfSupport": false,
+    "entitlementName": "912cc7164f9544dfaad6e0206e4428fc",
+    "entitlementType": "AUDIENCE",
+    "id": "912cc7164f9544dfaad6e0206e4428fc",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-14T17:52:37.077Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "AdvancedFadeObjects_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "b0476f31895042faa9fd81c3b0d9c221",
+        "platform": [
+          "Windows",
+          "Android",
+          "Win32",
+          "Mac",
+          "PS4",
+          "iOS"
+        ],
+        "versionTitle": "Fade Objects 1.1 425"
+      },
+      {
+        "appId": "AdvancedFadeObjects_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "49cf0971d19745f2ba0ada76716a52b7",
+        "platform": [
+          "Windows",
+          "Android",
+          "Win32",
+          "PS4",
+          "Mac",
+          "iOS"
+        ],
+        "versionTitle": "Fade Objects 1.1 426"
+      },
+      {
+        "appId": "AdvancedFadeObjects_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "b0c5d967942747df87063b82aae36720",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Android",
+          "Mac",
+          "PS4"
+        ],
+        "versionTitle": "Fade Objects 1.1 427"
+      },
+      {
+        "appId": "AdvancedFadeObjects_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "cc2113ef1f544dabb029c25b307b30ef",
+        "platform": [
+          "Windows",
+          "Android",
+          "Mac",
+          "Linux",
+          "iOS"
+        ],
+        "versionTitle": "Fade Objects ue5 1.1.4"
+      },
+      {
+        "appId": "AdvancedFadeObjects_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "a4b1524aea504f8ea4e4e511f97e576b",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "Fade Objects ue51 1.1.5"
+      },
+      {
+        "appId": "AdvancedFadeObjects_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "b627c97f0aab4e2d93f3749c0e4dbee7",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "Fade Objects ue52 1.1.5"
+      },
+      {
+        "appId": "AdvancedFadeObjects_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "1d7ee67c35b2404d80e5a3cea05def78",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Linux",
+          "Win32",
+          "Android"
+        ],
+        "versionTitle": "Fade Objects ue53 1.1.6"
+      },
+      {
+        "appId": "AdvancedFadeObjects_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "6e997cb9d5c745afbdfa23dc80d70265",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "Fade Objects ue54 1.1.6"
+      },
+      {
+        "appId": "Advanced29d0ed1474b7V9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "4ee01a4f87ab406dabc9b0c3cf44598e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Android",
+          "iOS",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "1.1.6"
+      },
+      {
+        "appId": "Advanced6fc56588d3e5V10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "291ba68df84d4ab8be966a6c65487e42",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "PS4",
+          "Linux"
+        ],
+        "versionTitle": "AdvancedFadeObjects UE56 1.1.6"
+      },
+      {
+        "appId": "Advanced098aef31f8b8V11",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-14T14:36:42.945Z",
+        "id": "1a20131fc3f048fc8a7225117af06879",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Xbox One",
+          "Android",
+          "iOS",
+          "PS4",
+          "Linux",
+          "Win32",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "AdvancedFadeObjects ue57 1.1.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Advanced Fade Objects",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

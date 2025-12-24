@@ -1,0 +1,118 @@
+{
+  "app_name": "ActionRPf2490cc0bcd6V3",
+  "app_title": "Action RPG Multiplayer Starter Template",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ActionRPf2490cc0bcd6V3",
+      "asset_id": "ActionRPf2490cc0bcd6V3",
+      "build_version": "5.7.0-43419182+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "39607295e0114ea983aa461c525a0066",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T16:29:28.792Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "62e04652-59d2-4393-a7ff-08539470e2e5"
+      }
+    },
+    "description": "Action RPG Multiplayer Starter Template",
+    "developer": "KaidoomDev",
+    "developerId": "o-6e8518a7a741028f8624e9446bd7d1",
+    "endOfSupport": false,
+    "entitlementName": "39607295e0114ea983aa461c525a0066",
+    "entitlementType": "AUDIENCE",
+    "id": "39607295e0114ea983aa461c525a0066",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-11T08:21:05.921Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ActionRPc8f3f2095c20V1",
+        "compatibleApps": [
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-10T23:22:36.207Z",
+        "id": "d6dd6ab1979c42b886eb86b69006b937",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "ARPG26"
+      },
+      {
+        "appId": "ActionRPc8f3f2095c20V2",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4",
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-10T23:22:36.207Z",
+        "id": "384b0bc851d94825b482275b489de84d",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac",
+          "Win32"
+        ],
+        "versionTitle": "ARPG_UE5"
+      },
+      {
+        "appId": "ActionRPf2490cc0bcd6V3",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-10T23:22:36.207Z",
+        "id": "338252eb236843c5aa160a13eee6d873",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE 5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Action RPG Multiplayer Starter Template",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

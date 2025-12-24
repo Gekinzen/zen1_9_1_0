@@ -1,0 +1,133 @@
+{
+  "app_name": "TurnBasee48cf6d884ddV4",
+  "app_title": "Turn-Based Strategy RPG Template",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "TurnBasee48cf6d884ddV4",
+      "asset_id": "TurnBasee48cf6d884ddV4",
+      "build_version": "5.7.0-45060306+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "26258d6fe668401e81aea457d5f51a6c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-29T08:58:26.141Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "f3fe31dd-85f7-4720-b485-301bd77996e8"
+      }
+    },
+    "description": "Turn-Based Strategy RPG Template",
+    "developer": "Phoenix Market",
+    "developerId": "o-825s47v79w7dtb9z2thc4hks8b9sy6",
+    "endOfSupport": false,
+    "entitlementName": "26258d6fe668401e81aea457d5f51a6c",
+    "entitlementType": "AUDIENCE",
+    "id": "26258d6fe668401e81aea457d5f51a6c",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-22T16:40:05.415Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "TurnBaseefd46516b694V1",
+        "compatibleApps": [
+          "UE_4.26",
+          "UE_4.27",
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-08-22T16:25:25.494Z",
+        "id": "f4af4dafb5304019afb033b0de65eb36",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "releaseNote": "UE5",
+        "versionTitle": "v5.0.0"
+      },
+      {
+        "appId": "TurnBaseefd46516b694V2",
+        "compatibleApps": [
+          "UE_5.1",
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-22T16:25:25.494Z",
+        "id": "cc35c5c87c034cbc93c140a1653b776f",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "releaseNote": "UE 5.3",
+        "versionTitle": "v5.0.2"
+      },
+      {
+        "appId": "TurnBaseefd46516b694V3",
+        "compatibleApps": [
+          "UE_5.3",
+          "UE_5.4",
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-22T16:25:25.494Z",
+        "id": "32691ebbd2254207bda357a562768aee",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "releaseNote": "UE 5.5",
+        "versionTitle": "v5.1.1"
+      },
+      {
+        "appId": "TurnBasee48cf6d884ddV4",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-22T16:25:25.494Z",
+        "id": "89a1ad2fd12b4aaf9e1d3406f33a2311",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "UE 5.6",
+        "versionTitle": "v5.1.3"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Turn-Based Strategy RPG Template",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

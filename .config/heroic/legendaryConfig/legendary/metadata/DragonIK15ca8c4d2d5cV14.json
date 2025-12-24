@@ -1,0 +1,392 @@
+{
+  "app_name": "DragonIK15ca8c4d2d5cV14",
+  "app_title": "Dragon IK Plugin - Universal IK System",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "DragonIK15ca8c4d2d5cV14",
+      "asset_id": "DragonIK15ca8c4d2d5cV14",
+      "build_version": "5.6.0-47954804+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "8b7afe315a914e22883f180f126da9cc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T14:40:06.457Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d3f8d256-d8d9-4d27-91c1-c61e55e984a6"
+      }
+    },
+    "description": "Dragon IK Plugin - Universal IK System",
+    "developer": "Eternal Monke Games",
+    "developerId": "o-2d7499ea87406d97f1ecf92411d421",
+    "endOfSupport": false,
+    "entitlementName": "8b7afe315a914e22883f180f126da9cc",
+    "entitlementType": "AUDIENCE",
+    "id": "8b7afe315a914e22883f180f126da9cc",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-16T11:23:30.246Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "DragonIK_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "dd71c52cf9184434987c8b3ae60e1c10",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Mac",
+          "Android",
+          "Xbox One",
+          "Linux"
+        ],
+        "releaseNote": "- IK works on walls/ceilings\n- Improved smoothness and added more controls\n- Fixed freeze problems\n- Improved default values",
+        "versionTitle": "4.21-1.0.5"
+      },
+      {
+        "appId": "DragonIK_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "accbeef1b5314ae9b936c0f1da70aed6",
+        "platform": [
+          "Android",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Oculus"
+        ],
+        "releaseNote": "- Improved stability of location/rotations in feet solvers\n- hotfixes for certain crashes\n- Few new very useful features",
+        "versionTitle": "4.22-1.0.6"
+      },
+      {
+        "appId": "DragonIK_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "63581bd462964359810211c73c57b51a",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Linux",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "HTML5",
+          "Gear VR"
+        ],
+        "releaseNote": "The latest 4.24 and 4.25 version ported to 4.23",
+        "versionTitle": "4.23-2.0.2"
+      },
+      {
+        "appId": "DragonIK_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "abb4dc5cc5e840e0b62b962b5ff8b301",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "- Fixed the issue of not converting the \"replace with\" rotation mode into world space.",
+        "versionTitle": "4-24-2.3.2"
+      },
+      {
+        "appId": "DragonIK_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "57d9c3c1e9824a918aba811ea78b7426",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "- Version 2.3.4\n- Added new feature to support sticky feet logic\n- Bug fixes",
+        "versionTitle": "4.25-2.3.3"
+      },
+      {
+        "appId": "DragonIK_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "336a949500ed4e81943b1b79b44e63f3",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "PS4",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One",
+          "HoloLens 2",
+          "HTML5"
+        ],
+        "releaseNote": "Physanim component has tool tips\nPhysanim onhitcallback accepts custom bone name\nfixed spine solver header compile bug",
+        "versionTitle": "4.26-2.3.8"
+      },
+      {
+        "appId": "DragonIK_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "495842f96bde49b3b209510df44b2063",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "- 2.4.3 fixes a jitter in the new weapon grip IK solver\n- Added a new parameter in foot solver",
+        "versionTitle": "4.27-2.4.3"
+      },
+      {
+        "appId": "DragonIK_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "385bee73fd8e47c6b3e9f1bf35f148c1",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "- Re-added Mac platform among the whitelists",
+        "versionTitle": "5.0-2.4.3"
+      },
+      {
+        "appId": "DragonIK_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "1ee9c40892c3486f92efbd53e1d2d517",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "Win32",
+          "Windows"
+        ],
+        "releaseNote": "- Advanced input type options for aim solver and spine solver",
+        "versionTitle": "5.1-2.5.1"
+      },
+      {
+        "appId": "DragonIK_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "8bdb8a2ed453410ba3397a581ef15a21",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "Win32",
+          "Windows",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "Added new \"chinese dragon solver\" along with other features listed in trello\nhttps://trello.com/b/ZjDKwgTK/dragonik-trello",
+        "versionTitle": "5.2-2.5.5"
+      },
+      {
+        "appId": "DragonIK_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "f6e3f31de5cc454283b85b97ae012f63",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Win32",
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "- Fixed performance issues on the spine solver (in shipping build when using sphere traces) and the chinese dragon solver\n- Set \"maximum extension\" to 1.0 by default in the feet array of the foot solver",
+        "versionTitle": "UE5.3-2.7.0"
+      },
+      {
+        "appId": "DragonIK_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "a23c37afec3244b4b4fd797a5a5e5793",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Win32",
+          "Windows"
+        ],
+        "releaseNote": "- Fixed performance issues on the spine solver (in shipping build when using sphere traces) and the chinese dragon solver\n- Set \"maximum extension\" to 1.0 by default in the feet array of the foot solver",
+        "versionTitle": "UE5.4-2.7.0"
+      },
+      {
+        "appId": "DragonIK0260fe8cbbf6V13",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "0608e95bc10c47ca8dac1a4aa16d93d5",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux",
+          "Win32"
+        ],
+        "releaseNote": "- Fixed performance issues on the spine solver (in shipping build when using sphere traces) and the chinese dragon solver\n- Set \"maximum extension\" to 1.0 by default in the feet array of the foot solver",
+        "versionTitle": "UE5.5-2.7.0"
+      },
+      {
+        "appId": "DragonIK15ca8c4d2d5cV14",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "ea3d0234aa8c4225b6bc9136e78617da",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Win32",
+          "Linux"
+        ],
+        "releaseNote": "- Fixed performance issues on the spine solver (in shipping build when using sphere traces) and the chinese dragon solver\n- Set \"maximum extension\" to 1.0 by default in the feet array of the foot solver",
+        "versionTitle": "v2.7.0-UE5.6"
+      },
+      {
+        "appId": "DragonIK8a7d73727408V15",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-15T15:45:26.760Z",
+        "id": "1949361a93dc4687840da3303279812e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Win32",
+          "Linux"
+        ],
+        "releaseNote": "UE5.7 update",
+        "versionTitle": "UE5.7-2.7.0"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dragon IK Plugin - Universal IK System",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

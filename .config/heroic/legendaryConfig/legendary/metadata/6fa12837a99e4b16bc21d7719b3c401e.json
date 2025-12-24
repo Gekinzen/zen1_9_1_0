@@ -1,0 +1,84 @@
+{
+  "app_name": "6fa12837a99e4b16bc21d7719b3c401e",
+  "app_title": "Beholder",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6fa12837a99e4b16bc21d7719b3c401e",
+      "asset_id": "6fa12837a99e4b16bc21d7719b3c401e",
+      "build_version": "v.1.7.50.12799",
+      "catalog_item_id": "a14e80eeef704aa1894b1bf14547e069",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "dc122beb5ad5458f94075b635b90249b"
+      },
+      "namespace": "7109c2e220544434ad355bce3cf69120",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-10-24T20:09:47.586Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Beholder1"
+      }
+    },
+    "description": "Beholder",
+    "developer": "Plug In Digital SAS",
+    "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "endOfSupport": false,
+    "entitlementName": "a14e80eeef704aa1894b1bf14547e069",
+    "entitlementType": "EXECUTABLE",
+    "id": "a14e80eeef704aa1894b1bf14547e069",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Beholder Offer",
+        "height": 1440,
+        "md5": "97cd9eb9ea0df4e814b7dd2382626302",
+        "size": 3910893,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-08-09T15:26:44.850Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-1dwwd.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Beholder Offer",
+        "height": 1600,
+        "md5": "0e3048ba756c15cff32766ffc14223ea",
+        "size": 2106771,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-08-09T15:26:44.073Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-r50tu.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-10-24T20:09:47.586Z",
+    "mainGameItemList": [],
+    "namespace": "7109c2e220544434ad355bce3cf69120",
+    "releaseInfo": [
+      {
+        "appId": "6fa12837a99e4b16bc21d7719b3c401e",
+        "id": "34069cc0028245aeb4ada5dbe272e970",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Beholder",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

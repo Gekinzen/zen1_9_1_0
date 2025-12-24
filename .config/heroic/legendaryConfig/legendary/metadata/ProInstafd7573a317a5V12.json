@@ -1,0 +1,272 @@
+{
+  "app_name": "ProInstafd7573a317a5V12",
+  "app_title": "ProInstance Tools Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ProInstafd7573a317a5V12",
+      "asset_id": "ProInstafd7573a317a5V12",
+      "build_version": "5.6.0-43254751+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "ad4ca1e6da0d4388ad8bf02c3e42690f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-07T05:36:43.866Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "68d92f15-d5c0-4f9b-8c09-64f3065030d6"
+      }
+    },
+    "description": "ProInstance Tools Plugin",
+    "developer": "Dmitry Karpukhin",
+    "developerId": "o-qtbxczl9rwjrjyd86szfwbz938y5c2",
+    "endOfSupport": false,
+    "entitlementName": "ad4ca1e6da0d4388ad8bf02c3e42690f",
+    "entitlementType": "AUDIENCE",
+    "id": "ad4ca1e6da0d4388ad8bf02c3e42690f",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-05T11:35:24.125Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ProInstanceToolsPlugin_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "48a8b84163dd4d4bbb999d99de543b8c",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux",
+          "Android"
+        ],
+        "versionTitle": "4.23-1.01"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "ce9cd9c5ff044f88b4365f661cb1fe88",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux",
+          "Android"
+        ],
+        "versionTitle": "4.24-1.12"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "fe6abf57b4f2464590728faca55139da",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux",
+          "Android",
+          "iOS",
+          "Nintendo Switch",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "4.25-1.25"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "3070ea0e112244ebb67bb1b61efb3224",
+        "platform": [
+          "Android",
+          "Linux",
+          "Mac",
+          "Win32",
+          "Windows",
+          "iOS",
+          "Nintendo Switch",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "4.26-1.27"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "828e2e34656f43c1a12e38de69b78343",
+        "platform": [
+          "Android",
+          "Linux",
+          "Mac",
+          "Win32",
+          "Windows",
+          "iOS",
+          "Nintendo Switch",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "4.27-1.27"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "a76b9adbe3664260a39fff0d6e10c142",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "5.00-1.27"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "0139bec277274eef9d498dcca750085f",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "5.1 - 1.28"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "2b83a9fa43aa444f846cbcfda16d927b",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "iOS",
+          "Android"
+        ],
+        "versionTitle": "5.2 - 1.28"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "6939d4d6bf924ca1b4f300fea979e065",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "5.3 - 1.28"
+      },
+      {
+        "appId": "ProInstanceToolsPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "0209b6d92870497fa745ad67984b8d47",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "5.4 - 1.28"
+      },
+      {
+        "appId": "ProInstad70d460e75e4V11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "99ccf58d70f449a4ae4fd0db297beb69",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "5.5 - 1.28"
+      },
+      {
+        "appId": "ProInstafd7573a317a5V12",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-04T09:55:26.079Z",
+        "id": "8b18072b706e4034842d9e04c1d88d84",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "versionTitle": "5.6 - 1.28"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "ProInstance Tools Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

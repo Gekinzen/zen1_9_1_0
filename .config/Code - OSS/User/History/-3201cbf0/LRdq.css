@@ -1,0 +1,25 @@
+@import url("/home/paul/.cache/wal/colors-waybar.css");
+
+window {
+    background-color: alpha(@background, 0.7);
+    border-radius: 12px;
+    padding: 6px;
+    margin: 0px;
+    border: 1px solid alpha(@color12, 0.3);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.45);
+}
+
+#box {
+    padding: 4px;
+    background-color: transparent;
+}
+
+button {
+    all: unset;
+    background-color: transparent;
+    border-radius: 12px;
+    padding: 4px;
+    margin: 2px;
+    min-width: 36px;
+    min-height: 36px;
+}

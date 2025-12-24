@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+
+STATE_FILE="$HOME/.config/waybar/scripts/power_mode_state"
+
+[ ! -f "$STATE_FILE" ] && echo "balanced" > "$STATE_FILE"
+
+MODE=$(cat "$STATE_FILE")
+
+case "$MODE" in
+  performance)
+    ICON="󱓞"
+    TOOLTIP="Performance Mode"
+    CLASS="performance"
+    ;;
+  battery_saver)
+    ICON="󰂃"
+    TOOLTIP="Battery Saver"
+    CLASS="battery_saver"
+    ;;
+  *)
+    ICON="󰾅"
+    TOOLTIP="Balanced Mode"
+    CLASS="balanced"
+    ;;
+esac
+
+echo "{\"icon\":\"$ICON\",\"tooltip\":\"$TOOLTIP\",\"class\":\"$CLASS\"}"

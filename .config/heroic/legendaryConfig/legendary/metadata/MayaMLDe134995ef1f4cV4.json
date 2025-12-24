@@ -1,0 +1,138 @@
+{
+  "app_name": "MayaMLDe134995ef1f4cV4",
+  "app_title": "Maya ML Deformer - Data Generation Maya Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "MayaMLDe134995ef1f4cV4",
+      "asset_id": "MayaMLDe134995ef1f4cV4",
+      "build_version": "5.5.0-47317407+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "0dd16c0de3df493d9bda9fd8bcf4f799",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-10T00:51:27.240Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "c3b46f42-2563-4c17-83d9-e7b573974f5b"
+      }
+    },
+    "description": "Maya ML Deformer - Data Generation Maya Plugin",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "0dd16c0de3df493d9bda9fd8bcf4f799",
+    "entitlementType": "AUDIENCE",
+    "id": "0dd16c0de3df493d9bda9fd8bcf4f799",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-24T17:16:24.131Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "MayaMLDeformer_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-20T11:46:35.737Z",
+        "id": "ecbcbde607bc4aecb0136ad472e27c08",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "MayaMLDeformer_5.1"
+      },
+      {
+        "appId": "MayaMLDeformer_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-20T11:46:35.737Z",
+        "id": "f6c1b3af2eed428b9421fecd80596212",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "MayaMLDeformer_5.4"
+      },
+      {
+        "appId": "MayaMLDeformer_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-20T11:46:35.737Z",
+        "id": "eaee26bdf284442eae046cdf34b0c1d0",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "MayaMLDeformer"
+      },
+      {
+        "appId": "MayaMLDe134995ef1f4cV4",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-20T11:46:35.737Z",
+        "id": "6515fb0be93b4eee90d9bd51da4e0d53",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "MayaMLDeformer_5.5"
+      },
+      {
+        "appId": "MayaMLDea13ed2f117d7V5",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-20T11:46:35.737Z",
+        "id": "5c54689f798e4e5ba0d47a523818653a",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "MayaMLDeformer_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Maya ML Deformer - Data Generation Maya Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

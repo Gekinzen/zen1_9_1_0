@@ -1,0 +1,336 @@
+{
+  "app_name": "AssetAss47e48ed7aa86V20",
+  "app_title": "Asset Assistant",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "AssetAss47e48ed7aa86V20",
+      "asset_id": "AssetAss47e48ed7aa86V20",
+      "build_version": "5.6.0-43647783+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "38ef9a65a8fe43889c076a7a7a60a320",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T20:28:25.443Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "2c7912d0-553f-49af-bd60-40fea427fccb"
+      }
+    },
+    "description": "Asset Assistant",
+    "developer": "Tefel",
+    "developerId": "o-bca697dbfb46b09acabc6a1900d3e6",
+    "endOfSupport": false,
+    "entitlementName": "38ef9a65a8fe43889c076a7a7a60a320",
+    "entitlementType": "AUDIENCE",
+    "id": "38ef9a65a8fe43889c076a7a7a60a320",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-19T16:35:24.487Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "AssetAssistant_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "50067e48859c47ab9c80be798f32cbaf",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "AssetAssistant_4.15"
+      },
+      {
+        "appId": "AssetAssistant_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "ca1991b8548f4bee8bcfcd6785da255f",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "AssetAssistant_4.16"
+      },
+      {
+        "appId": "AssetAssistant_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "a21ae50630e442028e4c19e419db0e41",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "AssetAssistant_4.17"
+      },
+      {
+        "appId": "AssetAssistant_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "a45440d5ab5a4642b81fe54d24c9a0c8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Update to 4.18\nUpdate #2 - install in Engine wasn't working?\nUpdate #3 - PCHUsage",
+        "versionTitle": "AssetAssistant_4.18"
+      },
+      {
+        "appId": "AssetAssistant_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "9928d05a5d094c569474fe55db4cccb6",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "releaseNote": "update version",
+        "versionTitle": "AssetAssistant_4.19"
+      },
+      {
+        "appId": "AssetAssistant_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "30659d8f52f3471ea93678bedda26fc6",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "AssetAssistant_4.20"
+      },
+      {
+        "appId": "AssetAssistant_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "a23bc3e4a36f48f7af8760f170f18625",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "AssetAssistant_4.21"
+      },
+      {
+        "appId": "AssetAssistant_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "23191f6d49454800af9975a8c08b9000",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "AssetAssistant_4.22"
+      },
+      {
+        "appId": "AssetAssistant_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "763b603016ab455dafe98a65643e7b0e",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "AssetAssistant_4.23"
+      },
+      {
+        "appId": "AssetAssistant_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "d2570667759d4236ba873ee29b4e1fc2",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "AssetAssistant_4.24"
+      },
+      {
+        "appId": "AssetAssistant_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "eb890267816b4ca2a3238ad04686e853",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "AssetAssistant_4.25"
+      },
+      {
+        "appId": "AssetAssistant_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "9ed4b00aabf24e8eb93a693be0f93806",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "AssetAssistant_4.26"
+      },
+      {
+        "appId": "AssetAssistant_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "db04dbabf3e64e1f9e77410644ce25aa",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "versionTitle": "AssetAssistant_4.27"
+      },
+      {
+        "appId": "AssetAssistant_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "bfc9e65e23594af8b638c7a0ece179a1",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "AssetAssistant_5.0"
+      },
+      {
+        "appId": "AssetAssistant_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "053f8fa24e3c4f2ba586c1fdf4337a08",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "AssetAssistant_5.1"
+      },
+      {
+        "appId": "AssetAssistant_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "f9d6f9cf0bb94284842e66ed8f3867e8",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "AssetAssistant_5.2"
+      },
+      {
+        "appId": "AssetAssistant_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "ca251990fe9544c29c777ef78cb723a4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "AssetAssistant_5.3"
+      },
+      {
+        "appId": "AssetAssistant_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "20f2360cf0284c708bab2ae531fe5f8d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "AssetAssistant_5.4"
+      },
+      {
+        "appId": "AssetAssa3c22a35a49fV19",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "3b2679bba74d497f8a27cd934c9fed61",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "AssetAssistant_5.5"
+      },
+      {
+        "appId": "AssetAss47e48ed7aa86V20",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-19T14:43:25.822Z",
+        "id": "01f86f98c279438595de09150f1d482d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "AssetAssistant_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Asset Assistant",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

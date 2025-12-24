@@ -1,0 +1,60 @@
+{
+  "app_name": "634a68fbf0f949189febd98d03ff8219",
+  "app_title": "Mountains & Meadows I Outdoor Environment Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-16T10:18:29.759Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "f58b09fa-095d-4a33-9354-a132ba364827"
+      }
+    },
+    "description": "Mountains & Meadows I Outdoor Environment",
+    "developer": "PackDev",
+    "developerId": "o-d5f0d02bff40ca904af9eaa049160e",
+    "endOfSupport": false,
+    "entitlementName": "8dbb09ca609b4b18863304964320475e",
+    "entitlementType": "AUDIENCE",
+    "id": "8dbb09ca609b4b18863304964320475e",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-03-05T15:29:45.485Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "634a68fbf0f949189febd98d03ff8219",
+        "compatibleApps": [],
+        "dateAdded": "2025-03-05T11:06:44.619Z",
+        "id": "95468951a94245fd8ba880d2f4c257df",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Mountains & Meadows I Outdoor Environment Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,145 @@
+{
+  "app_name": "ElectricDreamsSample_5.7",
+  "app_title": "Electric Dreams Env",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ElectricDreamsSample_5.7",
+      "asset_id": "ElectricDreamsSample",
+      "build_version": "5.7.0-47537391+++UE5+Release-5.7-Windows",
+      "catalog_item_id": "7e0cb81b01a647d588dd5123bfeb85b8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-24T16:59:59.490Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d79688f5-29be-4fb2-a650-2d4a813f5306"
+      }
+    },
+    "description": "Electric Dreams Env",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "7e0cb81b01a647d588dd5123bfeb85b8",
+    "entitlementType": "AUDIENCE",
+    "id": "7e0cb81b01a647d588dd5123bfeb85b8",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-12T14:13:48.713Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ElectricDreamsSample_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-24T19:47:50.401Z",
+        "id": "a0ae6f5217ca4b7a98a9546f04bfbb7a",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "ElectricDreamsSample_5.2"
+      },
+      {
+        "appId": "ElectricDreamsSample_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-24T19:47:50.401Z",
+        "id": "9759398d94204dc9b23c9319308cc2aa",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "ElectricDreamsSample_5.3"
+      },
+      {
+        "appId": "ElectricDreamsSample_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-24T19:47:50.401Z",
+        "id": "656510f536ce4741b74da856e27183c6",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "ElectricDreamsSample_5.4"
+      },
+      {
+        "appId": "ElectricDreamsSample_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-24T19:47:50.401Z",
+        "id": "14eb2d0b46e24c33b8d3339f3e5ce6ce",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "ElectricDreamsSample_5.5",
+        "versionTitle": "ElectricDreamsSample_5.5"
+      },
+      {
+        "appId": "ElectricDreamsSample_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-24T19:47:50.401Z",
+        "id": "d821ee57c8e14b6b86b7b7656463269e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "ElectricDreamsSample_5.6",
+        "versionTitle": "ElectricDreamsSample_5.6"
+      },
+      {
+        "appId": "ElectricDreamsSample_5.7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-10-24T19:47:50.401Z",
+        "id": "ba154dbe1c664281ae8f86c74bcff979",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Updates to support for the UE 5.7 release.",
+        "versionTitle": "ElectricDreamsSample_5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Electric Dreams Env",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

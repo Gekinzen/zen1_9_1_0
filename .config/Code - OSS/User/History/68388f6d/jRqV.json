@@ -1,0 +1,6 @@
+{
+  "kitty": "utilities-terminal",
+  "org.wezfurlong.wezterm": "utilities-terminal",
+  "Alacritty": "utilities-terminal",
+  "kitty-taskbar": "utilities-terminal"
+}

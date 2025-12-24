@@ -1,0 +1,615 @@
+#############################
+### SOURCE CONFIGURATIONS ###
+#############################
+source = /home/$USER/.cache/wal/colors-hyprland
+source = ~/.config/hypr/monitors.conf
+#source = ~/.config/hypr/workspace-rules.conf
+#source = ~/.config/hypr/workspace-keybinds.conf
+
+###################
+### VARIABLES ###
+###################
+$terminal = kitty
+$fileManager = thunar
+$menu = ~/.config/rofi/search-app.sh
+$appmenu = ~/.config/hypr/scripts/app-grid-launcher.sh 
+#$rofi = ~/.config/hypr/scripts/rofi-app-launcher.sh
+$rofi = ~/.config/rofi/scripts/zenith/open_app.sh
+
+#permission = /usr/(bin|local/bin)/hyprpm, plugin, allow
+#################
+### AUTOSTART ###
+#################
+exec-once = hypridle
+exec-once = waybar
+exec-once = swww-daemon
+exec-once = sleep .5 && swww restore
+exec-once = swaync
+exec-once = pypr
+exec-once = swaync-client -df
+exec-once = pactl set-sink-mute @DEFAULT_SINK@ 0
+exec-once = /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+
+exec-once = hyprctl setcursor Bibata-Modern-Classic 24
+exec-once = ~/.config/hypr/scripts/gtk-cursor-watcher.sh
+# Auto-fix monitor scales on startup
+exec-once = sleep 1 && ~/.config/hypr/scripts/fix-monitor-scale.sh
+
+# Setup workspaces dynamically for multi-monitor
+# Sa hyprland.conf mo:
+#exec-once = sleep 2 && ~/.config/hypr/scripts/setup-workspaces.sh
+#exec-once = sleep 2.5 && ~/.config/hypr/scripts/generate-workspace-keybinds.sh
+#exec-once = sleep 3 && ~/.config/waybar/launch-waybar.sh
+exec-once = sleep 2 && ~/.config/hypr/scripts/setup-all.sh
+
+
+# Load hyprexpo plugin
+exec-once = hyprctl plugin load "$HYPR_PLUGIN_DIR/lib/libhyprexpo.so"
+
+# Auto-start dock
+#exec-once = ~/.config/hypr/scripts/dock-launcher.sh
+#exec-once = sleep 2 && ~/.config/hypr/scripts/dock-manager.sh start
+#exec-once = ~/.config/hypr/scripts/dock-manager.sh
+#exec-once = pkill -f nwg-dock-hyprland; nwg-dock-hyprland -l top -x -c ~/.config/nwg-dock-hyprland/config &
+exec-once = ~/.config/hypr/scripts/dock-launcher.sh
+
+#exec-once = ~/.config/hypr/scripts/fullscreen-watcher.sh &
+
+# Enable hyprbars plugin
+#exec-once = sleep 5 && ~/.config/hypr/scripts/startup-plugins.sh
+exec-once = sleep 5 && hyprpm reload -n
+#############################
+### ENVIRONMENT VARIABLES ###
+#############################
+env = ELECTRON_OZONE_PLATFORM_HINT,wayland
+env = XCURSOR_THEME,Bibata-Modern-Classic
+env = XCURSOR_SIZE,32
+env = HYPRCURSOR_THEME,Bibata-Modern-Classic
+env = HYPRCURSOR_SIZE,32
+#env = XCURSOR_THEME,Bibata-Modern-Classic
+#env = XCURSOR_SIZE,24
+
+#####################
+### LOOK AND FEEL ###
+#####################
+general { 
+    gaps_in = 2
+    gaps_out = 10
+    border_size = 0
+    col.active_border = $color9
+    col.inactive_border = $color5
+    resize_on_border = true
+    allow_tearing = false
+    layout = dwindle
+}
+
+decoration { 
+    rounding = 12
+    active_opacity = 0.9
+    inactive_opacity = 0.8
+    fullscreen_opacity = 1
+    
+    blur {
+        enabled = true
+        size = 15
+        passes = 2
+        new_optimizations = true
+        ignore_opacity = false
+        xray = false
+        
+        # Premium glass settings
+        noise = 0.015
+        contrast = 1.15
+        brightness = 1.05
+        vibrancy = 0.35
+        vibrancy_darkness = 0.4
+        
+        # Blur layershell and popups
+        popups = true
+        popups_ignorealpha = 0.5
+    }
+    
+    # Enable blur for layers
+    blurls = rofi
+    blurls = waybar
+    blurls = swaync-control-center
+    blurls = swaync-notification-window
+    blurls = wlogout
+    blurls = gtk-layer-shell
+    
+    shadow {
+        enabled = true
+        range = 15
+        render_power = 5
+        color = rgba(0,0,0,.5)
+    }
+}
+
+animations {
+    enabled = true
+    bezier = fluid, 0.15, 0.85, 0.25, 1
+    bezier = snappy, 0.3, 1, 0.4, 1
+    animation = windows, 1, 3, fluid, popin 5%
+    animation = windowsOut, 1, 2.5, snappy
+    animation = fade, 1, 4, snappy
+    animation = workspaces, 1, 1.7, snappy, slide
+    animation = specialWorkspace, 1, 4, fluid, slidefadevert -35%
+    animation = layers, 1, 2, snappy, popin 70%
+}
+
+dwindle {
+    preserve_split = true
+}
+
+misc { 
+    force_default_wallpaper = -1
+    disable_hyprland_logo = true
+    focus_on_activate = true
+}
+
+#############
+### INPUT ###
+#############
+input {
+    kb_layout = us
+    follow_mouse = 1
+    sensitivity = 0
+    
+    touchpad {
+        natural_scroll = true
+    } 
+}
+
+device {
+    name = epic-mouse-v1
+    sensitivity = 0
+}
+
+###################
+### KEYBINDINGS ###
+###################
+$mainMod = SUPER
+
+######################
+### WINDOW MANAGEMENT
+######################
+bind = $mainMod, Q, killactive
+bind = $mainMod, B, exec, $terminal
+bind = $mainMod, E, exec, $fileManager
+bind = $mainMod, V, togglefloating
+bind = $mainMod, P, pseudo
+bind = $mainMod, J, togglesplit
+#bind = $mainMod, F, fullscreen, 1
+# Replace fullscreen binds with:
+#bind = $mainMod, F, exec, ~/.config/hypr/scripts/smart-fullscreen.sh maximize
+#bind = $mainMod SHIFT, F, exec, ~/.config/hypr/scripts/smart-fullscreen.sh full
+bind = $mainMod, F, fullscreen, 1
+bind = $mainMod SHIFT, F, fullscreen, 0
+
+#bind = $mainMod SHIFT, F, togglefloating, # Actual window float
+bind = $mainMod SHIFT, Z, exec, hyprctl dispatch workspaceopt allfloat # All windows float
+
+
+#bind = $mainMod SHIFT, F, fullscreen, 0
+bind = $mainMod, M, exit
+
+
+####### apply cursor 
+bind = $mainMod SHIFT, C, exec, ~/.config/hypr/scripts/apply-cursor.sh
+
+################
+### LAUNCHERS
+################
+bind = $mainMod, R, exec, $rofi
+bind = ALT, space, exec, $rofi
+
+####################
+### FOCUS MOVEMENT
+####################
+bind = $mainMod, left, movefocus, l
+bind = $mainMod, right, movefocus, r
+bind = $mainMod, up, movefocus, u
+bind = $mainMod, down, movefocus, d
+
+#####################
+### WINDOW MOVEMENT
+#####################
+bind = ALT, left, movewindow, l
+bind = ALT, right, movewindow, r
+bind = ALT, up, movewindow, u
+bind = ALT, down, movewindow, d
+
+########################
+### SPECIAL WORKSPACE
+########################
+#bind = $mainMod, S, togglespecialworkspace, magic
+#bind = $mainMod SHIFT, S, movetoworkspace, special:magic
+
+#####################
+### PYPR SCRATCHPADS
+#####################
+bind = $mainMod, SPACE, exec, pypr toggle term
+bind = $mainMod, G, exec, pypr toggle music
+bind = $mainMod, T, exec, pypr toggle taskbar
+
+#############################
+### SYSTEM SETTINGS ###
+#############################
+bind = $mainMod SHIFT, A, exec, ~/.config/hypr/scripts/system-settings-v2.sh
+bind = $mainMod SHIFT, O, exec, ~/.config/hypr/scripts/opacity-settings.sh
+bind = $mainMod SHIFT, W, exec, ~/.config/wlogout/toggle-wallpaper.sh
+bind = $mainMod SHIFT, K, exec, ~/.config/hypr/scripts/keybinding-viewer-interactive.sh
+bind = $mainMod SHIFT, D, exec, ~/.config/hypr/scripts/nwg-display-wrapper.sh
+
+####################
+### SYSTEM TOOLS ###
+####################
+bind = $mainMod, L, exec, hyprlock
+bind = $mainMod, D, exec, ~/.config/hypr/scripts/dock-manager.sh toggle
+
+#####################
+### SCREENSHOTS ###
+#####################
+bind = CTRL, Print, exec, hyprshot -m region -o ~/Screenshots/
+bind = , Print, exec, hyprshot -m window -o ~/Screenshots/
+bind = ALT, Print, exec, hyprshot -m active -m output -o ~/Screenshots/
+
+#############################
+### CUSTOM SCRIPTS ###
+#############################
+bind = ALT, w, exec, ~/.config/hypr/wallpaper.sh
+bind = ALT, a, exec, ~/.config/waybar/scripts/refresh.sh
+bind = ALT, B, exec, ~/.config/waybar/scripts/select.sh
+bind = ALT, r, exec, ~/.config/swaync/refresh.sh
+
+######################
+### MEDIA CONTROLS ###
+######################
+bindel = ,XF86AudioRaiseVolume, exec, wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%+
+bindel = ,XF86AudioLowerVolume, exec, wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-
+bindel = ,XF86AudioMute, exec, wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle
+bindel = ,XF86AudioMicMute, exec, wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle
+bindel = ,XF86MonBrightnessUp, exec, brightnessctl s 10%+
+bindel = ,XF86MonBrightnessDown, exec, brightnessctl s 10%-
+bindl = , XF86AudioNext, exec, playerctl next
+bindl = , XF86AudioPause, exec, playerctl play-pause
+bindl = , XF86AudioPlay, exec, playerctl play-pause
+bindl = , XF86AudioPrev, exec, playerctl previous
+
+######################
+### HYPRBARS CONTROLS
+######################
+bind = $mainMod SHIFT, M, exec, ~/.config/hypr/scripts/hyprbars-minimize.sh
+bind = $mainMod CTRL, M, exec, ~/.config/hypr/scripts/hyprbars-restore-menu.sh
+bind = $mainMod SHIFT CTRL, M, exec, ~/.config/hypr/scripts/hyprbars-restore-all.sh
+
+####################
+### POWER MENU ###
+####################
+bind = ALT, TAB, exec, ~/.config/hypr/scripts/power-menu.sh
+
+####################
+### DOCK PROTOTYPE TILING ON AND OFF ###
+####################
+bind = $mainMod SHIFT, X, exec, ~/.config/hypr/scripts/dock-manager.sh float
+bind = $mainMod SHIFT, Z, exec, ~/.config/hypr/scripts/dock-manager.sh tiling
+
+
+################
+### WORKSPACES
+################
+
+# Primary monitor workspaces (1-8)
+bind = $mainMod, 1, workspace, 1
+bind = $mainMod, 2, workspace, 2
+bind = $mainMod, 3, workspace, 3
+bind = $mainMod, 4, workspace, 4
+bind = $mainMod, 5, workspace, 5
+bind = $mainMod, 6, workspace, 6
+bind = $mainMod, 7, workspace, 7
+bind = $mainMod, 8, workspace, 8
+
+# Secondary monitor workspaces (11-14)
+bind = $mainMod, 9, workspace, 11
+bind = $mainMod, 0, workspace, 12
+bind = $mainMod, minus, workspace, 13
+bind = $mainMod, equal, workspace, 14
+
+####################
+### WORKSPACES ###
+####################
+
+# Get your monitor names with: hyprctl monitors
+# Replace DP-1 and HDMI-A-1 with your actual monitor names
+
+# Primary monitor workspaces
+workspace = 1, monitor:DP-1, default:true
+workspace = 2, monitor:DP-1
+workspace = 3, monitor:DP-1
+workspace = 4, monitor:DP-1
+workspace = 5, monitor:DP-1
+workspace = 6, monitor:DP-1
+workspace = 7, monitor:DP-1
+workspace = 8, monitor:DP-1
+
+# Secondary monitor workspaces
+workspace = 11, monitor:HDMI-A-1, default:true
+workspace = 12, monitor:HDMI-A-1
+workspace = 13, monitor:HDMI-A-1
+workspace = 14, monitor:HDMI-A-1
+
+################
+### WORKSPACES KEYBINDS
+################
+
+# Primary monitor (1-8)
+bind = $mainMod, 1, workspace, 1
+bind = $mainMod, 2, workspace, 2
+bind = $mainMod, 3, workspace, 3
+bind = $mainMod, 4, workspace, 4
+bind = $mainMod, 5, workspace, 5
+bind = $mainMod, 6, workspace, 6
+bind = $mainMod, 7, workspace, 7
+bind = $mainMod, 8, workspace, 8
+
+# Secondary monitor (11-14)
+bind = $mainMod, 9, workspace, 11
+bind = $mainMod, 0, workspace, 12
+bind = $mainMod, minus, workspace, 13
+bind = $mainMod, equal, workspace, 14
+
+# Move to workspace
+bind = $mainMod SHIFT, 1, movetoworkspace, 1
+bind = $mainMod SHIFT, 2, movetoworkspace, 2
+bind = $mainMod SHIFT, 3, movetoworkspace, 3
+bind = $mainMod SHIFT, 4, movetoworkspace, 4
+bind = $mainMod SHIFT, 5, movetoworkspace, 5
+bind = $mainMod SHIFT, 6, movetoworkspace, 6
+bind = $mainMod SHIFT, 7, movetoworkspace, 7
+bind = $mainMod SHIFT, 8, movetoworkspace, 8
+bind = $mainMod SHIFT, 9, movetoworkspace, 11
+bind = $mainMod SHIFT, 0, movetoworkspace, 12
+bind = $mainMod SHIFT, minus, movetoworkspace, 13
+bind = $mainMod SHIFT, equal, movetoworkspace, 14
+
+# Workspace navigation
+bind = $mainMod, mouse_down, workspace, m+1
+bind = $mainMod, mouse_up, workspace, m-1
+bind = $mainMod CTRL, right, workspace, m+1
+bind = $mainMod CTRL, left, workspace, m-1
+bind = $mainMod CTRL SHIFT, right, movetoworkspace, m+1
+bind = $mainMod CTRL SHIFT, left, movetoworkspace, m-1
+
+# Monitor focus
+bind = $mainMod, period, focusmonitor, +1
+bind = $mainMod, comma, focusmonitor, -1
+bind = $mainMod SHIFT, period, movecurrentworkspacetomonitor, +1
+bind = $mainMod SHIFT, comma, movecurrentworkspacetomonitor, -1
+
+
+
+
+# Toggle overview
+bind = SUPER, TAB, overview:toggle
+
+# Close overview
+bind = SUPER, ESCAPE, overview:close
+
+
+
+######################
+### MOUSE BINDINGS ###
+######################
+bindm = $mainMod, mouse:272, movewindow
+bindm = $mainMod, mouse:273, resizewindow
+
+###################
+### LAYER RULES ###
+###################
+layerrule = blur, waybar
+layerrule = ignorezero, waybar
+layerrule = ignorealpha 0.5, waybar
+
+layerrule = blur, swaync-control-center
+layerrule = blur, swaync-notification-window
+layerrule = ignorezero, swaync-control-center
+layerrule = ignorezero, swaync-notification-window
+layerrule = ignorealpha 0.5, swaync-control-center
+layerrule = ignorealpha 0.5, swaync-notification-window
+
+layerrule = blur, wlogout
+layerrule = ignorezero, wlogout
+layerrule = ignorealpha 0.5, wlogout
+
+layerrule = noanim, selection
+
+#layerrule = noanim, nwg-dock-hyprland
+#layerrule = ignorealpha, nwg-dock-hyprland
+#layerrule = nofocus, nwg-dock-hyprland
+
+# Dock window rules
+#layerrule = float, class:^(nwg-dock-hyprland)$
+#layerrule = noborder, class:^(nwg-dock-hyprland)$
+#layerrule = keeptop, class:^(nwg-dock-hyprland)$
+#layerrule = exclusive-zone, class:^(nwg-dock-hyprland)$
+# nwg-dock-hyprland rules
+#layerrule = float, class:^(nwg-dock-hyprland)$
+#layerrule = keeptop, class:^(nwg-dock-hyprland)$
+#layerrule = noborder, class:^(nwg-dock-hyprland)$
+
+# float + keep on top + no border
+
+###########REMOVE KO MUNA
+#layerrule = noanim, nwg-dock-hyprland
+#layerrule = blur, nwg-dock-hyprland
+#layerrule = ignorezero, nwg-dock-hyprland
+#layerrule = ignorealpha 0.5, nwg-dock-hyprland
+
+
+
+#layerrule = alwaysontop, nwg-dock-hyprland
+# Make fullscreen windows cover the waybar
+
+
+
+
+
+
+
+####################
+### WINDOW RULES ###
+####################
+windowrulev2 = opacity 0.7 0.7,class:^(Rofi)$
+windowrulev2 = opacity 0.75 0.75,class:^(org.wezfurlong.wezterm)$
+
+# Apply blur to nwg-dock-hyprland window
+#windowrulev2 = blur, class:^(nwg-dock-hyprland)$
+#windowrulev2 = opacity 0.9, class:^(nwg-dock-hyprland)$
+
+#windowrulev2 = rounding 18, class:^(nwg-dock-hyprland)$
+####################
+### WINDOW RULES ###
+####################
+
+# Dock window rules
+#windowrulev2 = float, class:^(nwg-dock-hyprland)$
+#windowrulev2 = noborder, class:^(nwg-dock-hyprland)$
+#windowrulev2 = noshadow, class:^(nwg-dock-hyprland)$
+#windowrulev2 = noblur, class:^(nwg-dock-hyprland)$
+#windowrulev2 = opacity 1.0 override 1.0 override, class:^(nwg-dock-hyprland)$
+
+#windowrule = float,keeptop,noborder,class:^(nwg-dock-hyprland)$
+# Dock window rules (separated & compatible)
+#windowrulev2 = float,class:^(nwg-dock-hyprland)$
+#windowrulev2 = noborder,class:^(nwg-dock-hyprland)$
+#windowrulev2 = stayfocused,class:^(nwg-dock-hyprland)$
+#windowrulev2 = nofocus,class:^(nwg-dock-hyprland)$
+#windowrulev2 = pin,class:^(nwg-dock-hyprland)$
+#windowrulev2 = opacity 1,class:^(nwg-dock-hyprland)$
+
+###################
+### LAYER RULES ###
+###################
+
+# --- Waybar ---
+layerrule = blur, waybar
+layerrule = ignorezero, waybar
+layerrule = ignorealpha 0.5, waybar
+
+
+# --- Dock ---
+#layerrule = blur, nwg-dock-hyprland
+#layerrule = ignorezero, nwg-dock-hyprland
+#layerrule = ignorealpha 0.5, nwg-dock-hyprland
+###################
+### LAYER RULES ###
+###################
+
+# --- Dock (improved) ---
+layerrule = blur, nwg-dock-hyprland
+layerrule = ignorezero, nwg-dock-hyprland
+layerrule = ignorealpha 0.5, nwg-dock-hyprland
+layerrule = animation slide, nwg-dock-hyprland
+
+# Make fullscreen windows cover everything (dock + waybar)
+#windowrulev2 = fullscreen, class:.*
+####################
+### WINDOW RULES ###
+####################
+
+# Prevent windows from auto-fullscreening on launch
+#windowrulev2 = suppressevent fullscreen, onworkspace:w[t1]
+
+# Dock and waybar visibility on fullscreen
+#windowrulev2 = stayfocused, fullscreen:1
+#windowrulev2 = noborder, fullscreen:1
+
+# Hide layers when window is fullscreen
+layerrule = animation slide, waybar
+layerrule = animation slide, nwg-dock-hyprland
+
+# Auto-hide waybar and dock on fullscreen
+windowrulev2 = fullscreen, fullscreen:1
+
+
+
+# Rofi blur and transparency
+#windowrulev2 = opacity 0.0 override 0.0 override,class:^(Rofi)$
+#windowrulev2 = blur,class:^(Rofi)$
+#layerrule = blur, rofi
+
+# Rofi System Settings (Glass)
+#windowrulev2 = blur, class:^(RofiSystem)$
+layerrule = blur, RofiSystem
+
+
+
+# Blur settings (adjust to your preference)
+#decoration {
+ #   blur {
+ #       enabled = true
+ #       size = 8
+ #       passes = 3
+ #       new_optimizations = true
+ #       xray = false
+ #       ignore_opacity = true
+ #   }
+#}
+
+
+
+################
+### PLUGINS ###
+################
+plugin {
+    hyprpm {
+        permission = /usr/(bin|local/bin)/hyprpm, plugin, allow
+    }
+    hyprbars {
+        # Bar settings
+        bar_height = 38
+        bar_precedence_over_border = true
+        bar_part_of_window = true
+        
+        # Glass effect colors (updated by pywal)
+        bar_color = rgba(101835cc)
+        col.text = rgb(c3c5cc)
+        bar_blur = true
+        
+        # Font settings
+        bar_text_font = SF Pro Display Semibold
+        bar_text_size = 13
+        bar_text_align = center
+        bar_text_enabled = false
+        bar_buttons_alignment = left
+        
+        # Padding
+        bar_padding = 20
+        bar_button_padding = 10
+        
+        # macOS-style buttons
+        hyprbars-button = rgb(ff5f56), 17, , hyprctl dispatch killactive
+        hyprbars-button = rgb(ffbd2e), 17, , ~/.config/hypr/scripts/hyprbars-minimize.sh
+        hyprbars-button = rgb(27c93f), 17, , hyprctl dispatch fullscreen 1
+        
+        on_double_click = hyprctl dispatch fullscreen 1
+    }
+    hyprtrails {
+        color = rgba(ffaa00ff)
+    }
+
+        hyprspace {
+        # Workspace spacing sa overview
+        overview_gapsout = 20
+        overview_gapsin = 10
+        
+        # Number of columns sa overview
+        overview_columns = 3
+        
+        # Auto-close overview after selecting workspace
+        overview_autohide = true
+        
+        # Show workspace names
+        overview_show_names = true
+    }
+}

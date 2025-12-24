@@ -1,0 +1,294 @@
+{
+  "app_name": "Prefabri49ae00efcee6V13",
+  "app_title": "Prefabricator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Prefabri49ae00efcee6V13",
+      "asset_id": "Prefabri49ae00efcee6V13",
+      "build_version": "5.5.0-38232890+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "7e6b9006595f41b2a2393ca73282f771",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-06T17:09:26.289Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "57a67b66-2248-48ba-a680-bb3e2e64d7e5"
+      }
+    },
+    "description": "Prefabricator",
+    "developer": "Code Respawn",
+    "developerId": "o-034375a26e44fbbef858e66e234ebf",
+    "endOfSupport": false,
+    "entitlementName": "7e6b9006595f41b2a2393ca73282f771",
+    "entitlementType": "AUDIENCE",
+    "id": "7e6b9006595f41b2a2393ca73282f771",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-11-20T03:09:31.532Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Prefabricator_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "42ed07f0a520436ba800e281c94a607b",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Oculus",
+          "Windows"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.txt",
+        "versionTitle": "UE_4.21"
+      },
+      {
+        "appId": "Prefabricator_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "72f4ec28f2324037b59c7d194c816822",
+        "platform": [
+          "Oculus",
+          "Mac",
+          "iOS",
+          "Android",
+          "Windows",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.txt",
+        "versionTitle": "UE_4.22"
+      },
+      {
+        "appId": "Prefabricator_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "68b741cc98c646729d30bc502d77c66b",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Oculus",
+          "Windows",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.txt",
+        "versionTitle": "UE_4.23"
+      },
+      {
+        "appId": "Prefabricator_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "56e264cb70c94b62b185a2dc7667ff5a",
+        "platform": [
+          "Android",
+          "Mac",
+          "iOS",
+          "Oculus",
+          "Windows",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.txt",
+        "versionTitle": "UE_4.24"
+      },
+      {
+        "appId": "Prefabricator_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "2e70d6c18f414d66aba2a6e77108ece4",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Oculus",
+          "Windows"
+        ],
+        "versionTitle": "UE_4.25"
+      },
+      {
+        "appId": "Prefabricator_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "1305dff93d79451d9ce5929296ded952",
+        "platform": [
+          "Android",
+          "iOS",
+          "Oculus",
+          "Mac",
+          "Windows"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.txt",
+        "versionTitle": "UE_4.26"
+      },
+      {
+        "appId": "Prefabricator_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "17711c10dca140d18f48a60772dfd535",
+        "platform": [
+          "Android",
+          "iOS",
+          "Oculus",
+          "Mac",
+          "Windows"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.txt",
+        "versionTitle": "UE_4.27"
+      },
+      {
+        "appId": "Prefabricator_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "28b0f7bda58d47da85fdbce0bd6154e0",
+        "platform": [
+          "Mac",
+          "Windows",
+          "Android",
+          "iOS",
+          "Oculus"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/dev5/CHANGELOG.md",
+        "versionTitle": "UE_5.0"
+      },
+      {
+        "appId": "Prefabricator_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "2205134f5b4443f79f3086f3093950e3",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Oculus",
+          "Windows"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.md",
+        "versionTitle": "UE_5.1"
+      },
+      {
+        "appId": "Prefabricator_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "8b4456ca36fb494c87faa630d385b343",
+        "platform": [
+          "Android",
+          "iOS",
+          "Windows",
+          "Mac",
+          "Oculus"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.md",
+        "versionTitle": "UE_5.2"
+      },
+      {
+        "appId": "Prefabricator_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "56040b9e228342959148e54bff7d9d23",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Oculus",
+          "Windows"
+        ],
+        "releaseNote": "Change Log: https://github.com/coderespawn/prefabricator-ue4/blob/master/CHANGELOG.md",
+        "versionTitle": "UE_5.3"
+      },
+      {
+        "appId": "Prefabricator_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "f2ceefe6a8d848dd8cfd4a1f5060ea89",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Windows",
+          "Oculus"
+        ],
+        "versionTitle": "UE_5.4"
+      },
+      {
+        "appId": "Prefabri49ae00efcee6V13",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2024-11-19T05:44:25.624Z",
+        "id": "715159e9d84a464588f0da4cd4b335c5",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Oculus",
+          "Linux"
+        ],
+        "releaseNote": "Added Unreal Engine 5.5 support",
+        "versionTitle": "UE_5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Prefabricator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

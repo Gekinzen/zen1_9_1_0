@@ -1,0 +1,191 @@
+{
+  "app_name": "QuestEdi4460d3ca583bV10",
+  "app_title": "Quest Editor Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "QuestEdi4460d3ca583bV10",
+      "asset_id": "QuestEdi4460d3ca583bV10",
+      "build_version": "5.6.0-44547548+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "e77582517343473c95ae59b5054ed712",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T21:22:25.495Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "0fac6d97-ed85-4f38-86ae-bea5e828f045"
+      }
+    },
+    "description": "Quest Editor Plugin",
+    "developer": "Alf",
+    "developerId": "o-q8jkwxhtfb83cmgb4d3naqvzjexjcq",
+    "endOfSupport": false,
+    "entitlementName": "e77582517343473c95ae59b5054ed712",
+    "entitlementType": "AUDIENCE",
+    "id": "e77582517343473c95ae59b5054ed712",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-02T18:01:36.576Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "QuestEditor_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "9fe9b361edab40b2ab46e34fcd09ca89",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "QuestEditor 4.25"
+      },
+      {
+        "appId": "QuestEditor_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "8ec563544e2b421b8326a8f37b8a68a4",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "QuestEditor 4.26"
+      },
+      {
+        "appId": "QuestEditor_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "dbba813159404470bf92d2f60ba05860",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "QuestEditor 4.27"
+      },
+      {
+        "appId": "QuestEditor_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "02ba1d4079504772bcf3d414ed388408",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "QuestEditor 5"
+      },
+      {
+        "appId": "QuestEditor_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "e204b58b3b5840c89f61debea41fdeee",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "QuestEditor 5.1"
+      },
+      {
+        "appId": "QuestEditor_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "2828f03fa51a48beb5d6800b701d94bf",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "QuestEditor 5.2"
+      },
+      {
+        "appId": "QuestEditor_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "ccbcfcc525384a02bde6554e312eb053",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "QuestEditor 5.3"
+      },
+      {
+        "appId": "QuestEditor_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "85026dfb7526489c92f0fa7fd6f0eeab",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "QuestEditor 5.4"
+      },
+      {
+        "appId": "QuestEdi62bf97846ad6V9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "a155a27956dc481cb884da69019a9e41",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Quest Editor 5.5"
+      },
+      {
+        "appId": "QuestEdi4460d3ca583bV10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-02T14:52:26.568Z",
+        "id": "4f0ee84a22c8407ca0cb4ccb126b7e4d",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Quest Editor 5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Quest Editor Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

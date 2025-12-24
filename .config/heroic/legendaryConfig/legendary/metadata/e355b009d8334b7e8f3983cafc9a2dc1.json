@@ -1,0 +1,492 @@
+{
+  "app_name": "e355b009d8334b7e8f3983cafc9a2dc1",
+  "app_title": "Poker Club",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e355b009d8334b7e8f3983cafc9a2dc1",
+      "asset_id": "e355b009d8334b7e8f3983cafc9a2dc1",
+      "build_version": "MWLocal_16",
+      "catalog_item_id": "a234734beb3344828bd0342fa980f958",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0c94e8fda4e04b64a0b98c8755596938"
+      },
+      "namespace": "a0149619255648e8af0993a17ef4ee8e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-01-27T20:27:22.405Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "PokerClubNrnRZ"
+      }
+    },
+    "description": "Welcome to the most immersive poker simulation ever made. Live the life of a poker pro in a global Poker Tour, then join a Club and make a name for yourself in 200-player online tournaments.",
+    "developer": "Ripstone Ltd",
+    "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-30T10:13:25.947Z",
+        "customAttributes": {},
+        "description": "Exceedingly good value for money, this one-time pack includes 2.4 million chips a unique clothing item and shining golden cards.",
+        "developer": "Ripstone Ltd",
+        "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+        "endOfSupport": false,
+        "entitlementName": "de19f34e617649ecb17e8789f70df501",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "de19f34e617649ecb17e8789f70df501",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Poker Club Golden Bundle Offer",
+            "height": 1440,
+            "md5": "ada3379b742379c091cfce61baa15d3a",
+            "size": 1068344,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-10T13:41:43.669Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/poker-club-golden-bundle-offer-xikpk.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poker Club Golden Bundle Offer",
+            "height": 1600,
+            "md5": "0b05434bfab71ada9c822d73ae7152d6",
+            "size": 679314,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-10T13:41:44.426Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/download-poker-club-golden-bundle-offer-o42nq.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-12-13T15:01:15.362Z",
+        "mainGameItem": {
+          "id": "a234734beb3344828bd0342fa980f958",
+          "namespace": "a0149619255648e8af0993a17ef4ee8e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a234734beb3344828bd0342fa980f958",
+            "namespace": "a0149619255648e8af0993a17ef4ee8e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a0149619255648e8af0993a17ef4ee8e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Poker Club: Golden Bundle",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-15T13:56:45.998Z",
+        "description": "ConsumableAudience",
+        "developer": "Ripstone Ltd",
+        "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+        "endOfSupport": false,
+        "entitlementName": "2b0c18aa12614b1e93a860ec1bd575b4",
+        "entitlementType": "AUDIENCE",
+        "id": "2b0c18aa12614b1e93a860ec1bd575b4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-03-15T13:56:45.998Z",
+        "mainGameItem": {
+          "id": "a234734beb3344828bd0342fa980f958",
+          "namespace": "a0149619255648e8af0993a17ef4ee8e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a234734beb3344828bd0342fa980f958",
+            "namespace": "a0149619255648e8af0993a17ef4ee8e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a0149619255648e8af0993a17ef4ee8e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-14T15:00:09.108Z",
+        "description": "ConsumableAudience",
+        "developer": "Ripstone Ltd",
+        "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+        "endOfSupport": false,
+        "entitlementName": "ab4b5ed336a24bef9c38d5e5763c1dce",
+        "entitlementType": "AUDIENCE",
+        "id": "ab4b5ed336a24bef9c38d5e5763c1dce",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-03-14T15:00:09.108Z",
+        "mainGameItem": {
+          "id": "a234734beb3344828bd0342fa980f958",
+          "namespace": "a0149619255648e8af0993a17ef4ee8e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a234734beb3344828bd0342fa980f958",
+            "namespace": "a0149619255648e8af0993a17ef4ee8e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a0149619255648e8af0993a17ef4ee8e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-30T10:10:49.091Z",
+        "customAttributes": {},
+        "description": "Great value for money, this pack includes a massive 1 million chips as well as unique cards and table items.",
+        "developer": "Ripstone Ltd",
+        "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+        "endOfSupport": false,
+        "entitlementName": "c36474f8768b4767a46d803ceb262392",
+        "entitlementType": "EXECUTABLE",
+        "id": "c36474f8768b4767a46d803ceb262392",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Poker Club Welcome Bundle Offer",
+            "height": 1440,
+            "md5": "5cbf6da6552bbccf5f53aa8ec357111d",
+            "size": 909910,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-10T13:44:57.994Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/poker-club-welcome-bundle-offer-b8ip4.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poker Club Welcome Bundle Offer",
+            "height": 1600,
+            "md5": "67e7f339d30e46a5add32cfdcf255874",
+            "size": 571728,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-10T13:44:57.638Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/download-poker-club-welcome-bundle-offer-jlr3p.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-20T08:48:17.660Z",
+        "mainGameItem": {
+          "id": "a234734beb3344828bd0342fa980f958",
+          "namespace": "a0149619255648e8af0993a17ef4ee8e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a234734beb3344828bd0342fa980f958",
+            "namespace": "a0149619255648e8af0993a17ef4ee8e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a0149619255648e8af0993a17ef4ee8e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Poker Club: Welcome Bundle",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-30T09:54:13.059Z",
+        "customAttributes": {},
+        "description": "Thank you for playing Poker Club! This free bundle includes 100,000 chips and a unique chicken hat.",
+        "developer": "Ripstone Ltd",
+        "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+        "endOfSupport": false,
+        "entitlementName": "e8acdd19ecad438a83ae98bb88033085",
+        "entitlementType": "EXECUTABLE",
+        "id": "e8acdd19ecad438a83ae98bb88033085",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Poker Club Poker Club: Free Bundle Offer",
+            "height": 1440,
+            "md5": "73a3ab4128ff01d5e6914ddce091027d",
+            "size": 809044,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-10T13:37:58.778Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/poker-club-poker-club-free-bundle-offer-1l9dh.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poker Club Poker Club: Free Bundle Offer",
+            "height": 1600,
+            "md5": "2a670d59ff06a76736bfb28f301af37f",
+            "size": 500888,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-10T13:37:58.552Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/download-poker-club-poker-club-free-bundle-offer-i0dni.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-20T08:48:17.660Z",
+        "mainGameItem": {
+          "id": "a234734beb3344828bd0342fa980f958",
+          "namespace": "a0149619255648e8af0993a17ef4ee8e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a234734beb3344828bd0342fa980f958",
+            "namespace": "a0149619255648e8af0993a17ef4ee8e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a0149619255648e8af0993a17ef4ee8e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Poker Club: Free Bundle",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-15T13:55:46.789Z",
+        "description": "ConsumableAudience",
+        "developer": "Ripstone Ltd",
+        "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+        "endOfSupport": false,
+        "entitlementName": "1ff53efe0abc4fd9889a16a233f57b75",
+        "entitlementType": "AUDIENCE",
+        "id": "1ff53efe0abc4fd9889a16a233f57b75",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-03-15T13:55:46.789Z",
+        "mainGameItem": {
+          "id": "a234734beb3344828bd0342fa980f958",
+          "namespace": "a0149619255648e8af0993a17ef4ee8e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a234734beb3344828bd0342fa980f958",
+            "namespace": "a0149619255648e8af0993a17ef4ee8e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a0149619255648e8af0993a17ef4ee8e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-15T13:58:02.281Z",
+        "description": "ConsumableAudience",
+        "developer": "Ripstone Ltd",
+        "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+        "endOfSupport": false,
+        "entitlementName": "8a9f204fe72a421ab6be4dd08d961d29",
+        "entitlementType": "AUDIENCE",
+        "id": "8a9f204fe72a421ab6be4dd08d961d29",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-03-15T13:58:02.281Z",
+        "mainGameItem": {
+          "id": "a234734beb3344828bd0342fa980f958",
+          "namespace": "a0149619255648e8af0993a17ef4ee8e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a234734beb3344828bd0342fa980f958",
+            "namespace": "a0149619255648e8af0993a17ef4ee8e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a0149619255648e8af0993a17ef4ee8e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-12T10:19:08.572Z",
+        "description": "For a limited time only, you can get a lovely t-shirt and 1.5 million chips for an inflation-busting price.",
+        "developer": "Ripstone Ltd",
+        "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+        "endOfSupport": false,
+        "entitlementName": "f3e23a864c1642a1ac4118a119432ccf",
+        "entitlementType": "EXECUTABLE",
+        "id": "f3e23a864c1642a1ac4118a119432ccf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Poker Club Poker Club: Limited Time Bundle Offer",
+            "height": 1440,
+            "md5": "6bbd8468729016ab20c29873119faa77",
+            "size": 900176,
+            "type": "OfferImageWide",
+            "uploadedDate": "2022-07-12T10:21:45.882Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/poker-club-poker-club-limited-time-bundle-offer-1y7vn.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poker Club Poker Club: Limited Time Bundle Offer",
+            "height": 1600,
+            "md5": "99c42bb809a642f24ba65efc0d77fbc0",
+            "size": 563997,
+            "type": "OfferImageTall",
+            "uploadedDate": "2022-07-12T10:21:54.600Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/download-poker-club-poker-club-limited-time-bundle-offer-18zlc.jpg",
+            "width": 1200
+          },
+          {
+            "alt": "Poker Club Poker Club: Limited Time Bundle Offer",
+            "height": 1440,
+            "md5": "6bbd8468729016ab20c29873119faa77",
+            "size": 900176,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-07-12T10:22:10.569Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/poker-club-poker-club-limited-time-bundle-offer-806xu.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Poker Club Poker Club: Limited Time Bundle Offer",
+            "height": 1600,
+            "md5": "99c42bb809a642f24ba65efc0d77fbc0",
+            "size": 563997,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-07-12T10:22:09.956Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/download-poker-club-poker-club-limited-time-bundle-offer-1skww.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-20T08:48:17.660Z",
+        "mainGameItem": {
+          "id": "a234734beb3344828bd0342fa980f958",
+          "namespace": "a0149619255648e8af0993a17ef4ee8e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a234734beb3344828bd0342fa980f958",
+            "namespace": "a0149619255648e8af0993a17ef4ee8e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a0149619255648e8af0993a17ef4ee8e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Poker Club: Limited Time Bundle",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "a234734beb3344828bd0342fa980f958",
+    "entitlementType": "EXECUTABLE",
+    "id": "a234734beb3344828bd0342fa980f958",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Poker Club Offer",
+        "height": 1440,
+        "md5": "2a0711988dcb31d289fa1a1e2113c80e",
+        "size": 957436,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-05-05T14:33:50.314Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/poker-club-offer-cpccp.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Poker Club Offer",
+        "height": 1600,
+        "md5": "e9ae9975a85bca591a05c6eeb104bf67",
+        "size": 989723,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-05-05T14:33:50.153Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/download-poker-club-offer-9pzyv.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-11-20T08:48:17.660Z",
+    "mainGameItemList": [],
+    "namespace": "a0149619255648e8af0993a17ef4ee8e",
+    "releaseInfo": [
+      {
+        "appId": "e355b009d8334b7e8f3983cafc9a2dc1",
+        "id": "f120014de7d949daae9216e369f3a8f6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Poker Club",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

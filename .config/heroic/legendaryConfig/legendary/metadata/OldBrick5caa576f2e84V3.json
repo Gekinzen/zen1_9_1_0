@@ -1,0 +1,123 @@
+{
+  "app_name": "OldBrick5caa576f2e84V3",
+  "app_title": "Old Brick House",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "OldBrick5caa576f2e84V3",
+      "asset_id": "OldBrick5caa576f2e84V3",
+      "build_version": "5.7.0-44605330+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "7b96ecf6e91f4fe8ba265d38c7f8c73a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T09:26:31.024Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d89c5c69-2737-45cb-9964-27ced2d25024"
+      }
+    },
+    "description": "Old Brick House",
+    "developer": "Gabro Media",
+    "developerId": "o-86f82a03eb4ddb8bbdd04dda467934",
+    "endOfSupport": false,
+    "entitlementName": "7b96ecf6e91f4fe8ba265d38c7f8c73a",
+    "entitlementType": "AUDIENCE",
+    "id": "7b96ecf6e91f4fe8ba265d38c7f8c73a",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-05T18:47:34.975Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "OldBrick360bcd366680424daa41c87549334527V1",
+        "compatibleApps": [
+          "UE_4.17",
+          "UE_4.18",
+          "UE_4.19",
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27",
+          "UE_5.0",
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-08-05T16:21:26.170Z",
+        "id": "5671b27d117b4f07a84a51a8edbc0ed3",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Xbox One",
+          "Mac",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "Furnished"
+      },
+      {
+        "appId": "OldBrick360bcd366680V2",
+        "compatibleApps": [
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-05T16:21:26.170Z",
+        "id": "fc7aeb3854214fa19e155022820f9b4c",
+        "platform": [
+          "Mac",
+          "Windows",
+          "Xbox One",
+          "PS4"
+        ],
+        "versionTitle": "Updated lighting for newer ue"
+      },
+      {
+        "appId": "OldBrick5caa576f2e84V3",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-05T16:21:26.186Z",
+        "id": "9d33600efc524478be6b9c4b6bfc276f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "UE55 and above"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Old Brick House",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

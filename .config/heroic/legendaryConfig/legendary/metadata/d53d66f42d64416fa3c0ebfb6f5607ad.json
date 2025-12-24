@@ -1,0 +1,106 @@
+{
+  "app_name": "d53d66f42d64416fa3c0ebfb6f5607ad",
+  "app_title": "Nightingale",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d53d66f42d64416fa3c0ebfb6f5607ad",
+      "asset_id": "d53d66f42d64416fa3c0ebfb6f5607ad",
+      "build_version": "344127",
+      "catalog_item_id": "64d6c50c78884c3cbc2da848d203b13e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "88e8dde0de8f44bdb3580d73e36d4157",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi456712wGrtp2iW6bUTZ2j0Xz6FEi",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-04-11T20:00:56.361Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Nightingale"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "88e8dde0de8f44bdb3580d73e36d4157"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Nightingale",
+    "developer": "Inflexion Studios Inc.",
+    "developerId": "o-zyefmf2mafnxfjsycahmuf6l3blet4",
+    "endOfSupport": false,
+    "entitlementName": "64d6c50c78884c3cbc2da848d203b13e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "64d6c50c78884c3cbc2da848d203b13e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "19b30bbba974038620d73ca717a52d0e",
+        "size": 1008416,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-25T19:16:44.153Z",
+        "url": "https://cdn1.epicgames.com/item/88e8dde0de8f44bdb3580d73e36d4157/NWXKeyArt_Epic2560x1440_2560x1440-19b30bbba974038620d73ca717a52d0e",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5ce95f684b2709928aaaf3ba9eae5c2d",
+        "size": 642562,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-25T18:42:38.113Z",
+        "url": "https://cdn1.epicgames.com/item/88e8dde0de8f44bdb3580d73e36d4157/NWXKeyArt_Epic1200x1600_1200x1600-5ce95f684b2709928aaaf3ba9eae5c2d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-16T19:49:16.184Z",
+    "mainGameItemList": [],
+    "namespace": "88e8dde0de8f44bdb3580d73e36d4157",
+    "releaseInfo": [
+      {
+        "appId": "d53d66f42d64416fa3c0ebfb6f5607ad",
+        "id": "b1e6f441e72d4f1d8b2455f568663336",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Nightingale",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

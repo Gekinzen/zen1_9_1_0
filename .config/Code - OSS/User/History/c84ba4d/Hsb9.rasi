@@ -1,0 +1,85 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+* {
+    font: "CodeNewRoman Nerd Font 14";
+}
+
+window {
+    width: 450px;
+    border: 3px solid;
+    border-color: @selected;
+    border-radius: 15px;
+    background-color: @background;
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 15px;
+}
+
+inputbar {
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: @selected;
+    children: [ "prompt" ];
+}
+
+prompt {
+    background-color: transparent;
+    text-color: @background;
+    font: "CodeNewRoman Nerd Font Bold 18";
+}
+
+message {
+    padding: 12px 18px;
+    border-radius: 10px;
+    background-color: @background-alt;
+}
+
+textbox {
+    background-color: transparent;
+    text-color: @foreground;
+}
+
+listview {
+    lines: 6;
+    scrollbar: false;
+    spacing: 10px;
+    background-color: transparent;
+}
+
+element {
+    padding: 18px 22px;
+    border-radius: 12px;
+    /* NOTIFICATION CENTER STYLE */
+    background-color: @background-alt;
+    text-color: @foreground;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+    border-color: @selected;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+element normal {
+    background-color: @background-alt;
+}
+
+element alternate {
+    background-color: @background-alt;
+}
+
+/* NO ICONS */
+element-icon {
+    enabled: false;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    font: "CodeNewRoman Nerd Font 15";
+}

@@ -1,0 +1,227 @@
+{
+  "app_name": "Advanceda233ff62d942V10",
+  "app_title": "Advanced Flock System \u2013 Multithreaded Fish AI and Reactive School Behavior",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Advanceda233ff62d942V10",
+      "asset_id": "Advanceda233ff62d942V10",
+      "build_version": "5.6.0-44378626+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "b5822cc120ef45ec8ad042eb690bc3a6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T05:55:46.751Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "70626312-656b-4037-8e69-4cba921d04d4"
+      }
+    },
+    "description": "Advanced Flock System \u2013 Multithreaded Fish AI and Reactive School Behavior",
+    "developer": "BitProtectStudio",
+    "developerId": "o-ff78aff15e4a0d9314b2e452451aca",
+    "endOfSupport": false,
+    "entitlementName": "b5822cc120ef45ec8ad042eb690bc3a6",
+    "entitlementType": "AUDIENCE",
+    "id": "b5822cc120ef45ec8ad042eb690bc3a6",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-06T07:09:45.474Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "AdvancedFlockSystem_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "7602c3d63dd9481788e22e27a97de576",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "FlockSystem 1.3 425"
+      },
+      {
+        "appId": "AdvancedFlockSystem_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "89b9a17c965e4820962375e6b809ef45",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "FlockSystem 1.3 426"
+      },
+      {
+        "appId": "AdvancedFlockSystem_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "1355f05f406d4f6e97f809efb6c1e609",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "FlockSystem 1.3.4 427"
+      },
+      {
+        "appId": "AdvancedFlockSystem_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "36a87a5995f24d728556ef3196a7b7e3",
+        "platform": [
+          "Windows",
+          "Android",
+          "Mac",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "FlockSystem 1.3.4 ue5"
+      },
+      {
+        "appId": "AdvancedFlockSystem_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "88bdf5b0c2644f97839afee40709b7a0",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "FlockSystem ue51 1.3.5"
+      },
+      {
+        "appId": "AdvancedFlockSystem_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "28da561233b44196ac107a17af454d00",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "FlockSystem ue52 1.3.5"
+      },
+      {
+        "appId": "AdvancedFlockSystem_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "50c530627a914b91941f63cfcfef23a4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "FlockSystem ue53 1.3.6"
+      },
+      {
+        "appId": "AdvancedFlockSystem_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "6c8462b82ebd417e9f102f8d832e9f88",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "FlockSystem ue54 1.3.7"
+      },
+      {
+        "appId": "Advanced2e37c87cf814V9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "c006c561364945b3a875fc72682b7b22",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "1.3.7"
+      },
+      {
+        "appId": "Advanceda233ff62d942V10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-06T02:26:46.634Z",
+        "id": "4917d23c4aa143d1ac4211a0d6e14b34",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "Win32",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "AdvancedFlockSystem UE56 1.3.8"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Advanced Flock System \u2013 Multithreaded Fish AI and Reactive School Behavior",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

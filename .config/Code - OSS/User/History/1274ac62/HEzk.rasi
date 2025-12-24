@@ -1,0 +1,197 @@
+/**
+ * System Settings Theme
+ * Based on pywal-grid style
+ * Fixed variable resolution
+ */
+
+* {
+    /* Import pywal colors - these get auto-updated */
+    background:     #151e19;
+    background-alt: #5e7368;
+    foreground:     #c4c6c5;
+    selected:       #C6B35E;
+    active:         #57A35D;
+    urgent:         #25A154;
+    
+    /* Fixed aliases */
+    bg-col:         #151e19;
+    bg-col-light:   #5e7368;
+    border-col:     #C6B35E;
+    selected-col:   #C6B35E;
+    fg-col:         #c4c6c5;
+    fg-col2:        #57A35D;
+    grey:           #565f89;
+    
+    font: "SF Pro Display 11";
+}
+
+/*****----- Configuration -----*****/
+configuration {
+    show-icons:     true;
+    display-drun:   "SETTINGS";
+}
+
+/*****----- Main Window -----*****/
+window {
+    transparency:        "real";
+    location:            center;
+    anchor:              center;
+    fullscreen:          false;
+    width:               1000px;
+    height:              600px;
+    border:              2px;
+    border-color:        @border-col;
+    border-radius:       16px;
+    background-color:    @bg-col;
+    padding:             0px;
+}
+
+/*****----- Main Box -----*****/
+mainbox {
+    enabled:             true;
+    spacing:             0px;
+    background-color:    transparent;
+    orientation:         horizontal;
+    children:            [ "infobox", "listbox" ];
+}
+
+/*****----- Info Box (Left Panel) -----*****/
+infobox {
+    width:               350px;
+    padding:             25px;
+    background-color:    rgba(0, 0, 0, 0.3);
+    border-radius:       14px 0px 0px 14px;
+    orientation:         vertical;
+    children:            [ "inputbar", "dummy", "message" ];
+}
+
+/*****----- List Box (Right Panel) -----*****/
+listbox {
+    spacing:             20px;
+    padding:             25px;
+    background-color:    transparent;
+    orientation:         vertical;
+    children:            [ "listview" ];
+}
+
+dummy {
+    background-color:    transparent;
+    expand:              true;
+}
+
+/*****----- Inputbar (Search) -----*****/
+inputbar {
+    enabled:             true;
+    spacing:             10px;
+    padding:             12px 15px;
+    margin:              0px 0px 20px 0px;
+    border:              2px;
+    border-radius:       12px;
+    border-color:        @border-col;
+    background-color:    @bg-col-light;
+    text-color:          @fg-col;
+    children:            [ "prompt", "entry" ];
+}
+
+prompt {
+    enabled:             true;
+    background-color:    transparent;
+    text-color:          @selected-col;
+    font:                "Material Design Icons 14";
+}
+
+entry {
+    enabled:             true;
+    background-color:    transparent;
+    text-color:          @fg-col;
+    cursor:              text;
+    placeholder:         "Search...";
+    placeholder-color:   @grey;
+}
+
+/*****----- Listview -----*****/
+listview {
+    enabled:             true;
+    columns:             1;
+    lines:               8;
+    cycle:               true;
+    dynamic:             true;
+    scrollbar:           false;
+    layout:              vertical;
+    reverse:             false;
+    fixed-height:        true;
+    fixed-columns:       true;
+    spacing:             8px;
+    background-color:    transparent;
+    text-color:          @fg-col;
+}
+
+/*****----- Elements -----*****/
+element {
+    enabled:             true;
+    spacing:             15px;
+    padding:             14px;
+    border:              2px;
+    border-radius:       12px;
+    border-color:        transparent;
+    background-color:    transparent;
+    text-color:          @fg-col;
+    cursor:              pointer;
+}
+
+element normal.normal {
+    background-color:    transparent;
+    text-color:          @fg-col;
+}
+
+element selected.normal {
+    background-color:    rgba(122, 162, 247, 0.25);
+    border-color:        @selected-col;
+    text-color:          @fg-col;
+}
+
+element alternate.normal {
+    background-color:    transparent;
+    text-color:          @fg-col;
+}
+
+element-icon {
+    background-color:    transparent;
+    text-color:          inherit;
+    size:                32px;
+    cursor:              inherit;
+}
+
+element-text {
+    background-color:    transparent;
+    text-color:          inherit;
+    cursor:              inherit;
+    vertical-align:      0.5;
+    horizontal-align:    0.0;
+    font:                "SF Pro Display Medium 12";
+}
+
+/*****----- Message (Description Box) -----*****/
+message {
+    enabled:             true;
+    padding:             0px;
+    margin:              0px;
+    background-color:    transparent;
+}
+
+textbox {
+    padding:             15px;
+    border-radius:       12px;
+    background-color:    rgba(0, 0, 0, 0.2);
+    text-color:          @fg-col;
+    vertical-align:      0.0;
+    horizontal-align:    0.0;
+    font:                "SF Pro Display 10";
+}
+
+error-message {
+    padding:             20px;
+    border-radius:       12px;
+    background-color:    @bg-col;
+    text-color:          @fg-col;
+}

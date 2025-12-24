@@ -1,0 +1,60 @@
+{
+  "app_name": "23a3e22521c448f1a262fe2d9c61c28a",
+  "app_title": "Corals Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-11T18:42:41.840Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d7c84b42-5cdf-41f3-8326-975910e06a1b"
+      }
+    },
+    "description": "Corals",
+    "developer": "DmitriyDryzhak",
+    "developerId": "o-93wt2wz4uvaryh5tl8kjlpu9wzd3ne",
+    "endOfSupport": false,
+    "entitlementName": "407c7b066ca048dc82e72a1df5760bda",
+    "entitlementType": "AUDIENCE",
+    "id": "407c7b066ca048dc82e72a1df5760bda",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-01-13T16:05:44.912Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "23a3e22521c448f1a262fe2d9c61c28a",
+        "compatibleApps": [],
+        "dateAdded": "2025-01-13T15:02:27.312Z",
+        "id": "d4ff14a27f774e87a9699124ca8b80c6",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Corals Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

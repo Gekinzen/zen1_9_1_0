@@ -1,0 +1,98 @@
+{
+  "app_name": "AukSoundtrack",
+  "app_title": "Q.U.B.E. 2 Soundtrack",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "AukSoundtrack",
+      "asset_id": "AukSoundtrack",
+      "build_version": "1.1",
+      "catalog_item_id": "8c8ee5e50c7c42a7b59a9ee8c31c0330",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-10-19T01:35:11.034Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "QUBE2Soundtrack"
+      }
+    },
+    "description": "Q.U.B.E. 2 Soundtrack",
+    "developer": "Ten Hut Games",
+    "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+    "endOfSupport": false,
+    "entitlementName": "8c8ee5e50c7c42a7b59a9ee8c31c0330",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8c8ee5e50c7c42a7b59a9ee8c31c0330",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d2b89622979482c7b0a632306800b950",
+        "size": 312776,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-10-16T23:30:42.197Z",
+        "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1080,
+        "md5": "891789d632a30ac0fd0a9c46069c53fe",
+        "size": 26596,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-10-16T23:30:52.540Z",
+        "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "md5": "1708b1d9fa1f191b98d647032909569a",
+        "size": 124152,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-03T16:13:45.417Z",
+        "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/q-u-b-e-2_portrait-1280x1440-1708b1d9fa1f191b98d647032909569a.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-12-03T16:13:53.282Z",
+    "mainGameItemList": [],
+    "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+    "releaseInfo": [
+      {
+        "appId": "AukSoundtrack",
+        "dateAdded": "2019-09-10T00:00:00.000Z",
+        "id": "cf8c045d3e27452fa026107752bcd87e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Q.U.B.E. 2 Soundtrack",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

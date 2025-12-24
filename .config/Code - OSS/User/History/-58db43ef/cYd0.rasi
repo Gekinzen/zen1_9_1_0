@@ -1,0 +1,56 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+* {
+    font: "CodeNewRoman Nerd Font 14";
+}
+
+window {
+    width: 450px;
+    border: 2px solid;
+    border-color: @selected;
+    border-radius: 15px;
+    background-color: @background;
+    padding: 20px;
+}
+
+mainbox {
+    spacing: 15px;
+    background-color: transparent;
+}
+
+inputbar {
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: @selected;
+    children: [ "prompt" ];
+}
+
+prompt {
+    text-color: @background;
+    font: "CodeNewRoman Nerd Font Bold 16";
+}
+
+listview {
+    lines: 4;
+    scrollbar: false;
+    background-color: transparent;
+    spacing: 8px;
+}
+
+element {
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: @background-alt;
+    
+    text-color: @foreground;
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+    
+}
+
+element-text {
+    text-color: inherit;
+}

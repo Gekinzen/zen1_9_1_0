@@ -1,0 +1,60 @@
+{
+  "app_name": "8b8282d796cb4a0e8a5866db1f256d19",
+  "app_title": "Lowpoly Alchemist's House Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/3d-exchange"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/3d-exchange/fbx"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-17T06:57:26.361Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "64517f04-fda8-4768-98f2-2156e23622c2"
+      }
+    },
+    "description": "Lowpoly Alchemist's House",
+    "developer": "Yevheniia Yaremko",
+    "developerId": "o-f21231dc0e4b09b58c3c376327eb38",
+    "endOfSupport": false,
+    "entitlementName": "5625e78a82414efb91ed36ed8a3b2136",
+    "entitlementType": "AUDIENCE",
+    "id": "5625e78a82414efb91ed36ed8a3b2136",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-21T07:28:14.957Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "8b8282d796cb4a0e8a5866db1f256d19",
+        "compatibleApps": [],
+        "dateAdded": "2025-10-21T07:24:00.765Z",
+        "id": "415f058331324bf4a271109239c5da51",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Lowpoly Alchemist's House Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

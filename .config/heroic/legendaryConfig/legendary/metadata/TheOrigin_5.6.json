@@ -1,0 +1,166 @@
+{
+  "app_name": "TheOrigin_5.6",
+  "app_title": "ICVFX Production Test",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "TheOrigin_5.6",
+      "asset_id": "TheOrigin",
+      "build_version": "5.6.0-43139311+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "6196cba56c094bc1be4a8a281d6349de",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-10T14:57:29.168Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "17ce3d9c-0843-48ff-96d6-3f49a7163dbd"
+      }
+    },
+    "description": "ICVFX Production Test",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "6196cba56c094bc1be4a8a281d6349de",
+    "entitlementType": "AUDIENCE",
+    "id": "6196cba56c094bc1be4a8a281d6349de",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-03T13:38:24.686Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "TheOrigin_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-05-23T20:43:25.362Z",
+        "id": "a8edd06c382e405a83092224003d8f9c",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_4.27"
+      },
+      {
+        "appId": "TheOrigin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-05-23T20:43:25.362Z",
+        "id": "969e602cd6a842bca1492f714af5f06d",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.0"
+      },
+      {
+        "appId": "TheOrigin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-05-23T20:43:25.362Z",
+        "id": "f69e8bbfd2944edc9b6dacce9a86efe3",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.1"
+      },
+      {
+        "appId": "TheOrigin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-05-23T20:43:25.362Z",
+        "id": "9149a947bbec4f359be5603b1e7c41bf",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.2"
+      },
+      {
+        "appId": "TheOrigin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-05-23T20:43:25.362Z",
+        "id": "65ab2b6335cf4ed991068dab27cfe22f",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.3"
+      },
+      {
+        "appId": "TheOrigin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-05-23T20:43:25.362Z",
+        "id": "2aee2c1f6d4c4154be1889813096f573",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "TheOrigin_5.4"
+      },
+      {
+        "appId": "TheOrigin_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-05-23T20:43:25.362Z",
+        "id": "60eebc38951f4d8c8fedf5ebe254f372",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "TheOrigin_5.5",
+        "versionTitle": "TheOrigin_5.5"
+      },
+      {
+        "appId": "TheOrigin_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-05-23T20:43:25.362Z",
+        "id": "b75a5d653d19404ea16d8cb579925315",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "TheOrigin_5.6",
+        "versionTitle": "TheOrigin_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "ICVFX Production Test",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,101 @@
+{
+  "app_name": "8a73560c045545cbab2735018c13eef9",
+  "app_title": "No Straight Roads Mother and Child Demo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8a73560c045545cbab2735018c13eef9",
+      "asset_id": "8a73560c045545cbab2735018c13eef9",
+      "build_version": "2.2.0",
+      "catalog_item_id": "c279e6f87d9b4013975a4d6e0963ad65",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c0783fd957634390af33808d1a1f56dd",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-26T19:41:19.216Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "NSRMNCDemo"
+      }
+    },
+    "description": "No Straight Roads Mother and Child Demo",
+    "developer": "Metronomik Sdn. Bhd.",
+    "developerId": "o-xphnj7kc9ufalnelpe5e2kjkw7jhb3",
+    "endOfSupport": false,
+    "entitlementName": "c279e6f87d9b4013975a4d6e0963ad65",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c279e6f87d9b4013975a4d6e0963ad65",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7bd90e3f82dd287998dbe04d6d2cb29a",
+        "size": 320099,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-27T00:50:10.912Z",
+        "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S1-2560x1440-7bd90e3f82dd287998dbe04d6d2cb29a.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d3684ae3e76999a8359dc08cbdc69108",
+        "size": 229416,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-27T00:50:29.589Z",
+        "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S2-1200x1600-d3684ae3e76999a8359dc08cbdc69108.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "7bd90e3f82dd287998dbe04d6d2cb29a",
+        "size": 320099,
+        "type": "DieselGameBoxWide",
+        "uploadedDate": "2020-06-27T00:50:39.080Z",
+        "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S1-2560x1440-7bd90e3f82dd287998dbe04d6d2cb29a.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2025-09-16T15:34:14.014Z",
+    "mainGameItemList": [],
+    "namespace": "c0783fd957634390af33808d1a1f56dd",
+    "releaseInfo": [
+      {
+        "appId": "8a73560c045545cbab2735018c13eef9",
+        "dateAdded": "2019-08-27T00:00:00.000Z",
+        "id": "5544549aae4c4d44bf22333982ee9766",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "No Straight Roads Mother and Child Demo",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

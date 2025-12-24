@@ -1,0 +1,395 @@
+{
+  "app_name": "LEVELDESfb2328270b75V13",
+  "app_title": "LEVEL DESIGN ASSISTANT DEMO",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "LEVELDESfb2328270b75V13",
+      "asset_id": "LEVELDESfb2328270b75V13",
+      "build_version": "5.7.0-48334419+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "7521e9f9ca074f22bb1e8038afccd346",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T20:20:25.147Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "f725eef8-0cbd-42c5-9813-cbec5fe3a6cf"
+      }
+    },
+    "description": "LEVEL DESIGN ASSISTANT DEMO",
+    "developer": "Ciji Games",
+    "developerId": "o-92xhxtas3s8zmk649eudmsrbt935kf",
+    "endOfSupport": false,
+    "entitlementName": "7521e9f9ca074f22bb1e8038afccd346",
+    "entitlementType": "AUDIENCE",
+    "id": "7521e9f9ca074f22bb1e8038afccd346",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-15T17:47:36.314Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "LDAssistant_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "95c19cb569fc46c0ae4e890d37c85445",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "HoloLens 2"
+        ],
+        "releaseNote": "Fix small icon",
+        "versionTitle": "master 4.23.2"
+      },
+      {
+        "appId": "LDAssistant_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "11d191b9c2f3448abfc17cb9cacc6f20",
+        "platform": [
+          "Gear VR",
+          "Android",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "Fix small icon",
+        "versionTitle": "master 4.24.2"
+      },
+      {
+        "appId": "LDAssistant_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "dd41b41459c64890aea73ada7f4f4fc2",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "master 4.25.2"
+      },
+      {
+        "appId": "LDAssistant_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "c66fd84949004b43a807268ca94d3ba4",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "master 4.26.2"
+      },
+      {
+        "appId": "LDAssistant_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "793f9924016e4fd6af70277657481e2b",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "Linux",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "iOS",
+          "Mac"
+        ],
+        "versionTitle": "master 4.27.2"
+      },
+      {
+        "appId": "LDAssistant_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "fccda0e655214aba9be12cc226433d91",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "master 5.0.0"
+      },
+      {
+        "appId": "LDAssistant_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "0fc1571898ac4bd89ce8ffb34c852161",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "master 5.1.0"
+      },
+      {
+        "appId": "LDAssistant_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "6e1ae7a9209e4711a868972cf4e7a935",
+        "platform": [
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Xbox One",
+          "Windows",
+          "Linux",
+          "HTML5",
+          "iOS",
+          "HoloLens 2",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "master 5.2.0"
+      },
+      {
+        "appId": "LDAssistant_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "b201660a45024e91a0dcb9ec1a090e84",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Linux",
+          "iOS",
+          "HTML5",
+          "HoloLens 2",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "master 5.3.0"
+      },
+      {
+        "appId": "LDAssistant_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "3b4f940edfb74641a952ae2028223483",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Xbox One",
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "master 5.4.0"
+      },
+      {
+        "appId": "LEVELDES3f42be6097cdV11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "83d3727bd6ab41b59b1aa831568c8c36",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Oculus",
+          "Xbox One",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "master 5.5.0"
+      },
+      {
+        "appId": "LEVELDES653e7ad99958V12",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "5bbc68a2854b4a748c83b768e805952e",
+        "platform": [
+          "SteamVR / HTC Vive",
+          "Xbox One",
+          "Oculus",
+          "Android",
+          "iOS",
+          "PS4",
+          "Mac",
+          "Windows",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "master 5.6.0"
+      },
+      {
+        "appId": "LEVELDESfb2328270b75V13",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-15T17:27:14.966Z",
+        "id": "1633bfc47abc4952a261f6cff09e31b2",
+        "platform": [
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Xbox One",
+          "Android",
+          "iOS",
+          "PS4",
+          "Mac",
+          "Windows",
+          "HTML5",
+          "Gear VR",
+          "Linux",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "master_57"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "LEVEL DESIGN ASSISTANT DEMO",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

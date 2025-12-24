@@ -1,0 +1,9 @@
+{
+  "output": "",
+  "position": "bottom",
+  "layer": "overlay",
+  "exclusive-zone": true,
+  "icon-size": 46,
+  "margin-bottom": 6,
+  "css": "style.css"
+}

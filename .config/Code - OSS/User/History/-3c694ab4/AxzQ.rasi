@@ -1,0 +1,163 @@
+/* Enhanced System Settings - Side-by-side Layout with Description */
+configuration {
+    show-icons:                 true;
+    hover-select:               true;
+    drun-display-format:        "{name}";
+    me-select-entry:            "";
+    me-accept-entry:            "MousePrimary";
+}
+
+* {
+    background:       rgba(255, 255, 255, 0.10);  /* translucent base */
+    foreground:       rgba(240, 240, 240, 0.85);
+    selected:         rgba(255, 255, 255, 0.25);
+    shade-bg:         rgba(255, 255, 255, 0.08);
+
+    border-color:     rgba(255, 255, 255, 0.20);
+    desc-text:        rgba(255, 255, 255, 0.75);
+
+    text:             @foreground;
+    text-selected:    rgba(20, 20, 20, 0.9);
+
+    /* subtle glow + depth */
+    shade-shadow:     rgba(255, 255, 255, 0.06);
+    shade-border:     rgba(255, 255, 255, 0.18);
+}
+
+/* ---- Window ---- */
+window {
+    location:         center;
+    anchor:           center;
+    width:            55%;
+    border:           1px;
+    border-radius:    28px;
+
+    /* Glass look with subtle depth */
+    background-color: rgba(20, 20, 20, 0.40);
+    border-color:     rgba(255, 255, 255, 0.18);
+    padding:          10px;
+
+    /* Fake shadow illusion using light overlay */
+    margin:           10px;
+
+}
+
+/* ---- Main Box ---- */
+mainbox {
+    orientation:                horizontal;
+    children:                   [ "infobox", "listbox" ];
+    background-color: rgba(255, 255, 255, 0.04);
+    spacing:                    24px;
+        border-radius:    24px;
+    margin:           12px;
+    padding:          12px;
+}
+
+/* ---- Info Box (Left Side) ---- */
+infobox {
+    width:                      280px;
+    padding:                    32px 24px;
+    background-color:           rgba(122, 162, 247, 0.08);
+    border-radius:              25px 0px 0px 25px;
+    children:                   [ "textbox-title", "message" ];
+    spacing:                    16px;
+}
+
+textbox-title {
+    expand:                     false;
+    str:                        "  System Settings";
+    background-color:           transparent;
+    text-color:                 @selected;
+    font:                       "CodeNewRoman Nerd Font Bold 15";
+    vertical-align:             0.0;
+    horizontal-align:           0.0;
+}
+
+/* ---- Message (Description Area) ---- */
+message {
+    expand:                     true;
+    background-color:           transparent;
+}
+
+textbox {
+    expand:                     true;
+    background-color:           transparent;
+    text-color:                 @desc-text;
+    font:                       "CodeNewRoman Nerd Font 11";
+    vertical-align:             0.0;
+    horizontal-align:           0.0;
+}
+
+/* ---- List Box (Right Side) ---- */
+listbox {
+    width:                      470px;
+    padding:                    24px;
+    spacing:                    16px;
+    background-color:           transparent;
+    orientation:                vertical;
+    children:                   [ "inputbar", "listview" ];
+}
+
+/* ---- Input Bar (Search) ---- */
+inputbar {
+    enabled:                    true;
+    padding:                    14px 18px;
+    border-radius:              12px;
+    background-color:           @shade-bg;
+    text-color:                 @text;
+    spacing:                    8px;
+    children:                   [ "textbox-icon", "entry" ];
+}
+
+textbox-icon {
+    expand:                     false;
+    background-color:           transparent;
+    text-color:                 @selected;
+    str:                        " ";
+    font:                       "CodeNewRoman Nerd Font 14";
+}
+
+entry {
+    cursor:                     text;
+    expand:                     true;
+    placeholder-color:          rgba(192, 202, 245, 0.5);
+    placeholder:                "Search settings...";
+    background-color:           transparent;
+    text-color:                 @text;
+    font:                       "CodeNewRoman Nerd Font 12";
+}
+
+/* ---- List View ---- */
+listview {
+    enabled:                    true;
+    lines:                      6;
+    scrollbar:                  false;
+    background-color:           transparent;
+    spacing:                    8px;
+    cycle:                      true;
+    dynamic:                    true;
+    layout:                     vertical;
+}
+
+/* ---- Elements ---- */
+element {
+    enabled:                    true;
+    padding:                    14px 18px;
+    border-radius:              10px;
+    background-color:           transparent;
+    text-color:                 @foreground;
+    cursor:                     pointer;
+}
+
+element selected {
+    background-color:           @selected;
+    text-color:                 @background;
+}
+
+element-text {
+    background-color:           transparent;
+    text-color:                 inherit;
+    font:                       "CodeNewRoman Nerd Font 13";
+    vertical-align:             0.5;
+    horizontal-align:           0.0;
+}

@@ -1,0 +1,318 @@
+{
+  "app_name": "AutoSizec06247d73541V16",
+  "app_title": "Auto Size Comments",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "AutoSizec06247d73541V16",
+      "asset_id": "AutoSizec06247d73541V16",
+      "build_version": "5.5.0-48199662+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "9985645a9d96406b98433163a91f3b8e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T08:47:47.077Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "fdb7e77d-be37-4feb-a6c9-60e317c10adf"
+      }
+    },
+    "description": "Auto Size Comments",
+    "developer": "fpwong",
+    "developerId": "o-e9bf5611f84bbb82045ad1ed9853c9",
+    "endOfSupport": false,
+    "entitlementName": "9985645a9d96406b98433163a91f3b8e",
+    "entitlementType": "AUDIENCE",
+    "id": "9985645a9d96406b98433163a91f3b8e",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-14T04:41:40.196Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "AutoSizeComments_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "65af124c701b4dbbbc781e7843ee0a67",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "418"
+      },
+      {
+        "appId": "AutoSizeComments_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "94417d55c6ef4edd9c79caa2b869f878",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "419"
+      },
+      {
+        "appId": "AutoSizeComments_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "79dc4117f72742a0bdcdccdffa1542e6",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "420"
+      },
+      {
+        "appId": "AutoSizeComments_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "5f07a65572434528a9c32d0fc17d010f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32",
+          "Linux"
+        ],
+        "versionTitle": "421"
+      },
+      {
+        "appId": "AutoSizeComments_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "d6aee8695f8543ccaac34d254dda344e",
+        "platform": [
+          "Mac",
+          "Windows",
+          "Win32",
+          "Linux"
+        ],
+        "versionTitle": "422"
+      },
+      {
+        "appId": "AutoSizeComments_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "3d9aac5b9c4d4e809960b2d7bf667442",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux",
+          "Android"
+        ],
+        "versionTitle": "423"
+      },
+      {
+        "appId": "AutoSizeComments_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "38149f4df9da4edc928d1c3509419b65",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "424"
+      },
+      {
+        "appId": "AutoSizeComments_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "c95ff03a8149484b91c52864aad975cd",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "425"
+      },
+      {
+        "appId": "AutoSizeComments_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "f7ed6712b8084b20a5661626d301553a",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "426"
+      },
+      {
+        "appId": "AutoSizeComments_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "290d1bac0c6f4f1cbf7e550318265356",
+        "platform": [
+          "Windows",
+          "Linux",
+          "iOS"
+        ],
+        "versionTitle": "427"
+      },
+      {
+        "appId": "AutoSizeComments_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.153Z",
+        "id": "e91534d57ebb485a928fb2c3317dcc9d",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "500"
+      },
+      {
+        "appId": "AutoSizeComments_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.154Z",
+        "id": "e090a5cf4eec47f08c17998d6ff3afff",
+        "platform": [
+          "Mac",
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "510"
+      },
+      {
+        "appId": "AutoSizeComments_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.154Z",
+        "id": "111f559a9e974d0e9988d1936acf61c0",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "52"
+      },
+      {
+        "appId": "AutoSizeComments_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.154Z",
+        "id": "fba2798cf6ed4769b3e8fb0a4e15a863",
+        "platform": [
+          "Mac",
+          "Linux",
+          "Windows"
+        ],
+        "versionTitle": "53"
+      },
+      {
+        "appId": "AutoSizeComments_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.154Z",
+        "id": "52665abdae0d4fcf9412b8f1b525cb2f",
+        "platform": [
+          "Mac",
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "54"
+      },
+      {
+        "appId": "AutoSizec06247d73541V16",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.154Z",
+        "id": "b0ff6aa36c9c445b884b7f1230125097",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "55"
+      },
+      {
+        "appId": "AutoSize9834891cfd42V17",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.154Z",
+        "id": "04e834b813f0447ab5c7931944706cc4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "56"
+      },
+      {
+        "appId": "AutoSize109b491ea28aV18",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-13T23:59:25.154Z",
+        "id": "bbae94df4af9402f9d9b3c217e639a68",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "57"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Auto Size Comments",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

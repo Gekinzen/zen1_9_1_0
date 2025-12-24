@@ -1,0 +1,24 @@
+{
+    "label" : "lock",
+    "action" : "~/.config/wlogout/scripts/lock.sh",
+    "text" : "Lock",
+    "keybind" : "l"
+}
+{
+    "label" : "logout",
+    "action" : "~/.config/wlogout/scripts/logout.sh",
+    "text" : "Logout",
+    "keybind" : "e"
+}
+{
+    "label" : "shutdown",
+    "action" : "~/.config/wlogout/scripts/shutdown.sh",
+    "text" : "Shutdown",
+    "keybind" : "s"
+}
+{
+    "label" : "reboot",
+    "action" : "~/.config/wlogout/scripts/reboot.sh",
+    "text" : "Reboot",
+    "keybind" : "r"
+}

@@ -1,0 +1,125 @@
+{
+  "app_name": "Storylin2388a532d4d4V4_5.4",
+  "app_title": "Storyline Importer",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Storylin2388a532d4d4V4_5.4",
+      "asset_id": "Storylin2388a532d4d4V4",
+      "build_version": "5.4.0-36535930+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "978e886375d141bba4de3ea0413aedd1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-19T06:22:35.349Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "2f71b8a3-96fa-4f23-8de7-21d1c63d3219"
+      }
+    },
+    "description": "Storyline Importer",
+    "developer": "Pentangle St.",
+    "developerId": "o-uljepgj3r9qhqvt365cxemcuyqhawj",
+    "endOfSupport": false,
+    "entitlementName": "978e886375d141bba4de3ea0413aedd1",
+    "entitlementType": "AUDIENCE",
+    "eulaIds": [],
+    "id": "978e886375d141bba4de3ea0413aedd1",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-10-25T01:26:31.508Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "StorylineImporter_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2024-09-19T13:25:34.563Z",
+        "id": "298635ef111b489ea0ca96dd495df2f9",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "v1.5_5.3"
+      },
+      {
+        "appId": "StorylineImporter_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2024-09-19T13:25:34.563Z",
+        "id": "65d00ddb5350405caa44e516f5936066",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "v1.5_5.2"
+      },
+      {
+        "appId": "Storylin2388a532d4d4V4_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2024-09-19T13:25:00.000Z",
+        "id": "a3a58222f0e243d88fa44f62287d282f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "v1.5_5.4"
+      },
+      {
+        "appId": "StorylineImporter_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2024-09-19T13:25:34.563Z",
+        "id": "fbcf05d89b2a4aadbfea0610cea465c4",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "v1.4_5.1"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Storyline Importer",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

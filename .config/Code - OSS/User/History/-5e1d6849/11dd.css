@@ -1,0 +1,97 @@
+@import url('/home/paul/.cache/wal/colors-waybar.css');
+
+* {
+    all: unset;
+    font-family: 'CodeNewRoman Nerd Font Mono', monospace;
+    font-size: 12px;
+}
+
+/* Fullscreen background */
+window {
+    background-color: alpha(@background, .90);
+    backdrop-filter: blur(20px);
+    border-radius: 25px;
+    -webkit-backdrop-filter: blur(20px);
+}
+
+/* Main container - CENTERED with equal margins */
+#outer-box {
+    margin: 10px;
+    border-radius: 15px;
+    padding: 80px 15% 80px 15%;  /* Equal horizontal padding for centering */
+}
+
+#inner-box {
+    margin: 10px;
+    padding: 10px;
+}
+
+/* Search bar - Top aligned, better width */
+#input {
+    margin: 0px auto 80px auto;  /* Center with auto margins */
+    padding: 15px 25px;
+    width: 50%;  /* Fixed width instead of percentage margins */
+    border: 1px solid alpha(@color12, 0.9);
+    border-radius: 16px;
+    background-color: alpha(@background, 0.1);
+    color: @foreground;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#input:focus {
+    border-color: @color12;
+    background-color: alpha(@background, 0.9);
+    box-shadow: 0 0 20px alpha(@color12, 0.3);
+}
+
+#input image {
+    color: @color12;
+    padding-right: 15px;
+}
+
+/* Scrollable area */
+#scroll {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Grid entries - Better spacing */
+#entry {
+    margin: 10px;
+    padding: 30px 15px;
+    border-radius: 15px;
+    background-color: transparent;
+    transition: all 0.2s ease;
+}
+
+#entry:selected {
+    background-color: alpha(@color12, 0.2);
+    border: 1px solid alpha(@color12, 0.5);
+    box-shadow: 0 0 25px alpha(@color12, 0.3);
+}
+
+#entry:hover {
+    background-color: alpha(@color8, 0.2);
+}
+
+/* Icons */
+#img {
+    margin: 0px auto 15px auto;
+    padding: 0px;
+}
+
+/* Text under icons */
+#text {
+    margin: 0px;
+    padding: 0px;
+    color: @foreground;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}
+
+#entry:selected #text {
+    color: @color12;
+    font-weight: 700;
+}

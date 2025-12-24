@@ -1,0 +1,60 @@
+{
+  "app_name": "1faeca20e0c74025b46c0228464b0104",
+  "app_title": "Monsters Forest Pack Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/3d-exchange"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/3d-exchange/fbx"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2025-06-13T11:38:34.774Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "bf8272be-1e22-48ea-8b22-d0536f2a0302"
+      }
+    },
+    "description": "Monsters Forest Pack",
+    "developer": "SURIYUN",
+    "developerId": "o-dc0b42ca7648e2bbcb3b712caac11a",
+    "endOfSupport": false,
+    "entitlementName": "58ba38a69d2d47d19cfaee838b99d999",
+    "entitlementType": "AUDIENCE",
+    "id": "58ba38a69d2d47d19cfaee838b99d999",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-16T03:18:03.913Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "1faeca20e0c74025b46c0228464b0104",
+        "compatibleApps": [],
+        "dateAdded": "2025-11-16T03:17:55.052Z",
+        "id": "2ff0e17ad14447829c8ccf8fb5932ce7",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Monsters Forest Pack Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

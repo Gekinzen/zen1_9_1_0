@@ -1,0 +1,187 @@
+{
+  "app_name": "NiagaraU4b35ff3681ccV8",
+  "app_title": "Niagara UI Renderer",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "NiagaraU4b35ff3681ccV8",
+      "asset_id": "NiagaraU4b35ff3681ccV8",
+      "build_version": "5.5.0-38043867+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "644120ec392946659b687d2c5813486e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-01T20:48:22.503Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "1bd04141-c553-4b63-8ee9-277595475195"
+      }
+    },
+    "description": "Niagara UI Renderer",
+    "developer": "Michal Smolen",
+    "developerId": "o-839f7ecde04e62bfd4c2ed494d398a",
+    "endOfSupport": false,
+    "entitlementName": "644120ec392946659b687d2c5813486e",
+    "entitlementType": "AUDIENCE",
+    "id": "644120ec392946659b687d2c5813486e",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-05T05:39:47.260Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "NiagaraUIRenderer_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "719a23219f964ac6884c81e4166c0f64",
+        "platform": [
+          "Android",
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "1.1.1_UE4.26"
+      },
+      {
+        "appId": "NiagaraUIRenderer_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "1a78a80c32634f1f8503f48ff21015f4",
+        "platform": [
+          "Android",
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "1.1.1_UE4.27"
+      },
+      {
+        "appId": "NiagaraUIRenderer_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "2cd0a948fbb54f5e85ab65ad3ddd8fb7",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "1.1.6_UE5.0"
+      },
+      {
+        "appId": "NiagaraUIRenderer_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "a4149a6a23084dfd8359315660c93ec6",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "1.1.7_UE5.1"
+      },
+      {
+        "appId": "NiagaraUIRenderer_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "1790f5dde45d4c95a393d8d022f4a73a",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "1.1.7_UE5.2"
+      },
+      {
+        "appId": "NiagaraUIRenderer_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "c1a3baf54d2f4f7d8c12a4587e6e0b98",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "1.1.7_UE5.3"
+      },
+      {
+        "appId": "NiagaraUIRenderer_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "a036013d1e2f43b9afdd144f9e3f2b4b",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "1.1.7_UE5.4"
+      },
+      {
+        "appId": "NiagaraU4b35ff3681ccV8",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "2c42977477f2405582b5526dcc21f740",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "1.1.8_UE5.5"
+      },
+      {
+        "appId": "NiagaraU409cc0a0b725V9",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-03T21:15:26.024Z",
+        "id": "e6237894753b4cd4b5d9c6c5d250643e",
+        "platform": [
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "1.1.9_UE5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Niagara UI Renderer",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,257 @@
+{
+  "app_name": "TargetSy5ca7a0ce9d5fV14",
+  "app_title": "Target System Component Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "TargetSy5ca7a0ce9d5fV14",
+      "asset_id": "TargetSy5ca7a0ce9d5fV14",
+      "build_version": "5.6.0-43212489+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "1e2ae526f469478b88bb56d28d4b7595",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-26T19:35:39.426Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "9088334d-3bde-4e10-a937-baeb780f880f"
+      }
+    },
+    "description": "Target System Component Plugin",
+    "developer": "mklabs",
+    "developerId": "o-wb6e67ez838gnwv5286l3l9f74lmfj",
+    "endOfSupport": false,
+    "entitlementName": "1e2ae526f469478b88bb56d28d4b7595",
+    "entitlementType": "AUDIENCE",
+    "id": "1e2ae526f469478b88bb56d28d4b7595",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-04T13:09:24.566Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "TargetSystemComponent_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "e59844c3455b4b9fa5d3df86e0f9a377",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "v1.1.1 for 4.21.0"
+      },
+      {
+        "appId": "TargetSystemComponent_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "e748ac6836834ec5827c3dd8cee5fb28",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "v1.1.1 for 4.22.0"
+      },
+      {
+        "appId": "TargetSystemComponent_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "bc1cf80dfcb94d52aae3a02ddafabacd",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "v1.23.0 for 4.23.0"
+      },
+      {
+        "appId": "TargetSystemComponent_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "5a4e5fb287564b2c812108803d00d4ac",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "v1.24.0 for 4.24.0"
+      },
+      {
+        "appId": "TargetSystemComponent_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "9dd035bc2570455cbf41f54467b456bf",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "v1.25.0 for 4.25.0"
+      },
+      {
+        "appId": "TargetSystemComponent_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "2cf2cf03045e424fab9fb45c595b506d",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "releaseNote": "v1.27.0 for 4.26 (https://github.com/mklabs/ue4-targetsystemplugin/blob/dev/CHANGELOG.md)",
+        "versionTitle": "v1.27.0 for 4.26"
+      },
+      {
+        "appId": "TargetSystemComponent_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "adf4be57dcb24915a1bb9a0c3dfb7c23",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "releaseNote": "v1.27.0 for 4.27 (https://github.com/mklabs/ue4-targetsystemplugin/blob/dev/CHANGELOG.md)",
+        "versionTitle": "v1.27.0 for 4.27"
+      },
+      {
+        "appId": "TargetSystemComponent_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "b55bc0564f674f059e44c84615160670",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "https://github.com/mklabs/ue4-targetsystemplugin/releases/tag/1.3.2",
+        "versionTitle": "1.3.0 for 5.0"
+      },
+      {
+        "appId": "TargetSystemComponent_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "dbe4852e71144e4b98837b77ec24b1b6",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "https://github.com/mklabs/ue4-targetsystemplugin/releases/tag/1.3.2",
+        "versionTitle": "1.3.2 for 5.1"
+      },
+      {
+        "appId": "TargetSystemComponent_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "14e6cabf102843659ffd87ba884b8c8d",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "https://github.com/mklabs/ue4-targetsystemplugin/releases/tag/1.3.2",
+        "versionTitle": "1.3.2 for 5.2"
+      },
+      {
+        "appId": "TargetSystemComponent_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "fbc6844f6f6e4af9ab58e78a0a2444cb",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "1.3.3 - https://github.com/mklabs/ue4-targetsystemplugin/releases/tag/1.3.3",
+        "versionTitle": "1.3.3 for 5.3"
+      },
+      {
+        "appId": "TargetSystemComponent_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "626df1bbd5394b9995bdae0dd51363e5",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "5.4 Build (1.3.3)",
+        "versionTitle": "1.3.3-5.4"
+      },
+      {
+        "appId": "TargetSy84d785cb582dV13",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "2e8b6fe85a0e457ebc5d7bf1795a19d2",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "1.3.3-5.5"
+      },
+      {
+        "appId": "TargetSy5ca7a0ce9d5fV14",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-03T15:14:25.293Z",
+        "id": "a876bc94e9b049a99263c8e84bc2fa79",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "1.3.3-5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Target System Component Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

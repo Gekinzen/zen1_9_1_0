@@ -1,0 +1,60 @@
+{
+  "app_name": "acb7fbc05b964fab940425b20768b8ac",
+  "app_title": "Halloween Pumpkins / 10+ Variations & Vegetation Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-14T09:45:27.693Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "ac69ab8c-c468-4db2-8fc2-45d69a3200c1"
+      }
+    },
+    "description": "Halloween Pumpkins / 10+ Variations & Vegetation",
+    "developer": "PackDev",
+    "developerId": "o-d5f0d02bff40ca904af9eaa049160e",
+    "endOfSupport": false,
+    "entitlementName": "c283fbe213d44c109b67f5fbfab98cf7",
+    "entitlementType": "AUDIENCE",
+    "id": "c283fbe213d44c109b67f5fbfab98cf7",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-02-27T14:08:41.018Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "acb7fbc05b964fab940425b20768b8ac",
+        "compatibleApps": [],
+        "dateAdded": "2025-02-27T11:09:51.696Z",
+        "id": "70a0e17c6de848e5b8739e81354df027",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Halloween Pumpkins / 10+ Variations & Vegetation Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

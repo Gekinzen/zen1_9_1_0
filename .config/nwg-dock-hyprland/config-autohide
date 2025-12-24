@@ -1,0 +1,11 @@
+{
+  "output": "",
+  "layer": "overlay",
+  "position": "bottom",
+  "css": "style.css",
+  "exclusive-zone": false,
+  "hotspot-delay": 20,
+  "img-size": 32,
+  "icon-size": 32,
+  "margin-bottom": 0
+}

@@ -1,0 +1,222 @@
+{
+  "app_name": "LightExpe5bc22396f8eV10",
+  "app_title": "Light Explorer",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "LightExpe5bc22396f8eV10",
+      "asset_id": "LightExpe5bc22396f8eV10",
+      "build_version": "5.5.0-38181308+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "660bf9f549c743b7bc4cab2ed2c28e5d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T14:39:33.243Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "8acd61fa-462b-4d82-8ffb-2dfb3e48ff65"
+      }
+    },
+    "description": "Light Explorer",
+    "developer": "Bruno Xavier L",
+    "developerId": "o-299f8b0439411aa863e2f0ade8f642",
+    "endOfSupport": false,
+    "entitlementName": "660bf9f549c743b7bc4cab2ed2c28e5d",
+    "entitlementType": "AUDIENCE",
+    "id": "660bf9f549c743b7bc4cab2ed2c28e5d",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-13T10:50:43.889Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "LightExplorer_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "2c5ed02020b142069ce0d2b62f883362",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "LE_UE4.24"
+      },
+      {
+        "appId": "LightExplorer_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "5eebb9f160554c83962812f997819fa8",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "LE_UE4.25"
+      },
+      {
+        "appId": "LightExplorer_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "58cfec3d8b584973a4e9d6ebfa1548ef",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "LE_4.26"
+      },
+      {
+        "appId": "LightExplorer_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "693c0fcc5a9b4de2bfa83fdf39c0e5a3",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "LE_4.27"
+      },
+      {
+        "appId": "LightExplorer_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "070710b5ce27403fb7b189b6123e2c50",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "LE_5.0"
+      },
+      {
+        "appId": "LightExplorer_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "3d75de0887324b42909d54a8ea154792",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "LE_5.1"
+      },
+      {
+        "appId": "LightExplorer_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "54f2db181fee4eceacfa8990ebe3cafa",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "LE_5.2"
+      },
+      {
+        "appId": "LightExplorer_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "a256ae8c308d4d30a4bf6c0dae17a4b0",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "LE_5.3"
+      },
+      {
+        "appId": "LightExplorer_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "d18cc45195874e8b80906d9573459c80",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "LE_5.4"
+      },
+      {
+        "appId": "LightExpe5bc22396f8eV10",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "08139b4dd75a4494b2c355439404289f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "LE_UE5.5"
+      },
+      {
+        "appId": "LightExpdd4f0d082151V11",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-13T08:17:49.415Z",
+        "id": "40b1ab8c144e4e8eb6d09aa137c6daf4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "LE_UE5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Light Explorer",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

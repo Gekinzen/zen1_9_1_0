@@ -1,0 +1,108 @@
+{
+  "app_name": "b45e42c457304fd8bb077cd9bd70291d",
+  "app_title": "Fear the Spotlight",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b45e42c457304fd8bb077cd9bd70291d",
+      "asset_id": "b45e42c457304fd8bb077cd9bd70291d",
+      "build_version": "1.0.09.win",
+      "catalog_item_id": "a74d03d6c34a4ff7a8504da77d2f9d8e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "fbbeb1e97e504055b7b27ac1d360b8cf",
+        "update_type": "PATCH"
+      },
+      "namespace": "61159823352c4467b9f6205c01d8d3ee",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-10-15T10:04:18.452Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "game.dat, permanent.dat, game_*.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/CozyGamePals/Fear The Spotlight/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{AppData}/CozyGamePals/Fear The Spotlight/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FeartheSpotlightvSJK6"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      }
+    },
+    "description": "Fear the Spotlight is an atmospheric third-person horror adventure with a disturbing mystery to unravel. Sneak into school after hours with Vivian and Amy, survive a s\u00e9ance gone wrong, solve tactile puzzles, and, whatever you do, stay out of the spotlight\u2026",
+    "developer": "Blumhouse Games",
+    "developerId": "o-d6tmfe9l4k8jj4yesfuuk9bm5ccjgm",
+    "endOfSupport": false,
+    "entitlementName": "a74d03d6c34a4ff7a8504da77d2f9d8e",
+    "entitlementType": "EXECUTABLE",
+    "id": "a74d03d6c34a4ff7a8504da77d2f9d8e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Fear the Spotlight Offer",
+        "height": 1440,
+        "md5": "929680e3cc76ba566857f06b3a7dc8a2",
+        "size": 522148,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-10-06T09:49:26.527Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-fiq42.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Fear the Spotlight Offer",
+        "height": 1600,
+        "md5": "20d495cb9b3590bedfac65adaee659c3",
+        "size": 513828,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-10-06T09:49:26.423Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-lj9pi.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-15T10:04:18.452Z",
+    "mainGameItemList": [],
+    "namespace": "61159823352c4467b9f6205c01d8d3ee",
+    "releaseInfo": [
+      {
+        "appId": "b45e42c457304fd8bb077cd9bd70291d",
+        "id": "616a201c9a394f2e96ebd30c3aefb75b",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fear the Spotlight",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "3d47e524a6dc4af28393bb2b29d50a0a"
+    },
+    "rev": 1
+  }
+}

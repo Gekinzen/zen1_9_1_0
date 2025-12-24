@@ -1,0 +1,82 @@
+* {
+    background:     #1a1b26;
+    foreground:     #c0caf5;
+    selected:       #7aa2f7;
+    green:          #9ece6a;
+    red:            #f7768e;
+}
+
+window {
+    width: 500px;
+    border: 2px;
+    border-color: @selected;
+    border-radius: 18px;
+    background-color: @background;
+    padding: 25px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 18px;
+}
+
+inputbar {
+    enabled: true;
+    padding: 14px 20px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, rgba(122, 162, 247, 0.2), rgba(158, 206, 106, 0.2));
+    text-color: @foreground;
+    children: [ "prompt" ];
+}
+
+prompt {
+    enabled: true;
+    background-color: transparent;
+    text-color: @selected;
+    font: "CodeNewRoman Nerd Font Bold 15";
+}
+
+message {
+    enabled: true;
+    padding: 12px;
+    margin: 0px 0px 10px 0px;
+    border-radius: 10px;
+    background-color: rgba(122, 162, 247, 0.1);
+    text-color: @foreground;
+}
+
+textbox {
+    background-color: transparent;
+    text-color: @foreground;
+    font: "CodeNewRoman Nerd Font 12";
+}
+
+listview {
+    enabled: true;
+    lines: 4;
+    scrollbar: false;
+    background-color: transparent;
+    spacing: 8px;
+}
+
+element {
+    enabled: true;
+    padding: 16px 22px;
+    border-radius: 12px;
+    background-color: transparent;
+    text-color: @foreground;
+    cursor: pointer;
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+    border: 2px;
+    border-color: @selected;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    font: "CodeNewRoman Nerd Font 14";
+}

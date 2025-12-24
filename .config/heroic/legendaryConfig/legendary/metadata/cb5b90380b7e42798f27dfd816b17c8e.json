@@ -1,0 +1,60 @@
+{
+  "app_name": "cb5b90380b7e42798f27dfd816b17c8e",
+  "app_title": "Underwater World / 70 Assets Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-16T08:06:45.547Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "e2cdf1ba-c517-4b8e-b5ce-0828bbc44eab"
+      }
+    },
+    "description": "Underwater World / 70 Assets",
+    "developer": "PackDev",
+    "developerId": "o-d5f0d02bff40ca904af9eaa049160e",
+    "endOfSupport": false,
+    "entitlementName": "6f85b6e8d7a34deb94acec2e48f1c703",
+    "entitlementType": "AUDIENCE",
+    "id": "6f85b6e8d7a34deb94acec2e48f1c703",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-25T18:31:51.342Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "cb5b90380b7e42798f27dfd816b17c8e",
+        "compatibleApps": [],
+        "dateAdded": "2025-06-25T10:17:46.903Z",
+        "id": "29a95ced8fb14f029a7b775a0b110ceb",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Underwater World / 70 Assets Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

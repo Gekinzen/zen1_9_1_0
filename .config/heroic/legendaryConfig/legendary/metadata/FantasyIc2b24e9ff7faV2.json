@@ -1,0 +1,115 @@
+{
+  "app_name": "FantasyIc2b24e9ff7faV2",
+  "app_title": "Fantasy Interior Environment ( Fantasy Interior Library Interior Fantasy 3D )",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "FantasyIc2b24e9ff7faV2",
+      "asset_id": "FantasyIc2b24e9ff7faV2",
+      "build_version": "5.6.0-39443133+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "632c1ce124b74534b9f870af037f9482",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-06-25T12:21:40.747Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "90a2bb2b-7e0f-4e7a-9df6-508df7461c5c"
+      }
+    },
+    "description": "Fantasy Interior Environment ( Fantasy Interior Library Interior Fantasy 3D )",
+    "developer": "Leartes Studios",
+    "developerId": "o-wm8xx724asuwsmb9vl28xvugy5ypa3",
+    "endOfSupport": false,
+    "entitlementName": "632c1ce124b74534b9f870af037f9482",
+    "entitlementType": "AUDIENCE",
+    "id": "632c1ce124b74534b9f870af037f9482",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-02-12T16:21:55.139Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "FantasyI3915831f0f3cV1",
+        "compatibleApps": [
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-02-12T13:44:10.934Z",
+        "id": "ae5ea52662e542488d0d1bebb7534898",
+        "platform": [
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Xbox One",
+          "Windows",
+          "iOS",
+          "HTML5",
+          "HoloLens 2",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "All Versions"
+      },
+      {
+        "appId": "FantasyIc2b24e9ff7faV2",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.4",
+          "UE_5.5",
+          "UE_5.3",
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-02-12T13:44:10.934Z",
+        "id": "52d75dafe1bb4906a7b9c644317c942e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE5.0 V1"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fantasy Interior Environment ( Fantasy Interior Library Interior Fantasy 3D )",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

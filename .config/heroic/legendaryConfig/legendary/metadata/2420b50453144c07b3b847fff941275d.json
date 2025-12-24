@@ -1,0 +1,340 @@
+{
+  "app_name": "2420b50453144c07b3b847fff941275d",
+  "app_title": "Sunless Sea",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2420b50453144c07b3b847fff941275d",
+      "asset_id": "2420b50453144c07b3b847fff941275d",
+      "build_version": "2.2.12.202509090925-Windows",
+      "catalog_item_id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "43982f3335e3495c9502ac4c03731438",
+        "update_type": "PATCH"
+      },
+      "namespace": "f672c20984f04f69936e6057feefe3d1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567xhkd8BPhZrOgP2RsFzyoab3v",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-31T16:31:49.567Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Failbetter Games/Sunless Sea/saves/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/unity.Failbetter Games.Sunless Sea/saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SunlessSea"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "50000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f672c20984f04f69936e6057feefe3d1"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Sunless Sea",
+    "developer": "Failbetter Games",
+    "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T10:45:54.531Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RheniumDLCAudience",
+        "developer": "Failbetter Games",
+        "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+        "endOfSupport": false,
+        "entitlementName": "e7c54e75be5e40eeb6dbed2a5348d5d5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7c54e75be5e40eeb6dbed2a5348d5d5",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-25T15:28:13.239Z",
+        "mainGameItem": {
+          "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+          "namespace": "f672c20984f04f69936e6057feefe3d1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+            "namespace": "f672c20984f04f69936e6057feefe3d1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f672c20984f04f69936e6057feefe3d1",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RheniumDLCAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-08T00:18:03.361Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RheniumDLCAudience Buffer executable",
+        "developer": "Failbetter Games",
+        "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+        "endOfSupport": false,
+        "entitlementName": "1b7877b3b9644f73b352098dd1361d45",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1b7877b3b9644f73b352098dd1361d45",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-08T00:18:03.361Z",
+        "mainGameItem": {
+          "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+          "namespace": "f672c20984f04f69936e6057feefe3d1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+            "namespace": "f672c20984f04f69936e6057feefe3d1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f672c20984f04f69936e6057feefe3d1",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RheniumDLCAudience Buffer executable",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-09-17T23:02:41.085Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Sunless Sea - Zubmariner RheniumDLCAudience BUFFER",
+        "developer": "Failbetter Games",
+        "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+        "endOfSupport": false,
+        "entitlementName": "f6ce7fe4f48f459e9aace0648136a3b4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f6ce7fe4f48f459e9aace0648136a3b4",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-17T23:02:41.085Z",
+        "mainGameItem": {
+          "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+          "namespace": "f672c20984f04f69936e6057feefe3d1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+            "namespace": "f672c20984f04f69936e6057feefe3d1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f672c20984f04f69936e6057feefe3d1",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sunless Sea - Zubmariner RheniumDLCAudience BUFFER",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-09-25T15:28:12.804Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RheniumDLCAudience Buffer",
+        "developer": "Failbetter Games",
+        "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+        "endOfSupport": false,
+        "entitlementName": "70b90b84d398466398bbc047c79347ca",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "70b90b84d398466398bbc047c79347ca",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sunless Sea Sunless Sea - Zubmariner Offer",
+            "height": 1440,
+            "md5": "cd4b511bb78421b9fd219852a07393d2",
+            "size": 847319,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-09-19T17:00:31.778Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4fa035f348d142c0bb6f401d14a32e0f/sunless-sea-17zhv.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sunless Sea Sunless Sea - Zubmariner Offer",
+            "height": 1600,
+            "md5": "95563ab46481a92881d9c8d02beef56e",
+            "size": 439967,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-19T17:00:31.279Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4fa035f348d142c0bb6f401d14a32e0f/sunless-sea-4tv4h.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-25T15:28:12.804Z",
+        "mainGameItem": {
+          "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+          "namespace": "f672c20984f04f69936e6057feefe3d1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+            "namespace": "f672c20984f04f69936e6057feefe3d1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f672c20984f04f69936e6057feefe3d1",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RheniumDLCAudience Buffer",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "dd9cc5214b904e5e92c5fe664ff2cf14",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "af1c9bc575a90fb04f6acf5db6e93019",
+        "size": 483666,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-22T20:44:42.273Z",
+        "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/item/EGS_SunlessSea_FailbetterGames_S1-2560x1440-af1c9bc575a90fb04f6acf5db6e93019.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "68d9c3a68026b8542212f0e69f04f741",
+        "size": 461549,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-22T20:44:55.990Z",
+        "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/item/EGS_SunlessSea_FailbetterGames_S2-1200x1600-68d9c3a68026b8542212f0e69f04f741.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-09-25T15:28:13.239Z",
+    "mainGameItemList": [],
+    "namespace": "f672c20984f04f69936e6057feefe3d1",
+    "releaseInfo": [
+      {
+        "appId": "2420b50453144c07b3b847fff941275d",
+        "id": "e4a64af9c87d4bf9ad7f6ad2894a0eff",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sunless Sea",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,161 @@
+{
+  "app_name": "Lyra_5.6",
+  "app_title": "Lyra Starter Game",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Lyra_5.6",
+      "asset_id": "Lyra",
+      "build_version": "5.6.0-43139311+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "f9a8de067f8c4dc785bb8dda791972ea",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-09T23:10:26.836Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "93faede1-4434-47c0-85f1-bf27c0820ad0"
+      }
+    },
+    "description": "Lyra Starter Game",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "f9a8de067f8c4dc785bb8dda791972ea",
+    "entitlementType": "AUDIENCE",
+    "id": "f9a8de067f8c4dc785bb8dda791972ea",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-03T13:38:24.097Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Lyra_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-05-23T20:47:48.640Z",
+        "id": "7ae82f9e637b47739cb6d4f948a802ee",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.0"
+      },
+      {
+        "appId": "Lyra_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-05-23T20:47:48.640Z",
+        "id": "0d6a942313fd4076a749b8dfd15f9f15",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.1"
+      },
+      {
+        "appId": "Lyra_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-05-23T20:47:48.640Z",
+        "id": "e001909fd98f4fccac44196407e321ac",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.2"
+      },
+      {
+        "appId": "Lyra_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-05-23T20:47:48.640Z",
+        "id": "d641cf7534624d1b8061b43de12154cd",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.3"
+      },
+      {
+        "appId": "Lyra_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-05-23T20:47:48.640Z",
+        "id": "f112b79a431b4f6aac9d331a03626730",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.4"
+      },
+      {
+        "appId": "Lyra_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-05-23T20:47:48.640Z",
+        "id": "b1720671f7e94545b9a357d550ae5deb",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Lyra_5.5",
+        "versionTitle": "Lyra_5.5"
+      },
+      {
+        "appId": "Lyra_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-05-23T20:47:48.640Z",
+        "id": "91038f96fc1d4307a3b05cd69429b2a7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Lyra_5.6",
+        "versionTitle": "Lyra_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Lyra Starter Game",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

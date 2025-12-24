@@ -1,0 +1,268 @@
+{
+  "app_name": "AssetsClf7eb10bb1478V13",
+  "app_title": "Assets Cleaner - Project Cleaning Tool",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "AssetsClf7eb10bb1478V13",
+      "asset_id": "AssetsClf7eb10bb1478V13",
+      "build_version": "5.7.0-48207519+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "c9210c5e57f4484581c1f4cf8693f51a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-23T01:08:26.212Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "907039cf-f267-489e-afe4-7e74768e9b7a"
+      }
+    },
+    "description": "Assets Cleaner - Project Cleaning Tool",
+    "developer": "The Tool Shed",
+    "developerId": "o-pj89sb2cwz9rdb855s2la3qy5q7n8x",
+    "endOfSupport": false,
+    "entitlementName": "c9210c5e57f4484581c1f4cf8693f51a",
+    "entitlementType": "AUDIENCE",
+    "id": "c9210c5e57f4484581c1f4cf8693f51a",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-13T09:00:42.146Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "AssetsCleaner_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "ccbbd3eb01984908946fd63335476cc9",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "1.01 update: dependency AssetManagerEditor \n1.02: engine version \n1.03: OnEntryInit\n1.06: BPs\n107:ForceLoadonDelete+SlowScore",
+        "versionTitle": "Assets Cleaner 4.23 v1.07"
+      },
+      {
+        "appId": "AssetsCleaner_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "36f9ce597f9f4468b62257c582de9b15",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "1.03 update to 4.24\n1.04: OnEntryINit\n1.06: BPs\n107:ForceLoadonDelete+SlowScore",
+        "versionTitle": "Assets Cleaner 4.24 v1.07"
+      },
+      {
+        "appId": "AssetsCleaner_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "8fef3505c18848458d8e0e87a5953bab",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Windows",
+          "Win32"
+        ],
+        "releaseNote": "1.05 4.25 + deprecated Edit asset fix\n1.06: BPs\n107:ForceLoadonDelete+SlowScore",
+        "versionTitle": "Assets Cleaner 4.25 v1.07"
+      },
+      {
+        "appId": "AssetsCleaner_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "4b35c7eba50542dda9880d97f1cb5c60",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "2.00",
+        "versionTitle": "4.26"
+      },
+      {
+        "appId": "AssetsCleaner_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "91f894da605e41a0882c62458d597e10",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "2.00",
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "AssetsCleaner_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "a0969f8af5e64d169abfa62c1b9767fa",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "2.00",
+        "versionTitle": "5.00"
+      },
+      {
+        "appId": "AssetsCleaner_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "efab5949e9ee45a5b339d55bcc7484a8",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "releaseNote": "5.1",
+        "versionTitle": "5.10"
+      },
+      {
+        "appId": "AssetsCleaner_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "cabb5a245c434fa08940a61c98853d0b",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "5.2",
+        "versionTitle": "5.20"
+      },
+      {
+        "appId": "AssetsCleaner_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "65b512098dd948888333895332971936",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "5.30",
+        "versionTitle": "5.30"
+      },
+      {
+        "appId": "AssetsCleaner_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "9e0a73d013f845a18c66ee59e4e631dc",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Win32"
+        ],
+        "releaseNote": "5.40",
+        "versionTitle": "5.40"
+      },
+      {
+        "appId": "AssetsClae3a1b4cefa4V11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "288f220af38c46c88e5ab5fbad5bfec1",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "5.5",
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "AssetsCl9e0d816ac7e9V12",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "cc19828e12864a5faaac417ecdf5e966",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "5.6 upgrade",
+        "versionTitle": "5.6"
+      },
+      {
+        "appId": "AssetsClf7eb10bb1478V13",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-13T06:57:30.980Z",
+        "id": "03944f5d7f564301a786fd750d5de148",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "5.70"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Assets Cleaner - Project Cleaning Tool",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

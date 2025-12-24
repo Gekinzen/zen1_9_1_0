@@ -1,0 +1,39 @@
+{
+    "positionX": "right",
+    "positionY": "top",
+    "timeout": 10,
+    "timeout-low": 5,
+    "timeout-critical": 0,
+    "control-center-width": 400,
+    "control-center-height": 600,
+    
+    "widgets": [
+        "title",
+        "dnd",
+        "buttons-grid",
+        "notifications"
+    ],
+    
+    "widget-config": {
+        "title": {
+            "text": "Notifications",
+            "clear-all-button": true,
+            "button-text": "Clear"
+        },
+        "dnd": {
+            "text": "Do Not Disturb"
+        },
+        "buttons-grid": {
+            "actions": [
+                {
+                    "label": " Settings",
+                    "command": "~/.config/hypr/scripts/system-settings.sh"
+                },
+                {
+                    "label": " Power",
+                    "command": "~/.config/wlogout/launch-wlogout.sh"
+                }
+            ]
+        }
+    }
+}

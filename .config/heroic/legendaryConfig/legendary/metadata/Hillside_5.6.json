@@ -1,0 +1,132 @@
+{
+  "app_name": "Hillside_5.6",
+  "app_title": "Hillside Sample Project",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Hillside_5.6",
+      "asset_id": "Hillside",
+      "build_version": "5.6.1-44417358+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "4fd4ae2350b148bfbd591bc7d677b1cd",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-03T23:05:33.904Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "3277687b-a06f-4ef7-a285-63b981768c4a"
+      }
+    },
+    "description": "Hillside Sample Project",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "4fd4ae2350b148bfbd591bc7d677b1cd",
+    "entitlementType": "AUDIENCE",
+    "id": "4fd4ae2350b148bfbd591bc7d677b1cd",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-12T13:12:15.476Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Hillside_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-05-23T20:47:31.394Z",
+        "id": "128ad1d8de2c4854b0ef460921cb9797",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Hillside_5.2"
+      },
+      {
+        "appId": "Hillside_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-05-23T20:47:31.394Z",
+        "id": "0b02539ad7044184a3b43bf86f214f41",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Hillside_5.3"
+      },
+      {
+        "appId": "Hillside_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-05-23T20:47:31.394Z",
+        "id": "aa39488538f7431ba4ac88885233b812",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "Hillside_5.4"
+      },
+      {
+        "appId": "Hillside_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-05-23T20:47:31.394Z",
+        "id": "79b7453336b44df09d009566f42826a3",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Hillside_5.5",
+        "versionTitle": "Hillside_5.5"
+      },
+      {
+        "appId": "Hillside_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-05-23T20:47:31.394Z",
+        "id": "5aa44459bf674f43a288e32d833e32fd",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Hillside_5.6",
+        "versionTitle": "Hillside_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hillside Sample Project",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

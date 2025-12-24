@@ -1,0 +1,308 @@
+{
+  "app_name": "RootMoti2615eb1ac33cV20",
+  "app_title": "Root Motion Guide",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "RootMoti2615eb1ac33cV20",
+      "asset_id": "RootMoti2615eb1ac33cV20",
+      "build_version": "5.7.0-48249393+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "31e0892320e940aab6778dfeeb82771c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T16:33:45.713Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "dcf698d5-d696-4356-bdd5-ff0009128958"
+      }
+    },
+    "description": "Root Motion Guide",
+    "developer": "JU SIK LEE",
+    "developerId": "o-1ad0351586454b9bb6c10a834c4c7f",
+    "endOfSupport": false,
+    "entitlementName": "31e0892320e940aab6778dfeeb82771c",
+    "entitlementType": "AUDIENCE",
+    "id": "31e0892320e940aab6778dfeeb82771c",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-13T22:12:56.457Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "RootMotionGuidePlugin_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "ec3f9b59aef94076931fb5532aa45fff",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.16"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "1f4d9b4aafa048959f7371ced13e902b",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.17"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "205763ccd29e419ea1711dcefb593d2d",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.18"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "f9195c7827cf4e9a95d30b1271fd82a4",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.19"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "a6e0f4c4cb0e46599b136932b4d556a7",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.20"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "90a02cb416aa4e58ab012461dd8f6247",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.21"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "21e86e331d7d456db168b36fb18cfae1",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.22"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "bf2a960b6e164497bf35c263254ec03b",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.23"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "7cead226e1d042158d861557b8261b40",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.24"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "d77e21af5e3441c890ed24d0d6a6fe60",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.25"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "acee17dfcffc47369dc60e204e85d510",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "v 4.26"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "075959c2f64b43ceb0a7e76c9e627066",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 4.27"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "9393931957434ebeab3ffee61fe1d287",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 5.00"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "703860d74b2b49ddb4ea91e1074b8c25",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 5.01"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "b33c4d94c2764712b6e52e3abe2661f7",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 5.02"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "7cebbeefce594be0984df6fc62d20ef0",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 5.03"
+      },
+      {
+        "appId": "RootMotionGuidePlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "a498bc0ccf264da7840ce40474217a62",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 5.04"
+      },
+      {
+        "appId": "RootMoti3702b86e126eV18",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "d6c6afa3d81a425e8ee365c456f0c8e7",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 5.05"
+      },
+      {
+        "appId": "RootMotiaeece88a1b62V19",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "24cc3a51985a4c9eb19830ed7409898a",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 5.06"
+      },
+      {
+        "appId": "RootMoti2615eb1ac33cV20",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-13T15:24:25.569Z",
+        "id": "b7cefbc9d39c413ba767da1a0adfa983",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "V 5.07"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Root Motion Guide",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

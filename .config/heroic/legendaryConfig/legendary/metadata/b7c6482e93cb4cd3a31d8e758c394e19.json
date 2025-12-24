@@ -1,0 +1,84 @@
+{
+  "app_name": "b7c6482e93cb4cd3a31d8e758c394e19",
+  "app_title": "Rising Hell",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b7c6482e93cb4cd3a31d8e758c394e19",
+      "asset_id": "b7c6482e93cb4cd3a31d8e758c394e19",
+      "build_version": "1.2.0d",
+      "catalog_item_id": "3a5fc1b9bb9c418092b7bb797ad8f8f7",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "68020491cabd4d97b73ff691ca93e724"
+      },
+      "namespace": "8d123dcc4b5c4d168f7de7b3e1ed7d47",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-10-12T08:01:59.889Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "RisingHellxpIn4"
+      }
+    },
+    "description": "Rising Hell is a vertical platformer rogue-lite filled with adrenaline-pumping action and tons of heavy gothic metal shreds. Climb out from the ever-changing hell while you fight hordes of blood-lusting demons.",
+    "developer": "Toge Productions",
+    "developerId": "o-vrtlu8lxhjz8v6qujmyyydpxfz8ufz",
+    "endOfSupport": false,
+    "entitlementName": "3a5fc1b9bb9c418092b7bb797ad8f8f7",
+    "entitlementType": "EXECUTABLE",
+    "id": "3a5fc1b9bb9c418092b7bb797ad8f8f7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Download Rising Hell Offer",
+        "height": 1600,
+        "md5": "58c6413b0f903faed768f7c274f5a6be",
+        "size": 619389,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-01-07T03:52:14.736Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8f7e0537b57d4a14bdd11a3e719973a1/download-rising-hell-offer-wzrb8.jpg",
+        "width": 1200
+      },
+      {
+        "alt": "Rising Hell Offer",
+        "height": 1440,
+        "md5": "8abf0a2e3ded09d6df04e3709cc16bdb",
+        "size": 636621,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-01-07T03:52:15.545Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8f7e0537b57d4a14bdd11a3e719973a1/rising-hell-offer-gk6u6.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2025-03-10T08:01:43.457Z",
+    "mainGameItemList": [],
+    "namespace": "8d123dcc4b5c4d168f7de7b3e1ed7d47",
+    "releaseInfo": [
+      {
+        "appId": "b7c6482e93cb4cd3a31d8e758c394e19",
+        "id": "7089cd6a71e74d16b274271d64cae09f",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Rising Hell",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

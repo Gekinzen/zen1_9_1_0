@@ -1,0 +1,60 @@
+{
+  "app_name": "2b13608474e84e8fa436437d5eb69d57",
+  "app_title": "FANTASTIC - Village Pack Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/3d-dcc/blender"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/3d-dcc"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T08:08:57.591Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "52529a12-e88e-41a0-8834-b87306f20c24"
+      }
+    },
+    "description": "FANTASTIC - Village Pack",
+    "developer": "Tidal Flask Studios",
+    "developerId": "o-2vayk4a55dq53l24nlkbnrgz5q84qh",
+    "endOfSupport": false,
+    "entitlementName": "d66aaf5fde41426bb8b1fd10f448b0fd",
+    "entitlementType": "AUDIENCE",
+    "id": "d66aaf5fde41426bb8b1fd10f448b0fd",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-04T14:16:47.562Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "2b13608474e84e8fa436437d5eb69d57",
+        "compatibleApps": [],
+        "dateAdded": "2025-06-04T09:03:26.733Z",
+        "id": "c273542bb3234a8297a0c7587a48b70b",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "FANTASTIC - Village Pack Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

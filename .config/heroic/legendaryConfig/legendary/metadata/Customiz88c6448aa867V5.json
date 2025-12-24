@@ -1,0 +1,136 @@
+{
+  "app_name": "Customiz88c6448aa867V5",
+  "app_title": "Customizable Interaction Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Customiz88c6448aa867V5",
+      "asset_id": "Customiz88c6448aa867V5",
+      "build_version": "5.5.0-41446087+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "0234f1258e8b46ac8a6d6adeb480a1f4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-25T23:52:26.936Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "7e6057dc-e0b5-482a-ae0b-4746eaa2a693"
+      }
+    },
+    "description": "Customizable Interaction Plugin",
+    "developer": "Vinipi",
+    "developerId": "o-s45tc7qxtuaxd6bfmcwxqx5urnlapm",
+    "endOfSupport": false,
+    "entitlementName": "0234f1258e8b46ac8a6d6adeb480a1f4",
+    "entitlementType": "AUDIENCE",
+    "id": "0234f1258e8b46ac8a6d6adeb480a1f4",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-13T04:39:01.432Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "CustomizableInteractionPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-11T19:11:51.183Z",
+        "id": "e45b8e64785e480792284f34077273ce",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "CIP 2.0.6 5.2"
+      },
+      {
+        "appId": "CustomizableInteractionPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-11T19:11:51.183Z",
+        "id": "7da4c263d6a3442fad06461b82f2c071",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "CIP 2.0.6 5.3"
+      },
+      {
+        "appId": "CustomizableInteractionPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-11T19:11:51.183Z",
+        "id": "3c5a060cac9647d5b6e7e647aaf04739",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "CIP 2.0.6 5.4"
+      },
+      {
+        "appId": "Customiz88c6448aa867V5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-11T19:11:51.183Z",
+        "id": "33b55ae95099451f9b421d147a711334",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "CIP 2.0.6 5.5"
+      },
+      {
+        "appId": "Customizd578f7ba288dV6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-11T19:11:51.183Z",
+        "id": "504bd482d0424855b4a72485f44e3f1c",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "Win32",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "CIP 2.0.6 5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Customizable Interaction Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

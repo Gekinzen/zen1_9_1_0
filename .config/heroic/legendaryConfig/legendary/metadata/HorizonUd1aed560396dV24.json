@@ -1,0 +1,463 @@
+{
+  "app_name": "HorizonUd1aed560396dV24",
+  "app_title": "Horizon UI Plugin (DialogueMsgTextBlock and Flipbook)",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "HorizonUd1aed560396dV24",
+      "asset_id": "HorizonUd1aed560396dV24",
+      "build_version": "5.6.0-43324531+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "b7b607d1ca3243e1907b3ab2e94cc6f9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T16:37:27.849Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "8a023ac1-4071-4d7e-b515-eaef5fb9690e"
+      }
+    },
+    "description": "Horizon UI Plugin (DialogueMsgTextBlock and Flipbook)",
+    "developer": "horizon-studio",
+    "developerId": "o-985d1aeede4147821b6b0082e95f05",
+    "endOfSupport": false,
+    "entitlementName": "b7b607d1ca3243e1907b3ab2e94cc6f9",
+    "entitlementType": "AUDIENCE",
+    "id": "b7b607d1ca3243e1907b3ab2e94cc6f9",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-07T00:10:37.690Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "HorizonUIPlugin_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "05f87d2fed204138925a00bbe4202ce0",
+        "platform": [
+          "Android",
+          "Mac",
+          "Windows",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "iOS",
+          "Gear VR",
+          "HTML5",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "4.18"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "bd45f4ba42634046aa323cd3e3dd03ac",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Android",
+          "Xbox One",
+          "HTML5",
+          "Linux",
+          "Gear VR",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "iOS"
+        ],
+        "versionTitle": "4.19"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "34cef8a50ab64e3ea73154534412346b",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "HTML5",
+          "Linux",
+          "Gear VR",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "4.20"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "b1cbadf5963e46828ea835f1c3abea52",
+        "platform": [
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Xbox One",
+          "Android",
+          "iOS",
+          "PS4",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "4.21"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "59012503128f4619b96cb96598ddb542",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Mac",
+          "Linux",
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus"
+        ],
+        "versionTitle": "4.22"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "a89a88d84f85498a96f07f60869dbc91",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus"
+        ],
+        "versionTitle": "4.23"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "48927f31b4054e219c9874b7b6876091",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "HTML5"
+        ],
+        "versionTitle": "4.24"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "f1ed36ac98334d8cbdb6d4e7f0d0d205",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus"
+        ],
+        "versionTitle": "4.25"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "34c8609fc6af49499f6e82b2d937fb65",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "4.26"
+      },
+      {
+        "appId": "HorizonUIPlugin_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "8d4dee88c92447b38e2c6b9ad0853886",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "HorizonUIPlugin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "b07112d1bd8c44d8a082cf4de4f34f25",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "5.0"
+      },
+      {
+        "appId": "HorizonUIPlugin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "f1b3c404b29d428bbd2487d6016f3801",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "HTML5",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "5.1"
+      },
+      {
+        "appId": "HorizonUIPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "8ed3559136fb43b58dc5ae484040885d",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "5.2"
+      },
+      {
+        "appId": "HorizonUIPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "112172f29ad842d78689ebcadfe6df6f",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "5.3"
+      },
+      {
+        "appId": "HorizonUIPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "eb2b557a222f454a99590b817c19cee6",
+        "platform": [
+          "Gear VR",
+          "Android",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "5.4_v1"
+      },
+      {
+        "appId": "HorizonU55e6891c72e1V23",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "a338609203424369b20b419ed0ff8f89",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "* [New] Add EditorCustomVirtualPath\n\n* [BugFix] Fix SetTextAndRebuildDialogue and intermediate issues for the rvalue reference version.\n\n* [New][DialogueMsgTextBlock] Implement Force Rebuild option to SetTextAndRebuildDialogue",
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "HorizonUd1aed560396dV24",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-06T14:03:25.286Z",
+        "id": "59dac909408c42859aa261d78e9541fd",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Horizon UI Plugin (DialogueMsgTextBlock and Flipbook)",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

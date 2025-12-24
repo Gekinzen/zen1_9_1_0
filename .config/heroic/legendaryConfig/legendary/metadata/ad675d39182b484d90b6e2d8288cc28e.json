@@ -1,0 +1,57 @@
+{
+  "app_name": "ad675d39182b484d90b6e2d8288cc28e",
+  "app_title": "Footstep and Foley Sounds Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format/additional-files"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-12-10T15:30:24.507Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "fb821f3a-99ef-4583-a70e-d7164f033176"
+      }
+    },
+    "description": "Footstep and Foley Sounds",
+    "developer": "Gamemaster Audio",
+    "developerId": "o-67d2473c6a4df3b991a8af3ee5bf89",
+    "endOfSupport": false,
+    "entitlementName": "57926f7a0a98433393350f0822f2d548",
+    "entitlementType": "AUDIENCE",
+    "id": "57926f7a0a98433393350f0822f2d548",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-12-10T15:30:24.750Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ad675d39182b484d90b6e2d8288cc28e",
+        "compatibleApps": [],
+        "dateAdded": "2024-12-10T02:23:26.695Z",
+        "id": "a959645a30604f63aa3293a4d9611726",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Footstep and Foley Sounds Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

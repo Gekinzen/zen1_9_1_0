@@ -1,0 +1,103 @@
+{
+  "app_name": "7ec86711ef70447fbfd4370ba9f185c6",
+  "app_title": "Felix The Reaper",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7ec86711ef70447fbfd4370ba9f185c6",
+      "asset_id": "7ec86711ef70447fbfd4370ba9f185c6",
+      "build_version": "0.1.4",
+      "catalog_item_id": "8226917a74314cf083721ff439fd3107",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f9520dc2f3eb48f38d1dc1b5dc2ec345",
+        "update_type": "PATCH"
+      },
+      "namespace": "77882e466fc140cdb20ea0c72fca9f93",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567YSHXAryzbILyC4Aci5YHQwCS",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-10-27T06:40:29.464Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Daedalic Entertainment GmbH/Felix The Reaper/Data/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Daedalic Entertainment GmbH/Felix The Reaper/Data/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FelixtheReaper"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "3"
+      }
+    },
+    "description": "Felix The Reaper",
+    "developer": "Daedalic Entertainment",
+    "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "endOfSupport": false,
+    "entitlementName": "8226917a74314cf083721ff439fd3107",
+    "entitlementType": "EXECUTABLE",
+    "id": "8226917a74314cf083721ff439fd3107",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Felix the Reaper Offer",
+        "height": 1440,
+        "md5": "f15eec3b35efb068eaf2cd540600a175",
+        "size": 1061985,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-09-12T15:11:25.209Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-1o4va.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Felix the Reaper Offer",
+        "height": 1600,
+        "md5": "093bb85fa653211dedb88e16559d7368",
+        "size": 2342888,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-09-12T15:11:24.297Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-1w390.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-27T06:40:29.464Z",
+    "mainGameItemList": [],
+    "namespace": "77882e466fc140cdb20ea0c72fca9f93",
+    "releaseInfo": [
+      {
+        "appId": "7ec86711ef70447fbfd4370ba9f185c6",
+        "id": "73ee5ade99814bcfa91ed8fdf3e76571",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Felix The Reaper",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

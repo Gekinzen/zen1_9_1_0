@@ -1,0 +1,525 @@
+{
+  "app_name": "ContentExamples_5.6",
+  "app_title": "Content Examples",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ContentExamples_5.6",
+      "asset_id": "ContentExamples",
+      "build_version": "5.6.1-44417358+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "6adf06a19ef8440bb6e83920c43b11ab",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-03T21:14:33.835Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "4d251261-d98c-48e2-baee-8f4e47c67091"
+      }
+    },
+    "description": "Content Examples",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "6adf06a19ef8440bb6e83920c43b11ab",
+    "entitlementType": "AUDIENCE",
+    "id": "6adf06a19ef8440bb6e83920c43b11ab",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-19T17:46:24.858Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ContentExamples_4.0",
+        "compatibleApps": [
+          "UE_4.0"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "fbb93995f3ec4e90a5c7fc34a45dd18c",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.0"
+      },
+      {
+        "appId": "ContentExamples_4.1",
+        "compatibleApps": [
+          "UE_4.1"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "cff19ff5e8ef4f0db2aca51b5224a247",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.1"
+      },
+      {
+        "appId": "ContentExamples_4.10",
+        "compatibleApps": [
+          "UE_4.10"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "4d7dfc7930d546e4b050174d84fd29b8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.10"
+      },
+      {
+        "appId": "ContentExamples_4.11",
+        "compatibleApps": [
+          "UE_4.11"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "5c467620704941c5a706f3a00c769a1e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.11"
+      },
+      {
+        "appId": "ContentExamples_4.12",
+        "compatibleApps": [
+          "UE_4.12"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "645358f0858d45b38e6b64d03bf9efc8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.12"
+      },
+      {
+        "appId": "ContentExamples_4.13",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "dc41d122bc4548fba09ee86b9ffab523",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.13"
+      },
+      {
+        "appId": "ContentExamples_4.14",
+        "compatibleApps": [
+          "UE_4.14"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "d53e8ae6426a40f68ab408385c5ec5b7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.14"
+      },
+      {
+        "appId": "ContentExamples_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "014344b2ed864a9c945b0462094a927d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.15"
+      },
+      {
+        "appId": "ContentExamples_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "a74b5329e7254679b77a802000b86594",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.16"
+      },
+      {
+        "appId": "ContentExamples_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "ab5c54f815b0414eb9693fcc7e2d01cc",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.17"
+      },
+      {
+        "appId": "ContentExamples_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "e7568f4e0f7a465faa12aae23d550e1e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.18"
+      },
+      {
+        "appId": "ContentExamples_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "993a2e9544704ed8863dc92f26705010",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.19"
+      },
+      {
+        "appId": "ContentExamples_4.2",
+        "compatibleApps": [
+          "UE_4.2"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "fe364111d0904f878c33459473e49372",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.2"
+      },
+      {
+        "appId": "ContentExamples_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "70f9dd751c3843bd8621581e2e8dd67c",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.20"
+      },
+      {
+        "appId": "ContentExamples_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "f2dc964baf034af9a204c9d1cabb337f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.21"
+      },
+      {
+        "appId": "ContentExamples_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "2266bf98b38a4fe1a0374874013560c4",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.22"
+      },
+      {
+        "appId": "ContentExamples_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "e621fec4acf841fd86334c75e815688d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.23"
+      },
+      {
+        "appId": "ContentExamples_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "84de220560db4450809affcefc40b608",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.24"
+      },
+      {
+        "appId": "ContentExamples_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "48eada3a8ef84a81b09af673bb9ec06e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.25"
+      },
+      {
+        "appId": "ContentExamples_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "d714f8dcb46a481bba720c5ce662b1bf",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.26"
+      },
+      {
+        "appId": "ContentExamples_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "b180aa2274424e9882c6f08e665f6454",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.27"
+      },
+      {
+        "appId": "ContentExamples_4.3",
+        "compatibleApps": [
+          "UE_4.3"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "21d12a36978644f1abcdadca8313a347",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.3"
+      },
+      {
+        "appId": "ContentExamples_4.4",
+        "compatibleApps": [
+          "UE_4.4"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "55d715e7493e4e7fb813c74606dff302",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.4"
+      },
+      {
+        "appId": "ContentExamples_4.5",
+        "compatibleApps": [
+          "UE_4.5"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "13beaed42bdc4f61951f28e278ab9bc5",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.5"
+      },
+      {
+        "appId": "ContentExamples_4.6",
+        "compatibleApps": [
+          "UE_4.6"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "a0047576479c47b0b62abaf3acc1abf2",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.6"
+      },
+      {
+        "appId": "ContentExamples_4.7",
+        "compatibleApps": [
+          "UE_4.7"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "25c6765ffcaf4aefa353dd3c2f27ca5b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.7"
+      },
+      {
+        "appId": "ContentExamples_4.8",
+        "compatibleApps": [
+          "UE_4.8"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "2e3c155044f543a8a89e04c5aad7b80f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.8"
+      },
+      {
+        "appId": "ContentExamples_4.9",
+        "compatibleApps": [
+          "UE_4.9"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "cb8066e7eed244f78cb74b2eb3f4862e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_4.9"
+      },
+      {
+        "appId": "ContentExamples_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "4cebe9c24ef346099921b91109483b8f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_5.0"
+      },
+      {
+        "appId": "ContentExamples_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "3148274833be40f98aef3870eab73c72",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_5.1"
+      },
+      {
+        "appId": "ContentExamples_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "4409228cd68149d1bace43f569b3c6e2",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_5.2"
+      },
+      {
+        "appId": "ContentExamples_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "8346468e14924be5922390cd7bfeb5f3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_5.3"
+      },
+      {
+        "appId": "ContentExamples_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "596b714a39674c9c9868e0775f43d68c",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ContentExamples_5.4"
+      },
+      {
+        "appId": "ContentExamples_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "fd4e0520055c4ee1ade031c58bd40311",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "ContentExamples_5.5",
+        "versionTitle": "ContentExamples_5.5"
+      },
+      {
+        "appId": "ContentExamples_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-19T16:44:03.874Z",
+        "id": "97e13a3ff2214709a1bea4dfae1793ce",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "ContentExamples_5.6",
+        "versionTitle": "ContentExamples_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Content Examples",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

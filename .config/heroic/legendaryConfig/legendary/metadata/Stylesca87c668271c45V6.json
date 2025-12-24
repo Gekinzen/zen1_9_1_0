@@ -1,0 +1,175 @@
+{
+  "app_name": "Stylesca87c668271c45V6",
+  "app_title": "Stylescape: Stylized Environment Kit",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Stylesca87c668271c45V6",
+      "asset_id": "Stylesca87c668271c45V6",
+      "build_version": "5.6.0-41780565+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "60b1701aa11540ceba202c679717aaee",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T22:40:34.097Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "a3f468c4-6c98-47b1-9da0-277acc235834"
+      }
+    },
+    "description": "Stylescape: Stylized Environment Kit",
+    "developer": "Nick Kochman",
+    "developerId": "o-uemlzcm4rvg8l788ucxeds5jh382um",
+    "endOfSupport": false,
+    "entitlementName": "60b1701aa11540ceba202c679717aaee",
+    "entitlementType": "AUDIENCE",
+    "id": "60b1701aa11540ceba202c679717aaee",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-27T14:06:46.758Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Stylesca2110e3a353bdV6",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-26T21:52:25.435Z",
+        "id": "760f45900040409191f30d12e1aef219",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Windows",
+          "Win32",
+          "Android"
+        ],
+        "releaseNote": "4.24 - v1.5 RVT & Normals",
+        "versionTitle": "Stylescape_v1.5_4.24"
+      },
+      {
+        "appId": "Stylesca2110e3a353bdV7",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-26T21:52:25.435Z",
+        "id": "e7f1d1a78e3b48ef9a501bef7a4d26bf",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Win32",
+          "Windows",
+          "Android"
+        ],
+        "releaseNote": "4.25 - v1.5 RVT & Normals",
+        "versionTitle": "Stylescape_v1.5_4.25"
+      },
+      {
+        "appId": "Stylesca2110e3a353bdV8",
+        "compatibleApps": [
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-26T21:52:25.435Z",
+        "id": "a9651d1026474fae86f1d850516e4d74",
+        "platform": [
+          "Linux",
+          "Win32",
+          "Windows",
+          "Mac",
+          "Android"
+        ],
+        "releaseNote": "4.26 - v1.5 RVT & Normals",
+        "versionTitle": "Stylescape_v1.5_4.26"
+      },
+      {
+        "appId": "Stylesca2110e3a353bdV9",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-26T21:52:25.435Z",
+        "id": "c9d886795e6b4a2389d8577006f089d6",
+        "platform": [
+          "Android",
+          "Mac",
+          "Windows",
+          "Win32",
+          "Linux"
+        ],
+        "releaseNote": "5.00",
+        "versionTitle": "Stylescape_v1.5_5.02"
+      },
+      {
+        "appId": "Stylesca2110e3a353bdV10",
+        "compatibleApps": [
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-26T21:52:25.435Z",
+        "id": "c9249b5530744d898d8ddb84bc9ca46a",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Linux",
+          "Android",
+          "Windows"
+        ],
+        "releaseNote": "5.1 - Enabled Nanite on grass, landscape, rocks, updated Demo_RVT",
+        "versionTitle": "Stylescape_v1.5_5.1"
+      },
+      {
+        "appId": "Stylesca87c668271c45V6",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-26T21:52:25.435Z",
+        "id": "57335a87439240d386be172956162d67",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Android",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Nintendo Switch",
+          "Xbox One",
+          "PS4",
+          "iOS",
+          "Oculus"
+        ],
+        "releaseNote": "Latest version for 5.5+",
+        "versionTitle": "Stylescape_v1.6_5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Stylescape: Stylized Environment Kit",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

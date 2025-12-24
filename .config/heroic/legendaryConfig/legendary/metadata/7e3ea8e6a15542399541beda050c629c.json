@@ -1,0 +1,84 @@
+{
+  "app_name": "7e3ea8e6a15542399541beda050c629c",
+  "app_title": "The Darkside Detective",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7e3ea8e6a15542399541beda050c629c",
+      "asset_id": "7e3ea8e6a15542399541beda050c629c",
+      "build_version": "2.17.0.4323",
+      "catalog_item_id": "166da88e9a664bafa4a611b883355363",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "7ee1db3a7ff247178923107023a47326"
+      },
+      "namespace": "29857990e5434b7db5dd026ef18dbc96",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-09-29T20:10:42.781Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheDarksideDetectivehsD4J"
+      }
+    },
+    "description": "Grab your trench coat, tune your sixth sense and join the Darkside Division as they investigate the bizarre, the downright dangerous and the mildly confusing cases of Twin Lakes.",
+    "developer": "Akupara Games",
+    "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+    "endOfSupport": false,
+    "entitlementName": "166da88e9a664bafa4a611b883355363",
+    "entitlementType": "EXECUTABLE",
+    "id": "166da88e9a664bafa4a611b883355363",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "The Darkside Detective Offer",
+        "height": 1440,
+        "md5": "21626ca36495a26ca98c50fe5b8c94b2",
+        "size": 218412,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-30T21:51:05.052Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-offer-y3rod.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download The Darkside Detective Offer",
+        "height": 1600,
+        "md5": "cdc4c3c7a206ab5f38399336c402fdd6",
+        "size": 144799,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-30T21:51:06.449Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/download-the-darkside-detective-offer-1p2jt.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-08-20T00:02:38.838Z",
+    "mainGameItemList": [],
+    "namespace": "29857990e5434b7db5dd026ef18dbc96",
+    "releaseInfo": [
+      {
+        "appId": "7e3ea8e6a15542399541beda050c629c",
+        "id": "1bb8c0a68a53469aab3e9eed2cdc3dfe",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Darkside Detective",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

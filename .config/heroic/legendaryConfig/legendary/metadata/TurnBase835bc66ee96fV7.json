@@ -1,0 +1,176 @@
+{
+  "app_name": "TurnBase835bc66ee96fV7",
+  "app_title": "Turn-Based RPG Template",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "TurnBase835bc66ee96fV7",
+      "asset_id": "TurnBase835bc66ee96fV7",
+      "build_version": "5.7.0-43588347+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "11510fb6fa76497eb16b461a9ad5b50a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-29T08:23:42.199Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "65499bdc-b071-4433-bbbf-bfa6bb6ad192"
+      }
+    },
+    "description": "Turn-Based RPG Template",
+    "developer": "Phoenix Market",
+    "developerId": "o-825s47v79w7dtb9z2thc4hks8b9sy6",
+    "endOfSupport": false,
+    "entitlementName": "11510fb6fa76497eb16b461a9ad5b50a",
+    "entitlementType": "AUDIENCE",
+    "id": "11510fb6fa76497eb16b461a9ad5b50a",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-17T19:06:24.237Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "TurnBase6bde39abf032V1",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-17T18:14:44.050Z",
+        "id": "4e86014d65574c4b88596e7ba56262f3",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Core functionalities",
+        "versionTitle": "v1.0.0"
+      },
+      {
+        "appId": "TurnBase6bde39abf032V2",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-17T18:14:44.050Z",
+        "id": "efd4b4a6047843eea4a03ac9fc283834",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "4.21",
+        "versionTitle": "v1.0.1"
+      },
+      {
+        "appId": "TurnBase6bde39abf032V3",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-17T18:14:44.050Z",
+        "id": "c4c22e8998b14ee1add0eaf1acc8a098",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Jump Attack",
+        "versionTitle": "v2.0.0"
+      },
+      {
+        "appId": "TurnBase6bde39abf032V4",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-17T18:14:44.050Z",
+        "id": "92e0a7752b9b4682af993b77ef35c905",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "iOS",
+          "Android"
+        ],
+        "releaseNote": "Mobile support\nMultiple Skills",
+        "versionTitle": "v3.1.0"
+      },
+      {
+        "appId": "TurnBase6bde39abf032V5",
+        "compatibleApps": [
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27",
+          "UE_5.0",
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-17T18:14:44.050Z",
+        "id": "b8d95f93a917478b9cff89c79b4e7688",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Android",
+          "iOS"
+        ],
+        "releaseNote": "UE5",
+        "versionTitle": "v4.0.0"
+      },
+      {
+        "appId": "TurnBase6bde39abf032V6",
+        "compatibleApps": [
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4",
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-17T18:14:44.050Z",
+        "id": "a53c5e6ca72144e3835d74c83b9a06bb",
+        "platform": [
+          "Android",
+          "iOS",
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "releaseNote": "UE 5.5",
+        "versionTitle": "v4.1.2"
+      },
+      {
+        "appId": "TurnBase835bc66ee96fV7",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-17T18:14:44.050Z",
+        "id": "06de93ecb736438bb0f23e9abb06d84a",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android"
+        ],
+        "releaseNote": "UE 5.6",
+        "versionTitle": "v4.1.3"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Turn-Based RPG Template",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

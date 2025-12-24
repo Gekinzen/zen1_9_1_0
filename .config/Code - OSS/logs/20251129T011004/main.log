@@ -1,0 +1,4 @@
+2025-11-29 01:10:04.465 [info] update#setState disabled
+2025-11-29 01:10:04.466 [info] update#ctor - updates are disabled as there is no update URL
+2025-11-29 01:11:12.738 [info] Extension host with pid 626981 exited with code: 0, signal: unknown.
+2025-11-29 01:11:12.771 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 626997]: crashed with code 15 and reason 'killed'

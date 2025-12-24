@@ -1,0 +1,57 @@
+{
+  "app_name": "f3bb2fa984d54873818a20eac54215e1",
+  "app_title": "Ultimate Ship Package / 110+ Assets Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format/additional-files"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-21T14:42:31.374Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "cf6e51d6-4ccd-4cf4-8d34-ddb2500f6b8d"
+      }
+    },
+    "description": "Ultimate Ship Package / 110+ Assets",
+    "developer": "PackDev",
+    "developerId": "o-d5f0d02bff40ca904af9eaa049160e",
+    "endOfSupport": false,
+    "entitlementName": "f471270af4ed4c1d91e350e89f7bcf51",
+    "entitlementType": "AUDIENCE",
+    "id": "f471270af4ed4c1d91e350e89f7bcf51",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-25T21:13:31.640Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "f3bb2fa984d54873818a20eac54215e1",
+        "compatibleApps": [],
+        "dateAdded": "2025-06-25T11:05:59.812Z",
+        "id": "55a28af98a38404dbdf66c57a0ec2642",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Ultimate Ship Package / 110+ Assets Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

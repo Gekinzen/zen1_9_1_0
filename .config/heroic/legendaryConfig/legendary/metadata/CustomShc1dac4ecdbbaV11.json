@@ -1,0 +1,315 @@
+{
+  "app_name": "CustomShc1dac4ecdbbaV11",
+  "app_title": "Custom Shape Volumes",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "CustomShc1dac4ecdbbaV11",
+      "asset_id": "CustomShc1dac4ecdbbaV11",
+      "build_version": "5.6.0-38641114+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "8128a34e565e4000b51eae211b180a98",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-19T20:44:12.757Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "99ffbeaa-3b55-41ae-8a70-c52bde54bfdc"
+      }
+    },
+    "description": "Custom Shape Volumes",
+    "developer": "Tim van Kan",
+    "developerId": "o-6e53bbfb9c4bf1a57d9ea2569ad88f",
+    "endOfSupport": false,
+    "entitlementName": "8128a34e565e4000b51eae211b180a98",
+    "entitlementType": "AUDIENCE",
+    "id": "8128a34e565e4000b51eae211b180a98",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-13T13:38:24.687Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "CustomSh394a9fdca27cV1",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "8d15ee58ea4f4503909319a3e0e68160",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac"
+        ],
+        "versionTitle": "4_20_4"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV2",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "3575c069c158472a842bb0f1b884394e",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac"
+        ],
+        "versionTitle": "4_21_4"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV3",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "5a95c162b4a34d86a7ffaf9f784124e5",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac"
+        ],
+        "versionTitle": "4_22_4"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV4",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "be996237436e4704ad0a64bf6b931fe8",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac"
+        ],
+        "versionTitle": "4_23_4"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV5",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "7467aafbb9e74a28bb8040f41ef3bd21",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac"
+        ],
+        "versionTitle": "4_24_4"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV6",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "81ab1ee293154589bf0e8f18a76b459e",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Xbox One"
+        ],
+        "versionTitle": "4_25_4"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV12",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "8982603cbc7f4e13979795b07a6dd12f",
+        "platform": [
+          "Mac",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "4_26_4"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV13",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "e230340bc9074e81a86784222a43270f",
+        "platform": [
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "4_27_4"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV14",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "fbf923fa892d4b389816861bbad461f9",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "5_01"
+      },
+      {
+        "appId": "CustomSh394a9fdca27cV15",
+        "compatibleApps": [
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "5e63c7f4667b40d48bfa610744fbc730",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Nintendo Switch",
+          "Linux"
+        ],
+        "versionTitle": "5_1"
+      },
+      {
+        "appId": "CustomShc1dac4ecdbbaV11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "8bb7eb5c52b44bf9a99742c00c39701d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5"
+        ],
+        "releaseNote": "Fixed a mesh issue that would cause a crash when migrated to a new template project.",
+        "versionTitle": "Version 5 (5.5)"
+      },
+      {
+        "appId": "CustomSh293546b1034eV12",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-13T11:18:25.914Z",
+        "id": "2604cb41516c44c1aebe7ad17904dfdc",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "Disabled a plugin that's not supported in 5.6",
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Custom Shape Volumes",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

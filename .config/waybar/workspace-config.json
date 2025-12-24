@@ -1,0 +1,20 @@
+{
+    "hyprland/workspaces": {
+        "active-only": false,
+        "all-outputs": false,
+        "show-special": false,
+        "on-click": "activate",
+        "format": "{icon}",
+        "on-scroll-up": "hyprctl dispatch workspace m+1",
+        "on-scroll-down": "hyprctl dispatch workspace m-1",
+        "format-icons": {
+            "active": "",
+            "default": "",
+            "empty": ""
+        },
+        "persistent-workspaces": {
+            "DP-2": [1, 2, 3, 4, 5],
+            "HDMI-A-1": [6, 7, 8, 9, 10]
+        }
+    }
+}

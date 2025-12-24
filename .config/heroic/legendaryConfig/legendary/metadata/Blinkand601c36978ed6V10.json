@@ -1,0 +1,237 @@
+{
+  "app_name": "Blinkand601c36978ed6V10",
+  "app_title": "Blink and Dash VFX",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Blinkand601c36978ed6V10",
+      "asset_id": "Blinkand601c36978ed6V10",
+      "build_version": "5.7.0-43532706+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "bc98e152b00e46b985965db7e25b367a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T02:21:47.984Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "56a0da7b-7819-4dee-bf47-109051c2023a"
+      }
+    },
+    "description": "Blink and Dash VFX",
+    "developer": "pelengami",
+    "developerId": "o-d4x4mwkjyad7ghxvaurf78cy8jun4v",
+    "endOfSupport": false,
+    "entitlementName": "bc98e152b00e46b985965db7e25b367a",
+    "entitlementType": "AUDIENCE",
+    "id": "bc98e152b00e46b985965db7e25b367a",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-16T07:42:24.423Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Blinkandc1f2159299d5V1",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "2cbae4b3757d4119814fbdc5b64598b7",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Mac",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "4.25"
+      },
+      {
+        "appId": "Blinkandc1f2159299d5V2",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "f3b05721a973426587762534a3bc29c4",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Mac",
+          "iOS",
+          "Android"
+        ],
+        "versionTitle": "4.26"
+      },
+      {
+        "appId": "Blinkandc1f2159299d5V3",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "2a25af25f3204818aa383d086ce81a20",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Mac",
+          "iOS",
+          "Android"
+        ],
+        "releaseNote": "Updated to 4.27",
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "Blinkandc1f2159299d5V4",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "3aed91b9946146c98970ff4ab5493d15",
+        "platform": [
+          "Mac",
+          "Android",
+          "iOS",
+          "PS4",
+          "Win32",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "5.03"
+      },
+      {
+        "appId": "Blinkandc1f2159299d5V6",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "ec95bf53c503479a8b480904d9f76d21",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Mac",
+          "iOS",
+          "Android"
+        ],
+        "versionTitle": "5.1"
+      },
+      {
+        "appId": "Blinkandc1f2159299d5V7",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "c838be5b46f94c82825e9083b06776f8",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "Mac",
+          "PS4",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "5.2"
+      },
+      {
+        "appId": "Blinkandc1f2159299d5V8",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "3b463004f2724b16a859af717c410347",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "PS4",
+          "Linux",
+          "iOS",
+          "Android"
+        ],
+        "versionTitle": "5.3"
+      },
+      {
+        "appId": "Blinkandc1f2159299d5V9",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "cc4668eb56514bcc9024f3ab64339925",
+        "platform": [
+          "Xbox One",
+          "Win32",
+          "Android",
+          "iOS",
+          "PS4",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "Blinkand7516572ae3aaV9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "cc22d3570cfe472a915279bc5d9ae4b5",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "5.5.1"
+      },
+      {
+        "appId": "Blinkand601c36978ed6V10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-16T02:53:25.799Z",
+        "id": "abbdb557117547b28965f1a98ae56eaf",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Blink and Dash VFX",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

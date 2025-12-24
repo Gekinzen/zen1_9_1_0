@@ -1,0 +1,221 @@
+{
+  "app_name": "StatsAchcdadabf87305V11",
+  "app_title": "Stats & Achievements Integration",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "StatsAchcdadabf87305V11",
+      "asset_id": "StatsAchcdadabf87305V11",
+      "build_version": "5.6.0-43612941+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "0886ea16e01a450ab2adf5c4f5c6c18e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-13T13:42:25.918Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "c7c895bc-d525-4bb0-b462-7e0a107052d0"
+      }
+    },
+    "description": "Stats & Achievements Integration",
+    "developer": "Deverse",
+    "developerId": "o-2e60fd92f549028425ce55aa850eba",
+    "endOfSupport": false,
+    "entitlementName": "0886ea16e01a450ab2adf5c4f5c6c18e",
+    "entitlementType": "AUDIENCE",
+    "id": "0886ea16e01a450ab2adf5c4f5c6c18e",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-18T16:48:27.831Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "StatsIntegration_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "79db52fa2c3f42c288c014b2cc119bb4",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "UE4.25"
+      },
+      {
+        "appId": "StatsIntegration_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "6e491d9cd4974af38dc2b1361ec87582",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "UE4.26"
+      },
+      {
+        "appId": "StatsIntegration_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "99f1a7a7f50446719263c80ae0592911",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "UE4.27"
+      },
+      {
+        "appId": "StatsIntegration_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "2707a7a62150406598ca24600fc7f9c8",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "UE5.0"
+      },
+      {
+        "appId": "StatsIntegration_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "d70f4b1924514b949b34cc2650352ec7",
+        "platform": [
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "UE5.1"
+      },
+      {
+        "appId": "StatsIntegration_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "d7b7989ba3cf4e40a5d6921aeae23a63",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "UE5.2"
+      },
+      {
+        "appId": "StatsIntegration_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "0fb5004bbf8a4d5a8bb3c6c23e233777",
+        "platform": [
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "UE5.3"
+      },
+      {
+        "appId": "StatsIntegration_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "5f643609d91b4507b13a20d26a6ed91e",
+        "platform": [
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "UE5.4"
+      },
+      {
+        "appId": "StatsAchcb29522cc52dV10",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "0da541f7490a458a81c15cfd15b5d254",
+        "platform": [
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "UE5.5"
+      },
+      {
+        "appId": "StatsAchcdadabf87305V11",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-18T00:27:41.022Z",
+        "id": "bb964d8b56fe40c3977edb49f608950c",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "UE5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Stats & Achievements Integration",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

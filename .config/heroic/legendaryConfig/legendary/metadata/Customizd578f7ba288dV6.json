@@ -1,0 +1,150 @@
+{
+  "app_name": "Customizd578f7ba288dV6",
+  "app_title": "Customizable Interaction Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Customizd578f7ba288dV6",
+      "asset_id": "Customizd578f7ba288dV6",
+      "build_version": "5.6.0-48539038+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "0234f1258e8b46ac8a6d6adeb480a1f4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-25T23:52:26.936Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "7e6057dc-e0b5-482a-ae0b-4746eaa2a693"
+      }
+    },
+    "description": "Customizable Interaction Plugin",
+    "developer": "Vinipi",
+    "developerId": "o-s45tc7qxtuaxd6bfmcwxqx5urnlapm",
+    "endOfSupport": false,
+    "entitlementName": "0234f1258e8b46ac8a6d6adeb480a1f4",
+    "entitlementType": "AUDIENCE",
+    "id": "0234f1258e8b46ac8a6d6adeb480a1f4",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-29T18:59:24.211Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "CustomizableInteractionPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-21T00:24:25.740Z",
+        "id": "9e27d4ba698245089f66adfb5af13c86",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "CIP 2.0.6 5.2"
+      },
+      {
+        "appId": "CustomizableInteractionPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-21T00:24:25.740Z",
+        "id": "b75535ddc12e47ef9eba788327c0c088",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "CIP 2.0.6 5.3"
+      },
+      {
+        "appId": "CustomizableInteractionPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-21T00:24:25.740Z",
+        "id": "6630025ed52045c7927ffd15d4a66ed6",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "CIP 2.0.6 5.4"
+      },
+      {
+        "appId": "Customiz88c6448aa867V5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-21T00:24:25.740Z",
+        "id": "5adbc7216f3d4cbd96b756c395693f3b",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "CIP 2.0.6 5.5"
+      },
+      {
+        "appId": "Customizd578f7ba288dV6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-21T00:24:25.740Z",
+        "id": "124da35631ef4e9f8a4095ab63eab501",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "Win32",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "Few changes",
+        "versionTitle": "CIP 2.0.6 5.6"
+      },
+      {
+        "appId": "Customiz6d7244610d87V7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-21T00:24:25.740Z",
+        "id": "855b0f3d6ce54e4faf273345460a8375",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Added support to 5.7",
+        "versionTitle": "CIP 2.0.7 5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Customizable Interaction Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

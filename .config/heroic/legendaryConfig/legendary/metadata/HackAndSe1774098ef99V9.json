@@ -1,0 +1,240 @@
+{
+  "app_name": "HackAndSe1774098ef99V9",
+  "app_title": "Hack And Slash FX",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "HackAndSe1774098ef99V9",
+      "asset_id": "HackAndSe1774098ef99V9",
+      "build_version": "5.6.0-39472019+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "98d4f299f7264423b3e40fda4a6b7011",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T02:21:28.525Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "5bdb4c57-6bea-452d-9e93-533a52bed4e2"
+      }
+    },
+    "description": "Hack And Slash FX",
+    "developer": "pelengami",
+    "developerId": "o-d4x4mwkjyad7ghxvaurf78cy8jun4v",
+    "endOfSupport": false,
+    "entitlementName": "98d4f299f7264423b3e40fda4a6b7011",
+    "entitlementType": "AUDIENCE",
+    "id": "98d4f299f7264423b3e40fda4a6b7011",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-16T07:35:34.411Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "HackAndS2df97f9aa5a7V1",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "6082b2a475a245a9b485aa0a20ebda8c",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Xbox One",
+          "PS4",
+          "Android",
+          "iOS",
+          "Mac"
+        ],
+        "releaseNote": "Separate versions of effects were added: only impacts, and only slashes.",
+        "versionTitle": "4.25"
+      },
+      {
+        "appId": "HackAndS2df97f9aa5a7V2",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "5da5087d487349c9a0f4144a85eb6935",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "iOS",
+          "Android",
+          "Mac"
+        ],
+        "releaseNote": "Updated to 4.26. Removed deprecated Niagara parameters",
+        "versionTitle": "4.26"
+      },
+      {
+        "appId": "HackAndS2df97f9aa5a7V3",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "33b41ea5f4674833b0f361b45da63030",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Mac",
+          "Android",
+          "iOS"
+        ],
+        "releaseNote": "Removed deprecated Niagara parameters",
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "HackAndS2df97f9aa5a7V4",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "9875d1d977ed430cb246bd322e0d470e",
+        "platform": [
+          "Windows",
+          "Win32",
+          "PS4",
+          "Xbox One",
+          "Android",
+          "Mac",
+          "iOS"
+        ],
+        "releaseNote": "ue5",
+        "versionTitle": "5"
+      },
+      {
+        "appId": "HackAndS2df97f9aa5a7V6",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "baf152332ae249f294dace5e66e7ad7f",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "Android",
+          "iOS",
+          "Mac",
+          "PS4"
+        ],
+        "versionTitle": "5.1"
+      },
+      {
+        "appId": "HackAndS2df97f9aa5a7V7",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "75483a0febee4b298510a2796e379bc7",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Mac",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "5.2"
+      },
+      {
+        "appId": "HackAndS2df97f9aa5a7V8",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "ef6aa3dd678d4e9f9d28920767202f8c",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Android",
+          "Linux",
+          "iOS"
+        ],
+        "versionTitle": "5.3"
+      },
+      {
+        "appId": "HackAndS2df97f9aa5a7V9",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "bc6eaa2d5b384adaa10727d6bde557b0",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Mac",
+          "iOS",
+          "Android"
+        ],
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "HackAndSe1774098ef99V9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "26bd49c60e0542658a5e38cfb997868b",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Xbox One",
+          "PS4"
+        ],
+        "versionTitle": "5.5.1"
+      },
+      {
+        "appId": "HackAndS2b87ee6bc4ccV10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-16T02:52:36.490Z",
+        "id": "4617a08a5002418d9324b14b0db38dd7",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hack And Slash FX",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

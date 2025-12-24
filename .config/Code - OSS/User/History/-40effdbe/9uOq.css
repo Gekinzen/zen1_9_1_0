@@ -1,0 +1,66 @@
+/* Import pywal colors - AUTO SYNCED */
+@import url("/home/paul/.cache/wal/colors-wofi.css");
+
+/* EXTRA DARK for system menus */
+window {
+    margin: 150px;
+    border: 3px solid @color12;
+    background-color: alpha(@background, 0.98);  /* Almost solid */
+    border-radius: 15px;
+    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.8);
+}
+
+#input {
+    margin: 15px;
+    padding: 12px;
+    border: 2px solid @color12;
+    background-color: alpha(@color0, 0.95);
+    color: @foreground;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#inner-box {
+    margin: 10px;
+    padding: 50px;
+}
+
+#outer-box {
+    margin: 5px;
+ /*   padding: 50px;*/
+ padding: 100px;
+}
+
+#text {
+    margin: 8px;
+    padding: 8px;
+    color: @foreground;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#entry {
+    padding: 20px 20px 20px 15px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: alpha(@color8, 0.5);
+    border: 1px solid transparent;
+}
+
+#entry:selected {
+    background-color: @color12;
+    color: @background;
+    border-color: @color9;
+    box-shadow: 0 0 15px @color9;
+}
+
+#entry:selected #text {
+    color: @background;
+    font-weight: 700;
+}
+
+#entry:hover {
+    background-color: alpha(@color5, 0.7);
+    border-color: @color12;
+}

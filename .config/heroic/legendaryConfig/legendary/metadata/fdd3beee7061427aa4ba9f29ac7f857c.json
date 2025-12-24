@@ -1,0 +1,1637 @@
+{
+  "app_name": "fdd3beee7061427aa4ba9f29ac7f857c",
+  "app_title": "Tower of Fantasy",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fdd3beee7061427aa4ba9f29ac7f857c",
+      "asset_id": "fdd3beee7061427aa4ba9f29ac7f857c",
+      "build_version": "tof_epic_4.6.2",
+      "catalog_item_id": "d31abce95d9742efb789d2587ced33d4",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "b47d3947087147baa8e1665680aefc11",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567yRxu6AQW2SmsQ9vZ6gWWFp6O",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-30T15:49:23.289Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TowerOfFantasy"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b47d3947087147baa8e1665680aefc11"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tower of Fantasy",
+    "developer": "Proxima Beta Europe B.V.",
+    "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:33:55.363Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Advanced Pass audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "f513d6c8eb3741a0b23b1bce13b2b156",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f513d6c8eb3741a0b23b1bce13b2b156",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.330Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Advanced Pass audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:35:50.495Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "12\u5143\u56fa\u5b9a\u793c\u53052 audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "a71b7c2923634627b95a42a5c30a3818",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a71b7c2923634627b95a42a5c30a3818",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.335Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "12\u5143\u56fa\u5b9a\u793c\u53052 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:34:17.800Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Upgrade Pass audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "64b41b346024434abc75f19ba13fca23",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "64b41b346024434abc75f19ba13fca23",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.331Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Upgrade Pass audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:39:46.871Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "980 Tanium audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "386b6a90da934539875a2f203f800586",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "386b6a90da934539875a2f203f800586",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.344Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "980 Tanium audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:40:04.627Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1980 Tanium audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "293124013a784486bca03911f1e51138",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "293124013a784486bca03911f1e51138",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.345Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1980 Tanium audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:33:34.826Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Event Gift Pack (Medium) audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "a301284bbf344b1980a828a4cc5e5ab3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a301284bbf344b1980a828a4cc5e5ab3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.328Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Gift Pack (Medium) audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:36:12.144Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Adventure Pack audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "13ff6d235ec546b497189efe9303c093",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "13ff6d235ec546b497189efe9303c093",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.336Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Adventure Pack audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:34:34.396Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Limited Gift Pack (Small) audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "f4ebf7a1ad0a4400a2453391b1ec3769",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f4ebf7a1ad0a4400a2453391b1ec3769",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.332Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Limited Gift Pack (Small) audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:40:23.476Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "3280 Tanium audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "6594a69ad1ea42eaa76e9af4ea5440d1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6594a69ad1ea42eaa76e9af4ea5440d1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.346Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "3280 Tanium audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:33:16.924Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Event Gift Pack (Large) audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "6247cb8aecfb4af98248498dba4d3b2a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6247cb8aecfb4af98248498dba4d3b2a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.327Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Gift Pack (Large) audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:38:00.246Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "300 Tanium audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "57d9ba5c8b774ca8af1a16d42663488e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "57d9ba5c8b774ca8af1a16d42663488e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.342Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "300 Tanium audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:37:28.975Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rookie Supplies audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "13d26184f2f24a05bdf9f4efd60a7263",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "13d26184f2f24a05bdf9f4efd60a7263",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.340Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rookie Supplies audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:31:48.260Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Event Gift Pack (Massive) audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "fd6dc34bce7d455683db228e8083e253",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fd6dc34bce7d455683db228e8083e253",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.325Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Gift Pack (Massive) audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:34:54.601Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Event Gift Pack audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "fb6df62438b14d0c9e782052c54c34c7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fb6df62438b14d0c9e782052c54c34c7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.333Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Gift Pack audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:40:54.817Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "6480 Tanium audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "c6f3bd69e2c04bf7b125966b9f2d0283",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c6f3bd69e2c04bf7b125966b9f2d0283",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.347Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "6480 Tanium audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:32:53.601Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Event Gift Pack (Extra) audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "b39606c7ad7d44a8b50e09935261522a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b39606c7ad7d44a8b50e09935261522a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.326Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Gift Pack (Extra) audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:37:10.544Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dark Crystal Giftpack audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "1fb784aedfb04986a5b2c9f992ac7a5c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1fb784aedfb04986a5b2c9f992ac7a5c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.339Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dark Crystal Giftpack audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:35:17.592Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Event Gift Pack (Small) audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "edd3e8791fcc41c58118e033882742e9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "edd3e8791fcc41c58118e033882742e9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.334Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Gift Pack (Small) audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:36:50.730Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Pass audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "a60c71b738ab463494e0f8b203026aa4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a60c71b738ab463494e0f8b203026aa4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.338Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pass audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:31:22.977Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Event Gift Pack (Ultra) audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "ea39d29ee93a4d2f8b656a43dd6af713",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ea39d29ee93a4d2f8b656a43dd6af713",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.324Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Gift Pack (Ultra) audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-09T08:37:42.750Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "60 Tanium audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "e93677bcdbcb40bb82188c1940ea984e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e93677bcdbcb40bb82188c1940ea984e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-11T04:43:43.341Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "60 Tanium audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T10:57:55.415Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Novice Pass audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "9d32c4d0335c45708bb21e2f52ed82cd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9d32c4d0335c45708bb21e2f52ed82cd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-10-20T10:24:48.110Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Novice Pass audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-11-30T21:00:14.669Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Outfit Pack audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "27af947da1c44822b39ef005e11b56f9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "27af947da1c44822b39ef005e11b56f9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-11-30T21:00:14.669Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Outfit Pack audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:35:38.828Z",
+        "description": "99.99 USD gift pack2_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "a119a707ec98403aaa2142c205eab1b6",
+        "entitlementType": "AUDIENCE",
+        "id": "a119a707ec98403aaa2142c205eab1b6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "99.99 USD gift pack2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:34:43.011Z",
+        "description": "14.99 USD gift pack2_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "315180e9fe4140dc9fbb3b3b38333022",
+        "entitlementType": "AUDIENCE",
+        "id": "315180e9fe4140dc9fbb3b3b38333022",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "14.99 USD gift pack2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:35:02.707Z",
+        "description": "19.99 USD gift pack2_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "883ff52deb724c0f9e7260e184417b0d",
+        "entitlementType": "AUDIENCE",
+        "id": "883ff52deb724c0f9e7260e184417b0d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:11.503Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "19.99 USD gift pack2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:25:40.253Z",
+        "description": "0.99 USD gift pack4_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "59542772681a46708d01bc992f6912f2",
+        "entitlementType": "AUDIENCE",
+        "id": "59542772681a46708d01bc992f6912f2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "0.99 USD gift pack4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:33:10.726Z",
+        "description": "1.99 USD gift pack3_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "4a3a57fa32c04096be8ae742f5c15854",
+        "entitlementType": "AUDIENCE",
+        "id": "4a3a57fa32c04096be8ae742f5c15854",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1.99 USD gift pack3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:32:57.258Z",
+        "description": "1.99 USD gift pack2_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "3d0cc624044c495b9a593889431aa996",
+        "entitlementType": "AUDIENCE",
+        "id": "3d0cc624044c495b9a593889431aa996",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1.99 USD gift pack2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:35:22.158Z",
+        "description": "49.99 USD gift pack2_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "184c4dd28ea24121b19a275c5096a63c",
+        "entitlementType": "AUDIENCE",
+        "id": "184c4dd28ea24121b19a275c5096a63c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "49.99 USD gift pack2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:34:01.101Z",
+        "description": "4.99 USD gift pack3_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "26d3b780e6b1439aba89a2f6e2e1bf7d",
+        "entitlementType": "AUDIENCE",
+        "id": "26d3b780e6b1439aba89a2f6e2e1bf7d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:11.503Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4.99 USD gift pack3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:32:44.805Z",
+        "description": "0.99 USD gift pack5_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "716200f7b9c3418c8e789e3db1247cdf",
+        "entitlementType": "AUDIENCE",
+        "id": "716200f7b9c3418c8e789e3db1247cdf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "0.99 USD gift pack5_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-15T07:34:19.979Z",
+        "description": "4.99 USD gift pack4_ConsumableAudience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "6067e208d1704dffa2435e9305674a3c",
+        "entitlementType": "AUDIENCE",
+        "id": "6067e208d1704dffa2435e9305674a3c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+        "mainGameItem": {
+          "id": "d31abce95d9742efb789d2587ced33d4",
+          "namespace": "b47d3947087147baa8e1665680aefc11",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d31abce95d9742efb789d2587ced33d4",
+            "namespace": "b47d3947087147baa8e1665680aefc11",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b47d3947087147baa8e1665680aefc11",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4.99 USD gift pack4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d31abce95d9742efb789d2587ced33d4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d31abce95d9742efb789d2587ced33d4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Tower of Fantasy Offer",
+        "height": 1440,
+        "md5": "3e078af8e68f867b18fa05a5be54b981",
+        "size": 915700,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-01-15T06:41:37.945Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ba56bf77f86046bf8bb146001f61c050/tower-of-fantasy-t9kdf.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Tower of Fantasy Offer",
+        "height": 1600,
+        "md5": "30c7b26776ea177cbc572315c08d8b35",
+        "size": 475087,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-01-15T06:41:24.696Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ba56bf77f86046bf8bb146001f61c050/tower-of-fantasy-uirsj.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-07T06:55:10.970Z",
+    "mainGameItemList": [],
+    "namespace": "b47d3947087147baa8e1665680aefc11",
+    "releaseInfo": [
+      {
+        "appId": "fdd3beee7061427aa4ba9f29ac7f857c",
+        "id": "f231c8aacd8749c78a55af09c9a2ffc4",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Tower of Fantasy",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

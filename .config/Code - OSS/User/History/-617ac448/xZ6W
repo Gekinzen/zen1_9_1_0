@@ -1,0 +1,27 @@
+{
+  "output": "",
+  "position": "bottom",
+  "layer": "overlay",
+  "exclusive-zone": true,
+  "icon-size": 22,
+  "panel-height":50,
+  "margin-bottom": 6,
+  "launcher-cmd": "",
+
+  
+  "css": "style.css",
+  "launcher-cmd": "/home/paul/.config/hypr/scripts/rofi-app-launcher.sh",
+  /*"icon-theme": "Papirus-Dark",*/
+  "pinned-apps": [
+    {
+      "name": "kitty-pulsemixer",
+      "exec": "kitty-pulsemixer",
+      "icon": "/usr/share/icons/hicolor/256x256/apps/kitty.png"
+    },
+      {
+      "name": "Kitty",
+      "exec": "kitty",
+      "icon": "/usr/share/icons/hicolor/256x256/apps/kitty.png"
+    }
+  ]
+}

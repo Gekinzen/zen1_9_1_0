@@ -1,0 +1,657 @@
+{
+  "app_name": "LEExtend0518862b1acbV25",
+  "app_title": "LE Extended Standard Library",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "LEExtend0518862b1acbV25",
+      "asset_id": "LEExtend0518862b1acbV25",
+      "build_version": "5.5.0-38172079+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "bb977e4a18b74161b9484f116e08c1d2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-01T19:47:39.686Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "0aadd41b-c02d-4f63-9009-bffad0070ebc"
+      }
+    },
+    "description": "LE Extended Standard Library",
+    "developer": "Low Entry",
+    "developerId": "o-8580cfe5e748cc8585d706983eefaf",
+    "endOfSupport": false,
+    "entitlementName": "bb977e4a18b74161b9484f116e08c1d2",
+    "entitlementType": "AUDIENCE",
+    "id": "bb977e4a18b74161b9484f116e08c1d2",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-05T17:50:08.263Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "LowEntryExtStdLib_4.9",
+        "compatibleApps": [
+          "UE_4.9"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "b3f9c9350b1840e6ad7eb41cb7da6157",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_9"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.10",
+        "compatibleApps": [
+          "UE_4.10"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "fd1d93687a5147ac86bd8f3532291157",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_10"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.11",
+        "compatibleApps": [
+          "UE_4.11"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "56060d3739a44edeb6ea54df7353455e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_11"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.12",
+        "compatibleApps": [
+          "UE_4.12"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "af720ad371b14cd0908ee51a3c614132",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_12"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.13",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "a70ede15721f42289dc545eca0735128",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_13"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.14",
+        "compatibleApps": [
+          "UE_4.14"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "fe0ec0eb4c95440eb61e5fa5e18b9cc8",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_14"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "b8b3cc8dfb4e44fca5bd7a8add8c9bcd",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_15"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "29c435d775c94053a03961c8a8112fef",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_16"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "ad1f931d2e92455cbc805b9059678dfb",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_17"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "dd5546ad87d746e58792fc30f4b0d556",
+        "platform": [
+          "Xbox One",
+          "Android",
+          "iOS",
+          "PS4",
+          "Mac",
+          "Windows",
+          "HTML5",
+          "Linux",
+          "Gear VR",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_18"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "a14c725774ea4642964e694493ab3798",
+        "platform": [
+          "HTML5",
+          "Linux",
+          "Gear VR",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Xbox One",
+          "Android",
+          "PS4",
+          "Windows",
+          "Mac",
+          "iOS"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_19"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "dc91f9b26f83400a9d4151a9dc1b8976",
+        "platform": [
+          "Xbox One",
+          "Android",
+          "iOS",
+          "PS4",
+          "Mac",
+          "Windows",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_20"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "2b6e421c3f904873992a9e3235afe1a9",
+        "platform": [
+          "HTML5",
+          "Linux",
+          "Gear VR",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_21"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "4afa0862fbad415790bd42ad1bffe0c6",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux",
+          "iOS",
+          "HTML5",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_22"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "8e66877667e04294b2b3092a98b1cb5c",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Xbox One",
+          "Win32",
+          "Windows",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_23"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "e3a78dbfaa8f4a3dbd9e1394c3308c0b",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux",
+          "iOS",
+          "HTML5",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_24"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "53eec543b61d43399d6ebb9b4b48eb09",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Mac",
+          "Linux",
+          "iOS",
+          "HTML5",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_25"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "fecc97dd274d47e7b6d37e5dde6074e5",
+        "platform": [
+          "Win32",
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Linux",
+          "HTML5",
+          "iOS",
+          "HoloLens 2",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_26"
+      },
+      {
+        "appId": "LowEntryExtStdLib_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "aa103a30cfe746578f0bfeb1b9041c0a",
+        "platform": [
+          "iOS",
+          "Linux",
+          "HTML5",
+          "HoloLens 2",
+          "Gear VR",
+          "Android",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "LowEntryExtStdLib_4_27"
+      },
+      {
+        "appId": "LowEntryExtStdLib_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "5ce7f83eacba4736af0559964796e1af",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "LowEntryExtStdLib_5_00"
+      },
+      {
+        "appId": "LowEntryExtStdLib_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "82b62f13516049d2b1498db53edb69d4",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Linux",
+          "iOS",
+          "HTML5",
+          "HoloLens 2",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "LowEntryExtStdLib_5_01"
+      },
+      {
+        "appId": "LowEntryExtStdLib_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "aa97472e9ca94a4981c17596657a885d",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac"
+        ],
+        "versionTitle": "LowEntryExtStdLib_5_02"
+      },
+      {
+        "appId": "LowEntryExtStdLib_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "459ec895b46c4120af3c76ec2651b2d9",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Linux",
+          "iOS",
+          "HTML5",
+          "HoloLens 2",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "LowEntryExtStdLib_5_03"
+      },
+      {
+        "appId": "LowEntryExtStdLib_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "e31c1c9fb1604ca69f9e4c8dbce6bce6",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "iOS",
+          "Linux",
+          "HTML5",
+          "HoloLens 2",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "LowEntryExtStdLib_5_04"
+      },
+      {
+        "appId": "LEExtend0518862b1acbV25",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "de8af2b61fe34c36ba299222d66e391e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Android",
+          "iOS",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "LowEntryExtStdLib_5_05"
+      },
+      {
+        "appId": "LEExtend395af98d3fa0V26",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-04T14:58:47.354Z",
+        "id": "167da19ab2ce4b359e2b2263dc479f40",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "LowEntryExtStdLib_5_06"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "LE Extended Standard Library",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

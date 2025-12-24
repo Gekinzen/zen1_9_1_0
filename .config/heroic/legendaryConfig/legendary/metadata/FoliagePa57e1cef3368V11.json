@@ -1,0 +1,191 @@
+{
+  "app_name": "FoliagePa57e1cef3368V11",
+  "app_title": "Foliage Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "FoliagePa57e1cef3368V11",
+      "asset_id": "FoliagePa57e1cef3368V11",
+      "build_version": "5.6.0-43533386+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "beb288b294644c438af374ae969b3237",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-06T10:40:26.763Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "de03e7a7-aefe-4290-8fb3-8cde3a34fbf9"
+      }
+    },
+    "description": "Foliage Plugin",
+    "developer": "eelDev",
+    "developerId": "o-dd7a5566df4ce282c131a9996a7a7f",
+    "endOfSupport": false,
+    "entitlementName": "beb288b294644c438af374ae969b3237",
+    "entitlementType": "AUDIENCE",
+    "id": "beb288b294644c438af374ae969b3237",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-06T11:42:24.183Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "FoliagePlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-06T11:16:25.843Z",
+        "id": "9ba7efbd35824aad9323eb66b6bf1319",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Mac",
+          "Android",
+          "Linux",
+          "iOS",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "5.2"
+      },
+      {
+        "appId": "FoliagePlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-06T11:16:25.843Z",
+        "id": "ffd6a070770c47aeb5259c93df341207",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "Xbox One",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "iOS",
+          "Android"
+        ],
+        "versionTitle": "5.3"
+      },
+      {
+        "appId": "FoliagePlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-06T11:16:25.843Z",
+        "id": "5734551f737143a69e8632231db17903",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux",
+          "Xbox One",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "FoliageP00c8ab981fdeV7",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-08-06T11:16:25.843Z",
+        "id": "0f3dcc23052b423bb3472b01b629c803",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "5.1"
+      },
+      {
+        "appId": "FoliageP2b4555a6b098V10",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-06T11:16:25.843Z",
+        "id": "42a88b87b318449c8ae404b96f846dae",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "FoliagePa57e1cef3368V11",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-06T11:16:25.843Z",
+        "id": "91906f67eee2435881f568da232e3854",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Foliage Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

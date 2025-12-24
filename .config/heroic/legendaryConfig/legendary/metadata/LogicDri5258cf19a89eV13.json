@@ -1,0 +1,302 @@
+{
+  "app_name": "LogicDri5258cf19a89eV13",
+  "app_title": "Logic Driver Lite - State Machine Blueprint Editor",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "LogicDri5258cf19a89eV13",
+      "asset_id": "LogicDri5258cf19a89eV13",
+      "build_version": "5.7.0-48170646+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "d8ca6a2bff31468eab703db1d3411381",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-11T15:46:32.908Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "e7500c39-5b12-4b88-aac2-12b14c0b1387"
+      }
+    },
+    "description": "Logic Driver Lite - State Machine Blueprint Editor",
+    "developer": "Recursoft",
+    "developerId": "o-33vjcdjpc7vj2du56yw5gys3zmhqw6",
+    "endOfSupport": false,
+    "entitlementName": "d8ca6a2bff31468eab703db1d3411381",
+    "entitlementType": "AUDIENCE",
+    "id": "d8ca6a2bff31468eab703db1d3411381",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-12T21:20:16.225Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "LogicDriverLite_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "6ab053f0268947a6b41c7fb3167db3fe",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "SteamVR / HTC Vive",
+          "Windows"
+        ],
+        "releaseNote": "1.1",
+        "versionTitle": "4.23"
+      },
+      {
+        "appId": "LogicDriverLite_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "a13034b251d24fd79cb24493a262b717",
+        "platform": [
+          "Windows",
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "1.1",
+        "versionTitle": "4.24"
+      },
+      {
+        "appId": "LogicDriverLite_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "aca1d9a5663746f2811688b4d958db88",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "SteamVR / HTC Vive",
+          "Windows"
+        ],
+        "releaseNote": "1.2.3",
+        "versionTitle": "4.25"
+      },
+      {
+        "appId": "LogicDriverLite_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "8aa9f597ffb94482988aa1cc03b3ce0a",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Windows",
+          "Mac",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "1.4.1",
+        "versionTitle": "4.26"
+      },
+      {
+        "appId": "LogicDriverLite_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "bfb9d9f892db42a0a3c0e8fb9fa9a12a",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "Linux"
+        ],
+        "releaseNote": "1.4.1",
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "LogicDriverLite_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "b3cfcb67c330448d97203628624a967b",
+        "platform": [
+          "Windows",
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "1.5.3",
+        "versionTitle": "5.0"
+      },
+      {
+        "appId": "LogicDriverLite_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "744d05731fea4a5fa8a894bd4b4b8e2a",
+        "platform": [
+          "Windows",
+          "SteamVR / HTC Vive",
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "1.5.3",
+        "versionTitle": "5.1"
+      },
+      {
+        "appId": "LogicDriverLite_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "f559d5df7bda43af9476f6b1e15caa5e",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Windows",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "1.5.3",
+        "versionTitle": "5.2"
+      },
+      {
+        "appId": "LogicDriverLite_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "9ed411b76a0f494b802ac566004fba89",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Windows",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "1.6.1",
+        "versionTitle": "5.3"
+      },
+      {
+        "appId": "LogicDriverLite_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "a5efaf2359474028b2f5d0c35105b6a5",
+        "platform": [
+          "Android",
+          "iOS",
+          "Mac",
+          "Linux",
+          "Windows",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "1.6.3",
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "LogicDri722f514496b1V11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "ab9601e2248a483e899a104410d3dc38",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "SteamVR / HTC Vive",
+          "Linux"
+        ],
+        "releaseNote": "1.7.3",
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "LogicDrib84627fb4074V12",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "75540db8240e430ba9045275e4645db0",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "1.7.3",
+        "versionTitle": "5.6"
+      },
+      {
+        "appId": "LogicDri5258cf19a89eV13",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-12T16:18:26.918Z",
+        "id": "85561c3cb66149189e4ff0e1279a8582",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "SteamVR / HTC Vive",
+          "Linux"
+        ],
+        "releaseNote": "1.7.3",
+        "versionTitle": "5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Logic Driver Lite - State Machine Blueprint Editor",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

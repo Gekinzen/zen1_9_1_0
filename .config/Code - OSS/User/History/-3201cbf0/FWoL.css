@@ -1,0 +1,54 @@
+@import url("/home/paul/.cache/wal/colors-waybar.css");
+
+window {
+    background-color: alpha(@background, 0.75);
+    border-radius: 16px;
+    padding: 6px;
+    margin: 8px;
+    border: 1px solid alpha(@color12, 0.25);
+    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.5);
+}
+
+#box {
+    padding: 3px;
+    background-color: transparent;
+}
+
+button {
+    all: unset;
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 2px;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    min-width: 40px;
+    min-height: 40px;
+}
+
+button:hover {
+    background-color: alpha(@color12, 0.35);
+    box-shadow: 0 3px 10px alpha(@color12, 0.3);
+    transform: translateY(-2px);
+}
+
+button:active {
+    background-color: alpha(@color12, 0.5);
+    transform: translateY(0px);
+}
+
+button image {
+    background-color: transparent;
+    border-radius: 8px;
+    min-width: 40px;
+    min-height: 40px;
+}
+
+/* Launcher button styling (if needed) */
+#launcher {
+    background-color: alpha(@color12, 0.2);
+    border: 1px solid alpha(@color12, 0.3);
+}
+
+#launcher:hover {
+    background-color: alpha(@color12, 0.4);
+}

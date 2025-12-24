@@ -1,0 +1,93 @@
+@import url('/home/paul/.cache/wal/colors-waybar.css');
+
+* {
+    all: unset;
+    font-family: 'CodeNewRoman Nerd Font Mono', monospace;
+    font-size: 14px;
+}
+
+window {
+    background-color: alpha(@background, 0.92);
+    border-radius: 30px;
+    border: 2px solid alpha(@color12, 0.4);
+    box-shadow: 0 15px 60px rgba(0, 0, 0, 0.7);
+}
+
+#outer-box {
+    margin: 40px;
+    padding: 40px;
+}
+
+#inner-box {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Centered narrow search bar */
+#input {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 14px 24px;
+    border: 2px solid alpha(@color12, 0.5);
+    border-radius: 12px;
+    background-color: alpha(@color0, 0.8);
+    color: @foreground;
+    font-size: 14px;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+#input:focus {
+    border-color: @color12;
+    background-color: alpha(@color0, 0.9);
+    box-shadow: 0 0 20px alpha(@color12, 0.3);
+}
+
+#scroll {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Centered grid entries */
+#entry {
+    margin: 10px;
+    padding: 30px 15px;
+    border-radius: 16px;
+    background-color: transparent;
+    border: 2px solid transparent;
+}
+
+#entry:selected {
+    background-color: alpha(@color12, 0.35);
+    border-color: @color12;
+    box-shadow: 0 4px 20px alpha(@color12, 0.4);
+}
+
+#entry:hover {
+    background-color: alpha(@color8, 0.3);
+    border-color: alpha(@color12, 0.2);
+}
+
+/* Center icon in entry */
+#img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    padding: 0px;
+}
+
+/* Center text in entry */
+#text {
+    margin: 0px;
+    padding: 0px;
+    color: @foreground;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#entry:selected #text {
+    color: @foreground;
+    font-weight: 700;
+}

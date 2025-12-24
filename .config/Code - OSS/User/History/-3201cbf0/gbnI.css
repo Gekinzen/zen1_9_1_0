@@ -1,0 +1,37 @@
+@import url("/home/paul/.cache/wal/colors-waybar.css");
+
+window {
+    background-color: alpha(@background, 0.7);
+    border-radius: 18px;
+    padding: 8px;
+    margin: 0px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid alpha(@color12, 0.3);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+}
+
+#box {
+    padding: 4px;
+    background-color: transparent;
+}
+
+button {
+    background-color: transparent;
+    border-radius: 12px;
+    padding: 8px;
+    margin: 2px;
+    transition: all 0.2s ease;
+    border: none;
+}
+
+button:hover {
+    background-color: alpha(@color12, 0.3);
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px alpha(@color12, 0.4);
+}
+
+button image {
+    background-color: transparent;
+    border-radius: 8px;
+}

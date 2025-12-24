@@ -1,0 +1,18 @@
+{
+  "output": "",
+  "layer": "top",
+  "position": "bottom",
+  "css": "/home/paul/.config/nwg-dock-hyprland/style.css",
+  "exclusive-zone": true,
+  "hotspot-delay": 0,
+  "img-size": 28,
+  "icon-size": 28,
+  "margin-bottom": 6,
+  "custom-buttons": [
+    {
+      "tooltip": "Apps",
+      "icon": "view-app-grid-symbolic",
+      "command": "/home/paul/.config/hypr/scripts/rofi-app-launcher.sh"
+    }
+  ]
+}

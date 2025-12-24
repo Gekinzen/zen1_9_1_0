@@ -1,0 +1,27 @@
+# Centered App Grid (not fullscreen)
+width=85%
+height=85%
+xoffset=7.5%
+yoffset=7.5%
+
+show=drun
+prompt=Search Applications
+allow_images=true
+allow_markup=true
+insensitive=true
+hide_scroll=true
+no_actions=true
+
+# Grid layout - 7 columns x 4 rows
+columns=7
+lines=4
+
+# Large icons
+image_size=72
+
+location=center
+term=kitty
+gtk_dark=true
+
+# Overlay mode
+layer=overlay

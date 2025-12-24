@@ -1,0 +1,60 @@
+{
+  "app_name": "aaec4a27514744c8bc58f434080e71c9",
+  "app_title": "Low Poly Nature Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-21T11:10:26.848Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "0ff60dbe-e67a-4087-93be-df94ae113d52"
+      }
+    },
+    "description": "Low Poly Nature",
+    "developer": "Vertex Rage Studio",
+    "developerId": "o-vav2q3j54vz7alj4xqxrbectxc964t",
+    "endOfSupport": false,
+    "entitlementName": "90c0e4ac382e4b0692a88dee8d509e19",
+    "entitlementType": "AUDIENCE",
+    "id": "90c0e4ac382e4b0692a88dee8d509e19",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-13T11:22:24.442Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "aaec4a27514744c8bc58f434080e71c9",
+        "compatibleApps": [],
+        "dateAdded": "2025-11-13T11:21:26.648Z",
+        "id": "ee0d2e20bef24008b1b8b29fed8249b4",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Low Poly Nature Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,95 @@
+@import url('/home/paul/.cache/wal/colors-waybar.css');
+
+* {
+    all: unset;
+    font-family: 'CodeNewRoman Nerd Font Mono', monospace;
+    font-size: 14px;
+}
+
+window {
+    margin: 20px;
+    background-color: alpha(@background, 0.92);
+    border-radius: 30px;
+    border: 2px solid alpha(@color12, 0.4);
+    box-shadow: 0 15px 60px rgba(0, 0, 0, 0.7);
+}
+
+/* Extra large padding = narrower search */
+#outer-box {
+    margin: 50px;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#inner-box {
+    margin: 0px;
+    padding: 0px;
+}
+
+#input {
+    /*margin-top: 0px;*/
+    margin-bottom: 20px;
+margin-right: auto;
+margin-left: auto
+    padding:10%;
+    /*padding-right: 10%;
+    padding-left: 10%;*/
+    border: 2px solid alpha(@color12, 0.5);
+    border-radius: 12px;
+    background-color: alpha(@color0, 0.8);
+    color: @foreground;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#input:focus {
+    border-color: @color12;
+    box-shadow: 0 0 20px alpha(@color12, 0.3);
+}
+
+#scroll {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -35%;
+    margin-right: -35%;
+    padding: 0px;
+}
+
+#entry {
+    margin: 8px;
+    padding: 28px 12px;
+    border-radius: 16px;
+    background-color: transparent;
+    border: 2px solid transparent;
+}
+
+#entry:selected {
+    background-color: alpha(@color12, 0.35);
+    border-color: @color12;
+    box-shadow: 0 4px 20px alpha(@color12, 0.4);
+}
+
+#entry:hover {
+    background-color: alpha(@color8, 0.3);
+}
+
+#img {
+    margin: 0px;
+    margin-bottom: 12px;
+    padding: 0px;
+}
+
+#text {
+    margin: 0px;
+    padding: 0px;
+    color: @foreground;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#entry:selected #text {
+    color: @foreground;
+    font-weight: 700;
+}

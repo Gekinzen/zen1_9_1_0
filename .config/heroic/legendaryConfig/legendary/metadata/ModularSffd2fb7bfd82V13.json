@@ -1,0 +1,260 @@
+{
+  "app_name": "ModularSffd2fb7bfd82V13",
+  "app_title": "Modular Snap System",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ModularSffd2fb7bfd82V13",
+      "asset_id": "ModularSffd2fb7bfd82V13",
+      "build_version": "5.7.0-48292965+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "ee4132089c4e47cfb5d69e5ec4f7027c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-26T18:26:28.866Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "5f5ca52e-4444-4ba5-a97d-98cf05962a26"
+      }
+    },
+    "description": "Modular Snap System",
+    "developer": "Inu Games",
+    "developerId": "o-5qggagdnymmfwhysufrsaa3x39rqnr",
+    "endOfSupport": false,
+    "entitlementName": "ee4132089c4e47cfb5d69e5ec4f7027c",
+    "entitlementType": "AUDIENCE",
+    "id": "ee4132089c4e47cfb5d69e5ec4f7027c",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-14T16:40:24.104Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ModularSnapSystem_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "1bb2edd3cf274a90bfa620c3924123ee",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.4.7 for UE4.23"
+      },
+      {
+        "appId": "ModularSnapSystem_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "d7618a485711434f89481cb3baaa6849",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.4.8 for UE4.24"
+      },
+      {
+        "appId": "ModularSnapSystem_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "051db95bc791435693beb6f7fb2234a8",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.4.8 for UE4.25"
+      },
+      {
+        "appId": "ModularSnapSystem_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "0ddfb9693f0842ada61f1dd78ec61a39",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.4.9 for UE4.26"
+      },
+      {
+        "appId": "ModularSnapSystem_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "543ae7cd3faa4a09ba3017ebcc24e4b5",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.4.9 for UE4.27"
+      },
+      {
+        "appId": "ModularSnapSystem_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "5760fae3114148fa81cae5f6693f6e46",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.5.0 for UE5.0"
+      },
+      {
+        "appId": "ModularSnapSystem_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "7d153e84a29d405f98d424f4ea0c2f2a",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.5.2 for UE 5.1"
+      },
+      {
+        "appId": "ModularSnapSystem_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "785ac857ecaf40dbbb47128819b10363",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.5.2 for UE5.2"
+      },
+      {
+        "appId": "ModularSnapSystem_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "9e647323a8ff4f56a5995a9f64a9dcaf",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.5.2 for UE5.3"
+      },
+      {
+        "appId": "ModularSnapSystem_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "c4f923cef66442dabda96c872e743ac6",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "releaseNote": "new link",
+        "versionTitle": "1.5.3 for UE5.4"
+      },
+      {
+        "appId": "ModularS20a0ba887fdaV11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "22f26f0c68e64cca93a405a53b5219c5",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "v1.5.3-ue5.5"
+      },
+      {
+        "appId": "ModularS3279a7f70971V12",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "f060aff5b8924a4aa2e28206b88a4b93",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "v1.5.3-ue5.6"
+      },
+      {
+        "appId": "ModularSffd2fb7bfd82V13",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-14T15:09:25.846Z",
+        "id": "9d79d933e7f84e5483250356a7c612ad",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "v1.5.3-ue5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Modular Snap System",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

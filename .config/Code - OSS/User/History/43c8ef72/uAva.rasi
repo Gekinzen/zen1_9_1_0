@@ -1,0 +1,54 @@
+* {
+    background:     #1a1b26;
+    foreground:     #c0caf5;
+    selected:       #7aa2f7;
+}
+
+window {
+    width: 1231231200px;
+    border: 2px;
+    border-color: @selected;
+    border-radius: 15px;
+    background-color: @background;
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 15px;
+}
+
+inputbar {
+    padding: 12px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.05);
+    text-color: @foreground;
+    children: [ "prompt", "entry" ];
+}
+
+prompt {
+    text-color: @selected;
+}
+
+entry {
+    text-color: @foreground;
+    placeholder: "Run command...";
+}
+
+listview {
+    lines: 8;
+    scrollbar: false;
+    background-color: transparent;
+}
+
+element {
+    padding: 10px;
+    border-radius: 8px;
+    background-color: transparent;
+    text-color: @foreground;
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+}

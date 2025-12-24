@@ -1,0 +1,57 @@
+{
+  "app_name": "c3806aaaf18e40eb84ed86f614684472",
+  "app_title": "Cave Ruins / 47 Assets Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format/additional-files"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-14T13:04:39.578Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "c437d905-5078-4e59-88ed-d585ef20050b"
+      }
+    },
+    "description": "Cave Ruins / 47 Assets",
+    "developer": "Pack Dev",
+    "developerId": "o-d5f0d02bff40ca904af9eaa049160e",
+    "endOfSupport": false,
+    "entitlementName": "92b2dfd12849490f9dc58c9420fff86d",
+    "entitlementType": "AUDIENCE",
+    "id": "92b2dfd12849490f9dc58c9420fff86d",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-11-01T00:35:24.751Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "c3806aaaf18e40eb84ed86f614684472",
+        "compatibleApps": [],
+        "dateAdded": "2024-10-30T17:30:21.003Z",
+        "id": "f0e7ab24add5409fa5df01f1d0a63a2a",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "SUNSET",
+    "title": "Cave Ruins / 47 Assets Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

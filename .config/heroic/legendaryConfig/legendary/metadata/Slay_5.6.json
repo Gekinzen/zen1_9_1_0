@@ -1,0 +1,167 @@
+{
+  "app_name": "Slay_5.6",
+  "app_title": "Slay Animation Sample",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Slay_5.6",
+      "asset_id": "Slay",
+      "build_version": "5.6.0-43139311+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "c577f5b75b934db6b3f4efca7fb0bda4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-09T23:10:26.995Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "ef920974-4e1d-4ca9-afe2-277f5adcfe53"
+      }
+    },
+    "description": "Slay Animation Sample",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "c577f5b75b934db6b3f4efca7fb0bda4",
+    "entitlementType": "AUDIENCE",
+    "id": "c577f5b75b934db6b3f4efca7fb0bda4",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-03T13:40:24.904Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Slay_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-05-28T00:02:25.189Z",
+        "id": "4fc0f8d3b46f4140b7cb5e49b45f6730",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Slay 4.27"
+      },
+      {
+        "appId": "Slay_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-05-28T00:02:25.189Z",
+        "id": "0346f703f9fc4d4e84b112bce9da0118",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Slay 5.0"
+      },
+      {
+        "appId": "Slay_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-05-28T00:02:25.189Z",
+        "id": "8fb4b0b553204ca2a90818a29c35b6e5",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Slay 5.1"
+      },
+      {
+        "appId": "Slay_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-05-28T00:02:25.189Z",
+        "id": "8d5db86570e6447eb073e422ce6aeb8b",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Slay 5.2"
+      },
+      {
+        "appId": "Slay_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-05-28T00:02:25.189Z",
+        "id": "f804eebbfddf4ede996507e10bb6a70f",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Slay 5.3"
+      },
+      {
+        "appId": "Slay_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-05-28T00:02:25.189Z",
+        "id": "957cc944a8264667a57a761e00532acd",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "Slay 5.4"
+      },
+      {
+        "appId": "Slay_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-05-28T00:02:25.189Z",
+        "id": "9dbea4b1609b4d89ad534fc73619f44e",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Slay_5.5",
+        "versionTitle": "Slay_5.5"
+      },
+      {
+        "appId": "Slay_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-05-28T00:02:25.189Z",
+        "id": "16768378d54b484da29ed6018a0a607a",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Slay_5.6",
+        "versionTitle": "Slay_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Slay Animation Sample",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

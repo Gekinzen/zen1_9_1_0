@@ -1,0 +1,146 @@
+{
+  "app_name": "39b13b169e1d4e798543f931bc3a95b4",
+  "app_title": "Road Redemption",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "39b13b169e1d4e798543f931bc3a95b4",
+      "asset_id": "39b13b169e1d4e798543f931bc3a95b4",
+      "build_version": "1.0.11",
+      "catalog_item_id": "365528088ea64e23b087b66dbfc6ec13",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2c5e7b4d7ee24071af6b740e2efa3490"
+      },
+      "namespace": "462451248e9640f4a211294193034dda",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567JeHpfHFdW7nvsjnx7XoRGPct",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-07-31T06:50:40.657Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "RoadRedemption"
+      }
+    },
+    "description": "Road Redemption",
+    "developer": "Plug In Digital SAS",
+    "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-07-31T06:50:40.659Z",
+        "customAttributes": {},
+        "description": "Road Redemption - Revengers Assemble",
+        "developer": "Plug In Digital SAS",
+        "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+        "endOfSupport": false,
+        "entitlementName": "884b76fe7aa94762b15261c7dde7001e",
+        "entitlementType": "EXECUTABLE",
+        "id": "884b76fe7aa94762b15261c7dde7001e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Road Redemption Road Redemption - Revengers Assemble Offer",
+            "height": 1440,
+            "md5": "f2c64815aa2e3d63ce1e9832f2ee7ec3",
+            "size": 1758481,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-25T15:24:22.427Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1pq6t.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Road Redemption Road Redemption - Revengers Assemble Offer",
+            "height": 1600,
+            "md5": "734479d23f4f5fb09c605390fa5a1b88",
+            "size": 1014043,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-25T15:24:22.761Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-maz9y.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-31T06:50:40.659Z",
+        "mainGameItem": {
+          "id": "365528088ea64e23b087b66dbfc6ec13",
+          "namespace": "462451248e9640f4a211294193034dda",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "365528088ea64e23b087b66dbfc6ec13",
+            "namespace": "462451248e9640f4a211294193034dda",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "462451248e9640f4a211294193034dda",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Road Redemption - Revengers Assemble",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "365528088ea64e23b087b66dbfc6ec13",
+    "entitlementType": "EXECUTABLE",
+    "id": "365528088ea64e23b087b66dbfc6ec13",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Road Redemption Offer",
+        "height": 1440,
+        "md5": "6e5ca7c55a1b524215261b2661a83ad9",
+        "size": 4002683,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-07-03T10:06:16.345Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1h9je.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Road Redemption Offer",
+        "height": 1600,
+        "md5": "1926ec5fed2f0b28d729a5110b7897a9",
+        "size": 2367649,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-07-03T10:06:15.983Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ee0cf0e1ab6a4e1c83e5de0681fea012/road-redemption-1uc80.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-07-31T06:50:40.955Z",
+    "mainGameItemList": [],
+    "namespace": "462451248e9640f4a211294193034dda",
+    "releaseInfo": [
+      {
+        "appId": "39b13b169e1d4e798543f931bc3a95b4",
+        "id": "f2da87ef-6c00-49ee-b8e1-933782eaf69f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Road Redemption",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,123 @@
+{
+  "app_name": "LogCabin90cfa5b99f7fV3",
+  "app_title": "Log Cabin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "LogCabin90cfa5b99f7fV3",
+      "asset_id": "LogCabin90cfa5b99f7fV3",
+      "build_version": "5.7.0-43946720+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "16f03b57eefa40968e346b3be3c115f1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T10:13:32.274Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "ad8156a4-395c-4a61-a078-7f9af1ddebb1"
+      }
+    },
+    "description": "Log Cabin",
+    "developer": "Gabro Media",
+    "developerId": "o-86f82a03eb4ddb8bbdd04dda467934",
+    "endOfSupport": false,
+    "entitlementName": "16f03b57eefa40968e346b3be3c115f1",
+    "entitlementType": "AUDIENCE",
+    "id": "16f03b57eefa40968e346b3be3c115f1",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-29T17:15:55.959Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "LogCabin99e690664195V1",
+        "compatibleApps": [
+          "UE_4.18",
+          "UE_4.19",
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27",
+          "UE_5.0",
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-29T06:26:25.293Z",
+        "id": "820911df844e49edb8cee9419962820b",
+        "platform": [
+          "Mac",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Xbox One",
+          "Oculus"
+        ],
+        "versionTitle": "Added Dry Texture Sets"
+      },
+      {
+        "appId": "LogCabin99e690664195V2",
+        "compatibleApps": [
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-29T06:26:25.293Z",
+        "id": "71cb668d69404372b128ddba72a62606",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Mac"
+        ],
+        "versionTitle": "Environment fixes and tweaks"
+      },
+      {
+        "appId": "LogCabin90cfa5b99f7fV3",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-29T06:26:25.293Z",
+        "id": "b71c8eb0e0fc4dabb0bc4c6d4190c1ea",
+        "platform": [
+          "Windows",
+          "Mac",
+          "SteamVR / HTC Vive"
+        ],
+        "releaseNote": "UE 5.5 and above",
+        "versionTitle": "5.5 and above"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Log Cabin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

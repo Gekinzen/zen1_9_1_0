@@ -1,0 +1,216 @@
+{
+  "app_name": "Steamandb747a5b6060eV11",
+  "app_title": "Steam and Epic DLC Toolkit Pro \u2013 One Blueprint System for Both Stores",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Steamandb747a5b6060eV11",
+      "asset_id": "Steamandb747a5b6060eV11",
+      "build_version": "5.7.0-48937268+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "f27e3b625a444defbf24f2d04ef2d1e6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T17:00:29.787Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "600aea4e-c67c-43a3-8312-c11f02df52fb"
+      }
+    },
+    "description": "Steam and Epic DLC Toolkit Pro \u2013 One Blueprint System for Both Stores",
+    "developer": "Komodobit Games",
+    "developerId": "o-gz3f5t658b3z56vbeee8dpzpdekcpk",
+    "endOfSupport": false,
+    "entitlementName": "f27e3b625a444defbf24f2d04ef2d1e6",
+    "entitlementType": "AUDIENCE",
+    "id": "f27e3b625a444defbf24f2d04ef2d1e6",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-12-04T03:16:26.844Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "SteamDLCInBP_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "fe2d2eab23a846c5ad7a3219520b101c",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "DLC In Blueprints V2 ue4.25"
+      },
+      {
+        "appId": "SteamDLCInBP_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "fdd530bc77a4434fa718a5c38bec9e0b",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "DLC In Blueprints V2 ue4.26"
+      },
+      {
+        "appId": "SteamDLCInBP_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "e25b4cd2e67e491f9277902db74633b1",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "DLC In Blueprints V3 4.27"
+      },
+      {
+        "appId": "SteamDLCInBP_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "1dcc1519450943809fb349987cf1df1e",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "DLC In Blueprints V3 ue5"
+      },
+      {
+        "appId": "SteamDLCInBP_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "c4cff0d17f7545ada7226f813272a443",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "DLC In Blueprints V3 5.1"
+      },
+      {
+        "appId": "SteamDLCInBP_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "6c5c94e30f7e47369a48fe214cd53617",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "DLC In Blueprints V3 5.2"
+      },
+      {
+        "appId": "SteamDLCInBP_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "83b63c9dc1714c9e91cda88e608bffff",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "DLC in Blueprints V3 5.3"
+      },
+      {
+        "appId": "SteamDLCInBP_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "8ead16f1327e469190f3099444d7c438",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "DLC In Blueprints V3 5.4"
+      },
+      {
+        "appId": "DLCInBluab5d0127ed44V9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "86a2f1c8b77f47e5ab75134637b6f7f4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "V4.0",
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "DLCInBlub24ff2316775V10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "c66971b59e5c42db9fa5e4bbd42ab080",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "V4.0",
+        "versionTitle": "5.6"
+      },
+      {
+        "appId": "Steamandb747a5b6060eV11",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-12-03T17:47:27.111Z",
+        "id": "fd41c56ceb434ba2a2323cc347c10ea4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "The download link should start the download automatically.",
+        "versionTitle": "5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Steam and Epic DLC Toolkit Pro \u2013 One Blueprint System for Both Stores",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

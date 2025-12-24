@@ -1,0 +1,57 @@
+* {
+    background:     #1a1b26;
+    foreground:     #c0caf5;
+    selected:       #7aa2f7;
+}
+
+window {
+    width: 400px;
+    border: 2px;
+    border-color: @selected;
+    border-radius: 12px;
+    background-color: @background;
+    padding: 18px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 12px;
+}
+
+inputbar {
+    padding: 10px 15px;
+    border-radius: 8px;
+    background-color: rgba(122, 162, 247, 0.15);
+    text-color: @foreground;
+    children: [ "prompt" ];
+}
+
+prompt {
+    text-color: @selected;
+    font: "CodeNewRoman Nerd Font Bold 13";
+}
+
+listview {
+    lines: 3;
+    scrollbar: false;
+    background-color: transparent;
+    spacing: 6px;
+}
+
+element {
+    padding: 12px 18px;
+    border-radius: 8px;
+    background-color: transparent;
+    text-color: @foreground;
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    font: "CodeNewRoman Nerd Font 13";
+}

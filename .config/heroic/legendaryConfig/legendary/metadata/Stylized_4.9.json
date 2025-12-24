@@ -1,0 +1,334 @@
+{
+  "app_name": "Stylized_4.9",
+  "app_title": "Stylized Rendering",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-12-17T15:20:25.743Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "8f4f64fa-b2a7-439f-952f-b7cb8b9459e6"
+      }
+    },
+    "description": "Stylized Rendering",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "df1c7bb75d334d24a07a9b30684b1950",
+    "entitlementType": "AUDIENCE",
+    "id": "df1c7bb75d334d24a07a9b30684b1950",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-03-12T19:35:02.152Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Stylized_4.1",
+        "compatibleApps": [
+          "UE_4.1",
+          "UE_4.2"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "a4c4519894fc4402a962df66f034915a",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.1"
+      },
+      {
+        "appId": "Stylized_4.10",
+        "compatibleApps": [
+          "UE_4.10"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "e88a14d646304bb29d7cd97291464486",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.10"
+      },
+      {
+        "appId": "Stylized_4.11",
+        "compatibleApps": [
+          "UE_4.11"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "c60cc9a0a878446fab772c8909ffd26b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.11"
+      },
+      {
+        "appId": "Stylized_4.12",
+        "compatibleApps": [
+          "UE_4.12"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "b6cd5966aaba41ea8a0981727f4fff03",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.12"
+      },
+      {
+        "appId": "Stylized_4.13",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "748470b2bd6b4247a9394e872d86299d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.13"
+      },
+      {
+        "appId": "Stylized_4.14",
+        "compatibleApps": [
+          "UE_4.14"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "835160bca0f749eea8a8d0080a3aeb77",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.14"
+      },
+      {
+        "appId": "Stylized_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "fcf92b9406f5412cb7e41cd62ea505d9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.15"
+      },
+      {
+        "appId": "Stylized_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "7c5635d1066c417c820a6249af8baf58",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.16"
+      },
+      {
+        "appId": "Stylized_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "bda21beb068b4b66a71f3da2447f3eab",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.17"
+      },
+      {
+        "appId": "Stylized_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "d3aff4c24aa745cf99d95a001a94e046",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.18"
+      },
+      {
+        "appId": "Stylized_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "497854ddea2f42ad8aace9877beabca9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.19"
+      },
+      {
+        "appId": "Stylized_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "11dfec79b3094a80b746296f99e4bf55",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.20"
+      },
+      {
+        "appId": "Stylized_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "0031e34d33864332a8ce1202c385c246",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.21"
+      },
+      {
+        "appId": "Stylized_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "7ed854a80585466587590af58badb7f7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.22"
+      },
+      {
+        "appId": "Stylized_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "39c2d55755c14c09b8d79d89abf3781b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.23"
+      },
+      {
+        "appId": "Stylized_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "dca8d7b5fded46919d3dccadb6742d43",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.24"
+      },
+      {
+        "appId": "Stylized_4.3",
+        "compatibleApps": [
+          "UE_4.3",
+          "UE_4.4",
+          "UE_4.5"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "5f49245f7c9349048bfc8e63061cfc1f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Cleaning up version listing",
+        "versionTitle": "Stylized_4.3"
+      },
+      {
+        "appId": "Stylized_4.6",
+        "compatibleApps": [
+          "UE_4.6"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "bba513d3b7544d0d9a0cf4e969f321d9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.6"
+      },
+      {
+        "appId": "Stylized_4.7",
+        "compatibleApps": [
+          "UE_4.7"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "5d0e5575a7e145ee8d564710d4cda738",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.7"
+      },
+      {
+        "appId": "Stylized_4.8",
+        "compatibleApps": [
+          "UE_4.8"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "7274cc500fc64d109ff1bd695fdf4108",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.8"
+      },
+      {
+        "appId": "Stylized_4.9",
+        "compatibleApps": [
+          "UE_4.9"
+        ],
+        "dateAdded": "2025-03-12T19:34:46.948Z",
+        "id": "9b4617b2b07340a2b588d87ce156df6e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Stylized_4.9"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Stylized Rendering",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

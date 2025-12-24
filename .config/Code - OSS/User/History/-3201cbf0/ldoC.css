@@ -1,0 +1,33 @@
+@import url("/home/paul/.cache/wal/colors-waybar.css");
+
+window {
+    background-color: alpha(@background, 0.7);
+    border-radius: 18px;
+    padding: 8px;
+    margin: 0px;
+    border: 1px solid alpha(@color12, 0.3);
+}
+
+#box {
+    padding: 4px;
+    background-color: transparent;
+}
+
+button {
+    background-color: transparent;
+    border-radius: 12px;
+    padding: 8px;
+    margin: 2px;
+    transition: all 0.2s ease;
+    border: none;
+}
+
+button:hover {
+    background-color: alpha(@color12, 0.3);
+    /* Removed transform - not supported in GTK CSS */
+}
+
+button image {
+    background-color: transparent;
+    border-radius: 8px;
+}

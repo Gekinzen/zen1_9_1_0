@@ -1,0 +1,162 @@
+{
+  "app_name": "SplineCra5c3e08451edV4",
+  "app_title": "SplineCraft Light",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "SplineCra5c3e08451edV4",
+      "asset_id": "SplineCra5c3e08451edV4",
+      "build_version": "5.5.0-42472281+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "1aa3a5009d334f9a90847d52cc852ab2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T21:27:25.582Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "185917e0-3c46-4491-b73e-bc1c9a793d4d"
+      }
+    },
+    "description": "SplineCraft Light",
+    "developer": "VITALII YURCHENKO",
+    "developerId": "o-rdv333kd7c3zqjzmjxlqs3fu8umwnk",
+    "endOfSupport": false,
+    "entitlementName": "1aa3a5009d334f9a90847d52cc852ab2",
+    "entitlementType": "AUDIENCE",
+    "id": "1aa3a5009d334f9a90847d52cc852ab2",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-02T06:21:46.592Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "SplineCraftLite_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-02T05:12:25.677Z",
+        "id": "1c979cd80a3343e79ac77a92c208f750",
+        "platform": [
+          "Android",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "Build 1.0.0"
+      },
+      {
+        "appId": "SplineCraftLite_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-02T05:12:25.677Z",
+        "id": "64f1533d84cf4da7b2687275d78f0527",
+        "platform": [
+          "Android",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Oculus",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Fixed the bug when building the production version (removed default mesh).",
+        "versionTitle": "Build 1.1.1"
+      },
+      {
+        "appId": "SplineCraftLite_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-02T05:12:25.677Z",
+        "id": "5065a7993f604927bb15a04ef20a1d0d",
+        "platform": [
+          "Android",
+          "HoloLens 2",
+          "Gear VR",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "Version 5.4.0"
+      },
+      {
+        "appId": "SplineCra5c3e08451edV4",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-02T05:12:25.677Z",
+        "id": "d736325997fe4499b0ff75f1d303896a",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "Fixed a compilation error. Added forward declaration for UInstancedStaticMeshComponent to the header file.",
+        "versionTitle": "Update for Unreal Engine 5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "SplineCraft Light",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

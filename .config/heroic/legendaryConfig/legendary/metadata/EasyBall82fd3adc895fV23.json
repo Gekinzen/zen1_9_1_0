@@ -1,0 +1,437 @@
+{
+  "app_name": "EasyBall82fd3adc895fV23",
+  "app_title": "EasyBallistics Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "EasyBall82fd3adc895fV23",
+      "asset_id": "EasyBall82fd3adc895fV23",
+      "build_version": "5.6.0-43719539+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "eb986b18546244619911667958e8977f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-30T07:37:19.186Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d95daf2f-eaaf-4bbf-9c50-6c4f02e017bf"
+      }
+    },
+    "description": "EasyBallistics Plugin",
+    "developer": "mookie",
+    "developerId": "o-5d323d7e97444299516a3431d27685",
+    "endOfSupport": false,
+    "entitlementName": "eb986b18546244619911667958e8977f",
+    "entitlementType": "AUDIENCE",
+    "id": "eb986b18546244619911667958e8977f",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-21T13:27:24.264Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "EasyBallistics_4.12",
+        "compatibleApps": [
+          "UE_4.12"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "d0235f3a088d4d96830e8bca1b169dd4",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "EasyBallistics_4.12"
+      },
+      {
+        "appId": "EasyBallistics_4.13",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "c59222388d294651a5bd1c543bfec72b",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "EasyBallistics_4.13"
+      },
+      {
+        "appId": "EasyBallistics_4.14",
+        "compatibleApps": [
+          "UE_4.14"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "a9866176b7c344bfbb0bea8e1d406a68",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "EasyBallistics_4.14"
+      },
+      {
+        "appId": "EasyBallistics_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "481ace5789f04eff8061db198c03749d",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "EasyBallistics_4.15"
+      },
+      {
+        "appId": "EasyBallistics_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "69d70a3f5e80444b97f024fe739cb6cb",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "EasyBallistics_4.16"
+      },
+      {
+        "appId": "EasyBallistics_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "dd96a5c07fce4ed59a5c310c36f430f3",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "EasyBallistics_4.17"
+      },
+      {
+        "appId": "EasyBallistics_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "4a2fabde3c19499c95d433d8c8eaefdc",
+        "platform": [
+          "Windows",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "EasyBallistics_4.18"
+      },
+      {
+        "appId": "EasyBallistics_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "a9207c6bb1ee43fc8432d654521da112",
+        "platform": [
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Windows",
+          "Mac",
+          "Oculus"
+        ],
+        "versionTitle": "EasyBallistics_4.19"
+      },
+      {
+        "appId": "EasyBallistics_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "0fe53602431842729411f469ea1ff179",
+        "platform": [
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Linux",
+          "Mac",
+          "Windows",
+          "Android"
+        ],
+        "versionTitle": "EasyBallistics_4.20"
+      },
+      {
+        "appId": "EasyBallistics_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "beadcf5bdf6e4800b70d8bd2beea84e1",
+        "platform": [
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Android",
+          "Mac",
+          "Windows",
+          "Oculus"
+        ],
+        "versionTitle": "EasyBallistics_4.21"
+      },
+      {
+        "appId": "EasyBallistics_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "6f916f03fdb64ca5abe3984ee7781706",
+        "platform": [
+          "Windows",
+          "Oculus",
+          "Linux",
+          "Mac",
+          "Android",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "EasyBallistics_4.22"
+      },
+      {
+        "appId": "EasyBallistics_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "4d2e8421440f40d1ae6680a2d5273dd3",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac",
+          "Android",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "EasyBallistics_4.23"
+      },
+      {
+        "appId": "EasyBallistics_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "a111de1262fc4e59a5b1396fef1b0484",
+        "platform": [
+          "Android",
+          "Linux",
+          "Mac",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Oculus"
+        ],
+        "versionTitle": "EasyBallistics_4.24"
+      },
+      {
+        "appId": "EasyBallistics_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "e0cc273a1ddd48b6b5c493ff9c3713b7",
+        "platform": [
+          "Android",
+          "Linux",
+          "Mac",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "EasyBallistics_4.25"
+      },
+      {
+        "appId": "EasyBallistics_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "b3f118e62a6646e0982d567c2b0c0704",
+        "platform": [
+          "Linux",
+          "Android",
+          "Mac",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Oculus"
+        ],
+        "versionTitle": "EasyBallistics_4.26"
+      },
+      {
+        "appId": "EasyBallistics_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "f14ae287f81d42ea815fbfd270370be4",
+        "platform": [
+          "Android",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "EasyBallistics_4.27"
+      },
+      {
+        "appId": "EasyBallistics_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "d9e9e56b256042c19d197d791e79cc93",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Android",
+          "Gear VR"
+        ],
+        "versionTitle": "EasyBallistics_5.00"
+      },
+      {
+        "appId": "EasyBallistics_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "b71fde1b11df4db090a01c43f83b8476",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Windows"
+        ],
+        "versionTitle": "EasyBallistics_5.1"
+      },
+      {
+        "appId": "EasyBallistics_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "4eee4d7bde9d404390f6015cb218a631",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Windows"
+        ],
+        "versionTitle": "EasyBallistics_5.20"
+      },
+      {
+        "appId": "EasyBallistics_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "f9c3dc1b10b545d8a1dbf17048154714",
+        "platform": [
+          "Android",
+          "Linux",
+          "Gear VR",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Oculus",
+          "Mac"
+        ],
+        "versionTitle": "EasyBallistics_5.30"
+      },
+      {
+        "appId": "EasyBallistics_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "3b900e1cd2884bbfbb8308caeb1dd9dd",
+        "platform": [
+          "Android",
+          "Linux",
+          "Mac",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Oculus"
+        ],
+        "versionTitle": "EasyBallistics_5.40"
+      },
+      {
+        "appId": "EasyBall6728c926826cV22",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "a07c3e1917f6457c9c7610decf604632",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux"
+        ],
+        "versionTitle": "EasyBallistics_5.50"
+      },
+      {
+        "appId": "EasyBall82fd3adc895fV23",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-21T10:28:27.652Z",
+        "id": "442e71118b5047a3bc11042829232da7",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux"
+        ],
+        "versionTitle": "EasyBallistics_5.60"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "EasyBallistics Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

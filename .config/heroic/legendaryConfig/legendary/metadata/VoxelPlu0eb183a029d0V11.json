@@ -1,0 +1,240 @@
+{
+  "app_name": "VoxelPlu0eb183a029d0V11",
+  "app_title": "Voxel Plugin Free Legacy",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "VoxelPlu0eb183a029d0V11",
+      "asset_id": "VoxelPlu0eb183a029d0V11",
+      "build_version": "5.5.0-38370443+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "d16f7f93b35542b0aa2b675194f6393b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-22T19:01:35.246Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "4f9c8104-1f2b-42c3-b167-85ea589a8b3b"
+      }
+    },
+    "description": "Voxel Plugin Free Legacy",
+    "developer": "Voxel Plugin",
+    "developerId": "o-wnhwstxuxc9ew57rqfe5m7zj3d6r4v",
+    "endOfSupport": false,
+    "entitlementName": "d16f7f93b35542b0aa2b675194f6393b",
+    "entitlementType": "AUDIENCE",
+    "id": "d16f7f93b35542b0aa2b675194f6393b",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-11-19T14:18:43.109Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "VoxelFree_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "709db7b63daa42f6bc1bf7fd48cbd989",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "Linux",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "4.23"
+      },
+      {
+        "appId": "VoxelFree_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "85f1f35a090741de8ea9b1f6af09c0ff",
+        "platform": [
+          "Android",
+          "Linux",
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Gear VR"
+        ],
+        "versionTitle": "4.24"
+      },
+      {
+        "appId": "VoxelFree_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "638711c1739a41b4b409b4b667f22134",
+        "platform": [
+          "Android",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "Linux",
+          "Gear VR"
+        ],
+        "versionTitle": "4.25"
+      },
+      {
+        "appId": "VoxelFree_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "4f4386830a764d56bb885d902150ec18",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "Linux",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "4.26"
+      },
+      {
+        "appId": "VoxelFree_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "fecbceb5f84e46ff85ead81f01355780",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "4.27"
+      },
+      {
+        "appId": "VoxelFree_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "f3f927faaa9b4c03bc4c550938ae07db",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.00"
+      },
+      {
+        "appId": "VoxelFree_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "b13b7c30c6b849fcae4129611fe0124a",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.01"
+      },
+      {
+        "appId": "VoxelFree_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "a8567f829ff34891a603a2de440c1d6a",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.02"
+      },
+      {
+        "appId": "VoxelFree_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "6c164f2718214cbcb381281f2f89726d",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.03"
+      },
+      {
+        "appId": "VoxelFree_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "48113b752e3c44cf85d9506afe66c577",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.04"
+      },
+      {
+        "appId": "VoxelPlu0eb183a029d0V11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2024-11-17T14:35:32.415Z",
+        "id": "d92353c2b5014622bd081f7854058c80",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Voxel Plugin Free Legacy",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

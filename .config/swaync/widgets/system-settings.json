@@ -1,0 +1,7 @@
+{
+    "type": "custom",
+    "title": "󰒓 System Settings",
+    "body": "Configure your system",
+    "icon": "preferences-system",
+    "on-click": "~/.config/hypr/scripts/system-settings.sh"
+}

@@ -1,0 +1,154 @@
+{
+  "app_name": "VisualNo156c4b1e9f2bV6",
+  "app_title": "Visual Novel Framework - Full System",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "VisualNo156c4b1e9f2bV6",
+      "asset_id": "VisualNo156c4b1e9f2bV6",
+      "build_version": "5.6.0-38992916+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "e7194b59a48148d4bacde3f924ce63dd",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-09T11:34:25.382Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "dcb30c48-e598-468e-b50a-abb4bea6b647"
+      }
+    },
+    "description": "Visual Novel Framework - Full System",
+    "developer": "Woodsy Studio",
+    "developerId": "o-v7pscyhzq4tgybyjrudfbkhrhp3ng9",
+    "endOfSupport": false,
+    "entitlementName": "e7194b59a48148d4bacde3f924ce63dd",
+    "entitlementType": "AUDIENCE",
+    "id": "e7194b59a48148d4bacde3f924ce63dd",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-01-04T11:10:39.154Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "FullVisud956a42c3c1eV1",
+        "compatibleApps": [
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-01-03T21:24:43.397Z",
+        "id": "8cb743bdeae64f8bb60613f8116b9957",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Fixed bug related to sound classes in Options menu",
+        "versionTitle": "VN_Framework v120"
+      },
+      {
+        "appId": "FullVisud956a42c3c1eV2",
+        "compatibleApps": [
+          "UE_4.23",
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-01-03T21:24:43.397Z",
+        "id": "866c769cfc9f477f983eb7fe026a4abf",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Added widget character fades while talking, minor bug fixes",
+        "versionTitle": "VN Framework v205"
+      },
+      {
+        "appId": "VisualNod956a42c3c1eV3",
+        "compatibleApps": [
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-01-03T21:24:43.397Z",
+        "id": "7db8a2310032478685728cd791f18082",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Fixed bad connection in Char_Widget pins",
+        "versionTitle": "VN Framework v308"
+      },
+      {
+        "appId": "VisualNod956a42c3c1eV4",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-01-03T21:24:43.397Z",
+        "id": "5da71de0c6904196bf0c70e8e19a6751",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Updated for UE5",
+        "versionTitle": "VN Framework v501"
+      },
+      {
+        "appId": "VisualNod956a42c3c1eV5",
+        "compatibleApps": [
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-01-03T21:24:43.397Z",
+        "id": "8f743a107cfc45e6902b72cbb3c5c8a1",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Works with UE5.1",
+        "versionTitle": "VN_Framework v511"
+      },
+      {
+        "appId": "VisualNo156c4b1e9f2bV6",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-01-03T21:24:43.397Z",
+        "id": "ca10b61d235b45a48f5dc875fa15d4b9",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Updated for UE5.5.1 with modified Window Fullscreen modes",
+        "versionTitle": "VN Framework 551"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Visual Novel Framework - Full System",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

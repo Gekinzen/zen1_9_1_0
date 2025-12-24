@@ -1,0 +1,176 @@
+{
+  "app_name": "Outliner243d812f416cV8",
+  "app_title": "Outliner Shortcuts",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Outliner243d812f416cV8",
+      "asset_id": "Outliner243d812f416cV8",
+      "build_version": "5.7.0-48329164+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "ed414a4e2b164e5789a0a6f35860875d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T09:44:27.112Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "9788d72d-b2bd-4181-8bf3-8a6eda69c2c8"
+      }
+    },
+    "description": "Outliner Shortcuts",
+    "developer": "Voulz",
+    "developerId": "o-3844z84nuk9a8ltlb5crurdk4qxedr",
+    "endOfSupport": false,
+    "entitlementName": "ed414a4e2b164e5789a0a6f35860875d",
+    "entitlementType": "AUDIENCE",
+    "id": "ed414a4e2b164e5789a0a6f35860875d",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-15T11:52:31.417Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "OutlinerShortcuts_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-15T03:41:02.747Z",
+        "id": "feaac5c1a9eb4cfb93fa9c21cc67dc16",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "Outliner Shortcuts v1.1 UE5.0"
+      },
+      {
+        "appId": "OutlinerShortcuts_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-15T03:41:02.747Z",
+        "id": "eacf40e720ac46fda9e27b4941be5125",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "Outliner Shortcuts v1.1 UE5.1"
+      },
+      {
+        "appId": "OutlinerShortcuts_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-15T03:41:02.747Z",
+        "id": "4bc2ba57709d4a94a08c87b005766bf7",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "OutlinerShortcuts v1.1.1 UE5.2"
+      },
+      {
+        "appId": "OutlinerShortcuts_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-15T03:41:02.747Z",
+        "id": "aca86920475149a4838f30053a69d929",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "OutlinerShortcuts v1.1.2 UE5.3"
+      },
+      {
+        "appId": "OutlinerShortcuts_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-15T03:41:02.747Z",
+        "id": "a78ce7fd8f7b435da154014b7814317c",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux"
+        ],
+        "versionTitle": "OutlinerShortcuts v1.1.2 UE5.4"
+      },
+      {
+        "appId": "Outliner8a15461ce8e6V6",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-15T03:41:02.747Z",
+        "id": "004ffa57b4f945e2a2fe4e32d55445dd",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux"
+        ],
+        "versionTitle": "OutlinerShortcuts v1.1.4 UE5.5"
+      },
+      {
+        "appId": "Outlineraa702287f326V7",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-15T03:41:02.747Z",
+        "id": "24667476e21348078fb9eb4a0d6843fb",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux"
+        ],
+        "versionTitle": "OutlinerShortcuts v1.1.5 UE5.6"
+      },
+      {
+        "appId": "Outliner243d812f416cV8",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-15T03:41:02.747Z",
+        "id": "852d5c0fbcb948e3b58c820cd9f50868",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "OutlinerShortcuts v1.1.6 UE5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Outliner Shortcuts",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

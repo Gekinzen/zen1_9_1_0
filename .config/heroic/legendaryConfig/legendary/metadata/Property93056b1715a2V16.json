@@ -1,0 +1,307 @@
+{
+  "app_name": "Property93056b1715a2V16",
+  "app_title": "Property Transfer Tool",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Property93056b1715a2V16",
+      "asset_id": "Property93056b1715a2V16",
+      "build_version": "5.5.0-40970160+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "d64fc85d34204f8398fb6ad7be7a2e2c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T14:41:39.585Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "60da2cc1-4266-43ae-ab97-9f556d0ae4ac"
+      }
+    },
+    "description": "Property Transfer Tool",
+    "developer": "Bruno Xavier L",
+    "developerId": "o-299f8b0439411aa863e2f0ade8f642",
+    "endOfSupport": false,
+    "entitlementName": "d64fc85d34204f8398fb6ad7be7a2e2c",
+    "entitlementType": "AUDIENCE",
+    "id": "d64fc85d34204f8398fb6ad7be7a2e2c",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-06T06:42:44.345Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "PTMTool_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "68f1e81a7a07453f96888556e4342da8",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE4_18"
+      },
+      {
+        "appId": "PTMTool_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "7f2491e04d11437c9dfb2db22c8d3149",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE4_19"
+      },
+      {
+        "appId": "PTMTool_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "8da4895b77a54363acfea1b35b31ad5d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE4_20"
+      },
+      {
+        "appId": "PTMTool_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "acb6593cb13a4eefa14a70446b3593ba",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE4_21"
+      },
+      {
+        "appId": "PTMTool_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "69077c595994467684231fdc36d3b50a",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "UE4_22"
+      },
+      {
+        "appId": "PTMTool_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "5d37c9a4d4b842d9b35dc863fe5aec33",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE_4.23"
+      },
+      {
+        "appId": "PTMTool_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "facf1cb006dd444b90dc90a74391932a",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE_4.24"
+      },
+      {
+        "appId": "PTMTool_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "d9ec9eebd70640d9800b85d8ef6cc3aa",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "UE_4.25"
+      },
+      {
+        "appId": "PTMTool_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "a9cfdaf3fe2d47e88b602f0887aa53df",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "PTT_4.26"
+      },
+      {
+        "appId": "PTMTool_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "dd902ae596ab4f7985f99db560c2f14e",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "PTT_4.27"
+      },
+      {
+        "appId": "PTMTool_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "488555a1a62b48bcba552ee9e69e3fab",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "PTT_5.0"
+      },
+      {
+        "appId": "PTMTool_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "faa5ad3aeb004b62b5a0da043e1cdaea",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "PPT_5.1"
+      },
+      {
+        "appId": "PTMTool_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "c25b0300889c4719bf77b656e33879b7",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "PPT_5.2"
+      },
+      {
+        "appId": "PTMTool_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "26c4bd2b2f5c4f27b5a9be18bf4e3a2f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE_5.3"
+      },
+      {
+        "appId": "PTMTool_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "4e2688855b054f75a6c6f27db8c4c07b",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "UE_5.4"
+      },
+      {
+        "appId": "Property93056b1715a2V16",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "b9f8ac70c6184d819180e9d26b9d41ae",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "PTT_UE5.5"
+      },
+      {
+        "appId": "Property1a9be8a18b7eV17",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-05T22:54:25.431Z",
+        "id": "6f6d8f223e104a0e8d9d926a22f0468f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "Added support for user-defined structs. You can copy/paste between structs and blueprints.",
+        "versionTitle": "PTT_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Property Transfer Tool",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

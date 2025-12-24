@@ -1,0 +1,377 @@
+{
+  "app_name": "ImageResc03f9e671b09V21",
+  "app_title": "ImageResizUEr",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ImageResc03f9e671b09V21",
+      "asset_id": "ImageResc03f9e671b09V21",
+      "build_version": "5.5.0-38973258+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "4a25e102e79447ef949cd649addb663b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-12T10:14:25.434Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "dd380608-c8fd-4036-b4e9-f3931ff8df45"
+      }
+    },
+    "description": "ImageResizUEr",
+    "developer": "NT Entertainment",
+    "developerId": "o-a07591008b4f74bada481ca6572def",
+    "endOfSupport": false,
+    "entitlementName": "4a25e102e79447ef949cd649addb663b",
+    "entitlementType": "AUDIENCE",
+    "id": "4a25e102e79447ef949cd649addb663b",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-20T17:30:56.650Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ImageResizUEr_4.13",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "5a43c7729e9f4de49f6790cd52aae643",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_4.13"
+      },
+      {
+        "appId": "ImageResizUEr_4.14",
+        "compatibleApps": [
+          "UE_4.14"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "34257aa5aa9a4be39a34c6ffd4e071d8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_4.14"
+      },
+      {
+        "appId": "ImageResizUEr_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "8f9754f34cec4e6ead3ea423edf8d7bf",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_4.15"
+      },
+      {
+        "appId": "ImageResizUEr_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "374d57bc3da94026ac9a2083d95f31ca",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_4.16"
+      },
+      {
+        "appId": "ImageResizUEr_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "f65d7b6dd58d43148521d519ea7c28db",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_4.17"
+      },
+      {
+        "appId": "ImageResizUEr_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "7205ce50f97e4c73ace8c71ea666c5f5",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_4.18"
+      },
+      {
+        "appId": "ImageResizUEr_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "9dc5403ccc2947d5bc12d4bca339a010",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_4.19"
+      },
+      {
+        "appId": "ImageResizUEr_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "8d6e96a7ec264f98a82e3ee008256204",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_420"
+      },
+      {
+        "appId": "ImageResizUEr_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "09d80414b74a4e14ac32f64713943c40",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_421"
+      },
+      {
+        "appId": "ImageResizUEr_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "87f3cbc4e16a42a78a446898d0900587",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_4.22"
+      },
+      {
+        "appId": "ImageResizUEr_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "d2be96148c1e4160bde29686d7e98c32",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "ImageResizUEr_423"
+      },
+      {
+        "appId": "ImageResizUEr_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "e493bf8dc40949da9dec608818b53954",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_424"
+      },
+      {
+        "appId": "ImageResizUEr_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "34d91563d4a94abb945567969b69cbd4",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "ImageResizUEr_425"
+      },
+      {
+        "appId": "ImageResizUEr_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "d0c137ee068945119dc286ec874dc0b9",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "ImageResizUEr_426"
+      },
+      {
+        "appId": "ImageResizUEr_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "904b9775195744dc8350b682d6c87c68",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "ImageResizUEr_427"
+      },
+      {
+        "appId": "ImageResizUEr_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "868be970d3d84f4db4f925b03715b088",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "ImageResizUEr_500"
+      },
+      {
+        "appId": "ImageResizUEr_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "25cc20cde06c4d6f8cfca62fdd4c5cec",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "ImageResizUEr_510"
+      },
+      {
+        "appId": "ImageResizUEr_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "d8a0da24a21a43e1a39a0d693d48bbfa",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "ImageResizUEr_520"
+      },
+      {
+        "appId": "ImageResizUEr_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "e342f4ff568b4dc1bc7b1470534e8b1b",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "ImageResizUEr_530"
+      },
+      {
+        "appId": "ImageResizUEr_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "b578481ac8c942b2975ab496b7b4c7d3",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "ImageResizUEr_541"
+      },
+      {
+        "appId": "ImageResc03f9e671b09V21",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "77ca10dc1acc41a09bd419261e52e82e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Win32"
+        ],
+        "versionTitle": "ImageResizUEr 5.5.1"
+      },
+      {
+        "appId": "ImageRes2643a081af6dV22",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-07-20T17:07:25.832Z",
+        "id": "e6556010010c4f0c9b474da437297a8a",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "ImageResizUEr 5.60"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "ImageResizUEr",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

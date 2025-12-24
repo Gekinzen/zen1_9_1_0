@@ -1,0 +1,67 @@
+@import url("/home/paul/.cache/wal/colors-wofi.css");
+
+* {
+    font-family: "SF Pro Display", "CodeNewRoman Nerd Font", sans-serif;
+}
+
+window {
+    margin: 0px;
+    background-color: transparent;
+}
+
+#outer-box {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(30, 30, 30, 0.98);
+    backdrop-filter: blur(40px);
+    border-radius: 16px;
+    border: 0.5px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 25px 80px rgba(0, 0, 0, 0.6);
+}
+
+#inner-box {
+    margin: 0px;
+    padding: 12px;
+}
+
+#input {
+    margin: 12px 15px 8px 15px;
+    padding: 14px 18px;
+    border: none;
+    background-color: rgba(50, 50, 50, 0.5);
+    color: @foreground;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#scroll {
+    margin: 4px 8px 8px 8px;
+}
+
+#entry {
+    margin: 2px 8px;
+    padding: 10px 12px;
+    border-radius: 8px;
+    background-color: transparent;
+}
+
+#entry:selected {
+    background: linear-gradient(90deg, @color12 0%, alpha(@color9, 0.9) 100%);
+    box-shadow: 0 2px 10px alpha(@color12, 0.3);
+}
+
+#entry #img {
+    margin-right: 10px;
+}
+
+#entry #text {
+    color: @foreground;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#entry:selected #text {
+    color: @background;
+    font-weight: 600;
+}

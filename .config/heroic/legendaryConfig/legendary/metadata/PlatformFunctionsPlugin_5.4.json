@@ -1,0 +1,118 @@
+{
+  "app_name": "PlatformFunctionsPlugin_5.4",
+  "app_title": "Platform Functions",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "PlatformFunctionsPlugin_5.4",
+      "asset_id": "PlatformFunctionsPlugin",
+      "build_version": "5.4.0-38982036+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "f6ea0709bea0432982eaecb2b455395f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T11:12:40.201Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "f84001ab-0aed-4a8f-b976-7203fadc338a"
+      }
+    },
+    "description": "Platform Functions",
+    "developer": "GalacticGames.com",
+    "developerId": "o-5bxgyksrlkrv8uc8llt449rz9nxhvs",
+    "endOfSupport": false,
+    "entitlementName": "f6ea0709bea0432982eaecb2b455395f",
+    "entitlementType": "AUDIENCE",
+    "eulaIds": [],
+    "id": "f6ea0709bea0432982eaecb2b455395f",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-10-25T22:45:57.401Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "PlatformFunctionsPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2024-09-18T18:08:01.379Z",
+        "id": "296d98ce7ca745ccb3c7c3c11fde620c",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "2.4"
+      },
+      {
+        "appId": "PlatformFunctionsPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2024-09-18T18:08:00.000Z",
+        "id": "49b857daa2bb456a9a3b02cd0305b99e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Win32"
+        ],
+        "releaseNote": "Project File Password: EpicIsAwsome123!",
+        "versionTitle": "v2.4_5.3"
+      },
+      {
+        "appId": "PlatformFunctionsPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2024-09-18T18:08:00.000Z",
+        "id": "1887df010a9246bbbb9a901173642b58",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Win32"
+        ],
+        "releaseNote": "Project File Password: EpicIsAwsome123!",
+        "versionTitle": "v2.4_5.4"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Platform Functions",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

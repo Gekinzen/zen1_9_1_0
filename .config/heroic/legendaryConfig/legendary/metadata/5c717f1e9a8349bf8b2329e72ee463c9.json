@@ -1,0 +1,60 @@
+{
+  "app_name": "5c717f1e9a8349bf8b2329e72ee463c9",
+  "app_title": "Sci-Fi Character 08 (Renegade) Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-15T15:35:26.624Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "a9ff3ca3-31ab-40be-aa8f-c7f2d7e0819d"
+      }
+    },
+    "description": "Sci-Fi Character 08 (Renegade)",
+    "developer": "Bugrimov Maksim",
+    "developerId": "o-23df1b83e24cd4b50385b476038e20",
+    "endOfSupport": false,
+    "entitlementName": "3dc6b3447dda40a9b85fbece25c59b15",
+    "entitlementType": "AUDIENCE",
+    "id": "3dc6b3447dda40a9b85fbece25c59b15",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-16T11:17:24.274Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "5c717f1e9a8349bf8b2329e72ee463c9",
+        "compatibleApps": [],
+        "dateAdded": "2025-11-15T15:35:33.936Z",
+        "id": "83205d8c3a1840c4bc80c991078bbcfa",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sci-Fi Character 08 (Renegade) Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

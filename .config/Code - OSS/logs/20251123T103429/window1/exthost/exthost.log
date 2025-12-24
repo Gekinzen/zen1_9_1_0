@@ -1,0 +1,12 @@
+2025-11-23 10:34:30.276 [info] Extension host with pid 329173 started
+2025-11-23 10:34:30.276 [info] Skipping acquiring lock for /home/paul/.config/Code - OSS/User/workspaceStorage/51fe81a3b88e468bae6fad709a2de06b.
+2025-11-23 10:34:30.449 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-23 10:34:30.470 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-23 10:34:30.548 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-23 10:34:30.552 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-23 10:34:30.590 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-23 10:34:30.684 [info] Eager extensions activated
+2025-11-23 10:34:30.694 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-23 10:34:30.695 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-23 10:36:32.620 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-23 10:36:32.624 [info] Extension host with pid 329173 exiting with code 0

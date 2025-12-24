@@ -1,0 +1,265 @@
+{
+  "app_name": "31d26cc98fcd4aa9920315f03b55ad0b",
+  "app_title": "Project Winter",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "31d26cc98fcd4aa9920315f03b55ad0b",
+      "asset_id": "31d26cc98fcd4aa9920315f03b55ad0b",
+      "build_version": "WINT_v2.0.67_EPIC",
+      "catalog_item_id": "728eac3293f34dc686a292a4e6f7d925",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a02ddde3a9c640188c779ecadc5dd7ec"
+      },
+      "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567to9NOGhNlvSF7C8uUH7fWr3m",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-02-18T15:15:47.449Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "ProjectWinternf31D"
+      }
+    },
+    "description": "Project Winter",
+    "developer": "Other Ocean Interactive",
+    "developerId": "o-n6nlxccdm655mnvxdmxek4c5pbwm6c",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-18T16:23:17.508Z",
+        "description": "ARTIFACT_BUNDLE_2_ConsumableAudience",
+        "developer": "Other Ocean Interactive",
+        "developerId": "o-n6nlxccdm655mnvxdmxek4c5pbwm6c",
+        "endOfSupport": false,
+        "entitlementName": "41fe7fde81064c39a0fdbdb7ef510780",
+        "entitlementType": "AUDIENCE",
+        "id": "41fe7fde81064c39a0fdbdb7ef510780",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-19T14:30:00.000Z",
+        "mainGameItem": {
+          "id": "728eac3293f34dc686a292a4e6f7d925",
+          "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "728eac3293f34dc686a292a4e6f7d925",
+            "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ARTIFACT_BUNDLE_2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-09-10T17:48:53.994Z",
+        "customAttributes": {},
+        "description": "Blackout",
+        "developer": "Other Ocean Interactive",
+        "developerId": "o-n6nlxccdm655mnvxdmxek4c5pbwm6c",
+        "endOfSupport": false,
+        "entitlementName": "306da4ac6b16465db60be78bdff0316a",
+        "entitlementType": "EXECUTABLE",
+        "id": "306da4ac6b16465db60be78bdff0316a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Project Winter Blackout Offer",
+            "height": 1440,
+            "md5": "5608a6148a0478ebfdec3334f5a0c3e1",
+            "size": 2728875,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-20T15:57:57.106Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-10dkd.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Project Winter Blackout Offer",
+            "height": 1600,
+            "md5": "c8f2f7b693538ae331aeb8f3192cb6df",
+            "size": 1564091,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-20T15:57:56.978Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1hzfi.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-10T17:48:53.994Z",
+        "mainGameItem": {
+          "id": "728eac3293f34dc686a292a4e6f7d925",
+          "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "728eac3293f34dc686a292a4e6f7d925",
+            "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Blackout",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-17T20:26:22.363Z",
+        "description": "ARTIFACT_BUNDLE_1_ConsumableAudience",
+        "developer": "Other Ocean Interactive",
+        "developerId": "o-n6nlxccdm655mnvxdmxek4c5pbwm6c",
+        "endOfSupport": false,
+        "entitlementName": "9d880ab8b6f2407f957eeb17a9d83d31",
+        "entitlementType": "AUDIENCE",
+        "id": "9d880ab8b6f2407f957eeb17a9d83d31",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-19T14:30:00.000Z",
+        "mainGameItem": {
+          "id": "728eac3293f34dc686a292a4e6f7d925",
+          "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "728eac3293f34dc686a292a4e6f7d925",
+            "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ARTIFACT_BUNDLE_1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-18T16:25:33.254Z",
+        "description": "ARTIFACT_BUNDLE_3_ConsumableAudience",
+        "developer": "Other Ocean Interactive",
+        "developerId": "o-n6nlxccdm655mnvxdmxek4c5pbwm6c",
+        "endOfSupport": false,
+        "entitlementName": "1c4d321045dd4202902094fb4bd462b3",
+        "entitlementType": "AUDIENCE",
+        "id": "1c4d321045dd4202902094fb4bd462b3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-19T14:30:00.000Z",
+        "mainGameItem": {
+          "id": "728eac3293f34dc686a292a4e6f7d925",
+          "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "728eac3293f34dc686a292a4e6f7d925",
+            "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ARTIFACT_BUNDLE_3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "728eac3293f34dc686a292a4e6f7d925",
+    "entitlementType": "EXECUTABLE",
+    "id": "728eac3293f34dc686a292a4e6f7d925",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Project Winter Offer",
+        "height": 1440,
+        "md5": "e356b98b895614fc12df3b087e130a4b",
+        "size": 1188861,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-08-20T15:57:18.481Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1kokt.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Project Winter Offer",
+        "height": 1600,
+        "md5": "adc7a3d145cc9b202249e0ffd0f3d06e",
+        "size": 1554221,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-08-20T15:57:18.168Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1xh1h.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-03T18:30:50.484Z",
+    "mainGameItemList": [],
+    "namespace": "788e00e07a364c4ab1a42708b6ea6e17",
+    "releaseInfo": [
+      {
+        "appId": "31d26cc98fcd4aa9920315f03b55ad0b",
+        "id": "4519e31c2607474a8682d288dce41dd4",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Project Winter",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "2636fb9e10ca41618724c888d46ee086"
+    },
+    "rev": 1
+  }
+}

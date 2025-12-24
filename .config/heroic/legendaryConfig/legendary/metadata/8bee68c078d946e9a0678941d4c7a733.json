@@ -1,0 +1,112 @@
+{
+  "app_name": "8bee68c078d946e9a0678941d4c7a733",
+  "app_title": "itch.io",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8bee68c078d946e9a0678941d4c7a733",
+      "asset_id": "8bee68c078d946e9a0678941d4c7a733",
+      "build_version": "itch-setup 1.26.0 win64",
+      "catalog_item_id": "e9632aa195ad42599a37e4b3fa4f4bb7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5688a1fee5204ee4968b96e70c75f50b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "software"
+      },
+      {
+        "path": "public"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-08T17:48:48.686Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "itchio"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5688a1fee5204ee4968b96e70c75f50b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "itch.io",
+    "developer": "Itch Corp.",
+    "developerId": "o-ygg2pglfxmrfb897utdyrwnt434qbx",
+    "endOfSupport": false,
+    "entitlementName": "e9632aa195ad42599a37e4b3fa4f4bb7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e9632aa195ad42599a37e4b3fa4f4bb7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1f57f016693b447e7759918f54aea344",
+        "size": 491233,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-19T00:41:51.544Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S1_2560x1440-1f57f016693b447e7759918f54aea344",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a6b5e8f4b70c45a7758ad780826a99e4",
+        "size": 284885,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-19T00:42:03.180Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-04-22T13:26:02.234Z",
+    "mainGameItemList": [],
+    "namespace": "5688a1fee5204ee4968b96e70c75f50b",
+    "releaseInfo": [
+      {
+        "appId": "8bee68c078d946e9a0678941d4c7a733",
+        "id": "e40e4c496bbd4781912e6e9020828537",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "itch.io",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

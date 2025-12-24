@@ -1,0 +1,218 @@
+{
+  "app_name": "SurfaceFf2fa5259c819V11",
+  "app_title": "Surface Footstep System",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "SurfaceFf2fa5259c819V11",
+      "asset_id": "SurfaceFf2fa5259c819V11",
+      "build_version": "5.5.0-40229596+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "97563903ab5c4a41978b7fa8cef2092f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-24T18:50:28.504Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "a679496b-80f5-4a91-ac4a-62b3c5ebe819"
+      }
+    },
+    "description": "Surface Footstep System",
+    "developer": "Aasura-san",
+    "developerId": "o-75f68a76c64214ab40a83f5a4acf2a",
+    "endOfSupport": false,
+    "entitlementName": "97563903ab5c4a41978b7fa8cef2092f",
+    "entitlementType": "AUDIENCE",
+    "id": "97563903ab5c4a41978b7fa8cef2092f",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-13T05:07:24.247Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "SurfaceFootstepSystem_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "e822e9de19e5480991a5724bc4a38826",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Plugin packaged once again because of compile errors with \"BUILD SUCCESSFUL\"",
+        "versionTitle": "1.0"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "4d1371f0e008431fa6f3587142711258",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Update to 4.24",
+        "versionTitle": "1.0_4.24"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "4b7080fd98ce467b82bdb06fce37f07a",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Update to 4.25 + Added missing Base.ini file",
+        "versionTitle": "1.0.1_4.25"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "c3ea1a2332d44eccb653b39b2bbda83c",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Update to 4.26 + fixed some missing functionalities from 4.26 version",
+        "versionTitle": "1.0.2_4.26"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "5029023f2ed6433a8c8bb8010b3c0e5c",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Update to 4.27",
+        "versionTitle": "1.0.2_4.27"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "efe1328d40244f2b81156bdc160df3f6",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "using TSoftObjectPtrs and TObjectPtrs in the rest of the classes",
+        "versionTitle": "1.0.2_UE5"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "05c9259facef4f7cbba8f5e7e60b6cfc",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.0.2_UE5.1"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "0bef57809c0649089ca0f45da0064399",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.0.3_UE5.2"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "94b8514fb53140da8400dd8ec7121da7",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "1.0.3_UE5.3"
+      },
+      {
+        "appId": "SurfaceFootstepSystem_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "02e677c9819f4c6bbadc27af094c65fd",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "SurfaceFf2fa5259c819V11",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "a7e80fe2b6b24c3099d4e2085c3e305d",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "SurfaceFcb2afc509452V12",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-12T22:06:25.767Z",
+        "id": "58578e6b331c4529a484f2ba014f9102",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Surface Footstep System",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

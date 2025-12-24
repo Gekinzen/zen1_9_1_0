@@ -1,0 +1,94 @@
+{
+  "app_name": "588cec64448242d8b61188205d97f887",
+  "app_title": "River City Girls",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "588cec64448242d8b61188205d97f887",
+      "asset_id": "588cec64448242d8b61188205d97f887",
+      "build_version": "v.0.00.861829_patched",
+      "catalog_item_id": "ff3441646daa4bb9aac0ae01beca6275",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "d7c6881865f742f6b37a2f557f8e9e19",
+        "update_type": "PATCH"
+      },
+      "namespace": "a02304688fb3406192a3491b4281bee7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-09-09T00:36:17.412Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/WayForward Technologies/River City Girls/_savedata/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RiverCityGirls"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1"
+      }
+    },
+    "description": "River City Girls",
+    "developer": "WayForward",
+    "developerId": "o-t9vdtu8kntlubnxnh64w4tnrfzatkx",
+    "endOfSupport": false,
+    "entitlementName": "ff3441646daa4bb9aac0ae01beca6275",
+    "entitlementType": "EXECUTABLE",
+    "id": "ff3441646daa4bb9aac0ae01beca6275",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "River City Girls Offer",
+        "height": 1440,
+        "md5": "cd18b1f03ee235c82f66182c7ed58144",
+        "size": 1724034,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-06T20:52:52.156Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6eec1ad46bc4515be5731b22f274ef7/river-city-girls-1g4nd.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download River City Girls Offer",
+        "height": 1600,
+        "md5": "1a4deeda045cec91b5d6db1a0d3dc048",
+        "size": 822064,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-06T20:52:53.637Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6eec1ad46bc4515be5731b22f274ef7/river-city-girls-1wozh.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-15T22:14:56.937Z",
+    "mainGameItemList": [],
+    "namespace": "a02304688fb3406192a3491b4281bee7",
+    "releaseInfo": [
+      {
+        "appId": "588cec64448242d8b61188205d97f887",
+        "id": "00f6ea0be5524dbd8e0fc9ee42348f99",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "River City Girls",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

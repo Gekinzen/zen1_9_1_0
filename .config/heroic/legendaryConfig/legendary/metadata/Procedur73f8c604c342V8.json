@@ -1,0 +1,215 @@
+{
+  "app_name": "Procedur73f8c604c342V8",
+  "app_title": "Procedural NPC Crowds Pro V3",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Procedur73f8c604c342V8",
+      "asset_id": "Procedur73f8c604c342V8",
+      "build_version": "5.5.0-45703457+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "516a3111f6d247a99f50c38efa63b022",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T16:39:40.980Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "6212ccdd-1352-44e8-a545-7646042f0887"
+      }
+    },
+    "description": "Procedural NPC Crowds Pro V3",
+    "developer": "Komodobit Games",
+    "developerId": "o-gz3f5t658b3z56vbeee8dpzpdekcpk",
+    "endOfSupport": false,
+    "entitlementName": "516a3111f6d247a99f50c38efa63b022",
+    "entitlementType": "AUDIENCE",
+    "id": "516a3111f6d247a99f50c38efa63b022",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-09-10T23:54:52.104Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ProceduralNPCCrowds_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "2afe684e77b74643936db59701bf6395",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "Pedestrian 4.26 patch 9.22"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "1409f167c11340c0bb83beb3134dfc05",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Android",
+          "iOS",
+          "Mac"
+        ],
+        "versionTitle": "Pedestrian 4.27 patch 9.22"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "794ef73923d14741b568240b9d3b161c",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Android",
+          "iOS",
+          "Mac"
+        ],
+        "versionTitle": "Pedestrian 5.0 V2"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "fe41a5ba571042888acd389128d57d9f",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "Pedestrian System 5.1 V2"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "09940ecea10e4c4a9ed17fe79cf87843",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "Pedestrian 5.2 V2"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "7be06b8890684cdf9ac8ffdf25a23b04",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Android",
+          "iOS"
+        ],
+        "versionTitle": "Pedestrian 5.3 V2"
+      },
+      {
+        "appId": "ProceduralNPCCrowds_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "e0ca90c75c10438db71264a41532521d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "iOS",
+          "Linux"
+        ],
+        "releaseNote": "V3.1 hotfix",
+        "versionTitle": "5.4"
+      },
+      {
+        "appId": "Procedur73f8c604c342V8",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "426be155f62641d4957218d929d0ac3d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "releaseNote": "V3.1 hotfix",
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "Procedur161570685ca4V9",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-09-10T22:47:26.236Z",
+        "id": "4d61750ecad248ee99a330acff10394d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "iOS",
+          "Android",
+          "Linux"
+        ],
+        "releaseNote": "V3.1 hotfix",
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Procedural NPC Crowds Pro V3",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

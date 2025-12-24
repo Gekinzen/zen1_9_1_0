@@ -1,0 +1,59 @@
+* {
+    background:     #1a1b26;
+    foreground:     #c0caf5;
+    selected:       #7aa2f7;
+}
+
+window {
+    width: 400px;
+    border: 2px;
+    border-color: @selected;
+    border-radius: 12px;
+    background-color: @background;
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 15px;
+}
+
+inputbar {
+    padding: 12px 18px;
+    border-radius: 10px;
+    background-color: rgba(122, 162, 247, 0.15);
+    border: 2px;
+    border-color: @selected;
+    text-color: @foreground;
+    children: [ "prompt", "entry" ];
+}
+
+prompt {
+    enabled: true;
+    background-color: transparent;
+    text-color: @selected;
+    font: "CodeNewRoman Nerd Font Bold 13";
+}
+
+entry {
+    enabled: true;
+    background-color: transparent;
+    text-color: @foreground;
+    cursor: text;
+    placeholder: "0.85";
+    placeholder-color: rgba(192, 202, 245, 0.4);
+}
+
+message {
+    enabled: true;
+    padding: 10px;
+    background-color: rgba(122, 162, 247, 0.1);
+    text-color: @foreground;
+    border-radius: 8px;
+}
+
+textbox {
+    background-color: transparent;
+    text-color: @foreground;
+    font: "CodeNewRoman Nerd Font 12";
+}

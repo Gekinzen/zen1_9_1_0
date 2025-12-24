@@ -1,0 +1,473 @@
+{
+  "app_name": "b0b94ccc68564c729568cd07f9cfb812",
+  "app_title": "Arcadegeddon",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b0b94ccc68564c729568cd07f9cfb812",
+      "asset_id": "b0b94ccc68564c729568cd07f9cfb812",
+      "build_version": "rel_1.7.4_B44949_CL465922_Shipping_Client",
+      "catalog_item_id": "53d899266198493ba6c65765f81e25a1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-30T17:39:12.813Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "PlatformSettings.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/Arcade/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Arcadegeddon"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "043ffc92cbd64a9fbc350ea68f415937"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Arcadegeddon",
+    "developer": "IllFonic",
+    "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-18T20:08:22.416Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2250 ARCoins audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "481491d301ef4e50b1104d047fcddd4a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "481491d301ef4e50b1104d047fcddd4a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-18T09:54:37.813Z",
+        "mainGameItem": {
+          "id": "53d899266198493ba6c65765f81e25a1",
+          "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "53d899266198493ba6c65765f81e25a1",
+            "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2250 ARCoins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-24T22:38:32.783Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1000 ARCoins JP audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "44e31544fa55458db7dc2cc0ba604e67",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "44e31544fa55458db7dc2cc0ba604e67",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-07-05T17:32:32.125Z",
+        "mainGameItem": {
+          "id": "53d899266198493ba6c65765f81e25a1",
+          "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "53d899266198493ba6c65765f81e25a1",
+            "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1000 ARCoins JP audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-24T22:39:09.707Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2250 ARCoins JP audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "6ab502bb4e7644adbb1c4272815e3e3e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6ab502bb4e7644adbb1c4272815e3e3e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-07-05T17:32:32.127Z",
+        "mainGameItem": {
+          "id": "53d899266198493ba6c65765f81e25a1",
+          "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "53d899266198493ba6c65765f81e25a1",
+            "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2250 ARCoins JP audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-18T20:11:31.350Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "5000 ARCoins audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "db9275b5d2104ecc8e92579e9a3be38e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "db9275b5d2104ecc8e92579e9a3be38e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-18T09:54:37.829Z",
+        "mainGameItem": {
+          "id": "53d899266198493ba6c65765f81e25a1",
+          "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "53d899266198493ba6c65765f81e25a1",
+            "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5000 ARCoins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-05-18T20:05:22.712Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1000 ARCoins audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "35c0b55768d54688a0a52daea7fb820c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "35c0b55768d54688a0a52daea7fb820c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-18T09:54:37.779Z",
+        "mainGameItem": {
+          "id": "53d899266198493ba6c65765f81e25a1",
+          "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "53d899266198493ba6c65765f81e25a1",
+            "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1000 ARCoins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-24T22:39:45.071Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "5000 ARCoins JP audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "6faeb80f20a746018bedfb19fbbfed3a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6faeb80f20a746018bedfb19fbbfed3a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-07-05T17:32:32.131Z",
+        "mainGameItem": {
+          "id": "53d899266198493ba6c65765f81e25a1",
+          "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "53d899266198493ba6c65765f81e25a1",
+            "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5000 ARCoins JP audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-03-11T19:58:08.859Z",
+        "customAttributes": {},
+        "description": "Use ARCoins to unlock various cosmetics in Gilly\u2019s Arcade. Unlock your style today!",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "e353eef79ea64fdb8c28cb0ac4404846",
+        "entitlementType": "EXECUTABLE",
+        "id": "e353eef79ea64fdb8c28cb0ac4404846",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Arcadegeddon 5000 ARC F2P Offer",
+            "height": 1440,
+            "md5": "3d074927529a4042af8a939050ab109c",
+            "size": 870277,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-03-11T20:16:14.061Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-216av.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Arcadegeddon 5000 ARC F2P Offer",
+            "height": 1600,
+            "md5": "e6f2d68dc1dd69bd14fb1f8feb12cf1b",
+            "size": 618399,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-03-11T20:16:13.039Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-80vnp.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T23:35:39.502Z",
+        "mainGameItem": {
+          "id": "53d899266198493ba6c65765f81e25a1",
+          "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "53d899266198493ba6c65765f81e25a1",
+            "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5,000 ARCoins(Free Games Promo)",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "53d899266198493ba6c65765f81e25a1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "53d899266198493ba6c65765f81e25a1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Arcadegeddon Offer",
+        "height": 1440,
+        "md5": "77506bae61f76e0cafdd88009684ab72",
+        "size": 950408,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-04-01T17:30:44.764Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-1dq9q.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Arcadegeddon Offer",
+        "height": 1600,
+        "md5": "eb8ee0f2ccf8ac8540c0034831562975",
+        "size": 680027,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-04-01T17:30:48.755Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-pr99b.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-04T03:17:50.738Z",
+    "mainGameItemList": [],
+    "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+    "releaseInfo": [
+      {
+        "appId": "b0b94ccc68564c729568cd07f9cfb812",
+        "id": "2a0c085e48de486a8bbf3899e1117952",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Arcadegeddon",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

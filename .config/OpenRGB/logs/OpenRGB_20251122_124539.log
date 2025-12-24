@@ -1,0 +1,48 @@
+    OpenRGB v0.9
+    Commit: b5f46e3f1de03595656c682fc2f068b66e735e63 from 2023-07-09 22:51:47 -0500
+    Launched: 20251122_124539
+====================================================================================================
+
+1017  |Info:    ------------------------------------------------------
+1017  |Info:    |               Start device detection               |
+1017  |Info:    ------------------------------------------------------
+1017  |Info:    Initializing HID interfaces: Success
+1036  |Info:    ------------------------------------------------------
+1036  |Info:    |             Detecting I2C interfaces               |
+1036  |Info:    ------------------------------------------------------
+1036  |Info:    Registering I2C interface: /dev/i2c-3 Device 1002:73BF Subsystem: 1DA2:438E
+1036  |Info:    Registering I2C interface: /dev/i2c-1 Device 1002:73BF Subsystem: 1DA2:438E
+1036  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1037  |Info:    Registering I2C interface: /dev/i2c-8 Device 0000:0000 Subsystem: 0000:0000
+1037  |Info:    Registering I2C interface: /dev/i2c-6 Device 1002:73BF Subsystem: 1DA2:438E
+1037  |Info:    Registering I2C interface: /dev/i2c-13 Device 1022:790B Subsystem: 1043:87C0
+1037  |Info:    Registering I2C interface: /dev/i2c-11 Device 1022:790B Subsystem: 1043:87C0
+1037  |Info:    Registering I2C interface: /dev/i2c-0 Device 1002:73A4 Subsystem: 1002:0408
+1037  |Info:    Registering I2C interface: /dev/i2c-7 Device 1002:73BF Subsystem: 1DA2:438E
+1037  |Info:    Registering I2C interface: /dev/i2c-5 Device 1002:73BF Subsystem: 1DA2:438E
+1037  |Info:    ------------------------------------------------------
+1037  |Info:    |               Detecting I2C devices                |
+1037  |Info:    ------------------------------------------------------
+1601  |Info:    ------------------------------------------------------
+1601  |Info:    |               Detecting I2C PCI devices            |
+1601  |Info:    ------------------------------------------------------
+1602  |Info:    ------------------------------------------------------
+1602  |Info:    |               Detecting HID devices                |
+1602  |Info:    ------------------------------------------------------
+1681  |Info:    [ASUS ROG STRIX X570-F GAMING] Registering RGB controller
+1681  |Info:    ------------------------------------------------------
+1681  |Info:    |            Detecting libusb HID devices            |
+1681  |Info:    ------------------------------------------------------
+1724  |Info:    ------------------------------------------------------
+1724  |Info:    |              Detecting other devices               |
+1724  |Info:    ------------------------------------------------------
+1741  |Info:    ------------------------------------------------------
+1741  |Info:    |                Detection completed                 |
+1741  |Info:    ------------------------------------------------------
+1741  |Dialog:  <h2>WARNING:</h2><p>One or more I2C/SMBus interfaces failed to initialize.</p><p>RGB DRAM modules and some motherboards' onboard RGB lighting will not be available without I2C/SMBus.</p><p>On Linux, this is usually because the i2c-dev module is not loaded.  You must load the i2c-dev module along with the correct i2c driver for your motherboard.  This is usually i2c-piix4 for AMD systems and i2c-i801 for Intel systems.</p><p>See <a href='https://help.openrgb.org/'>help.openrgb.org</a> for additional troubleshooting steps if you keep seeing this message.<br></p>
+22521 |Info:    Found file: Paul.orp attempting to validate header
+22521 |Info:    Valid v4 profile found for Paul
+25708 |Info:    Found file: Paul.orp attempting to validate header
+25708 |Info:    Valid v4 profile found for Paul
+245310|Info:    Found file: Paul.orp attempting to validate header
+245310|Info:    Valid v4 profile found for Paul

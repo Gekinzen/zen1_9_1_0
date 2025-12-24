@@ -1,0 +1,24 @@
+# Rofi-inspired Fullscreen App Grid
+width=100%
+height=100%
+show=drun
+prompt=Search Applications
+allow_images=true
+allow_markup=true
+insensitive=true
+hide_scroll=true
+no_actions=true
+
+# Grid layout - 7 columns x 4 rows like rofi
+columns=7
+lines=4
+
+# Large icons like rofi
+image_size=32
+
+location=center
+term=kitty
+gtk_dark=true
+
+# Fullscreen mode
+layer=overlay

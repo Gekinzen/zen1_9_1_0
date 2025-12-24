@@ -1,0 +1,175 @@
+{
+  "app_name": "StackOBot_5.7",
+  "app_title": "Stack O Bot",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "StackOBot_5.7",
+      "asset_id": "StackOBot",
+      "build_version": "5.7.0-47537391+++UE5+Release-5.7-Windows",
+      "catalog_item_id": "2b07c7f793ca4b6ab98c164c71f8030d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-09T22:49:26.985Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "b4dfff49-0e7d-4c4b-a6c5-8a0315831c9c"
+      }
+    },
+    "description": "Stack O Bot",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "2b07c7f793ca4b6ab98c164c71f8030d",
+    "entitlementType": "AUDIENCE",
+    "id": "2b07c7f793ca4b6ab98c164c71f8030d",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-12T14:25:37.826Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "StackOBot_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-24T19:57:25.856Z",
+        "id": "8f2b9cec0d374104ad372a255611c6bf",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_5.1"
+      },
+      {
+        "appId": "StackOBot_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-24T19:57:25.856Z",
+        "id": "111b0076efb74e6a88c63c6ea26c72d7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_5.2"
+      },
+      {
+        "appId": "StackOBot_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-24T19:57:25.856Z",
+        "id": "3213d09ab1fa43a889b404df2edbc7bc",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_5.3"
+      },
+      {
+        "appId": "StackOBot_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-24T19:57:25.856Z",
+        "id": "a544a79824504d47aa402a2289aa883b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_5.4"
+      },
+      {
+        "appId": "StackOBot_v2",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-24T19:57:25.856Z",
+        "id": "2fcba7ac448f45bfb9013c8a43f6c1b0",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_v2"
+      },
+      {
+        "appId": "StackOBot_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-24T19:57:25.856Z",
+        "id": "b9bfb93eb6a64e739bd1bd0a9248327b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "StackOBot_5.5",
+        "versionTitle": "StackOBot_5.5"
+      },
+      {
+        "appId": "StackOBot_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-24T19:57:25.856Z",
+        "id": "8d85a7217f044578919d50c407e6df61",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "StackOBot_5.6",
+        "versionTitle": "StackOBot_5.6"
+      },
+      {
+        "appId": "StackOBot_5.7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-10-24T19:57:25.856Z",
+        "id": "2a339b7bb6ca4f2fabef3d550405a6cb",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Updates to support for the UE 5.7 release.",
+        "versionTitle": "StackOBot_5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Stack O Bot",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

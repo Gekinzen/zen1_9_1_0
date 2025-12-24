@@ -1,0 +1,157 @@
+{
+  "app_name": "ModularSdd8ecb688edbV6",
+  "app_title": "Modular Sci Fi Office",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ModularSdd8ecb688edbV6",
+      "asset_id": "ModularSdd8ecb688edbV6",
+      "build_version": "5.6.0-38077797+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "387c3f6bcf864e65a94e3522099af0be",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T13:11:05.342Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "38980b6b-8cfc-405c-aad1-64ce0c83501a"
+      }
+    },
+    "description": "Modular Sci Fi Office",
+    "developer": "Kelheor",
+    "developerId": "o-65dd38d00e4a789c021ab94725adcb",
+    "endOfSupport": false,
+    "entitlementName": "387c3f6bcf864e65a94e3522099af0be",
+    "entitlementType": "AUDIENCE",
+    "id": "387c3f6bcf864e65a94e3522099af0be",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-04T15:19:38.398Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ModularScb140bf02d92V1",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-04T11:05:18.971Z",
+        "id": "bf2060287c87444d9a3abd0e3356d062",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "UE 4.18"
+      },
+      {
+        "appId": "ModularScb140bf02d92V2",
+        "compatibleApps": [
+          "UE_4.19",
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-04T11:05:18.971Z",
+        "id": "34bf9ccd699b433885ce4f9df9ecf4e6",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "UE 4.19"
+      },
+      {
+        "appId": "ModularScb140bf02d92V3",
+        "compatibleApps": [
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-04T11:05:18.971Z",
+        "id": "d436a5628e514727b912538a3c6c8a2c",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ModularSciFiOfficeUE425"
+      },
+      {
+        "appId": "ModularScb140bf02d92V4",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-04T11:05:18.971Z",
+        "id": "f80e4e0d820c40d1b313f9f4de50e0b7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ModularSciFiOfficeUE50"
+      },
+      {
+        "appId": "ModularScb140bf02d92V5",
+        "compatibleApps": [
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-04T11:05:18.972Z",
+        "id": "09453c88f4944246ad6787cb012a4b44",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ModularSciFiOfficeUE52"
+      },
+      {
+        "appId": "ModularSdd8ecb688edbV6",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-04T11:05:18.972Z",
+        "id": "93ae0a6696d44475bad3e7d60eaaab34",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "ModularSciFiOfficeUE55"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Modular Sci Fi Office",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

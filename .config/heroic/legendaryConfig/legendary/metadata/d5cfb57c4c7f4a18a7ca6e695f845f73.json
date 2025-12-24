@@ -1,0 +1,112 @@
+{
+  "app_name": "d5cfb57c4c7f4a18a7ca6e695f845f73",
+  "app_title": "The Last Stand: Aftermath",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d5cfb57c4c7f4a18a7ca6e695f845f73",
+      "asset_id": "d5cfb57c4c7f4a18a7ca6e695f845f73",
+      "build_version": "1.2.0.24",
+      "catalog_item_id": "e3c33844fdea4946ac563c9902bfc667",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8d296e80f3ec42a79881f0693f3bded0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-06T19:14:31.723Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Con Artist Games/The Last Stand_ Aftermath/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheLastStandAftermath"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8d296e80f3ec42a79881f0693f3bded0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Last Stand: Aftermath",
+    "developer": "Armor Games Studios",
+    "developerId": "o-ttudgfyffrswppq6pflnkwfzdm6qc3",
+    "endOfSupport": false,
+    "entitlementName": "e3c33844fdea4946ac563c9902bfc667",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e3c33844fdea4946ac563c9902bfc667",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "cbc4b6fe8b2a64436720d45b01148d10",
+        "size": 952477,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-15T22:16:02.293Z",
+        "url": "https://cdn1.epicgames.com/item/8d296e80f3ec42a79881f0693f3bded0/EGS_TheLastStandAftermath_ConArtistGames_S1_2560x1440-cbc4b6fe8b2a64436720d45b01148d10",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "622a4d92fe46f0704ebb146a5e3322af",
+        "size": 893712,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-15T22:16:05.705Z",
+        "url": "https://cdn1.epicgames.com/item/8d296e80f3ec42a79881f0693f3bded0/EGS_TheLastStandAftermath_ConArtistGames_S2_1200x1600-622a4d92fe46f0704ebb146a5e3322af",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-11-15T22:59:31.479Z",
+    "mainGameItemList": [],
+    "namespace": "8d296e80f3ec42a79881f0693f3bded0",
+    "releaseInfo": [
+      {
+        "appId": "d5cfb57c4c7f4a18a7ca6e695f845f73",
+        "id": "8e17531030ec4da6ac3b7e00fefcc7c4",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Last Stand: Aftermath",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

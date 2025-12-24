@@ -1,0 +1,127 @@
+{
+  "app_name": "ModularN35666c61da92V4",
+  "app_title": "Modular Neighborhood Pack",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ModularN35666c61da92V4",
+      "asset_id": "ModularN35666c61da92V4",
+      "build_version": "5.7.0-42153058+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "41c638a2a33c46039ef14e5b00f6bd9f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-09T09:02:27.814Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "2e5835c8-6e4b-4cae-aab9-85396e68401c"
+      }
+    },
+    "description": "Modular Neighborhood Pack",
+    "developer": "Dokyo",
+    "developerId": "o-dc6ec3d2d1467aaf45bd8cda9bb3a4",
+    "endOfSupport": false,
+    "entitlementName": "41c638a2a33c46039ef14e5b00f6bd9f",
+    "entitlementType": "AUDIENCE",
+    "id": "41c638a2a33c46039ef14e5b00f6bd9f",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-05T13:56:14.741Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ModularNeighborhoodPack",
+        "compatibleApps": [
+          "UE_4.11",
+          "UE_4.12",
+          "UE_4.13",
+          "UE_4.14",
+          "UE_4.15",
+          "UE_4.16",
+          "UE_4.17",
+          "UE_4.18",
+          "UE_4.19",
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-05T11:44:27.582Z",
+        "id": "826f93f46f8644e6aae764fe6ff9013c",
+        "platform": [
+          "Windows",
+          "Mac",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "ModularNeighborhoodPack"
+      },
+      {
+        "appId": "ModularN83ca07e07465V1",
+        "compatibleApps": [
+          "UE_4.27",
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-05T11:44:27.582Z",
+        "id": "2c04fe7bec154b7a96a57fd65e0ccb45",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "ModularNeighborhood"
+      },
+      {
+        "appId": "ModularN35666c61da92V4",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.4",
+          "UE_5.3",
+          "UE_5.2",
+          "UE_5.1",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-05T11:44:27.582Z",
+        "id": "488aed05ebfe41ed9ddcb73f2f81ddc2",
+        "platform": [
+          "Windows",
+          "Android",
+          "SteamVR / HTC Vive",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "ModularNeighborhoodPack5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Modular Neighborhood Pack",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

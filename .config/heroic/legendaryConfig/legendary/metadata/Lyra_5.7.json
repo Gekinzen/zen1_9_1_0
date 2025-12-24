@@ -1,0 +1,175 @@
+{
+  "app_name": "Lyra_5.7",
+  "app_title": "Lyra Starter Game",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Lyra_5.7",
+      "asset_id": "Lyra",
+      "build_version": "5.7.0-47537391+++UE5+Release-5.7-Windows",
+      "catalog_item_id": "f9a8de067f8c4dc785bb8dda791972ea",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-09T23:10:26.836Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "93faede1-4434-47c0-85f1-bf27c0820ad0"
+      }
+    },
+    "description": "Lyra Starter Game",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "f9a8de067f8c4dc785bb8dda791972ea",
+    "entitlementType": "AUDIENCE",
+    "id": "f9a8de067f8c4dc785bb8dda791972ea",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-12T14:23:47.956Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Lyra_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-24T19:52:25.784Z",
+        "id": "54d064005bec4c9a99e977caff84aafd",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.0"
+      },
+      {
+        "appId": "Lyra_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-24T19:52:25.784Z",
+        "id": "db72999459e64e15b11cd75bf5b84d0b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.1"
+      },
+      {
+        "appId": "Lyra_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-24T19:52:25.784Z",
+        "id": "8781fc2d8a1942458605311d9f41e05d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.2"
+      },
+      {
+        "appId": "Lyra_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-24T19:52:25.784Z",
+        "id": "44b30b10245941f08b5a15e7305e135b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.3"
+      },
+      {
+        "appId": "Lyra_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-24T19:52:25.784Z",
+        "id": "0b399428eb5f4f2bb5923b94e1d802a9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Lyra 5.4"
+      },
+      {
+        "appId": "Lyra_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-24T19:52:25.784Z",
+        "id": "b9fa7eaade8c461eaac6d967817a9680",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Lyra_5.5",
+        "versionTitle": "Lyra_5.5"
+      },
+      {
+        "appId": "Lyra_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-24T19:52:25.784Z",
+        "id": "d3c3c3aeb35c47eeadb7f63d2da8a0e8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Lyra_5.6",
+        "versionTitle": "Lyra_5.6"
+      },
+      {
+        "appId": "Lyra_5.7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-10-24T19:52:25.784Z",
+        "id": "7e09ac8b8ed2433882a5fd6967f629fe",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Updates to support for the UE 5.7 release.",
+        "versionTitle": "Lyra_5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Lyra Starter Game",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

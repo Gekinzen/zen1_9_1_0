@@ -1,0 +1,144 @@
+* {
+    /* Import pywal colors */
+    background:     #12242a;
+    background-alt: #617176;
+    foreground:     #c3c8c9;
+    selected:       #93798C;
+    active:         #166096;
+    urgent:         #DB9065;
+    
+    /* Will be replaced by pywal sync script */
+    bg-col:  @background;
+    bg-col-light: @background-alt;
+    border-col: @selected;
+    selected-col: @selected;
+    fg-col: @foreground;
+    fg-col2: @active;
+    grey: #565f89;
+}
+
+window {
+    /* Fullscreen with margins */
+    width: 70%;
+    height: 90%;
+    border: 2px;
+    border-color: @border-col;
+    border-radius: 25px;
+    background-color: @bg-col;
+    padding: 50px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 30px;
+}
+
+/* SEARCH BAR - CENTERED */
+inputbar {
+    enabled: true;
+    spacing: 10px;
+    padding: 5px 20px;
+    border: 2px;
+    border-radius: 12px;
+    border-color: @border-col;
+    background-color: @bg-col-light;
+    text-color: @fg-col;
+    children: [ "prompt", "entry" ];
+    /* Center with margins */
+    margin: 0px 25% 30px 25%;
+}
+
+prompt {
+    enabled: true;
+    background-color: transparent;
+    text-color: @selected-col;
+    font: "CodeNewRoman Nerd Font Bold 14";
+}
+
+entry {
+    enabled: true;
+    background-color: transparent;
+    text-color: @fg-col;
+    cursor: text;
+    placeholder: "Search Applications...";
+    placeholder-color: @grey;
+}
+
+/* APP GRID */
+listview {
+    enabled: true;
+    columns: 5;
+    lines: 3;
+    cycle: false;
+    dynamic: true;
+    scrollbar: false;
+    layout: vertical;
+    reverse: false;
+    fixed-height: true;
+    fixed-columns: true;
+    spacing: 10px;
+    background-color: transparent;
+}
+
+/* APP ENTRIES */
+element {
+    enabled: true;
+    spacing: 12px;
+    padding: 30px 15px;
+    border: 2px;
+    border-radius: 16px;
+    border-color: transparent;
+    background-color: transparent;
+    text-color: @fg-col;
+    orientation: vertical;
+    cursor: pointer;
+}
+
+element normal.normal {
+    background-color: transparent;
+    text-color: @fg-col;
+}
+
+element selected.normal {
+    background-color: rgba(122, 162, 247, 0.35);
+    border-color: @selected-col;
+    text-color: @fg-col;
+}
+
+element alternate.normal {
+    background-color: transparent;
+    text-color: @fg-col;
+}
+
+/* ICON */
+element-icon {
+    background-color: transparent;
+    size: 42px;
+    cursor: inherit;
+}
+
+/* TEXT */
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    highlight: bold;
+    cursor: inherit;
+    vertical-align: 0.5;
+    horizontal-align: 0.5;
+    font: "CodeNewRoman Nerd Font 13";
+}
+
+element selected.normal element-text {
+    font: "CodeNewRoman Nerd Font Bold 13";
+}
+
+/* Disable message box */
+message {
+    enabled: false;
+}
+
+error-message {
+    padding: 20px;
+    background-color: @bg-col;
+    text-color: @fg-col;
+}

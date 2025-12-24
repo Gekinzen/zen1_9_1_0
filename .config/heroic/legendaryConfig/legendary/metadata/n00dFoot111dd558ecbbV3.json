@@ -1,0 +1,124 @@
+{
+  "app_name": "n00dFoot111dd558ecbbV3",
+  "app_title": "n00dFootsteps",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "n00dFoot111dd558ecbbV3",
+      "asset_id": "n00dFoot111dd558ecbbV3",
+      "build_version": "5.5.0-39339873+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "e743af33bfba40f9972c65a558a56b59",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-19T09:11:54.259Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "9b280e88-4a91-4237-82da-cfa795139711"
+      }
+    },
+    "description": "n00dFootsteps",
+    "developer": "n00dtech",
+    "developerId": "o-599rna2ljtpjjqfaen2yjp5sbbtne3",
+    "endOfSupport": false,
+    "entitlementName": "e743af33bfba40f9972c65a558a56b59",
+    "entitlementType": "AUDIENCE",
+    "id": "e743af33bfba40f9972c65a558a56b59",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-09T05:52:52.305Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "n00dFootsteps_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-09T00:42:53.766Z",
+        "id": "5e914fc33ed044e081d0f6e88df8351c",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "n00dFootsteps_5.3"
+      },
+      {
+        "appId": "n00dFootsteps_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-09T00:42:53.766Z",
+        "id": "2a6df333a21447269c1b06067debcdae",
+        "platform": [
+          "Linux",
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "n00dFootsteps_5.4"
+      },
+      {
+        "appId": "n00dFoot111dd558ecbbV3",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-09T00:42:53.766Z",
+        "id": "84933b8239ae42c8a28c129f4818a3ae",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "n00dFootsteps_5.5"
+      },
+      {
+        "appId": "n00dFoot5a2881ad2e75V4",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-09T00:42:53.766Z",
+        "id": "554e16d320f6408ea494a6f9a019dba7",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "n00dFootsteps_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "n00dFootsteps",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

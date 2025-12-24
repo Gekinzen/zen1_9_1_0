@@ -1,0 +1,398 @@
+{
+  "app_name": "UIWSUnifab8346425889V15",
+  "app_title": "UIWS - Unified Interactive Water System",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "UIWSUnifab8346425889V15",
+      "asset_id": "UIWSUnifab8346425889V15",
+      "build_version": "5.6.0-43250410+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "5ebd9f76d34747a586594485267ee91b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-11-05T11:44:45.381Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "798b269a-b760-42c5-9c2c-8e11d723d5be"
+      }
+    },
+    "description": "UIWS - Unified Interactive Water System",
+    "developer": "egray.io",
+    "developerId": "o-ytyrmz9659c4xl2ju37dw4y5euqtft",
+    "endOfSupport": false,
+    "entitlementName": "5ebd9f76d34747a586594485267ee91b",
+    "entitlementType": "AUDIENCE",
+    "id": "5ebd9f76d34747a586594485267ee91b",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-05T08:53:24.206Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "UIWS_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "9c094fd349ec4e90a808d3e0feec17fa",
+        "platform": [
+          "Windows",
+          "Android",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "iOS",
+          "PS4",
+          "Win32",
+          "Xbox One",
+          "Mac",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "https://egray.io/uiwsdocs#ReleaseNotes",
+        "versionTitle": "UIWS 1.9_4.20"
+      },
+      {
+        "appId": "UIWS_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "909863b40b444bcdbc8873e9f177b56e",
+        "platform": [
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Android",
+          "iOS",
+          "Win32",
+          "PS4",
+          "Xbox One",
+          "Mac",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "https://egray.io/uiwsdocs#ReleaseNotes",
+        "versionTitle": "UIWS 1.9.2_4.21"
+      },
+      {
+        "appId": "UIWS_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "e8d34077fc744e62aaf14d069da0c22a",
+        "platform": [
+          "Android",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "iOS",
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "Mac",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "https://egray.io/uiwsdocs#ReleaseNotes",
+        "versionTitle": "UIWS1.10.2_4.22"
+      },
+      {
+        "appId": "UIWS_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "164a91465f9742b58919b2ee07a48509",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "Fixed a crash when compiling a blueprint child of a UIWSWaterBody",
+        "versionTitle": "UIWS 1.10.3_4.23"
+      },
+      {
+        "appId": "UIWS_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "dee86c57bc6843c8abb9ff32fd0192cf",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "Added custom collision profile option to water bodies and manager",
+        "versionTitle": "UIWS 1.11_4.24"
+      },
+      {
+        "appId": "UIWS_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "671312bfaff14605ace88d16e703be93",
+        "platform": [
+          "Windows",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "PS4",
+          "Oculus",
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Xbox One",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "Added custom collision profile option to water bodies and manager",
+        "versionTitle": "UIWS 1.11_4.25"
+      },
+      {
+        "appId": "UIWS_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "6b12a4fa0a5547d19f266c261c3eb17b",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Added custom collision profile option to water bodies and manager",
+        "versionTitle": "UIWS 1.11_4.26"
+      },
+      {
+        "appId": "UIWS_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "59bbbfbc717941af9e03c12d138bb734",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Windows",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Xbox One"
+        ],
+        "versionTitle": "UIWS 1.18_4.27"
+      },
+      {
+        "appId": "UIWS_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "90b8d9ad845b49039278c9327bd283f4",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "Niagara position and param customisation\nUproperty categorisation improvements",
+        "versionTitle": "UIWS1.16_5.0"
+      },
+      {
+        "appId": "UIWS_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "444319562d8a4506bb07e0e665e6b83c",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "5.1",
+        "versionTitle": "UIWS1.17_5.1"
+      },
+      {
+        "appId": "UIWS_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "373fe2f8d6524274abc2dde812cba32d",
+        "platform": [
+          "Android",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "iOS",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "5.2",
+        "versionTitle": "UIWS 1.17_5.2"
+      },
+      {
+        "appId": "UIWS_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "c3ad3357d6de45c9b06b8c7be1d801d4",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Xbox One",
+          "Oculus"
+        ],
+        "releaseNote": "5.3",
+        "versionTitle": "UIWS 1.17_5.3"
+      },
+      {
+        "appId": "UIWS_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "2d9c7670f3a14f51b1a041d2c110ae70",
+        "platform": [
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Android",
+          "Linux",
+          "Windows",
+          "Xbox One",
+          "iOS"
+        ],
+        "releaseNote": "5.4.1",
+        "versionTitle": "UIWS 1.17_5.4.1"
+      },
+      {
+        "appId": "UIWSUnif0e996b8bc6cbV14",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "ed32ff479599486c9196fd8b1ebca77f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "5.5 upgrade",
+        "versionTitle": "UIWS 1.18_5.5"
+      },
+      {
+        "appId": "UIWSUnifab8346425889V15",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-04T05:09:39.800Z",
+        "id": "6dc64a2ce00442f48acce05cb17e31f4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Android",
+          "Xbox One",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "releaseNote": "5.6 update",
+        "versionTitle": "UIWS 1.18_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "UIWS - Unified Interactive Water System",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

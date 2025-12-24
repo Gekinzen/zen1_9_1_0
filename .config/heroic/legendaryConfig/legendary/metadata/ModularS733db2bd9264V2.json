@@ -1,0 +1,118 @@
+{
+  "app_name": "ModularS733db2bd9264V2",
+  "app_title": "Modular Swimming Pool Megapack",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ModularS733db2bd9264V2",
+      "asset_id": "ModularS733db2bd9264V2",
+      "build_version": "5.8.0-47172644+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "256fccebd1f141cdbb8cd216ed8da9f8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-08T21:43:25.171Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "da38867c-4279-403f-b668-c3e52d8a0d9b"
+      }
+    },
+    "description": "Modular Swimming Pool Megapack",
+    "developer": "Switchboard Studios",
+    "developerId": "o-dqzbv49v3w4esfxwwrh5rvcuptkj68",
+    "endOfSupport": false,
+    "entitlementName": "256fccebd1f141cdbb8cd216ed8da9f8",
+    "entitlementType": "AUDIENCE",
+    "id": "256fccebd1f141cdbb8cd216ed8da9f8",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-10-21T20:49:24.710Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ModularS3a430f12978eV2",
+        "compatibleApps": [
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-10-21T14:30:30.279Z",
+        "id": "2f370c798bf341c6bcccf25b90779d58",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "Updated Flamingo Mesh",
+        "versionTitle": "Pool1.02"
+      },
+      {
+        "appId": "ModularS733db2bd9264V2",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4",
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-21T14:30:30.279Z",
+        "id": "c83ced415aa14b129de35ca522e7c975",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Mac",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE 5+"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Modular Swimming Pool Megapack",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

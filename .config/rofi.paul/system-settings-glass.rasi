@@ -1,0 +1,196 @@
+#!/bin/bash
+
+# Generate Glassmorphism theme from Pywal colors
+# Run this after changing wallpaper with pywal
+
+# Source pywal colors
+source ~/.cache/wal/colors.sh
+
+# Output file
+OUTPUT="$HOME/.config/rofi/system-settings-glass.rasi"
+
+# Generate theme with pywal colors
+cat > "$OUTPUT" << EOF
+/* Glassmorphism System Settings - Dynamic Pywal Colors */
+configuration {
+    show-icons:                 true;
+    hover-select:               true;
+    me-select-entry:            "";
+    me-accept-entry:            "MousePrimary";
+}
+
+* {
+    /* Dynamic Pywal Colors with Transparency */
+    bg-main:        ${background}b0;             /* 70% opacity */
+    bg-glass:       ${color4}20;                 /* Accent with 12% opacity */
+    bg-selected:    ${color4}59;                 /* Accent with 35% opacity */
+    bg-input:       ${color4}2e;                 /* Accent with 18% opacity */
+    
+    fg-primary:     ${foreground}f2;             /* 95% opacity */
+    fg-secondary:   ${foreground}a6;             /* 65% opacity */
+    fg-accent:      ${color4}f2;                 /* Accent 95% opacity */
+    
+    border-glass:   #ffffff2e;                   /* White 18% opacity */
+    
+    background:     transparent;
+    foreground:     @fg-primary;
+}
+
+/* ---- Window with Blur ---- */
+window {
+    location:                   center;
+    anchor:                     center;
+    transparency:               "real";
+    background-color:           @bg-main;
+    border:                     1.5px;
+    border-color:               @border-glass;
+    border-radius:              28px;
+    width:                      820px;
+}
+
+/* ---- Main Container ---- */
+mainbox {
+    orientation:                horizontal;
+    children:                   [ "infobox", "listbox" ];
+    background-color:           transparent;
+    spacing:                    0px;
+}
+
+/* ---- Left Info Panel (Glass) ---- */
+infobox {
+    width:                      320px;
+    padding:                    36px 28px;
+    background-color:           @bg-glass;
+    border-radius:              28px 0px 0px 28px;
+    children:                   [ "textbox-icon", "textbox-title", "message" ];
+    spacing:                    20px;
+}
+
+textbox-icon {
+    expand:                     false;
+    str:                        "󰒓";
+    background-color:           transparent;
+    text-color:                 @fg-accent;
+    font:                       "CodeNewRoman Nerd Font 32";
+    vertical-align:             0.0;
+    horizontal-align:           0.0;
+}
+
+textbox-title {
+    expand:                     false;
+    str:                        "System Settings";
+    background-color:           transparent;
+    text-color:                 @fg-primary;
+    font:                       "CodeNewRoman Nerd Font Bold 16";
+    vertical-align:             0.0;
+    horizontal-align:           0.0;
+}
+
+/* ---- Dynamic Description Area ---- */
+message {
+    expand:                     true;
+    background-color:           transparent;
+    border:                     0px;
+    margin:                     8px 0px 0px 0px;
+}
+
+textbox {
+    expand:                     true;
+    background-color:           transparent;
+    text-color:                 @fg-secondary;
+    font:                       "CodeNewRoman Nerd Font 12";
+    vertical-align:             0.0;
+    horizontal-align:           0.0;
+}
+
+/* ---- Right List Panel ---- */
+listbox {
+    width:                      500px;
+    padding:                    28px 24px;
+    spacing:                    18px;
+    background-color:           transparent;
+    orientation:                vertical;
+    children:                   [ "inputbar", "listview" ];
+}
+
+/* ---- Search Input (Glass) ---- */
+inputbar {
+    enabled:                    true;
+    padding:                    16px 20px;
+    border-radius:              14px;
+    background-color:           @bg-input;
+    border:                     1px;
+    border-color:               @border-glass;
+    text-color:                 @fg-primary;
+    spacing:                    10px;
+    children:                   [ "textbox-search-icon", "entry" ];
+}
+
+textbox-search-icon {
+    expand:                     false;
+    background-color:           transparent;
+    text-color:                 @fg-accent;
+    str:                        " ";
+    font:                       "CodeNewRoman Nerd Font 15";
+}
+
+entry {
+    cursor:                     text;
+    expand:                     true;
+    placeholder-color:          @fg-secondary;
+    placeholder:                "Search settings...";
+    background-color:           transparent;
+    text-color:                 @fg-primary;
+    font:                       "CodeNewRoman Nerd Font 13";
+}
+
+/* ---- List View ---- */
+listview {
+    enabled:                    true;
+    lines:                      7;
+    scrollbar:                  false;
+    background-color:           transparent;
+    spacing:                    6px;
+    cycle:                      true;
+    dynamic:                    true;
+    layout:                     vertical;
+}
+
+/* ---- Menu Elements (Glass on hover) ---- */
+element {
+    enabled:                    true;
+    padding:                    16px 20px;
+    border-radius:              12px;
+    background-color:           transparent;
+    text-color:                 @fg-primary;
+    cursor:                     pointer;
+    border:                     1px;
+    border-color:               transparent;
+}
+
+element normal.normal {
+    background-color:           transparent;
+    text-color:                 @fg-primary;
+}
+
+element alternate.normal {
+    background-color:           transparent;
+    text-color:                 @fg-primary;
+}
+
+element selected.normal {
+    background-color:           @bg-selected;
+    text-color:                 @fg-primary;
+    border-color:               @border-glass;
+}
+
+element-text {
+    background-color:           transparent;
+    text-color:                 inherit;
+    font:                       "CodeNewRoman Nerd Font 13";
+    vertical-align:             0.5;
+    horizontal-align:           0.0;
+}
+EOF
+
+echo "✓ Glass theme generated with Pywal colors: $OUTPUT"

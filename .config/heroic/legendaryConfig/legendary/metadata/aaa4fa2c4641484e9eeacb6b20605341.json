@@ -1,0 +1,57 @@
+{
+  "app_name": "aaa4fa2c4641484e9eeacb6b20605341",
+  "app_title": "Teleportation and Portal Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format/additional-files"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-24T18:16:30.271Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "1c6f7991-2161-4751-a1d7-b6add70a8b17"
+      }
+    },
+    "description": "Teleportation and Portal",
+    "developer": "HighRender",
+    "developerId": "o-89f8f26ab34ffea0dfd001d85e863d",
+    "endOfSupport": false,
+    "entitlementName": "c41f385ec98b40d4bf206bf3c540329a",
+    "entitlementType": "AUDIENCE",
+    "id": "c41f385ec98b40d4bf206bf3c540329a",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-26T01:00:25.101Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "aaa4fa2c4641484e9eeacb6b20605341",
+        "compatibleApps": [],
+        "dateAdded": "2025-11-25T13:52:27.535Z",
+        "id": "d999cd55f3854f7794cff4b1ac61524c",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Teleportation and Portal Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

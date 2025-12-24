@@ -1,0 +1,210 @@
+{
+  "app_name": "FlatNode94ac2f5cebf8V8",
+  "app_title": "Flat Nodes",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "FlatNode94ac2f5cebf8V8",
+      "asset_id": "FlatNode94ac2f5cebf8V8",
+      "build_version": "5.5.0-38170219+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "8e46f79fc3f745b99ae767b279cf7f72",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T19:56:25.232Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "7305134c-8f1c-46f4-aa9c-14381074aba5"
+      }
+    },
+    "description": "Flat Nodes",
+    "developer": "brumenn",
+    "developerId": "o-9x8fm7uq56ftv5su62yd5dmvyj4qms",
+    "endOfSupport": false,
+    "entitlementName": "8e46f79fc3f745b99ae767b279cf7f72",
+    "entitlementType": "AUDIENCE",
+    "id": "8e46f79fc3f745b99ae767b279cf7f72",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-03T15:08:24.284Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "FlatNodes_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "fc853d87e9d347b5947602c5cf5ccd97",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "releaseNote": "initial version - 4.26",
+        "versionTitle": "1.0 - 4.26"
+      },
+      {
+        "appId": "FlatNodes_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "1ca317d2b8ed434596553429e53e08e1",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "releaseNote": "initial version - 4.27",
+        "versionTitle": "1.0 - 4.27"
+      },
+      {
+        "appId": "FlatNodes_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "3031aea387b34d2f9fa03a252f37439f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32",
+          "Linux"
+        ],
+        "releaseNote": "1.1 - 5.0",
+        "versionTitle": "1.1 - 5.0"
+      },
+      {
+        "appId": "FlatNodes_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "f4fb0d7f7f134d30adc6c0f559e67107",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32",
+          "Linux"
+        ],
+        "releaseNote": "1.1 - 5.1",
+        "versionTitle": "1.1 - 5.1"
+      },
+      {
+        "appId": "FlatNodes_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "8ab9800dcd8646d98c4a77ac61a3e5af",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "1.1 - 5.2",
+        "versionTitle": "1.1 - 5.2"
+      },
+      {
+        "appId": "FlatNodes_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "24307e2f7a1840b1b6968e910519ab5a",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "1.1 - 5.3",
+        "versionTitle": "1.1 - 5.3"
+      },
+      {
+        "appId": "FlatNodes_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "5d639e05a5b04f2ba3b0aeab39d2ccd1",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "1.1 - 5.4",
+        "versionTitle": "1.1 - 5.4"
+      },
+      {
+        "appId": "FlatNode94ac2f5cebf8V8",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "4e9eb2f01f4b4e779d79a1223332166a",
+        "platform": [
+          "Win32",
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "1.1 - 5.5",
+        "versionTitle": "1.1 - 5.5"
+      },
+      {
+        "appId": "FlatNode18f35655bb7eV9",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-07-03T10:32:51.610Z",
+        "id": "aafbd66194bb4b42be7a5a03beac483b",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Win32"
+        ],
+        "releaseNote": "1.1 - 5.6",
+        "versionTitle": "1.1 - 5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Flat Nodes",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,57 @@
+{
+  "app_name": "760684ae61d240b199c1f23757145380",
+  "app_title": "Combat Sounds (Weapons & Spells) Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format/additional-files"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-24T11:18:44.456Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "6efb6198-0c0d-4b7d-8fa1-c3edfe44bd96"
+      }
+    },
+    "description": "Combat Sounds (Weapons & Spells)",
+    "developer": "Audios With Love",
+    "developerId": "o-56110ee4794ed88a7a9fd9c8d17a6a",
+    "endOfSupport": false,
+    "entitlementName": "09fb95db264448048467aa9b7a6ed4bb",
+    "entitlementType": "AUDIENCE",
+    "id": "09fb95db264448048467aa9b7a6ed4bb",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-10-23T15:10:24.776Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "760684ae61d240b199c1f23757145380",
+        "compatibleApps": [],
+        "dateAdded": "2024-10-23T12:40:26.352Z",
+        "id": "8880b4f71d2744c384b2da5cd7444112",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Combat Sounds (Weapons & Spells) Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

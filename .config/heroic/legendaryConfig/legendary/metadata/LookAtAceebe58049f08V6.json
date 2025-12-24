@@ -1,0 +1,225 @@
+{
+  "app_name": "LookAtAceebe58049f08V6",
+  "app_title": "Look At Actor",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "LookAtAceebe58049f08V6",
+      "asset_id": "LookAtAceebe58049f08V6",
+      "build_version": "5.5.0-38273492+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "314787004f144cb9a5d297b1398a75f1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-21T09:51:27.915Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d1b2e393-76f6-4651-8e24-5cab7dde112d"
+      }
+    },
+    "description": "Look At Actor",
+    "developer": "Cyrus365.com",
+    "developerId": "o-g7d3zdvf6kfj262ytpe3p4l86tj27v",
+    "endOfSupport": false,
+    "entitlementName": "314787004f144cb9a5d297b1398a75f1",
+    "entitlementType": "AUDIENCE",
+    "id": "314787004f144cb9a5d297b1398a75f1",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-09T06:46:46.937Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "LookAtActor_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-09T03:57:25.236Z",
+        "id": "3642ae0f42e24f5a8c2d3fe0fc8e945d",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "iOS",
+          "HoloLens 2",
+          "Gear VR",
+          "Android"
+        ],
+        "versionTitle": "UE 5.0"
+      },
+      {
+        "appId": "LookAtActor_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-09T03:57:25.236Z",
+        "id": "2446aee5eabd4adcaaa366eac722582a",
+        "platform": [
+          "Linux",
+          "iOS",
+          "HoloLens 2",
+          "Gear VR",
+          "Android",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "UE 5.1"
+      },
+      {
+        "appId": "LookAtActor_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-09T03:57:25.236Z",
+        "id": "1b610d7674594f8e805ba6dcd8badc47",
+        "platform": [
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Linux",
+          "iOS",
+          "HoloLens 2",
+          "Gear VR",
+          "Android",
+          "Mac",
+          "Nintendo Switch",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "UE 5.2"
+      },
+      {
+        "appId": "LookAtActor_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-09T03:57:25.236Z",
+        "id": "262fa5c3affc4087bcb12b97a32e8470",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "UE 5.3"
+      },
+      {
+        "appId": "LookAtActor_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-09T03:57:25.236Z",
+        "id": "42bc1d646d82463e8cb03af1805dc4fc",
+        "platform": [
+          "Linux",
+          "iOS",
+          "Gear VR",
+          "Android",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "UE 5.4"
+      },
+      {
+        "appId": "LookAtAceebe58049f08V6",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-06-09T03:57:25.236Z",
+        "id": "632713fcf51049cba97d06aa197da16f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE 5.5"
+      },
+      {
+        "appId": "LookAtAc5eebda36ea41V7",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-09T03:57:25.236Z",
+        "id": "62e70b9d0fda4be492f1fa375dc528f4",
+        "platform": [
+          "Mac",
+          "Windows",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE 5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Look At Actor",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

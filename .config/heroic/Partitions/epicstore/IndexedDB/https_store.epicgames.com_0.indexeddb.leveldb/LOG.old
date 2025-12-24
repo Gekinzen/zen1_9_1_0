@@ -1,0 +1,3 @@
+2025/12/03-19:07:11.385 e1fa Reusing MANIFEST /home/paul/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/03-19:07:11.386 e1fa Recovering log #3
+2025/12/03-19:07:11.400 e1fa Reusing old log /home/paul/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 

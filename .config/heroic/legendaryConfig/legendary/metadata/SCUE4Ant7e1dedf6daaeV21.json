@@ -1,0 +1,329 @@
+{
+  "app_name": "SCUE4Ant7e1dedf6daaeV21",
+  "app_title": "SCUE4 Anti-Cheat Solution",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "SCUE4Ant7e1dedf6daaeV21",
+      "asset_id": "SCUE4Ant7e1dedf6daaeV21",
+      "build_version": "5.6.0-43490601+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "b152974a48d349ada0fda7a5a0bb1804",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-17T14:37:33.482Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "72423e5e-d0c7-41aa-be07-6731d0bfc341"
+      }
+    },
+    "description": "SCUE4 Anti-Cheat Solution",
+    "developer": "Bruno Xavier L",
+    "developerId": "o-299f8b0439411aa863e2f0ade8f642",
+    "endOfSupport": false,
+    "entitlementName": "b152974a48d349ada0fda7a5a0bb1804",
+    "entitlementType": "AUDIENCE",
+    "id": "b152974a48d349ada0fda7a5a0bb1804",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-13T09:14:31.025Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "SCUE4_4.13",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "3b586ca17867454990d0cb57d7011133",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.13"
+      },
+      {
+        "appId": "SCUE4_4.14",
+        "compatibleApps": [
+          "UE_4.14"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "e18ca0c67d544d7b9368d1bbe2ca4573",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.14"
+      },
+      {
+        "appId": "SCUE4_4.15",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "f937e82a58394b428e347184bf1fd96f",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.15"
+      },
+      {
+        "appId": "SCUE4_4.16",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "3db975fdabb34108afd5996ab4faf519",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.16"
+      },
+      {
+        "appId": "SCUE4_4.17",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "65d354a83ab0479cb23cafdce6afef0e",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.17"
+      },
+      {
+        "appId": "SCUE4_4.18",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "6b43069b0f214c6caee4ac398c3f6886",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.18"
+      },
+      {
+        "appId": "SCUE4_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "d6673aa15a044ef5b9b619a9eab360bf",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.19"
+      },
+      {
+        "appId": "SCUE4_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "c853c3baa93b43978900a58bf1f8efe5",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "SCUE4_4.20"
+      },
+      {
+        "appId": "SCUE4_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "6f3c5c700c8441d1b90afbe0efb5fc0b",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "SCUE4_4.21"
+      },
+      {
+        "appId": "SCUE4_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "78b897b6cd53428b9754834a875c10ba",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.22"
+      },
+      {
+        "appId": "SCUE4_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "7015bf2baaea4b24b8dec4f82cacffe5",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.23"
+      },
+      {
+        "appId": "SCUE4_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "582fb948d67f40ab9b0188f4d489b446",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.24"
+      },
+      {
+        "appId": "SCUE4_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "d7aceddf53c4427ca77bb838ab6b4df4",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "releaseNote": "The build system is ignoring files from Thirdparty folder necessary for the plugin to function properly.\n\nTrying a fix with FilterPlugin file...",
+        "versionTitle": "SCUE4_4.25"
+      },
+      {
+        "appId": "SCUE4_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "a38fbbd160994bacb7f0af0e03bf3f98",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "SCUE4_4.26"
+      },
+      {
+        "appId": "SCUE4_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "e37dfec69f4545489a3832173b209c07",
+        "platform": [
+          "Windows",
+          "Win32"
+        ],
+        "versionTitle": "SCUE4_4.27"
+      },
+      {
+        "appId": "SCUE4_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "9cdfca8683ab42d99daed1849f9693e8",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE5_5.0"
+      },
+      {
+        "appId": "SCUE4_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "62b02f6fcbea423a8a57add6b880cc13",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE5_5.1"
+      },
+      {
+        "appId": "SCUE4_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "f8127245541d43c0866448eed715fc33",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE5_5.2"
+      },
+      {
+        "appId": "SCUE4_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "c376eece8e0f4882becc896fb1b4d0ad",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE5_5.3"
+      },
+      {
+        "appId": "SCUE4_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "3de219564dce41eb8979cdee0d286600",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE5_5.4"
+      },
+      {
+        "appId": "SCUE4Ant7e1dedf6daaeV21",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-13T04:55:39.568Z",
+        "id": "876e600ea1494d7aaf57271069964e42",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SCUE5_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "SCUE4 Anti-Cheat Solution",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

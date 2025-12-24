@@ -1,0 +1,110 @@
+{
+  "app_name": "GameAnimationSample_5.6",
+  "app_title": "Game Animation Sample",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "GameAnimationSample_5.6",
+      "asset_id": "GameAnimationSample",
+      "build_version": "5.6.0-43139311+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "65cd45256b3441a394119763010e0367",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-10T00:03:26.799Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "880e319a-a59e-4ed2-b268-b32dac7fa016"
+      }
+    },
+    "description": "Game Animation Sample",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "65cd45256b3441a394119763010e0367",
+    "entitlementType": "AUDIENCE",
+    "id": "65cd45256b3441a394119763010e0367",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-03T13:40:24.707Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "GameAnimationSample_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-05-23T20:42:19.083Z",
+        "id": "8c7dc31eda214d7eb79b652486acf8ac",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "GameAnimationSample_5.4"
+      },
+      {
+        "appId": "GameAnimationSample_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-05-23T20:42:19.083Z",
+        "id": "015ae7c11bbb4685bdb1be67a59aadaf",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "GameAnimationSample_5.5",
+        "versionTitle": "GameAnimationSample_5.5"
+      },
+      {
+        "appId": "GameAnimationSample_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-05-23T20:42:19.083Z",
+        "id": "6633c6e017904870bc149f33dec73fe8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "GameAnimationSample_5.6",
+        "versionTitle": "GameAnimationSample_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Game Animation Sample",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

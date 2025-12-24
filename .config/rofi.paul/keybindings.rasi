@@ -1,0 +1,74 @@
+* {
+    background:     #1a1b26;
+    foreground:     #c0caf5;
+    selected:       #7aa2f7;
+    border-color:   #7aa2f7;
+}
+
+window {
+    width: 950px;
+    height: 85%;
+    border: 3px;
+    border-color: @border-color;
+    border-radius: 20px;
+    background-color: @background;
+    padding: 30px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 20px;
+}
+
+inputbar {
+    enabled: true;
+    padding: 15px 25px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, rgba(122, 162, 247, 0.2), rgba(158, 206, 106, 0.2));
+    text-color: @foreground;
+    children: [ "prompt" ];
+}
+
+prompt {
+    enabled: true;
+    background-color: transparent;
+    text-color: @border-color;
+    font: "CodeNewRoman Nerd Font Bold 16";
+}
+
+listview {
+    enabled: true;
+    lines: 30;
+    scrollbar: true;
+    background-color: transparent;
+    spacing: 0px;
+    cycle: false;
+}
+
+scrollbar {
+    width: 6px;
+    border: 0px;
+    handle-width: 6px;
+    handle-color: @border-color;
+    padding: 0px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 3px;
+}
+
+element {
+    enabled: true;
+    padding: 8px 15px;
+    background-color: transparent;
+    text-color: @foreground;
+}
+
+element selected {
+    background-color: rgba(122, 162, 247, 0.2);
+    text-color: @border-color;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    font: "CodeNewRoman Nerd Font Mono 12";
+}

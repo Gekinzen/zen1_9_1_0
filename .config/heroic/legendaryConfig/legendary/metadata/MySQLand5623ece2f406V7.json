@@ -1,0 +1,152 @@
+{
+  "app_name": "MySQLand5623ece2f406V7",
+  "app_title": "MySQL and MariaDB Integration",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "MySQLand5623ece2f406V7",
+      "asset_id": "MySQLand5623ece2f406V7",
+      "build_version": "5.7.0-48335003+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "d9068497331c4962a98afa81299f20cf",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T02:18:28.465Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "1454a193-0e4b-49f9-a9af-591b37a0f18a"
+      }
+    },
+    "description": "MySQL and MariaDB Integration",
+    "developer": "Athian Games",
+    "developerId": "o-qw55kvk2ahanfsu8sk8ff39lbuyun9",
+    "endOfSupport": false,
+    "entitlementName": "d9068497331c4962a98afa81299f20cf",
+    "entitlementType": "AUDIENCE",
+    "id": "d9068497331c4962a98afa81299f20cf",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-15T20:15:29.440Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "MySQL_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-15T19:46:31.886Z",
+        "id": "e53cf30cbcb34e3f97a4c810ecdfb227",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "MySQL_5.1"
+      },
+      {
+        "appId": "MySQL_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-15T19:46:31.886Z",
+        "id": "12b92f97dd534ca68f9d419efb9d5309",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "MySQL_5.2"
+      },
+      {
+        "appId": "MySQL_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-15T19:46:31.886Z",
+        "id": "f640cfc56072473aa18eb2dc2489da10",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "MySQL_5.3"
+      },
+      {
+        "appId": "MySQL_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-15T19:46:31.886Z",
+        "id": "a8f8d13eee79483b95692109bf8b20cd",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "504"
+      },
+      {
+        "appId": "MySQLand878998108e65V5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-15T19:46:31.886Z",
+        "id": "3f905f038be940e68a62e445a31c7b00",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.5"
+      },
+      {
+        "appId": "MySQLand9611469d9c3bV6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-15T19:46:31.886Z",
+        "id": "aff1906431d74083948c7a3e87839ee5",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.6"
+      },
+      {
+        "appId": "MySQLand5623ece2f406V7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-15T19:46:31.886Z",
+        "id": "5698b6072af848db96769e90d4095557",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "MySQL and MariaDB Integration",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

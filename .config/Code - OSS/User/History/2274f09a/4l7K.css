@@ -1,0 +1,73 @@
+/*
+  Adaptive Pywal + Blur Wlogout Theme
+  Works with Hyprland blur + pywal
+*/
+
+@import url("/home/paul/.cache/wal/colors-wlogout.css");
+
+* {
+  background-image: none;
+  font-family: "JetBrains Mono NFM", monospace;
+  font-size: 18px;
+  transition: all 0.3s ease-in-out;
+}
+
+window {
+  background-color: rgba(17, 17, 17, 0.35);
+  backdrop-filter: blur(25px);
+  border-radius: 16px;
+}
+
+button {
+  color: @foreground;
+  background-color: alpha(@color0, 0.4);
+  border-radius: 28px;
+  border: 2px solid alpha(@color7, 0.4);
+  margin: 20px;
+  padding: 12px;
+  min-width: 160px;
+  min-height: 160px;
+  background-repeat: no-repeat;
+  background-position: center 35%;
+  background-size: 26%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+button:hover,
+button:focus {
+  background-color: alpha(@color4, 0.55);
+  border-color: @color4;
+  box-shadow: 0 0 20px alpha(@color4, 0.9);
+  transform: scale(1.05);
+  background-size: 32%;
+}
+
+button span {
+  margin-top: 12px;
+  font-weight: 500;
+  font-size: 1.05em;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Optional Light Mode Adaptation */
+@media (prefers-color-scheme: light) {
+  window {
+    background-color: rgba(255, 255, 255, 0.25);
+  }
+  button {
+    color: @color0;
+    background-color: alpha(@color7, 0.2);
+    border-color: alpha(@color7, 0.3);
+  }
+  button:hover {
+    background-color: alpha(@color4, 0.5);
+  }
+}
+
+/* Icon mappings */
+#lock { background-image: image(url("./icons/lock.png")); }
+#logout { background-image: image(url("./icons/logout.png")); }
+#suspend { background-image: image(url("./icons/sleep.png")); }
+#shutdown { background-image: image(url("./icons/power.png")); }
+#reboot { background-image: image(url("./icons/restart.png")); }
+#hibernate { background-image: image(url("./icons/hibernate.png")); }

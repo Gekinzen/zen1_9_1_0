@@ -1,0 +1,170 @@
+{
+  "app_name": "POLYGONC69c07c9d5782V5",
+  "app_title": "POLYGON - City Pack",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "POLYGONC69c07c9d5782V5",
+      "asset_id": "POLYGONC69c07c9d5782V5",
+      "build_version": "5.6.0-37265881+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "a11c8133533742d78ca8c77018680716",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-26T01:48:40.118Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d38cfdd2-8dcf-4dd8-b9d4-83663129bb02"
+      }
+    },
+    "description": "POLYGON - City Pack",
+    "developer": "Synty Studios",
+    "developerId": "o-29b47e8273466d845fe4f1bf60220e",
+    "endOfSupport": false,
+    "entitlementName": "a11c8133533742d78ca8c77018680716",
+    "entitlementType": "AUDIENCE",
+    "id": "a11c8133533742d78ca8c77018680716",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-31T22:26:36.299Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "POLYGONCcee7a6790aecV2",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-08-31T22:20:38.253Z",
+        "id": "c71f930012914b8da22beb457156ab36",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Convert Cascade particle effects to Niagara\nConvert characters to the UE4 mannequin rig",
+        "versionTitle": "4.26 - 1.13.0"
+      },
+      {
+        "appId": "POLYGONC029c822374a1V2",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-08-31T22:20:38.253Z",
+        "id": "8e3a8124b9154d8f90f6584f79b8eadd",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Convert Cascade particle effects to Niagara\nConvert characters to the UE4 mannequin rig",
+        "versionTitle": "5.0 - 1.13.0"
+      },
+      {
+        "appId": "POLYGONC2c75fe9d7971V3",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-08-31T22:20:38.253Z",
+        "id": "c1e16d8971c849e8a32de07a0113d789",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Convert Cascade particle effects to Niagara\nConvert characters to the UE4 mannequin rig",
+        "versionTitle": "5.1 - 1.13.0"
+      },
+      {
+        "appId": "POLYGONC58f6f1914ca4V4",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-31T22:20:38.253Z",
+        "id": "6a874feaccbe4e4ab1021953919b8991",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Convert Cascade particle effects to Niagara\nConvert characters to the UE4 mannequin rig",
+        "versionTitle": "5.2 - 1.13.0"
+      },
+      {
+        "appId": "POLYGONC69c07c9d5782V5",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-31T22:20:38.253Z",
+        "id": "2fb4887614974dbca6152f83349712f2",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Convert Cascade particle effects to Niagara\nConvert characters to the UE4 mannequin rig",
+        "versionTitle": "5.3 - 1.13.0"
+      },
+      {
+        "appId": "POLYGONC59d9ea393fc2V6",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-31T22:20:38.253Z",
+        "id": "721d7312bb00477fb725e5423b93ba3d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "HTML5",
+          "Win32"
+        ],
+        "releaseNote": "Convert Cascade particle effects to Niagara\nConvert characters to the UE4 mannequin rig",
+        "versionTitle": "5.4 - 1.13.0"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "POLYGON - City Pack",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

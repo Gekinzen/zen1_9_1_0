@@ -1,0 +1,64 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+* {
+    font: "CodeNewRoman Nerd Font 14";
+}
+
+window {
+    width: 480px;
+    border: 2px solid;
+    border-color: alpha(@selected, 0.5);
+    border-radius: 18px;
+    /* macOS-style blur */
+    background-color: alpha(@background, 0.75);
+    backdrop-filter: blur(40px);
+    padding: 20px;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.7);
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 12px;
+}
+
+inputbar {
+    padding: 16px 22px;
+    border-radius: 12px;
+    background-color: @selected;
+    children: [ "prompt" ];
+}
+
+prompt {
+    background-color: transparent;
+    text-color: @background;
+    font: "CodeNewRoman Nerd Font Bold 18";
+}
+
+listview {
+    lines: 5;
+    scrollbar: false;
+    spacing: 8px;
+    background-color: transparent;
+}
+
+element {
+    padding: 16px 20px;
+    border-radius: 12px;
+    /* Notification-style cards */
+    background-color: alpha(@background-alt, 0.6);
+    text-color: @foreground;
+    border: 1px solid alpha(@selected, 0.2);
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+    border-color: @selected;
+    box-shadow: 0 4px 15px alpha(@selected, 0.4);
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    font: "CodeNewRoman Nerd Font 15";
+}

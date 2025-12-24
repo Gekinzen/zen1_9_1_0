@@ -1,0 +1,53 @@
+@import "/home/paul/.cache/wal/colors-waybar.css"
+
+* {
+    background: @background;
+    foreground: @foreground;
+    selected: @color2;
+    accent: @color4;
+    border: @color5;
+    urgent: @color1;
+}
+
+window {
+    transparency: "real";
+    background-color: @background;
+    border: 2px;
+    border-color: @border;
+    border-radius: 16px;
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+}
+
+inputbar {
+    background-color: alpha(@background, 0.8);
+    border-radius: 10px;
+    padding: 8px;
+    font: "JetBrainsMono Nerd Font 11";
+    text-color: @foreground;
+}
+
+listview {
+    background-color: transparent;
+    spacing: 6px;
+}
+
+element {
+    background-color: transparent;
+    border-radius: 8px;
+    padding: 6px 10px;
+}
+
+element selected {
+    background-color: alpha(@selected, 0.8);
+    text-color: @foreground;
+}
+
+element-text {
+    highlight: bold @accent;
+    text-color: inherit;
+}
+

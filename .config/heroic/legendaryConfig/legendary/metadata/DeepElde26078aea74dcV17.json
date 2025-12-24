@@ -1,0 +1,392 @@
+{
+  "app_name": "DeepElde26078aea74dcV17",
+  "app_title": "Deep Elder Caves",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "DeepElde26078aea74dcV17",
+      "asset_id": "DeepElde26078aea74dcV17",
+      "build_version": "5.6.0-40228560+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "c231c43731cf4a46b2fcda61a037879b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-03T02:52:31.300Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "1c5fb915-5e6e-483d-bfaa-d6813c130b47"
+      }
+    },
+    "description": "Deep Elder Caves",
+    "developer": "Oleksandr Sychov",
+    "developerId": "o-3efa9d81044d358a16ad128f49467a",
+    "endOfSupport": false,
+    "entitlementName": "c231c43731cf4a46b2fcda61a037879b",
+    "entitlementType": "AUDIENCE",
+    "id": "c231c43731cf4a46b2fcda61a037879b",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-15T10:25:24.292Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "DeepEldeac27815f13caV1",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "c56af13de5ea44309866a99f86758002",
+        "platform": [
+          "Mac",
+          "Windows",
+          "PS4",
+          "Xbox One",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "DeepElderCaves4.17"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV2",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "e71766101ff4479ba2c3070e7b89768e",
+        "platform": [
+          "Mac",
+          "Windows",
+          "PS4",
+          "Xbox One",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "Oculus"
+        ],
+        "versionTitle": "DeepElderCaves4.18"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV3",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "75f1bc889d95404c871a173fa2d16936",
+        "platform": [
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "DeepElderCaves4.19"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV4",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "36fd04b8538b4e7a99250f620400d9d8",
+        "platform": [
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "DeepElderCaves4.20"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV5",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "23d5970eafa84da0ad34d59f83ff1e24",
+        "platform": [
+          "Linux",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "DeepElderCaves4.21"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV6",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "f8ce23ee9c6f4236ba79c552ccd1f66f",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "DeepElderCaves4.22"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV7",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "6f158aeee0b8421aa12dad0fc3a2c245",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "DeepElderCaves4.23"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV8",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "9c475fbe2ec642618d5e7fe62eefe2ef",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "DeepElderCaves4.24"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV9",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "d33c3b4979694772999403979ab83ebc",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "DeepElderCaves4.25"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV10",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "3631e0a98b654113bcc5f7b383d80eba",
+        "platform": [
+          "Linux",
+          "iOS",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "DeepElderCaves4.26"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV11",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "29083aba6132436797a8d252aeb3d57d",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "DeepElderCaves4.27"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV12",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "b67d7751cfe94fb886ff555c43237aa3",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "DeepElderCaves5.00"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV13",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "ee17ca88a11c41f4ada126055973ab1c",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "DeepElderCaves5.1"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV14",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "9956cd8ecce049f69177118aee32f9b3",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Mac",
+          "Oculus",
+          "Linux"
+        ],
+        "versionTitle": "DeepElderCaves 5.2"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV15",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "cc8355f7a6b1435c90acff8d33c917d4",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "DeepElderCaves 5.3"
+      },
+      {
+        "appId": "DeepEldeac27815f13caV16",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "f538db479a7b474cb96eeed85787a414",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "DeepElderCaves 5.4"
+      },
+      {
+        "appId": "DeepElde26078aea74dcV17",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "fbc8337848b24c19a9a15cdd7828a6dd",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Win32",
+          "Linux"
+        ],
+        "releaseNote": "5.5",
+        "versionTitle": "Deep Elder Caves 5.5"
+      },
+      {
+        "appId": "DeepEldeda8652d6e0c1V18",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-07-15T04:27:25.522Z",
+        "id": "e73d782aa1234ed29f3d913552d9af9d",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive"
+        ],
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Deep Elder Caves",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,115 @@
+@import url("/home/paul/.cache/wal/colors-wlogout.css");
+
+* {
+    background-image: none;
+    font-size: 18px;
+    transition: 20ms;
+    box-shadow: none;
+}
+
+window {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/home/paul/wallpapers/pywallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'CodeNewRoman Nerd Font', monospace;
+}
+
+/* GREETING */
+window::before {
+    content: "Goodbye paul";
+    display: block;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    color: @foreground;
+    margin-top: -180px;
+    margin-bottom: 80px;
+    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+    letter-spacing: 2px;
+}
+
+/* UPTIME */
+window::after {
+    content: "Uptime: 4 hours, 44 minutes  •  Sunday, 9 June";
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: alpha(@foreground, 0.7);
+    margin-top: 100px;
+    margin-bottom: -60px;
+    padding: 12px 30px;
+    background-color: alpha(@color0, 0.6);
+    border-radius: 25px;
+    backdrop-filter: blur(10px);
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 35%;
+    border-radius: 50%;
+    border: 3px solid alpha(@color12, 0.3);
+    outline: none;
+    transition: all 0.3s cubic-bezier(.55, 0.0, .28, 1.682);
+    color: @foreground;
+    background-color: alpha(@color0, 0.4);
+    margin: 20px;
+    min-width: 140px;
+    min-height: 140px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+}
+
+button:hover {
+    background-color: alpha(@color12, 0.85);
+    background-size: 45%;
+    transform: scale(1.15);
+    box-shadow: 0 0 60px alpha(@color12, 0.9);
+}
+
+button span {
+    font-size: 0;
+}
+
+#lock {
+    background-image: image(url("icons/lock.png"));
+}
+
+#lock:hover {
+    background-color: alpha(@color12, 0.9);
+}
+
+#suspend {
+    background-image: image(url("icons/sleep.png"));
+}
+
+#suspend:hover {
+    background-color: alpha(@color10, 0.9);
+}
+
+#logout {
+    background-image: image(url("icons/logout.png"));
+}
+
+#logout:hover {
+    background-color: alpha(@color11, 0.9);
+}
+
+#reboot {
+    background-image: image(url("icons/restart.png"));
+}
+
+#reboot:hover {
+    background-color: alpha(@color13, 0.9);
+}
+
+#shutdown {
+    background-image: image(url("icons/power.png"));
+}
+
+#shutdown:hover {
+    background-color: alpha(@color9, 0.9);
+}

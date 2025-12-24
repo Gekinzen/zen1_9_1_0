@@ -1,0 +1,60 @@
+{
+  "app_name": "bfdf7f882c6249238a33d566c7cd316b",
+  "app_title": "City Subway Train Modular Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-11-22T04:44:47.428Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "39abdcd9-baa1-49a0-bb9b-90808d483bca"
+      }
+    },
+    "description": "City Subway Train Modular",
+    "developer": "Dekogon Studios",
+    "developerId": "o-efb24a1bbc44bea38a4f0b91a0ad66",
+    "endOfSupport": false,
+    "entitlementName": "0bc7123b43584d1cb48d5023a95de9c2",
+    "entitlementType": "AUDIENCE",
+    "id": "0bc7123b43584d1cb48d5023a95de9c2",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-03T20:40:32.107Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "bfdf7f882c6249238a33d566c7cd316b",
+        "compatibleApps": [],
+        "dateAdded": "2025-07-03T18:55:42.985Z",
+        "id": "4d947aaeb016445d9348b3565d71c156",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "City Subway Train Modular Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

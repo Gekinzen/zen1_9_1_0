@@ -1,0 +1,129 @@
+{
+  "app_name": "SpatialA9974e10b-b124",
+  "app_title": "Spatial Audio Temple",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-05T03:30:18.024Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "8427fd00-b9ad-48e7-a679-03a6324804db"
+      }
+    },
+    "description": "Spatial Audio Temple",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "a2f3193a460142a490fb065a55938478",
+    "entitlementType": "AUDIENCE",
+    "id": "a2f3193a460142a490fb065a55938478",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-03-12T20:00:49.475Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "SpatialAae56575f-d471",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-03-12T19:58:51.833Z",
+        "id": "c7a178337d1b44c7b58d52a18bfe516f",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SpatialAudioTemple_4.22"
+      },
+      {
+        "appId": "SpatialAe37a7a47-7362",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-03-12T19:58:51.833Z",
+        "id": "db4707aa6c514760b68a78c7fcf91cc2",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SpatialAudioTemple_4.23"
+      },
+      {
+        "appId": "SpatialAd3e742c0-a843",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-03-12T19:58:51.833Z",
+        "id": "80e81f2081494eca9595ec53007ec60e",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SpatialAudioTemple_4.24"
+      },
+      {
+        "appId": "SpatialA9974e10b-b124",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-03-12T19:58:51.833Z",
+        "id": "9dc16bf8ac3d4751850223c80453ad7f",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SpatialAudioTemple_4.25"
+      },
+      {
+        "appId": "SpatialA765c10e7-a945",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-03-12T19:58:51.833Z",
+        "id": "8481e8270f274271ab01f196ded114e2",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SpatialAudioTemple_4.26"
+      },
+      {
+        "appId": "SpatialA95ea3395-6f56",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-03-12T19:58:51.833Z",
+        "id": "faeea5bd24594e05b83ad81ea1c694f1",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "SpatialAudioTemple_4.27"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Spatial Audio Temple",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

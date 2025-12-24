@@ -1,0 +1,27 @@
+# Centered window with margins (not 100% fullscreen)
+width=90%
+height=90%
+xoffset=5%
+yoffset=5%
+
+show=drun
+prompt=Search Applications
+allow_images=true
+allow_markup=true
+insensitive=true
+hide_scroll=true
+no_actions=true
+
+# Grid layout - 6 columns x 4 rows (better centering)
+columns=6
+lines=4
+
+# Large icons
+image_size=72
+
+location=center
+term=kitty
+gtk_dark=true
+
+# Overlay mode
+layer=overlay

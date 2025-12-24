@@ -1,0 +1,23 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Zen-H56TG3.desktop
+x-scheme-handler/https=userapp-Zen-H56TG3.desktop
+x-scheme-handler/chrome=userapp-Zen-H56TG3.desktop
+text/html=userapp-Zen-H56TG3.desktop
+application/x-extension-htm=userapp-Zen-H56TG3.desktop
+application/x-extension-html=userapp-Zen-H56TG3.desktop
+application/x-extension-shtml=userapp-Zen-H56TG3.desktop
+application/xhtml+xml=userapp-Zen-H56TG3.desktop
+application/x-extension-xhtml=userapp-Zen-H56TG3.desktop
+application/x-extension-xht=userapp-Zen-H56TG3.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Zen-H56TG3.desktop;userapp-Zen-UFVCF3.desktop;
+x-scheme-handler/https=userapp-Zen-H56TG3.desktop;userapp-Zen-UFVCF3.desktop;
+x-scheme-handler/chrome=userapp-Zen-H56TG3.desktop;userapp-Zen-UFVCF3.desktop;
+text/html=userapp-Zen-UFVCF3.desktop;userapp-Zen-H56TG3.desktop;
+application/x-extension-htm=userapp-Zen-UFVCF3.desktop;userapp-Zen-H56TG3.desktop;
+application/x-extension-html=userapp-Zen-UFVCF3.desktop;userapp-Zen-H56TG3.desktop;
+application/x-extension-shtml=userapp-Zen-UFVCF3.desktop;userapp-Zen-H56TG3.desktop;
+application/xhtml+xml=userapp-Zen-UFVCF3.desktop;userapp-Zen-H56TG3.desktop;
+application/x-extension-xhtml=userapp-Zen-UFVCF3.desktop;userapp-Zen-H56TG3.desktop;
+application/x-extension-xht=userapp-Zen-UFVCF3.desktop;userapp-Zen-H56TG3.desktop;

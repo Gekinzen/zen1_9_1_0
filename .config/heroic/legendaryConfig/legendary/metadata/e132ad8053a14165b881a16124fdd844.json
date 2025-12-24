@@ -1,0 +1,97 @@
+{
+  "app_name": "e132ad8053a14165b881a16124fdd844",
+  "app_title": "Jorel\u2019s Brother and The Most Important Game of the Galaxy",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e132ad8053a14165b881a16124fdd844",
+      "asset_id": "e132ad8053a14165b881a16124fdd844",
+      "build_version": "3.7.1.6",
+      "catalog_item_id": "3c5201e502b34e18993cbb668b986c76",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1683785bdd804681b37630b139b82e3e"
+      },
+      "namespace": "d5b2727bc277495facca061b00b9876c",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567PjUNothazq7A75wYl2DNWE4O",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-07-02T01:45:45.068Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.save"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Double Dash Studios/Irm\u00e3o do Jorel/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "IDJ"
+      }
+    },
+    "description": "\u201cJorel\u2019s Brother and The Most Important Game of the Galaxy\u201d is a point-and-click adventure about an eight-year-old boy who lives with his eccentric family in the shadow of Jorel, his handsome and popular brother. Based on the award-winning Brazilian animation \u201cJorel\u2019s Brother\u201d.",
+    "developer": "Double Dash Studios",
+    "developerId": "o-84xx6qzw5df9a6vbtdrw3e2stctzzu",
+    "endOfSupport": false,
+    "entitlementName": "3c5201e502b34e18993cbb668b986c76",
+    "entitlementType": "EXECUTABLE",
+    "id": "3c5201e502b34e18993cbb668b986c76",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Jorels Brother and The Most Important Game of the Galaxy Offer",
+        "height": 1440,
+        "md5": "b2acb4684339b4106342af17b3c5445e",
+        "size": 1254992,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-07-03T17:32:31.509Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-56mso.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Jorels Brother and The Most Important Game of the Galaxy Offer",
+        "height": 1600,
+        "md5": "720b4f131d1ee5c84ff2f8f6a526e9dd",
+        "size": 2614080,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-07-03T17:32:31.918Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-17rml.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-07-21T14:43:29.843Z",
+    "mainGameItemList": [],
+    "namespace": "d5b2727bc277495facca061b00b9876c",
+    "releaseInfo": [
+      {
+        "appId": "e132ad8053a14165b881a16124fdd844",
+        "id": "7549bc3a708142fca9c17e941e538286",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Jorel\u2019s Brother and The Most Important Game of the Galaxy",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "8a71aeff5d1245c6ad9cff3430d5d2b3"
+    },
+    "rev": 1
+  }
+}

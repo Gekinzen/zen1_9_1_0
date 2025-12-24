@@ -1,0 +1,135 @@
+{
+  "app_name": "4KMateribfbfb091df01V3",
+  "app_title": "4K Materials: Wood Flooring Vol.01",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4KMateribfbfb091df01V3",
+      "asset_id": "4KMateribfbfb091df01V3",
+      "build_version": "5.6.0-39114854+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "679df84e44dd4c32aaa09d5a1975bf40",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-08T22:14:25.399Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "3b699861-6909-46ca-8a7f-b05e638aca15"
+      }
+    },
+    "description": "4K Materials: Wood Flooring Vol.01",
+    "developer": "Karl Detroit",
+    "developerId": "o-96c239b65a40f782fcd03c6a0798ca",
+    "endOfSupport": false,
+    "entitlementName": "679df84e44dd4c32aaa09d5a1975bf40",
+    "entitlementType": "AUDIENCE",
+    "id": "679df84e44dd4c32aaa09d5a1975bf40",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-01-10T18:58:24.178Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "WoodFlooring4K",
+        "compatibleApps": [
+          "UE_4.13"
+        ],
+        "dateAdded": "2025-01-09T20:35:30.163Z",
+        "id": "317833613b804459ba6d177b34564001",
+        "platform": [
+          "Windows",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Mac"
+        ],
+        "versionTitle": "WoodFlooring4K"
+      },
+      {
+        "appId": "4KWoodFlooring414",
+        "compatibleApps": [
+          "UE_4.14",
+          "UE_4.15",
+          "UE_4.16",
+          "UE_4.17",
+          "UE_4.18",
+          "UE_4.19",
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-01-09T20:35:30.163Z",
+        "id": "3d886eb36f5b4c72b73b4c34f80e175e",
+        "platform": [
+          "Windows",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "HoloLens 2",
+          "Gear VR"
+        ],
+        "versionTitle": "4.14"
+      },
+      {
+        "appId": "4KMateribfbfb091df01V3",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4",
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-01-09T20:35:30.163Z",
+        "id": "d3ff2fae64c04b35b3617501be349e3e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "HoloLens 2"
+        ],
+        "releaseNote": "\u2714 Added grunge and scratch layers to increase material realism.\n\u2714 Refined lighting and post-processing for enhanced visual fidelity in Unreal Engine 5.x.\n\u2714 Adjusted material parameters to achieve lifelike surface details.",
+        "versionTitle": "5.0"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "4K Materials: Wood Flooring Vol.01",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

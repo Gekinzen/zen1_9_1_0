@@ -1,0 +1,508 @@
+{
+  "app_name": "ed5f5b7f2e1f43c89ea8bafd15591bda",
+  "app_title": "Blazing Sails",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ed5f5b7f2e1f43c89ea8bafd15591bda",
+      "asset_id": "ed5f5b7f2e1f43c89ea8bafd15591bda",
+      "build_version": "3.0.8.7",
+      "catalog_item_id": "00438c2b22454541a0f70de33364331c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-01T21:23:31.241Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BlazingSails"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Blazing Sails",
+    "developer": "Iceberg Interactive",
+    "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T21:23:31.240Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "burbank Undead Pirate Pack",
+        "developer": "Iceberg Interactive",
+        "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+        "endOfSupport": false,
+        "entitlementName": "be8428587b554af6946976d382f32131",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "be8428587b554af6946976d382f32131",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Blazing Sails Blazing Sails - Undead Pirate Pack Offer",
+            "height": 1440,
+            "md5": "2fe81fc0fe6514f2d660aaf6e430d64c",
+            "size": 924981,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-18T16:51:05.911Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-1v7gz.jpeg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Blazing Sails Blazing Sails - Undead Pirate Pack Offer",
+            "height": 1600,
+            "md5": "3f3615bb3a49072937141501f16664a5",
+            "size": 585769,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-18T16:51:10.503Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-1w1gj.jpeg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-24T19:09:08.063Z",
+        "mainGameItem": {
+          "id": "00438c2b22454541a0f70de33364331c",
+          "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "00438c2b22454541a0f70de33364331c",
+            "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "burbank Undead Pirate Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T21:23:31.249Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "burbank Privateer Pack",
+        "developer": "Iceberg Interactive",
+        "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+        "endOfSupport": false,
+        "entitlementName": "dc049b5832dd40cf843d9ef01ae50410",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dc049b5832dd40cf843d9ef01ae50410",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Blazing Sails Blazing Sails - Privateer Pack Offer",
+            "height": 1440,
+            "md5": "35f0f6a86cb97e2c13ffa04b101a3950",
+            "size": 755529,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-18T16:52:35.564Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-4r591.jpeg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Blazing Sails Blazing Sails - Privateer Pack Offer",
+            "height": 1600,
+            "md5": "a9d97e67893927c0d4d3aa9607263a86",
+            "size": 630835,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-18T16:52:38.899Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-z96ln.jpeg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-24T19:09:08.063Z",
+        "mainGameItem": {
+          "id": "00438c2b22454541a0f70de33364331c",
+          "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "00438c2b22454541a0f70de33364331c",
+            "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "burbank Privateer Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T21:23:31.246Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "burbank Conquistador Pack",
+        "developer": "Iceberg Interactive",
+        "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+        "endOfSupport": false,
+        "entitlementName": "974a9a32aba2415ab68b092eec5aee19",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "974a9a32aba2415ab68b092eec5aee19",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Blazing Sails Blazing Sails - Conquistador Pack Offer",
+            "height": 1440,
+            "md5": "95828bf5a65d92e857c04ce37e40ba7f",
+            "size": 735974,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-18T16:52:09.079Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-jy4ow.jpeg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Blazing Sails Blazing Sails - Conquistador Pack Offer",
+            "height": 1600,
+            "md5": "d8b4eafe6d90ccc93aeec5d916bc18a1",
+            "size": 730588,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-18T16:52:12.256Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-uyaa6.jpeg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-24T19:09:08.063Z",
+        "mainGameItem": {
+          "id": "00438c2b22454541a0f70de33364331c",
+          "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "00438c2b22454541a0f70de33364331c",
+            "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "burbank Conquistador Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T21:23:31.254Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "burbank Crab Lord Pack",
+        "developer": "Iceberg Interactive",
+        "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+        "endOfSupport": false,
+        "entitlementName": "c1bee08481524d098a889bc215bae86c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c1bee08481524d098a889bc215bae86c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Blazing Sails Blazing Sails - Crab Lord Pack Offer",
+            "height": 1440,
+            "md5": "171ae8b3d0f2ce110a401ddbbfc11709",
+            "size": 778579,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-18T16:53:29.775Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-1gotb.jpeg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Blazing Sails Blazing Sails - Crab Lord Pack Offer",
+            "height": 1600,
+            "md5": "6809b7ec771c6e4332a0748b3ea1e902",
+            "size": 679754,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-18T16:53:31.711Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-1m1el.jpeg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-24T19:09:08.063Z",
+        "mainGameItem": {
+          "id": "00438c2b22454541a0f70de33364331c",
+          "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "00438c2b22454541a0f70de33364331c",
+            "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "burbank Crab Lord Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T21:23:31.242Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "burbank Barbary Corsair Pack",
+        "developer": "Iceberg Interactive",
+        "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+        "endOfSupport": false,
+        "entitlementName": "a4508caa387d4a7eb1a26db8990cd0af",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a4508caa387d4a7eb1a26db8990cd0af",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Blazing Sails Blazing Sails - Barbary Corsair Pack Offer",
+            "height": 1440,
+            "md5": "77e43c9fa237235c81458e2d10a16a0a",
+            "size": 735110,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-18T16:53:03.108Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-dxrsf.jpeg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Blazing Sails Blazing Sails - Barbary Corsair Pack Offer",
+            "height": 1600,
+            "md5": "d5504182c486b653125a6d8d943395ed",
+            "size": 736576,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-18T16:53:05.717Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-1j1xj.jpeg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-24T19:09:08.063Z",
+        "mainGameItem": {
+          "id": "00438c2b22454541a0f70de33364331c",
+          "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "00438c2b22454541a0f70de33364331c",
+            "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "burbank Barbary Corsair Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T21:23:31.253Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Blazing Sails - Limbs of Lore Pack",
+        "developer": "Iceberg Interactive",
+        "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+        "endOfSupport": false,
+        "entitlementName": "6066b3a56ce24118be6091f434928fe1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6066b3a56ce24118be6091f434928fe1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Blazing Sails Blazing Sails - Limbs of Lore Pack Offer",
+            "height": 1440,
+            "md5": "20c665f00ed78a0fcddb18f83b0b08cf",
+            "size": 668083,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-18T16:53:58.892Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-d8e4m.jpeg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Blazing Sails Blazing Sails - Limbs of Lore Pack Offer",
+            "height": 1600,
+            "md5": "a397c8a031546c873ca7bc8d6d05d560",
+            "size": 608642,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-18T16:53:56.993Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/453d54c5fe514a51adf77b7009c5a1e2/blazing-sails-h4ty6.jpeg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-24T19:09:08.063Z",
+        "mainGameItem": {
+          "id": "00438c2b22454541a0f70de33364331c",
+          "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "00438c2b22454541a0f70de33364331c",
+            "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Blazing Sails - Limbs of Lore Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "00438c2b22454541a0f70de33364331c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "00438c2b22454541a0f70de33364331c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "fd7a7b3d357555880cb7969634553c5b",
+        "size": 712591,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-03-23T14:21:41.658Z",
+        "url": "https://cdn1.epicgames.com/item/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S1_2560x1440-fd7a7b3d357555880cb7969634553c5b",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "bae3831e97b560958dc785e830ebed8c",
+        "size": 538820,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-03-23T14:22:10.987Z",
+        "url": "https://cdn1.epicgames.com/item/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S2_1200x1600-bae3831e97b560958dc785e830ebed8c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-24T19:09:08.063Z",
+    "mainGameItemList": [],
+    "namespace": "aee7dd76aa6746578f476dc47f8d1d7f",
+    "releaseInfo": [
+      {
+        "appId": "ed5f5b7f2e1f43c89ea8bafd15591bda",
+        "id": "b8b398a5f2b44ff5a213dbf2ad2abfbe",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Blazing Sails",
+    "unsearchable": true
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "e701edaea10646f9b15e7b0bacfb962b"
+    },
+    "rev": 1
+  }
+}

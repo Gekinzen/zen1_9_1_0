@@ -1,0 +1,110 @@
+{
+  "app_name": "Daisy",
+  "app_title": "Drawful 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Daisy",
+      "asset_id": "Daisy",
+      "build_version": "1.0.3",
+      "catalog_item_id": "df656ca933ea44a2a68d10d9dd4b6c31",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "daisy",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-19T17:29:59.536Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Drawful2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "daisy"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows,Mac,Win32"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Jackbox Games"
+      }
+    },
+    "description": "Drawful 2",
+    "developer": "Jackbox Games, Inc.",
+    "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "endOfSupport": false,
+    "entitlementName": "df656ca933ea44a2a68d10d9dd4b6c31",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "df656ca933ea44a2a68d10d9dd4b6c31",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "17b052bdffce62dac03c168209259677",
+        "size": 924755,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-01-12T12:47:00.295Z",
+        "url": "https://cdn1.epicgames.com/item/daisy/Draw2_WideImage_2560x1440-17b052bdffce62dac03c168209259677",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "242846f7ad66b9adfd43983f55dc7377",
+        "size": 668190,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-01-12T12:47:06.720Z",
+        "url": "https://cdn1.epicgames.com/item/daisy/Draw2_TallImage_1200x1600-242846f7ad66b9adfd43983f55dc7377",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-21T15:32:16.468Z",
+    "mainGameItemList": [],
+    "namespace": "daisy",
+    "releaseInfo": [
+      {
+        "appId": "Daisy",
+        "id": "bf7b30962fe04ded98c5abe6606a8c8b",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Drawful 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

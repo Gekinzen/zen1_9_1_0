@@ -1,0 +1,366 @@
+{
+  "app_name": "59aaa2432a784431b0bfdbb54f3554ee",
+  "app_title": "112 Operator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "59aaa2432a784431b0bfdbb54f3554ee",
+      "asset_id": "59aaa2432a784431b0bfdbb54f3554ee",
+      "build_version": "1.08.08",
+      "catalog_item_id": "4a745d3bf3954dc3ac395434b9a9a37a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1a182ff1e2ad41b7862c874392d4b6c4",
+        "update_type": "PATCH"
+      },
+      "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-04-07T13:55:22.509Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Operatorf2ec4"
+      }
+    },
+    "description": "112 Operator",
+    "developer": "Games Operators S.A.",
+    "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-14T13:33:58.746Z",
+        "description": "112 Operator - Water Operations",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "8dd66cdee02e4090af820dc182081dd3",
+        "entitlementType": "EXECUTABLE",
+        "id": "8dd66cdee02e4090af820dc182081dd3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "112 Operator 112 Operator - Water Operations Offer",
+            "height": 1440,
+            "md5": "4dd210399a9406c19ed22a1ec5059d92",
+            "size": 1135005,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-30T09:48:18.949Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-uf7p2.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 112 Operator 112 Operator - Water Operations Offer",
+            "height": 1600,
+            "md5": "0db7d202353f1d9d63394a0f5d23ed9b",
+            "size": 280825,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-30T09:48:18.795Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-rn9s7.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-09T15:16:25.814Z",
+        "mainGameItem": {
+          "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+          "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+            "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "112 Operator - Water Operations",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-14T14:34:42.111Z",
+        "description": "112 Operator - Masks - CHARITY DLC",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "697838e1dace479fbdf39563a2010c1f",
+        "entitlementType": "EXECUTABLE",
+        "id": "697838e1dace479fbdf39563a2010c1f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "112 Operator 112 Operator - Masks - CHARITY DLC Offer",
+            "height": 1440,
+            "md5": "2aae604f1684b671edeb00a1adcd70a7",
+            "size": 961374,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-30T09:47:42.520Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-12z5n.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 112 Operator 112 Operator - Masks - CHARITY DLC Offer",
+            "height": 1600,
+            "md5": "efecf508f4327fb091a73890b34df542",
+            "size": 284102,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-30T09:47:42.405Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-urxjo.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-09T15:16:25.814Z",
+        "mainGameItem": {
+          "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+          "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+            "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "112 Operator - Masks - CHARITY DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-14T13:27:09.935Z",
+        "description": "112 Operator - The Last Duty",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "96e0f4953e7e4609a91342b92cc99617",
+        "entitlementType": "EXECUTABLE",
+        "id": "96e0f4953e7e4609a91342b92cc99617",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "112 Operator 112 Operator - The Last Duty Offer",
+            "height": 1440,
+            "md5": "4789e61d6e0332c155c952842e2a9d7d",
+            "size": 1242160,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-30T09:46:23.155Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-bcrdt.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 112 Operator 112 Operator - The Last Duty Offer",
+            "height": 1600,
+            "md5": "df05268040678f8334d7c4c3b9158f86",
+            "size": 292072,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-30T09:46:22.925Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-yftei.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-09T15:16:25.814Z",
+        "mainGameItem": {
+          "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+          "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+            "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "112 Operator - The Last Duty",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-14T13:33:33.356Z",
+        "description": "112 Operator - Pandemic Outbreak",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "ba427483c27944f589451b67bec77950",
+        "entitlementType": "EXECUTABLE",
+        "id": "ba427483c27944f589451b67bec77950",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "112 Operator 112 Operator - Pandemic Outbreak Offer",
+            "height": 1440,
+            "md5": "19a87a2bcf26b5a2ccf4152ed70a8778",
+            "size": 974144,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-30T09:47:11.826Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-cmkzb.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 112 Operator 112 Operator - Pandemic Outbreak Offer",
+            "height": 1600,
+            "md5": "f5d69237f22b4a62d66712ce8f9e34aa",
+            "size": 296794,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-30T09:47:12.044Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1uz84.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-09T15:16:25.814Z",
+        "mainGameItem": {
+          "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+          "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+            "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "112 Operator - Pandemic Outbreak",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-14T14:34:18.658Z",
+        "description": "112 Operator - Facilities",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "62bac28c98fb4a6da3db47c89666830a",
+        "entitlementType": "EXECUTABLE",
+        "id": "62bac28c98fb4a6da3db47c89666830a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "112 Operator 112 Operator - Facilities Offer",
+            "height": 1440,
+            "md5": "e188be788f94b42cc28b962254d50441",
+            "size": 939538,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-30T09:45:45.767Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-13qq0.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 112 Operator 112 Operator - Facilities Offer",
+            "height": 1600,
+            "md5": "d58829fadf65e8e09349b0e190632759",
+            "size": 297050,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-30T09:45:45.949Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-rdmk5.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-09T15:16:25.814Z",
+        "mainGameItem": {
+          "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+          "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+            "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "112 Operator - Facilities",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4a745d3bf3954dc3ac395434b9a9a37a",
+    "entitlementType": "EXECUTABLE",
+    "id": "4a745d3bf3954dc3ac395434b9a9a37a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "112 Operator Offer",
+        "height": 1440,
+        "md5": "46bbb7e5687ff01b0b165a7c162294c5",
+        "size": 1728237,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-06-30T09:44:04.652Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1k0lh.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download 112 Operator Offer",
+        "height": 1600,
+        "md5": "9170aad44971d9c7a0e804c08f3af225",
+        "size": 459158,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-06-30T09:44:04.192Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1yun9.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-07-31T11:38:39.359Z",
+    "mainGameItemList": [],
+    "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+    "releaseInfo": [
+      {
+        "appId": "59aaa2432a784431b0bfdbb54f3554ee",
+        "id": "b7b940dc-bddc-400f-9b62-96bed9489178",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "112 Operator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

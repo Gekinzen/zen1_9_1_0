@@ -1,0 +1,88 @@
+{
+  "app_name": "440abc2d035f494a9bf172ed29f9fa2f",
+  "app_title": "Q.U.B.E. 10th Anniversary",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "440abc2d035f494a9bf172ed29f9fa2f",
+      "asset_id": "440abc2d035f494a9bf172ed29f9fa2f",
+      "build_version": "1.5.26.4",
+      "catalog_item_id": "6bb8533f10c84c49946d32727690c3e1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "77fc2203d445489ba1b34c200682d4bb"
+      },
+      "namespace": "ad43401ad02840c2b2bee5f1f1a59988",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-13T17:56:08.233Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/QUBE_Remastered/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "QUBE10thAnniversary"
+      }
+    },
+    "description": "Q.U.B.E. 10th Anniversary",
+    "developer": "Toxic Games",
+    "developerId": "o-e4s6wlpper5n3jzd37wwnv4qr4lrkq",
+    "endOfSupport": false,
+    "entitlementName": "6bb8533f10c84c49946d32727690c3e1",
+    "entitlementType": "EXECUTABLE",
+    "id": "6bb8533f10c84c49946d32727690c3e1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Q.U.B.E 10th Anniversary Offer",
+        "height": 1440,
+        "md5": "66f5af7311f0ede4619f683558991cef",
+        "size": 4162968,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-09-22T22:25:46.753Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/da63fc81ff4b4226af6afda82c0aec3a/qube-10th-anniversary-offer-85ncl.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Q.U.B.E 10th Anniversary Offer",
+        "height": 1600,
+        "md5": "548c6e7a712c98d6918336ba2d1d55b5",
+        "size": 2103923,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-09-22T22:25:44.149Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/da63fc81ff4b4226af6afda82c0aec3a/download-qube-10th-anniversary-offer-uxq36.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-03-08T20:37:42.351Z",
+    "mainGameItemList": [],
+    "namespace": "ad43401ad02840c2b2bee5f1f1a59988",
+    "releaseInfo": [
+      {
+        "appId": "440abc2d035f494a9bf172ed29f9fa2f",
+        "id": "fb01f62cfe5e4f479b83c0ead5a285b5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Q.U.B.E. 10th Anniversary",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

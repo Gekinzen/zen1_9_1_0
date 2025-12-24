@@ -1,0 +1,43 @@
+@define-color background rgba(30, 30, 46, 0.55);  /* semi-transparent */
+@define-color bordercolor #313244;
+@define-color foreground #cdd6f4;
+@define-color accent #89b4fa;
+@define-color hovercolor rgba(137, 180, 250, 0.2);
+
+window {
+    background-color: @background;
+    border-radius: 18px;
+    border: 1px solid @bordercolor;
+    margin: 4px;
+    padding: 4px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+}
+
+button {
+    background: transparent;
+    border: none;
+    margin: 4px;
+    padding: 8px;
+    border-radius: 10px;
+    transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: @hovercolor;
+}
+
+button:checked,
+button:active {
+    background-color: @accent;
+}
+
+label {
+    color: @foreground;
+    font-size: 10pt;
+    font-weight: 500;
+}
+
+.image {
+    border-radius: 8px;
+    margin: 3px;
+}

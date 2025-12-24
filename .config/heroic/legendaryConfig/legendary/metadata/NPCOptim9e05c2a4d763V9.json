@@ -1,0 +1,261 @@
+{
+  "app_name": "NPCOptim9e05c2a4d763V9",
+  "app_title": "NPC Optimizator - automatic optimize NPC for you game",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "NPCOptim9e05c2a4d763V9",
+      "asset_id": "NPCOptim9e05c2a4d763V9",
+      "build_version": "5.5.0-38974517+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "a985b87755ac44a482f76cbe515d6402",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T05:51:07.800Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "8ecf84fa-0b4e-4e00-a696-638e1ee7b6ec"
+      }
+    },
+    "description": "NPC Optimizator - automatic optimize NPC for you game",
+    "developer": "Space Raccoon Game Studio",
+    "developerId": "o-ktw6j7jmpea3jnb3wdujb4qhu2wrtr",
+    "endOfSupport": false,
+    "entitlementName": "a985b87755ac44a482f76cbe515d6402",
+    "entitlementType": "AUDIENCE",
+    "id": "a985b87755ac44a482f76cbe515d6402",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-24T13:45:24.987Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "NPCOptimizator_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "030c049c3b3642e9a66c4cb20cdb342f",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac",
+          "Linux",
+          "Android",
+          "iOS",
+          "Xbox One",
+          "Nintendo Switch",
+          "PS4"
+        ],
+        "versionTitle": "4.25-v.1.5.7"
+      },
+      {
+        "appId": "NPCOptimizator_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "441e10364d1240fc983ca0720b1db820",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Linux",
+          "Mac",
+          "Android",
+          "Xbox One",
+          "Nintendo Switch",
+          "PS4",
+          "iOS"
+        ],
+        "versionTitle": "4.26-v.1.5.7"
+      },
+      {
+        "appId": "NPCOptimizator_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "7644dd0ad2b04bb59e4b136af452fe8a",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "4.27-v.1.5.7"
+      },
+      {
+        "appId": "NPCOptimizator_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "135907bf34d248ed9dffea643cb0e44a",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "PS4",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "5.0-v.1.6.0"
+      },
+      {
+        "appId": "NPCOptimizator_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "a9f50c0ca1fe4a82a52805e5239ea302",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Win32",
+          "PS4",
+          "Linux",
+          "iOS",
+          "Android",
+          "Nintendo Switch",
+          "Mac"
+        ],
+        "versionTitle": "5.1-v.1.6.5"
+      },
+      {
+        "appId": "NPCOptimizator_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "4ebf80c648b340999c97ec9f1384a2c7",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "PS4",
+          "Nintendo Switch",
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "5.2-v.1.6.5"
+      },
+      {
+        "appId": "NPCOptimizator_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "e50b77d2b2ff458ab35a8fea18b40ba4",
+        "platform": [
+          "Windows",
+          "Win32",
+          "PS4",
+          "Xbox One",
+          "Mac",
+          "Linux",
+          "Android",
+          "iOS",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "5.3-v.1.6.5"
+      },
+      {
+        "appId": "NPCOptimizator_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "592ab847a9a943c894ffbeae456c1569",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Xbox One",
+          "PS4",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "5.4-v.1.6.6"
+      },
+      {
+        "appId": "NPCOptim9e05c2a4d763V9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "6ed2685c95394fc6b83d788dc430482e",
+        "platform": [
+          "Windows",
+          "Android",
+          "Linux",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Xbox One",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "5.5-v.1.6.6"
+      },
+      {
+        "appId": "NPCOptim06b444d31a84V10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-07-24T12:39:44.676Z",
+        "id": "6cb2af5fc90f47e0ac179a58b3cc0d7c",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "5.6-v.1.6.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "NPC Optimizator - automatic optimize NPC for you game",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

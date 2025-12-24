@@ -1,0 +1,222 @@
+{
+    "layer": "top",
+    "position": "top",
+    "margin-left": 10,
+    "margin-right": 10,
+    "margin-top": 7,
+    "height": 40,  
+    "margin-bottom": 0,
+    "reload_style_on_change": true,
+    "modules-left": [
+        "custom/launcher",
+        "custom/notification",
+        "custom/pacman",
+        "tray",
+        "custom/minimized",
+        "idle_inhibitor",
+         "idle_power_mode",
+        "hyprland/workspaces"
+    ],
+    "modules-center": [
+        "hyprland/window"
+       
+
+    ],
+    "modules-right": [
+        "group/expand",
+        "group/audio",
+        "bluetooth",
+        "network",
+        "battery",
+        "custom/calendar",
+        "clock"
+    ],
+    "custom/minimized": {
+        "exec": "~/.config/waybar/modules/minimized-windows.sh",
+        "interval": 2,
+        "on-click": "~/.config/hypr/scripts/hyprbars-restore.sh",
+        "on-click-right": "~/.config/hypr/scripts/hyprbars-restore-menu.sh",
+        "return-type": "json",
+        "format": "{}"
+    },
+
+    "hyprland/workspaces": {
+        "active-only": false,
+        "all-outputs": false,
+        "show-special": false,
+        "on-click": "activate",
+        "format": "{icon}",
+        "on-scroll-up": "hyprctl dispatch workspace m+1",
+        "on-scroll-down": "hyprctl dispatch workspace m-1",
+        "format-icons": {
+               "active": "",
+                "default": "",
+                "empty": ""
+        },
+        "persistent-workspaces": {
+            "DP-2": [1, 2, 3, 4, 5],
+            "HDMI-A-1": [6, 7, 8, 9, 10]
+        }
+    }, 
+"idle_power_mode": {
+    "exec": "~/.config/waybar/scripts/power_mode_status.sh",
+    "on-click": "~/.config/waybar/scripts/power_mode_toggle.sh",
+    "return-type": "json",
+    "interval": 2,
+    "format": "{icon}",
+    "tooltip": true
+},
+
+
+
+    "custom/launcher": {
+        "format": "\udb82\udcc7",
+        "on-click": "~/.config/rofi/scripts/launcher_t1_zenith",
+        "tooltip": false,
+        "escape": true
+    },
+    "group/audio": {
+        "orientation": "horizontal",
+        "modules": [
+            "pulseaudio",
+            "pulseaudio#microphone"
+        ]
+    },
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "\uf205 ",
+            "deactivated": "\uf204 "
+        }
+    },
+    "hyprland/window": {
+        "format": "{}",
+        "max-length": 40,
+        "separate-outputs": true,
+        "offscreen-css": true,
+        "offscreen-css-text": "(inactive)",
+        "rewrite": {
+            "(.*) \u2014 Mozilla Firefox": "\uf269 $1",
+            "(.*) - fish": "> [$1]",
+            "(.*) - zsh": "> [$1]",
+            "(.*) - kitty": "> [$1]"
+        }
+    },
+    "custom/notification": {
+        "tooltip": false,
+        "format": "\ue690",
+        "on-click": "swaync-client -t -sw",
+        "escape": true
+    },
+    "clock": {
+        "format": "\uf017 {:%I:%M:%S %p} ",
+        "interval": 1,
+        "tooltip-format": "<tt>{calendar}</tt>",
+        "calendar": {
+            "format": {
+                "today": "<span color='#fAfBfC'><b>{}</b></span>"
+            }
+        },
+        "actions": {
+            "on-click-right": "shift_down",
+            "on-click": "shift_up"
+        }
+    },
+    "network": {
+        "format-wifi": "\uf1eb",
+        "format-ethernet": "\uef09",
+        "format-disconnected": "\ueb01",
+        "tooltip-format-disconnected": "Error",
+        "tooltip-format-wifi": "{essid} ({signalStrength}%) \uf1eb",
+        "tooltip-format-ethernet": "{ifname} \ud83d\udda7 ",
+        "on-click": "kitty nmtui"
+    },
+    "bluetooth": {
+        "format-on": "\udb80\udcaf",
+        "format-off": "BT-off",
+        "format-disabled": "\udb80\udcb2",
+        "format-connected-battery": "{device_battery_percentage}% \udb80\udcaf",
+        "format-alt": "{device_alias} \udb80\udcaf",
+        "tooltip-format": "{controller_alias}\t{controller_address}\n\n{num_connections} connected",
+        "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
+        "tooltip-format-enumerate-connected": "{device_alias}\n{device_address}",
+        "tooltip-format-enumerate-connected-battery": "{device_alias}\n{device_address}\n{device_battery_percentage}%",
+        "on-click-right": "blueman-manager"
+    },
+    "battery": {
+        "interval": 30,
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 20
+        },
+        "format": "{capacity}% {icon}",
+        "format-charging": "{capacity}% \udb80\udc84",
+        "format-plugged": "{capacity}% \udb80\udc84 \ueb2d",
+        "format-alt": "{time} {icon}",
+        "format-icons": [
+            "\udb80\udc7b",
+            "\udb80\udc7c",
+            "\udb80\udc7e",
+            "\udb80\udc80",
+            "\udb80\udc82",
+            "\udb80\udc79"
+        ]
+    },
+    "custom/pacman": {
+        "format": "\udb80\udd62 {}",
+        "interval": 30,
+        "exec": "checkupdates | wc -l",
+        "exec-if": "exit 0",
+        "on-click": "kitty sh -c 'yay -Syu; echo Done - Press enter to exit; read'; pkill -SIGRTMIN+8 waybar",
+        "signal": 8,
+        "tooltip": false
+    },
+    "custom/expand": {
+        "format": "\uf104",
+        "tooltip": false
+    },
+    "custom/endpoint": {
+        "format": "|",
+        "tooltip": false
+    },
+    "group/expand": {
+        "orientation": "horizontal",
+        "drawer": {
+            "transition-duration": 600,
+            "transition-to-left": true,
+            "click-to-reveal": true
+        },
+        "modules": [
+            "custom/expand",
+            "custom/colorpicker",
+            "cpu",
+            "memory",
+            "temperature",
+            "custom/endpoint"
+        ]
+    },
+    "custom/colorpicker": {
+        "format": "{}",
+        "return-type": "json",
+        "interval": "once",
+        "exec": "~/.config/waybar/scripts/colorpicker.sh -j",
+        "on-click": "~/.config/waybar/scripts/colorpicker.sh",
+        "signal": 1
+    },
+    "cpu": {
+        "format": "\udb83\udee0",
+        "tooltip": true
+    },
+    "memory": {
+        "format": "\uefc5"
+    },
+    "temperature": {
+        "critical-threshold": 80,
+        "format": "\uf2c9"
+    },
+    "tray": {
+        "icon-size": 14,
+        "spacing": 10
+    }
+}

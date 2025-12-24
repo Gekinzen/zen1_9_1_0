@@ -1,0 +1,175 @@
+{
+  "app_name": "AncientGame_5.7",
+  "app_title": "Valley of the Ancient",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "AncientGame_5.7",
+      "asset_id": "AncientGame",
+      "build_version": "5.7.0-47537391+++UE5+Release-5.7-Windows",
+      "catalog_item_id": "ca44bb142c2e4c378e3563a346fe895b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-21T23:22:01.607Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "0c19880e-21bd-42ba-8287-1caccc3951b1"
+      }
+    },
+    "description": "Valley of the Ancient",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "ca44bb142c2e4c378e3563a346fe895b",
+    "entitlementType": "AUDIENCE",
+    "id": "ca44bb142c2e4c378e3563a346fe895b",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-12T14:22:35.025Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "AncientGame_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-24T19:29:25.682Z",
+        "id": "38b2898aba9f442d8f783bda2413e52d",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "AncientGame_5.0"
+      },
+      {
+        "appId": "AncientGame_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-24T19:29:25.682Z",
+        "id": "2d5264bab1d54fd7b855c1cf0ef8d644",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "AncientGame_5.1"
+      },
+      {
+        "appId": "AncientGame_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-24T19:29:25.682Z",
+        "id": "721150370d9f4bc1ab31ee0c6e17dba5",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "AncientGame_5.2"
+      },
+      {
+        "appId": "AncientGame_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-24T19:29:25.682Z",
+        "id": "5dd85650a6b84e3d8263d9798f6bf5fb",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "AncientGame_5.3"
+      },
+      {
+        "appId": "AncientGame_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-24T19:29:25.682Z",
+        "id": "e0059754698f4a5ba4bcb65ddf232e48",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "AncientGame_5.4"
+      },
+      {
+        "appId": "AncientGame_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-24T19:29:25.682Z",
+        "id": "1a4b271b635846d5a0ed28d79f2bf820",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "AncientGame_5.5",
+        "versionTitle": "AncientGame_5.5"
+      },
+      {
+        "appId": "AncientGame_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-24T19:29:25.682Z",
+        "id": "2f4e73aaa53f4ede9302f22a4b9a968d",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "AncientGame_5.6",
+        "versionTitle": "AncientGame_5.6"
+      },
+      {
+        "appId": "AncientGame_5.7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-10-24T19:29:25.682Z",
+        "id": "83fcc6f2fd704005aa1a6d186eb8fca4",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "Compatibility updates for the UE 5.7 release.",
+        "versionTitle": "AncientGame_5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Valley of the Ancient",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

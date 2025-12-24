@@ -1,0 +1,89 @@
+{
+  "app_name": "4ff6e3e8e29a4c94a177af77baba1fde",
+  "app_title": "Make Way",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4ff6e3e8e29a4c94a177af77baba1fde",
+      "asset_id": "4ff6e3e8e29a4c94a177af77baba1fde",
+      "build_version": "EpicMasterWin64-1.3.5.9.P",
+      "catalog_item_id": "04e6f55930d545c7b52ceae1ad5cd433",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6eeb441ecd8a4556a8e00fefb86d66f6",
+        "update_type": "PATCH"
+      },
+      "namespace": "99d8ac4b0cd94611b52bae792d84b0e4",
+      "sidecar_rev": 3
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-06-30T10:19:43.718Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MakeWaybd5d1"
+      }
+    },
+    "description": "Make Way",
+    "developer": "Secret Mode Limited",
+    "developerId": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
+    "endOfSupport": false,
+    "entitlementName": "04e6f55930d545c7b52ceae1ad5cd433",
+    "entitlementType": "EXECUTABLE",
+    "id": "04e6f55930d545c7b52ceae1ad5cd433",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Make Way Offer",
+        "height": 1440,
+        "md5": "a70c2ffa59fa5decc715e89686f563a9",
+        "size": 2601661,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-07-15T15:37:51.144Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/17b5c19c1e0e48e99cde4bc54dde505a/make-way-15q9m.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Make Way Offer",
+        "height": 1600,
+        "md5": "bc03811cb02987d076251da4183f5ebf",
+        "size": 2350716,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-07-15T15:37:52.168Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/17b5c19c1e0e48e99cde4bc54dde505a/make-way-1qdfe.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-14T15:54:18.209Z",
+    "mainGameItemList": [],
+    "namespace": "99d8ac4b0cd94611b52bae792d84b0e4",
+    "releaseInfo": [
+      {
+        "appId": "4ff6e3e8e29a4c94a177af77baba1fde",
+        "id": "77e1dc06-85e7-453c-a0d8-2e5ca1750ba8",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Make Way",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "1bce957cb1504639a0ace4427f8422a4"
+    },
+    "rev": 3
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "app_name": "0711ae146562478eb74c2c80b99432b7",
+  "app_title": "Construction Site VOL. 1 - Supply and Material Props Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-11-22T04:59:28.702Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "ba44a508-bfa5-444c-bbf4-69e8b5dee530"
+      }
+    },
+    "description": "Construction Site VOL. 1 - Supply and Material Props",
+    "developer": "Dekogon Studios",
+    "developerId": "o-efb24a1bbc44bea38a4f0b91a0ad66",
+    "endOfSupport": false,
+    "entitlementName": "aed442e1cc544f29b4b3fdbea1907472",
+    "entitlementType": "AUDIENCE",
+    "id": "aed442e1cc544f29b4b3fdbea1907472",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-03T20:43:24.832Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "0711ae146562478eb74c2c80b99432b7",
+        "compatibleApps": [],
+        "dateAdded": "2025-07-03T18:58:03.681Z",
+        "id": "b9bf690dd4d447c59c96fef9fc3a7368",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Construction Site VOL. 1 - Supply and Material Props Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

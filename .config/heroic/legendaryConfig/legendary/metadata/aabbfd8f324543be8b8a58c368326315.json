@@ -1,0 +1,114 @@
+{
+  "app_name": "aabbfd8f324543be8b8a58c368326315",
+  "app_title": "GOG GALAXY",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "aabbfd8f324543be8b8a58c368326315",
+      "asset_id": "aabbfd8f324543be8b8a58c368326315",
+      "build_version": "2.0.91.51",
+      "catalog_item_id": "cb8e6937f4e24e838fb9be66418b68ef",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "bdf0b0af4c9b4cc7bb92e884e9bcdf52",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "software"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-08-10T17:28:33.725Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GOGGALAXY"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "bdf0b0af4c9b4cc7bb92e884e9bcdf52"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "GOG GALAXY",
+    "developer": "GOG Sp. z o.o.",
+    "developerId": "o-nhkrgpp6lj7py3z4g2cbfthtmkjq8m",
+    "endOfSupport": false,
+    "entitlementName": "cb8e6937f4e24e838fb9be66418b68ef",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "cb8e6937f4e24e838fb9be66418b68ef",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "213de31f798a560d00b58bd74df58b97",
+        "size": 935014,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-21T18:35:21.370Z",
+        "url": "https://cdn1.epicgames.com/item/bdf0b0af4c9b4cc7bb92e884e9bcdf52/EGS_GOGGALAXY_GOG_S1_2560x1440-213de31f798a560d00b58bd74df58b97",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "0168b8b5c79d6be4580dab9bc17034f5",
+        "size": 544509,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-21T18:35:23.788Z",
+        "url": "https://cdn1.epicgames.com/item/bdf0b0af4c9b4cc7bb92e884e9bcdf52/EGS_GOGGALAXY_GOG_S2_1200x1600-0168b8b5c79d6be4580dab9bc17034f5",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-02T16:02:10.891Z",
+    "mainGameItemList": [],
+    "namespace": "bdf0b0af4c9b4cc7bb92e884e9bcdf52",
+    "releaseInfo": [
+      {
+        "appId": "aabbfd8f324543be8b8a58c368326315",
+        "compatibleApps": [],
+        "dateAdded": "2022-10-28T16:24:00.000Z",
+        "id": "07f923cb5907430092d74f7024edf8b5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "GOG GALAXY",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

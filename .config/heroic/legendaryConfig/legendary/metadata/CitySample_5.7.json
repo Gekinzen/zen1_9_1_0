@@ -1,0 +1,175 @@
+{
+  "app_name": "CitySample_5.7",
+  "app_title": "City Sample",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "CitySample_5.7",
+      "asset_id": "CitySample",
+      "build_version": "5.7.0-47537391+++UE5+Release-5.7-Windows",
+      "catalog_item_id": "116f77f23a324c6b92992184825ec8cc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-03T21:53:31.179Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "4898e707-7855-404b-af0e-a505ee690e68"
+      }
+    },
+    "description": "City Sample",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "116f77f23a324c6b92992184825ec8cc",
+    "entitlementType": "AUDIENCE",
+    "id": "116f77f23a324c6b92992184825ec8cc",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-12T14:25:31.082Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "CitySample_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-10-24T19:32:35.150Z",
+        "id": "d4936af6bdea44668e6c62847b71a6ad",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "CitySample_5.0"
+      },
+      {
+        "appId": "CitySample_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-10-24T19:32:35.150Z",
+        "id": "5c74c07c9d764c4980fd2188d32c7ce9",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "CitySample_5.1"
+      },
+      {
+        "appId": "CitySample_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-10-24T19:32:35.150Z",
+        "id": "7efaac66d6624b2a9a9d214025742d9f",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "CitySample_5.2"
+      },
+      {
+        "appId": "CitySample_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-10-24T19:32:35.150Z",
+        "id": "63262b8e21024158819c63f2aebdc1d5",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "CitySample_5.3"
+      },
+      {
+        "appId": "CitySample_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-10-24T19:32:35.150Z",
+        "id": "7780c8ab67d9491589876afa7805149f",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "versionTitle": "CitySample_5.4"
+      },
+      {
+        "appId": "CitySample_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-10-24T19:32:35.150Z",
+        "id": "61823fed9c7a4cf8a44bb1e75797a5af",
+        "platform": [
+          "Windows",
+          "Linux"
+        ],
+        "releaseNote": "CitySample_5.5",
+        "versionTitle": "CitySample_5.5"
+      },
+      {
+        "appId": "CitySample_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-10-24T19:32:35.150Z",
+        "id": "f979417805094ecfae9d047495529c41",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "CitySample_5.6",
+        "versionTitle": "CitySample_5.6"
+      },
+      {
+        "appId": "CitySample_5.7",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-10-24T19:32:35.150Z",
+        "id": "34b1b6df0cc847f2ab8580c396ec67f4",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Updates to support for the UE 5.7 release.",
+        "versionTitle": "CitySample_5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "City Sample",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

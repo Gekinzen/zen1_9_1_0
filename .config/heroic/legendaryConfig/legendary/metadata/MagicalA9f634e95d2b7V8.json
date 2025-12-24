@@ -1,0 +1,163 @@
+{
+  "app_name": "MagicalA9f634e95d2b7V8",
+  "app_title": "MagicalAnimSet",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "MagicalA9f634e95d2b7V8",
+      "asset_id": "MagicalA9f634e95d2b7V8",
+      "build_version": "5.6.0-38960968+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "4eddfa107fb249638658dde0cd859770",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-08T18:23:25.414Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "a63386b8-7cad-42cd-8b81-a9de147e1f08"
+      }
+    },
+    "description": "MagicalAnimSet",
+    "developer": "sakurai",
+    "developerId": "o-scb9wxsmcmvgff4kxezygcqacqjbd4",
+    "endOfSupport": false,
+    "entitlementName": "4eddfa107fb249638658dde0cd859770",
+    "entitlementType": "AUDIENCE",
+    "id": "4eddfa107fb249638658dde0cd859770",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-12-22T14:45:24.355Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "MagicalAe23f03924babV1",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2024-12-22T02:09:26.545Z",
+        "id": "0867f411c6a9446ab4598e9e206817bc",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "MagicalAnimSet_4.26_ver1.1.3"
+      },
+      {
+        "appId": "MagicalAe23f03924babV2",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2024-12-22T02:09:26.545Z",
+        "id": "f27dfc34bbab4a6c9b007ba4c4ac4aa8",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "MagicalAnimSet_4.27_ver1.1.3"
+      },
+      {
+        "appId": "MagicalAe23f03924babV3",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2024-12-22T02:09:26.545Z",
+        "id": "10203f809e4f4b2dac2dd5ff8371ec45",
+        "platform": [
+          "Windows"
+        ],
+        "versionTitle": "MagicalAnimSet_5.0_ver1.1.3"
+      },
+      {
+        "appId": "MagicalAe23f03924babV4",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2024-12-22T02:09:26.545Z",
+        "id": "9632d8fb51114d03b968608b08a34e75",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "The recent update: MagicalAnimSetforUE5 was not adapted to the UE5.1 version. This was a mistake that occurred because I did not understand the Draft specs. I would like to thank those who reported this to me.",
+        "versionTitle": "MagicalAnimSet_5.1_ver2.0.1"
+      },
+      {
+        "appId": "MagicalAe23f03924babV5",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2024-12-22T02:09:26.545Z",
+        "id": "66112bd3038c4ebdb9745c594e6b5155",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "The recent update: MagicalAnimSetforUE5 was not adapted to the UE5.2 version. This was a mistake that occurred because I did not understand the Draft specs. I would like to thank those who reported this to me.",
+        "versionTitle": "MagicalAnimSet_5.2_ver2.0.1"
+      },
+      {
+        "appId": "MagicalAe23f03924babV6",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2024-12-22T02:09:26.545Z",
+        "id": "2039d20f3611481793da2aedf0142196",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "The recent update: MagicalAnimSetforUE5 was not adapted to the UE5.3 version. This was a mistake that occurred because I did not understand the Draft specs. I would like to thank those who reported this to me.",
+        "versionTitle": "MagicalAnimSet_5.3_ver2.0.1"
+      },
+      {
+        "appId": "MagicalAe23f03924babV7",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2024-12-22T02:09:26.545Z",
+        "id": "e601c273511a4586a2215019db7e127e",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Mistakes was made in which the name and content of animation did not match, which has been corrected.",
+        "versionTitle": "MagicalAnimSet_5.4_ver2.0.1"
+      },
+      {
+        "appId": "MagicalA9f634e95d2b7V8",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2024-12-22T02:09:26.545Z",
+        "id": "978a18de28844dc0a5a35dece957340e",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "Mistakes was made in which the name and content of animation did not match, which has been corrected.",
+        "versionTitle": "MagicalAnimSet_5.5_ver2.0.1"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "MagicalAnimSet",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

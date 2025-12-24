@@ -1,0 +1,431 @@
+{
+  "app_name": "StorageH4981de1603f5V20",
+  "app_title": "Storage House Set",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "StorageH4981de1603f5V20",
+      "asset_id": "StorageH4981de1603f5V20",
+      "build_version": "5.7.0-44058222+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "860f650152ee4844912b6e3a7f1846de",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-03T06:11:30.948Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "c20d8785-cee6-4c07-9ee7-6ed8d990fb84"
+      }
+    },
+    "description": "Storage House Set",
+    "developer": "Oleksandr Sychov",
+    "developerId": "o-3efa9d81044d358a16ad128f49467a",
+    "endOfSupport": false,
+    "entitlementName": "860f650152ee4844912b6e3a7f1846de",
+    "entitlementType": "AUDIENCE",
+    "id": "860f650152ee4844912b6e3a7f1846de",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-15T19:08:24.152Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Resubmisabd5fadf403c492c85c5e284ccea0eceV1",
+        "compatibleApps": [
+          "UE_4.15"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "b80c5ce00bae4e679cc3a80a099883f5",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Xbox One",
+          "PS4",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse415"
+      },
+      {
+        "appId": "Resubmisabd5fadf403c492c85c5e284ccea0eceV2",
+        "compatibleApps": [
+          "UE_4.16"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "2d4084b23bb042b8b52e2294b3512a62",
+        "platform": [
+          "Windows",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Xbox One",
+          "PS4",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse416"
+      },
+      {
+        "appId": "Resubmisabd5fadf403c492c85c5e284ccea0eceV3",
+        "compatibleApps": [
+          "UE_4.17"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "1b6dfc6285854a3ebe98c09c778bcdd9",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse417"
+      },
+      {
+        "appId": "StorageHabd5fadf403c492c85c5e284ccea0eceV4",
+        "compatibleApps": [
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "76c566b7bee24d7ba36d7eacf6a1b4af",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse418"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV5",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "715e42e4755e4857889a8b148be7a831",
+        "platform": [
+          "Mac",
+          "Windows",
+          "PS4",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse419"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV7",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "9549622a5da64efeb8ee9baa6672864f",
+        "platform": [
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse420"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV8",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "1f1a08640f184d3aabd24c04308ac67c",
+        "platform": [
+          "Linux",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "StorageHouse421"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV9",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "7d66f575156a47e8a1a5286d8f24b910",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse422"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV10",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "dc0c5aa0661041e28af691d778aa53f3",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse423"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV11",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "3cb6b33f3e534cffa151507bf0aab0fa",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse424"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV12",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "c80083fdef804b8aa94f31f99dea18df",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse425"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV13",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "88820129eb854e57b5e826fa58673b4b",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Linux",
+          "Mac"
+        ],
+        "versionTitle": "StorageHouse426"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV14",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "ccd8cf63e81d41b2b1a1626017f070fd",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse427"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV15",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "5bbb2cef40864d1fb06b6ccdd08fca5e",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse 5.00"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV16",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "fb230a490585495a9ef2b961fcea8cad",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse 5.1"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV17",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "f0966646d612473a8f02ec1f408d126d",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse 5.2"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV18",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "621a34815c334f0db4356ce13c639f20",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Nintendo Switch",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse 5.3"
+      },
+      {
+        "appId": "StorageHabd5fadf403cV19",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "a72c16b044264baca4450d2a12d78580",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Mac",
+          "Oculus",
+          "Linux"
+        ],
+        "versionTitle": "StorageHouse 5.4"
+      },
+      {
+        "appId": "StorageH10505256a1f0V19",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "fe4bdf42d60b4810beefc65ed981e3be",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Linux",
+          "Xbox One"
+        ],
+        "releaseNote": "5.5",
+        "versionTitle": "Storage House Set 5.5"
+      },
+      {
+        "appId": "StorageH4981de1603f5V20",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-07-15T02:29:41.921Z",
+        "id": "3ed19d23f159432eb20e91590c7bd4ec",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Storage House Set",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

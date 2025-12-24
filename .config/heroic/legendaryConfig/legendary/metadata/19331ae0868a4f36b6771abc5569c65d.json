@@ -1,0 +1,60 @@
+{
+  "app_name": "19331ae0868a4f36b6771abc5569c65d",
+  "app_title": "Cemetery - VOL.1 - Gravestones Format Audience",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine/unity"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-11-22T03:49:26.682Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "7e0d5dd2-8040-456f-8eea-dff43fc46415"
+      }
+    },
+    "description": "Cemetery - VOL.1 - Gravestones",
+    "developer": "Dekogon Studios",
+    "developerId": "o-efb24a1bbc44bea38a4f0b91a0ad66",
+    "endOfSupport": false,
+    "entitlementName": "19e8ecf9f3814064892d5043eeb83317",
+    "entitlementType": "AUDIENCE",
+    "id": "19e8ecf9f3814064892d5043eeb83317",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-07-03T20:26:16.669Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "19331ae0868a4f36b6771abc5569c65d",
+        "compatibleApps": [],
+        "dateAdded": "2025-07-03T18:51:33.989Z",
+        "id": "fdbbeaf207c844d898528b597305c5ae",
+        "platform": [
+          "Multiplatform"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Cemetery - VOL.1 - Gravestones Format Audience",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

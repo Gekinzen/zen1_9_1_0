@@ -1,0 +1,392 @@
+{
+  "app_name": "FastNois52132fc01d02V14",
+  "app_title": "Fast Noise Generator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "FastNois52132fc01d02V14",
+      "asset_id": "FastNois52132fc01d02V14",
+      "build_version": "5.7.0-48214618+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "5a17cd46d4c3451fa4144ef025944cb3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-19T17:27:27.904Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "c1d444fc-54cc-4f11-8a4a-c0c41112a321"
+      }
+    },
+    "description": "Fast Noise Generator",
+    "developer": "Rockam",
+    "developerId": "o-en62sw53dkbjdn3wum2bkk53pcueuy",
+    "endOfSupport": false,
+    "entitlementName": "5a17cd46d4c3451fa4144ef025944cb3",
+    "entitlementType": "AUDIENCE",
+    "id": "5a17cd46d4c3451fa4144ef025944cb3",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-13T12:47:45.749Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "FastNoiseGenerator_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "b30d7e5a1c3a42019a0bdbd7296863be",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "PS4",
+          "Oculus",
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "Mac",
+          "Linux",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "FNG 4.22"
+      },
+      {
+        "appId": "FastNoiseGenerator_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "8475c37cd6d043ad89f20276c010f65f",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "Linux",
+          "Mac",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "FNG 4.23"
+      },
+      {
+        "appId": "FastNoiseGenerator_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "2335e5b053014494a4072b5d823a2985",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "PS4",
+          "Oculus",
+          "Android",
+          "Gear VR",
+          "Linux",
+          "Mac",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "FNG 4.24"
+      },
+      {
+        "appId": "FastNoiseGenerator_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "2dba1ccd2cc3405ba2cac37016b21c9d",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Android",
+          "Gear VR",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "HoloLens 2"
+        ],
+        "versionTitle": "FNG 4.25"
+      },
+      {
+        "appId": "FastNoiseGenerator_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "9f7e15822d9847aab9676a25a3a71851",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "Linux",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Xbox One",
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "- Fixed nativization include error.\n- Make some functions const.",
+        "versionTitle": "FNG 4.26 v1.01"
+      },
+      {
+        "appId": "FastNoiseGenerator_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "10e1c78947a0473da25715fec2778c9f",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Xbox One",
+          "Windows"
+        ],
+        "releaseNote": "- Fixed nativization include error.\n- Make some functions const.",
+        "versionTitle": "FNG 4.27 v1.01"
+      },
+      {
+        "appId": "FastNoiseGenerator_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "ff0523c8cacb4d9ebb2202082f0265be",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "FNG 5.0 v1.01"
+      },
+      {
+        "appId": "FastNoiseGenerator_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "0e6bb37917384aa4af52dfd4ae5ccb89",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "FNG 5.1 v1.01"
+      },
+      {
+        "appId": "FastNoiseGenerator_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "e8cd63fd48844a34bdac045b77bf5f6b",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "PS4",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "FNG 5.2 v1.01"
+      },
+      {
+        "appId": "FastNoiseGenerator_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "0f621a1584cc45c4ae8611002464665c",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Windows",
+          "Nintendo Switch",
+          "Xbox One"
+        ],
+        "versionTitle": "FNG 5.3 v1.01"
+      },
+      {
+        "appId": "FastNoiseGenerator_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "f18e28b42f9140899739e4ee9fc55cde",
+        "platform": [
+          "Linux",
+          "HTML5",
+          "Gear VR",
+          "Android",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "FNG 5.4 v1.01"
+      },
+      {
+        "appId": "FastNoisa268f1df273fV12",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "1461798e4adb4942ad5e72166aa26af4",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "FNG 5.5 v1.01"
+      },
+      {
+        "appId": "FastNois8cafcd1ce027V13",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "5752f76f2fe341c6a02cb10c61ee5515",
+        "platform": [
+          "Nintendo Switch",
+          "HoloLens 2",
+          "Windows",
+          "PS4",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32"
+        ],
+        "versionTitle": "FNG 5.6 v1.01"
+      },
+      {
+        "appId": "FastNois52132fc01d02V14",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-13T07:39:48.888Z",
+        "id": "e9cbfeaa14c548049d07f8991bc59311",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "FNG 5.7 v1.01"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fast Noise Generator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

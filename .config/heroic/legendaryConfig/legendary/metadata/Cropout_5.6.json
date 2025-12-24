@@ -1,0 +1,134 @@
+{
+  "app_name": "Cropout_5.6",
+  "app_title": "Cropout Sample Project",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Cropout_5.6",
+      "asset_id": "Cropout",
+      "build_version": "5.6.1-44417358+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "ba2fbadb0ff84a9ebe40cd307624b19b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-03T20:44:31.238Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "bd733d81-7c29-44fe-b53f-65b14d06a9e2"
+      }
+    },
+    "description": "Cropout Sample Project",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "ba2fbadb0ff84a9ebe40cd307624b19b",
+    "entitlementType": "AUDIENCE",
+    "id": "ba2fbadb0ff84a9ebe40cd307624b19b",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-12T13:12:00.286Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Cropout_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-04T13:20:31.183Z",
+        "id": "8bd8d54ae9e94531a5dcbd606b09692d",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "Cropout_5.2"
+      },
+      {
+        "appId": "Cropout_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-04T13:20:31.183Z",
+        "id": "aeba7f593e7a43899e8e15c680880929",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Cropout_5.3"
+      },
+      {
+        "appId": "Cropout_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-04T13:20:31.183Z",
+        "id": "0a827969d856470399640dcd02012405",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Cropout_5.4"
+      },
+      {
+        "appId": "Cropout_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-04T13:20:31.183Z",
+        "id": "8ac97db80da7482b965c54b812738db2",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "Cropout_5.5",
+        "versionTitle": "Cropout_5.5"
+      },
+      {
+        "appId": "Cropout_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-04T13:20:31.183Z",
+        "id": "bb553f8336524cd6ad1cf3737c4b9afe",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Cropout_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Cropout Sample Project",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

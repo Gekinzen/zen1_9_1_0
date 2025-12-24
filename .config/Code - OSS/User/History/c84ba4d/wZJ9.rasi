@@ -1,0 +1,71 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+* {
+    font: "CodeNewRoman Nerd Font 14";
+}
+
+window {
+    width: 450px;
+    border: 3px solid;
+    border-color: @selected;
+    border-radius: 15px;
+    background-color: @background;
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 15px;
+}
+
+inputbar {
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: @selected;
+    children: [ "prompt" ];
+}
+
+prompt {
+    background-color: transparent;
+    text-color: @background;
+    font: "CodeNewRoman Nerd Font Bold 18";
+}
+
+message {
+    padding: 12px 18px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+textbox {
+    background-color: transparent;
+    text-color: @foreground;
+}
+
+listview {
+    lines: 4;
+    scrollbar: false;
+    spacing: 8px;
+}
+
+element {
+    padding: 15px 20px;
+    border-radius: 12px;
+    background-color: transparent;
+    text-color: @foreground;
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+}
+
+/* REMOVE ICONS/BOXES */
+element-icon {
+    size: 0px;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+}

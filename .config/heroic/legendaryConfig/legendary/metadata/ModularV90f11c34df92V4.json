@@ -1,0 +1,141 @@
+{
+  "app_name": "ModularV90f11c34df92V4",
+  "app_title": "Modular Victorian House",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ModularV90f11c34df92V4",
+      "asset_id": "ModularV90f11c34df92V4",
+      "build_version": "5.6.0-39049853+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "f2b6a9b9dd844ca487a1c178f0f57546",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T06:03:41.982Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "b2760e03-30d9-42fb-be3f-857c21e3acc4"
+      }
+    },
+    "description": "Modular Victorian House",
+    "developer": "ZhenyaChistovsky",
+    "developerId": "o-7a0b11f536476eb5e9b1e771734fa7",
+    "endOfSupport": false,
+    "entitlementName": "f2b6a9b9dd844ca487a1c178f0f57546",
+    "entitlementType": "AUDIENCE",
+    "id": "f2b6a9b9dd844ca487a1c178f0f57546",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-06-29T12:00:25.969Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Victoria5bd90232566a4921943367ced833e21aV1",
+        "compatibleApps": [
+          "UE_4.17",
+          "UE_4.18"
+        ],
+        "dateAdded": "2025-06-28T23:20:25.510Z",
+        "id": "5ff9c7bf719742f4ad5bfa904f4e58df",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "VictorianHouse-417"
+      },
+      {
+        "appId": "Victoria5bd90232566aV2",
+        "compatibleApps": [
+          "UE_4.19",
+          "UE_4.20",
+          "UE_4.21",
+          "UE_4.22",
+          "UE_4.23",
+          "UE_4.24",
+          "UE_4.25",
+          "UE_4.26",
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-06-28T23:20:25.510Z",
+        "id": "4a1eb93029ae46769afb04de4b0aba1d",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "PS4"
+        ],
+        "releaseNote": "Added modular elements",
+        "versionTitle": "VictorianHouse-419"
+      },
+      {
+        "appId": "ModularV5bd90232566aV3",
+        "compatibleApps": [
+          "UE_5.0",
+          "UE_5.1",
+          "UE_5.2",
+          "UE_5.3",
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-06-28T23:20:25.510Z",
+        "id": "783b4c8b73dd4506984201df4eac4a44",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "PS4"
+        ],
+        "releaseNote": "Replaced the old function in the character's BP",
+        "versionTitle": "VictorianHouse_5"
+      },
+      {
+        "appId": "ModularV90f11c34df92V4",
+        "compatibleApps": [
+          "UE_5.5",
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-06-28T23:20:25.510Z",
+        "id": "f059888388b64a5f9e04dcbf64727188",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "VictorianHouse_5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Modular Victorian House",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

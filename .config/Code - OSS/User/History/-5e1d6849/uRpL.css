@@ -1,0 +1,78 @@
+#!/bin/bash
+# Sync Hyprland decoration settings with Rofi themes
+
+if [ ! -f ~/.cache/wal/colors.sh ]; then
+    echo "Pywal colors not found!"
+    exit 1
+fi
+
+source ~/.cache/wal/colors.sh
+
+# Get Hyprland decoration settings
+HYPR_CONF="$HOME/.config/hypr/hyprland.conf"
+
+# Extract active_opacity (e.g., 0.87)
+ACTIVE_OPACITY=$(grep "^\s*active_opacity" "$HYPR_CONF" | awk '{print $3}')
+
+# Convert to hex alpha (0.87 * 255 = 221 → DD in hex)
+ALPHA=$(printf '%02X' $(echo "$ACTIVE_OPACITY * 255" | bc | cut -d. -f1))
+
+# Extract rounding
+ROUNDING=$(grep "^\s*rounding" "$HYPR_CONF" | awk '{print $3}')
+
+# Get base colors - remove ALL # symbols
+BG=$(echo "$background" | tr -d '#')
+BG_ALT=$(echo "$color1" | tr -d '#')
+FG=$(echo "$foreground" | tr -d '#')
+SELECTED=$(echo "$color12" | tr -d '#')
+ACTIVE=$(echo "$color10" | tr -d '#')
+URGENT=$(echo "$color9" | tr -d '#')
+
+# Create alpha variant (8-digit hex: #RRGGBBAA)
+BG_ALPHA="${BG}${ALPHA}"
+
+echo "🎨 DEBUG - Check these values:"
+echo "  background var: '$background'"
+echo "  BG (cleaned): '$BG'"
+echo "  BG_ALT (cleaned): '$BG_ALT'"
+echo "  FG (cleaned): '$FG'"
+echo ""
+echo "  Active Opacity: ${ACTIVE_OPACITY}"
+echo "  Alpha Hex: ${ALPHA}"
+echo "  Final BG_ALPHA: ${BG_ALPHA}"
+echo "  Rounding: ${ROUNDING}px"
+echo ""
+
+# Define theme files
+THEME_FILES=(
+    "$HOME/.config/rofi/system-settings-v3.rasi"
+    "$HOME/.config/rofi/search-app.rasi"
+)
+
+# Update each theme
+for THEME_FILE in "${THEME_FILES[@]}"; do
+    if [ ! -f "$THEME_FILE" ]; then
+        echo "⚠ Theme file not found: $THEME_FILE"
+        continue
+    fi
+    
+    # Backup
+    cp "$THEME_FILE" "${THEME_FILE}.bak"
+    
+    # Update colors - match and REMOVE all existing # first
+    sed -i "/\/\*\*\*\*\*----- Global Properties/,/\*\*\*\*\*\// {
+        s|background:[[:space:]]*#*[0-9a-fA-F]*;|background:     #${BG_ALPHA};|
+        s|background-alt:[[:space:]]*#*[0-9a-fA-F]*;|background-alt: #${BG_ALT};|
+        s|foreground:[[:space:]]*#*[0-9a-fA-F]*;|foreground:     #${FG};|
+        s|selected:[[:space:]]*#*[0-9a-fA-F]*;|selected:       #${SELECTED};|
+        s|active:[[:space:]]*#*[0-9a-fA-F]*;|active:         #${ACTIVE};|
+        s|urgent:[[:space:]]*#*[0-9a-fA-F]*;|urgent:         #${URGENT};|
+        s|border-radius:[[:space:]]*[0-9]*px;|border-radius:  ${ROUNDING}px;|
+    }" "$THEME_FILE"
+    
+    echo "✓ Updated: $(basename $THEME_FILE)"
+done
+
+echo ""
+echo "✨ All Rofi themes synced successfully!"
+notify-send "󰚰 Rofi Sync" "Synced with Hyprland\nOpacity: ${ACTIVE_OPACITY} | Rounding: ${ROUNDING}px" -t 2000

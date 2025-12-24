@@ -1,0 +1,161 @@
+{
+  "app_name": "StackOBot_5.6",
+  "app_title": "Stack O Bot",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "StackOBot_5.6",
+      "asset_id": "StackOBot",
+      "build_version": "5.6.1-44733889+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "2b07c7f793ca4b6ab98c164c71f8030d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "projects"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "projects/completeprojects"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-09T22:49:26.985Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "b4dfff49-0e7d-4c4b-a6c5-8a0315831c9c"
+      }
+    },
+    "description": "Stack O Bot",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "2b07c7f793ca4b6ab98c164c71f8030d",
+    "entitlementType": "AUDIENCE",
+    "id": "2b07c7f793ca4b6ab98c164c71f8030d",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-08-12T13:11:43.753Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "StackOBot_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-08-01T14:50:25.617Z",
+        "id": "eeeae73d4ea9485897ce58fabfbdb38c",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_5.1"
+      },
+      {
+        "appId": "StackOBot_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-08-01T14:50:25.617Z",
+        "id": "368d5e5faa59417385a5873c5b007906",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_5.2"
+      },
+      {
+        "appId": "StackOBot_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-08-01T14:50:25.618Z",
+        "id": "952a015a430e43a08fedf6b6a0ed3c32",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_5.3"
+      },
+      {
+        "appId": "StackOBot_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-08-01T14:50:25.618Z",
+        "id": "e9f0e06062684987bcdbf5dc1ba150ec",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_5.4"
+      },
+      {
+        "appId": "StackOBot_v2",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-08-01T14:50:25.618Z",
+        "id": "7457af44039043a29a6775dc8d296618",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "StackOBot_v2"
+      },
+      {
+        "appId": "StackOBot_5.5",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-08-01T14:50:25.618Z",
+        "id": "c5280df251a54a6081043656b8ae05c9",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "StackOBot_5.5",
+        "versionTitle": "StackOBot_5.5"
+      },
+      {
+        "appId": "StackOBot_5.6",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-08-01T14:50:25.618Z",
+        "id": "84ed213551044331a10b48d569a9849a",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "StackOBot_5.6",
+        "versionTitle": "StackOBot_5.6"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Stack O Bot",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

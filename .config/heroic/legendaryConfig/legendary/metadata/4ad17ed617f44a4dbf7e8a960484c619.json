@@ -1,0 +1,966 @@
+{
+  "app_name": "4ad17ed617f44a4dbf7e8a960484c619",
+  "app_title": "Two Point Hospital",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4ad17ed617f44a4dbf7e8a960484c619",
+      "asset_id": "4ad17ed617f44a4dbf7e8a960484c619",
+      "build_version": "1.3",
+      "catalog_item_id": "b8d3e844044f4770a8167990b3ac3427",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0f4a572a3c1541319db70c3737d3a123",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-08-05T08:54:11.753Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "twopointhospital"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0f4a572a3c1541319db70c3737d3a123"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Two Point Hospital",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.743Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 1",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "b22a5823a696481c8e4226f594149281",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b22a5823a696481c8e4226f594149281",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-211056",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.101Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-299013",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.101Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 1",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.735Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 2",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "7c892d9d8298490b925583e14dd3fbe0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7c892d9d8298490b925583e14dd3fbe0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-388403",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:38.999Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-513773",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:38.999Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 2",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.741Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 3",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "9833edf74dd94a41940cf33eb9c1bc4e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9833edf74dd94a41940cf33eb9c1bc4e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-179930",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.083Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-363031",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.083Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 3",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.746Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 4",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "b30663ecfc4b4d7081a14e7615eca4ff",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b30663ecfc4b4d7081a14e7615eca4ff",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-372389",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.072Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-198684",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.072Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 4",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.726Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 5",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "63ced0c5a964420b8a71a7af4e65dbfd",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "63ced0c5a964420b8a71a7af4e65dbfd",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-47641",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.077Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-610478",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.077Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 5",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.750Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 6",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "b4bae3baec5942818f37f9838648d587",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b4bae3baec5942818f37f9838648d587",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-49095",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.080Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-357760",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.080Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 6",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.723Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 7",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "388fd3be11d349178bf14bf887c0fc05",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "388fd3be11d349178bf14bf887c0fc05",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-859034",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.104Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-429666",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.104Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 7",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.755Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 8",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "bc58c01b422a443b889ee1bbe48d6b21",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bc58c01b422a443b889ee1bbe48d6b21",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-324913",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.088Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-918683",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.088Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 8",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.728Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 9",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "6508cad40cd64794964df94821d7ca03",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6508cad40cd64794964df94821d7ca03",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-66148",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.003Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-273044",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.003Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 9",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.732Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 10",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "752bd1e2805749bd861d9f48347f75de",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "752bd1e2805749bd861d9f48347f75de",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-653528",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.092Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-751008",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.092Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 10",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.720Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 11",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "3167efd11d744dc98614479b3146bd7f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3167efd11d744dc98614479b3146bd7f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-577477",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.097Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-957217",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.097Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 11",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.713Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 12",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "162e780a2186428f95d9ccfad4f4d955",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "162e780a2186428f95d9ccfad4f4d955",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-591560",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.011Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-194535",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.011Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 12",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:54:11.752Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "th20v2 13",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "b85c4ccb42c94a54b3c6b66506615d80",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b85c4ccb42c94a54b3c6b66506615d80",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Two Point Hospital-780432",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-07-28T12:55:39.017Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s1-2560x1440-57cac778abd9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Two Point Hospital-961250",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-28T12:55:39.017Z",
+            "url": "https://cdn2.unrealengine.com/egs-twopointhospital-twopointstudios-s2-1200x1600-1a7b451c0213.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+        "mainGameItem": {
+          "id": "b8d3e844044f4770a8167990b3ac3427",
+          "namespace": "0f4a572a3c1541319db70c3737d3a123",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b8d3e844044f4770a8167990b3ac3427",
+            "namespace": "0f4a572a3c1541319db70c3737d3a123",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f4a572a3c1541319db70c3737d3a123",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "th20v2 13",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b8d3e844044f4770a8167990b3ac3427",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b8d3e844044f4770a8167990b3ac3427",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ee16893556f141506d548b32d4cd23cc",
+        "size": 555613,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-02-13T15:30:12.514Z",
+        "url": "https://cdn1.epicgames.com/item/0f4a572a3c1541319db70c3737d3a123/tphWide_2560x1440-ee16893556f141506d548b32d4cd23cc",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "8bd004a67b677888a8a1510bde5aa586",
+        "size": 335189,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-02-13T15:30:19.022Z",
+        "url": "https://cdn1.epicgames.com/item/0f4a572a3c1541319db70c3737d3a123/tphTall_1200x1600-8bd004a67b677888a8a1510bde5aa586",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-08-11T14:40:39.737Z",
+    "mainGameItemList": [],
+    "namespace": "0f4a572a3c1541319db70c3737d3a123",
+    "releaseInfo": [
+      {
+        "appId": "4ad17ed617f44a4dbf7e8a960484c619",
+        "compatibleApps": [],
+        "id": "58b497c2001843ccaf72333cb2f6b527",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Two Point Hospital",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,85 @@
+{
+  "app_name": "19a750a7d7974f9291c0584feedb94b0",
+  "app_title": "The Silent Age",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "19a750a7d7974f9291c0584feedb94b0",
+      "asset_id": "19a750a7d7974f9291c0584feedb94b0",
+      "build_version": "1.0-win",
+      "catalog_item_id": "8292ce89bcfe4a6badab60f8269928ab",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e1316a6e76d14eb7863d2f21da99c2b2"
+      },
+      "namespace": "46d340566781448ebdc2cb576f91d3b6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-04-08T16:03:32.879Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheSilentAgebxatL"
+      }
+    },
+    "description": "The Silent Age",
+    "developer": "House on Fire",
+    "developerId": "o-k6gkxrf4nec556e3t4l7ygkstk8xby",
+    "endOfSupport": false,
+    "entitlementName": "8292ce89bcfe4a6badab60f8269928ab",
+    "entitlementType": "EXECUTABLE",
+    "id": "8292ce89bcfe4a6badab60f8269928ab",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "The Silent Age Offer",
+        "height": 1440,
+        "md5": "724e43169bdb38c2ff284b2b23fcf11a",
+        "size": 263471,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-04-12T15:26:06.786Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/11e5900e5dea4d70a35239c81bcda19e/the-silent-age-offer-262jk.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download The Silent Age Offer",
+        "height": 1600,
+        "md5": "5cbdf29d36b5d054d11ef9ea1925d038",
+        "size": 168485,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-04-12T15:12:17.501Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/11e5900e5dea4d70a35239c81bcda19e/download-the-silent-age-offer-nsp58.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-11-13T20:05:12.903Z",
+    "mainGameItemList": [],
+    "namespace": "46d340566781448ebdc2cb576f91d3b6",
+    "releaseInfo": [
+      {
+        "appId": "19a750a7d7974f9291c0584feedb94b0",
+        "id": "f965dd4c22c046d0b1dfaf66b5ccc976",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Silent Age",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,337 @@
+{
+  "app_name": "Conversae754296e3b8fV17",
+  "app_title": "Conversation2D Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Conversae754296e3b8fV17",
+      "asset_id": "Conversae754296e3b8fV17",
+      "build_version": "5.7.0-48592983+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "af7ec382d32a4841afa8c6b14862c99d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-08-29T06:37:41.855Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "715cd0a0-163a-423d-8f2b-a2329fcb350e"
+      }
+    },
+    "description": "Conversation2D Plugin",
+    "developer": "Phoenix Market",
+    "developerId": "o-825s47v79w7dtb9z2thc4hks8b9sy6",
+    "endOfSupport": false,
+    "entitlementName": "af7ec382d32a4841afa8c6b14862c99d",
+    "entitlementType": "AUDIENCE",
+    "id": "af7ec382d32a4841afa8c6b14862c99d",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-11-22T07:17:41.810Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ConversationPlugin2D_4.19",
+        "compatibleApps": [
+          "UE_4.19"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "2e08cf63afd04e92918e701a0f001b01",
+        "platform": [
+          "Android",
+          "PS4",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "Conversation2D 1.0.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "91cab095cbe947f0b80e0c83699b1d2c",
+        "platform": [
+          "Xbox One",
+          "Android",
+          "PS4",
+          "Windows"
+        ],
+        "versionTitle": "Conversation2D 2.0.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "2a031457858447dcb82bf76388be43cb",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Android",
+          "Xbox One"
+        ],
+        "releaseNote": "Multiple Choices",
+        "versionTitle": "Conversation2D 3.0.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "3992a686708c43d5aa37c87044b916a4",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "PS4",
+          "Android"
+        ],
+        "releaseNote": "- Dynamic dialogue text\n- Stats & Conditions\n- Choice events",
+        "versionTitle": "Conversation2D 4.0.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "ab6bd4ccd806452eb9a1d43b76179688",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "PS4",
+          "Android"
+        ],
+        "releaseNote": "4.23\nMobile Support",
+        "versionTitle": "5.0.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "7f31566bb68b408194a5a4e86f2d68f9",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "PS4",
+          "Android"
+        ],
+        "releaseNote": "- UE 4.24\n- Gamepad input support",
+        "versionTitle": "v5.0.2"
+      },
+      {
+        "appId": "ConversationPlugin2D_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "c95ed93aaee64ca7bd606ab189d7e7cb",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "PS4",
+          "Android"
+        ],
+        "releaseNote": "Rich text block",
+        "versionTitle": "v6.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "630ee97729e649589f2a4370e4ab6107",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "PS4",
+          "Android"
+        ],
+        "versionTitle": "v6.0.1"
+      },
+      {
+        "appId": "ConversationPlugin2D_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "9ca7a2b4ad0a42739088705d36145d69",
+        "platform": [
+          "Android",
+          "Windows",
+          "Xbox One",
+          "PS4"
+        ],
+        "releaseNote": "UE4 4.27",
+        "versionTitle": "v6.0.2"
+      },
+      {
+        "appId": "ConversationPlugin2D_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "e5eb3a594a3e473bbd03ad0d4129aeba",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Android",
+          "PS4"
+        ],
+        "releaseNote": "UE5",
+        "versionTitle": "v7.0.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "046cf236c2c34f4b9004d90abf49a3d7",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "PS4",
+          "Android"
+        ],
+        "releaseNote": "UE5.1",
+        "versionTitle": "v7.1.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "e1480d7edb2d4aaba6c45615f333da8a",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "Android",
+          "PS4"
+        ],
+        "releaseNote": "UE5.2",
+        "versionTitle": "v7.2.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "75bdc02614c14c60864d7d878d9b722d",
+        "platform": [
+          "Android",
+          "PS4",
+          "Windows",
+          "Xbox One"
+        ],
+        "releaseNote": "UE5.3\nRenamed some c++ classes",
+        "versionTitle": "v7.3.0"
+      },
+      {
+        "appId": "ConversationPlugin2D_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "ecce34f41ad34a35b30c88164cdde326",
+        "platform": [
+          "Xbox One",
+          "Windows",
+          "PS4",
+          "Android"
+        ],
+        "releaseNote": "UE5.4",
+        "versionTitle": "v7.3.1"
+      },
+      {
+        "appId": "Conversab54aaae9e1f7V15",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "fc23841348544656950d466e66b1aff7",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Xbox One",
+          "Android"
+        ],
+        "releaseNote": "UE5.5",
+        "versionTitle": "v7.3.2"
+      },
+      {
+        "appId": "Conversa213d741f017cV16",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "bb010e9a94fc4fbb8cd6d7c3398df1ec",
+        "platform": [
+          "Windows",
+          "PS4",
+          "Xbox One",
+          "Android"
+        ],
+        "releaseNote": "UE 5.6",
+        "versionTitle": "v7.3.3"
+      },
+      {
+        "appId": "Conversae754296e3b8fV17",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2025-11-22T06:54:25.593Z",
+        "id": "81a1ff9a2a444556acb326cf041010e9",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "PS4",
+          "Android"
+        ],
+        "releaseNote": "UE 5.7",
+        "versionTitle": "v7.3.4"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Conversation2D Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

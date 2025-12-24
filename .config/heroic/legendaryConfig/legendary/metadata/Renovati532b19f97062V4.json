@@ -1,0 +1,162 @@
+{
+  "app_name": "Renovati532b19f97062V4",
+  "app_title": "Renovation simulator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Renovati532b19f97062V4",
+      "asset_id": "Renovati532b19f97062V4",
+      "build_version": "5.6.0-41596797+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "aa8152281e114fda93a23b8ed922efec",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-18T18:34:32.037Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "d99fe5ff-8e55-4518-926c-58d2638bcc89"
+      }
+    },
+    "description": "Renovation simulator",
+    "developer": "Tribunus",
+    "developerId": "o-bdd7d32030494882407f29e98cd953",
+    "endOfSupport": false,
+    "entitlementName": "aa8152281e114fda93a23b8ed922efec",
+    "entitlementType": "AUDIENCE",
+    "id": "aa8152281e114fda93a23b8ed922efec",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-04-13T23:25:29.480Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "Renovatid3c7e4b29a4bV1",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-04-13T11:39:25.987Z",
+        "id": "2246cb1865cb45bd91415f8081a0d046",
+        "platform": [
+          "Windows",
+          "Xbox One",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Android",
+          "Gear VR",
+          "HTML5",
+          "HoloLens 2",
+          "Linux",
+          "iOS"
+        ],
+        "versionTitle": "UE 5.2"
+      },
+      {
+        "appId": "Renovatid3c7e4b29a4bV2",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-04-13T11:39:25.987Z",
+        "id": "556fc3bb88eb4edfa8f46d02278b75c5",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "UE 5.3"
+      },
+      {
+        "appId": "Renovatid3c7e4b29a4bV3",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-04-13T11:39:25.987Z",
+        "id": "a0127738180a45558e6bc306b2c9de39",
+        "platform": [
+          "Mac",
+          "Nintendo Switch",
+          "Oculus",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Win32",
+          "Xbox One",
+          "Windows",
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "HTML5",
+          "iOS",
+          "Linux"
+        ],
+        "versionTitle": "UE 5.4"
+      },
+      {
+        "appId": "Renovati532b19f97062V4",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-04-13T11:39:25.987Z",
+        "id": "c8911c663f6d471bb08f6867225d743c",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "HTML5",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "UE 5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Renovation simulator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}
