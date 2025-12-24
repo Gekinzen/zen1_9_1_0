@@ -1,5 +1,4 @@
 #!/bin/bash
-
 set -e
 
 ZEN_PREFIX="[Zen]"
@@ -17,7 +16,20 @@ error() {
   exit 1
 }
 
-# Detect dotfiles root dynamically
+ask_yes_no() {
+  local prompt="$1"
+  local default="${2:-y}"
+
+  read -p "$prompt (y/n, default: $default): " choice
+  choice="${choice:-$default}"
+
+  [[ "$choice" == "y" || "$choice" == "Y" ]]
+}
+
+require_cmd() {
+  command -v "$1" >/dev/null 2>&1 || error "Required command not found: $1"
+}
+
 detect_dotfiles_root() {
   local script_dir
   script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
